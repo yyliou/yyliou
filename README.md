@@ -12,9 +12,9 @@ I am an academic worker and a PhD fellow, dedicated to agricultural economics, c
 # Position
 
 * **PhD Fellow** Institute of Economics, Academia Sinica, ROC (Taiwan)
-* **Doctoral Part-Time Project Assistant** College of Bio-Resources and Agricultural, NTU
-* **Doctoral Part-Time Project Research Assistant** Ecological Engineering Research Center, NTU
-* **Doctoral Part-Time Teaching Assistant** Department of Agricultural Economic, NTU
+* **Project Assistant** College of Bio-Resources and Agricultural, NTU
+* **Research Assistant** Ecological Engineering Research Center, NTU
+* **Teaching Assistant** Department of Agricultural Economic, NTU
 
 # Education  
 
