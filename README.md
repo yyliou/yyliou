@@ -7,7 +7,7 @@ I am an academic worker and a PhD fellow, dedicated to agricultural economics, c
 * [***Institute of Economics***](https://www.econ.sinica.edu.tw) Academia Sinica, ROC (Taiwan)
 * [***College of Bio-Resources and Agricultural***](https://www.bioagri.ntu.edu.tw) National Taiwan University
 * [***Ecological Engineering Research Center***](https://www.eerc.ntu.edu.tw) College of Bio-Resources and Agricultural, National Taiwan University
-* [***Department of Agricultural Economics***](https://www.agec.ntu.edu.tw) College of Bio-Resources and Agricultural National Taiwan University
+* [***Department of Agricultural Economics***](https://www.agec.ntu.edu.tw) College of Bio-Resources and Agricultural, National Taiwan University
 
 # Position
 
