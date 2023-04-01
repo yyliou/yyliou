@@ -1,3 +1,4 @@
+<span style="font-family: 'Lucida Console';">foo</span>
 # Summary
 
 I am an academic worker and a PhD fellow, dedicated to agricultural economics, climate change, and sustainable development. My research interests are broad, and I am particularly interested in agri-product consumption, the COVID-19 shock on the economy, and hospitality management studies. I have earned both a double bachelor's degree in agricultural economics and political science and a double master's degree in statistics and agricultural economics from National Taiwan University.
