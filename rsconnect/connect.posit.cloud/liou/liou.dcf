@@ -1,0 +1,12 @@
+name: liou
+title: liou
+username: liou
+account: liou
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 019e624a-a924-0acc-7eed-56f25bb17198
+bundleId:
+url: https://connect.posit.cloud/liou/content/019e624a-a924-0acc-7eed-56f25bb17198
+version: 1
+asMultiple: FALSE
+asStatic: TRUE
