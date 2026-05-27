@@ -6,10 +6,10 @@ output:
 geometry: margin=1in
 
 title: "CV"
-author: Yu-You Liou
+author: "Yu-You Liou"
 
-jobtitle: "PhD Candidate in Agricultural Economics"
-address: "Department of Agricultural Economics · National Taiwan University · Taipei, Taiwan"
+jobtitle: "PhD Candidate, Department of Agricultural Economics, National Taiwan University"
+address: "No. 1, Sec. 4, Roosevelt Rd., Taipei 106319, Taiwan (R.O.C.)"
 fontawesome: yes
 email: "d10627008@ntu.edu.tw"
 phone: "+886-978-910-776"
