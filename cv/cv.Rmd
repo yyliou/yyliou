@@ -1,7 +1,7 @@
 ---
 output: 
   pdf_document:
-    latex_engine: pdflatex
+    latex_engine: xelatex
     template: svm-latex-cv.tex
 geometry: margin=1in
 
