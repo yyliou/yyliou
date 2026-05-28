@@ -196,19 +196,12 @@ $if(fontawesome)$\usepackage{fontawesome}$endif$
 \pagestyle{fancy}
 \renewcommand{\headrulewidth}{0.0pt}
 \renewcommand{\footrulewidth}{0.0pt}
-
-% 清除所有預設的頁眉頁尾設定
-\fancyhf{} 
-
-% 正確分開設定左、中、右頁尾
-\lfoot{}
-\cfoot{\scriptsize $author-meta$ - $title$}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  $author-meta$ - $title$ }}
 \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
-
-% 如果你希望「第一頁」也能正常顯示這個頁尾，請取消下方這行的註解：
-% \thispagestyle{fancy}
-
-
 
 % Always load hyperref last.
 \usepackage{hyperref}
