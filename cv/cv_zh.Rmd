@@ -16,40 +16,39 @@ phone: "+886-978-910-776"
 web: "yyliou.github.io"
 orcid: "0009-0006-3155-7540"
 updated: no
-fontfamily: mathpazo
-fontfamilyoptions: "sc, osf"
 fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 header-includes:
+  - \usepackage{fontspec}
   - \usepackage{xeCJK}
-  - \setCJKmainfont[BoldFont={Songti SC Bold}]{Songti SC}
-  - \AtBeginDocument{\subsectionfont{\rmfamily\mdseries\normalsize\bf}}
+  - \setmainfont{源雲明體月}[AutoFakeBold=2.5, AutoFakeSlant=0.2, BoldItalicFeatures={FakeSlant=0.2}]
+  - \setCJKmainfont{源雲明體月}[AutoFakeBold=2.5, AutoFakeSlant=0.2, BoldItalicFeatures={FakeSlant=0.2}]
 ---
 
 # 工作經歷
 
-*國立臺灣大學*，農業經濟學系
+**國立臺灣大學**，農業經濟學系
 
 研究助理及教學助理 \hfill 118年-迄今
 
-*實踐大學*，實踐大學國際企業英語學位學程
+**實踐大學**，實踐大學國際企業英語學位學程
 
 講師 \hfill 113年-迄今
 
-*國立臺灣大學*，生態工程研究中心
+**國立臺灣大學**，生態工程研究中心
 
 研究助理 \hfill 110年-111年
 
 # 學歷
 
-*國立臺灣大學*，農業經濟學系博士候選人 \hfill 111年-迄今
+**國立臺灣大學**，農業經濟學系博士候選人 \hfill 111年-迄今
 
 指導教授：張宏浩 教授
 
-*國立臺灣大學*，統計碩士；農業經濟學碩士 \hfill 110年
+**國立臺灣大學**，統計碩士；農業經濟學碩士 \hfill 110年
 
-*國立臺灣大學*，政治學學士；農業經濟學學士 \hfill 108年
+**國立臺灣大學**，政治學學士；農業經濟學學士 \hfill 108年
 
 # 著作
 
@@ -127,7 +126,7 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 # 教學
 
-*實踐大學* — 講師（全英語授課）
+**實踐大學** 講師（全英語授課）
 
 統計學 I & II \hfill 上學期：113年、114年；下學期：113年、114年
 
@@ -135,7 +134,7 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 應用程式設計 \hfill 下學期：112年、113年、114年
 
-*國立臺灣大學* — 教學助理
+**國立臺灣大學** 教學助理
 
 量化研究方法（張宏浩 教授） \hfill 108年下學期
 

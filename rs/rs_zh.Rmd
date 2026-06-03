@@ -13,8 +13,10 @@ link-citations: true
 linkcolor: blue
 urlcolor: blue
 header-includes:
+  - \usepackage{fontspec}
   - \usepackage{xeCJK}
-  - \setCJKmainfont[BoldFont={Songti SC Bold}]{Songti SC}
+  - \setmainfont{源雲明體月}
+  - \setCJKmainfont{源雲明體月}
 ---
 
 ```{r setup, include=FALSE}
@@ -52,6 +54,5 @@ knitr::opts_chunk$set(echo = TRUE)
 **研究內容**
 
 @liou2024covid 將貝氏變點模型應用於高頻信用卡交易資料，追蹤 COVID-19 疫情期間臺灣消費者的支出調整軌跡，揭露非對稱的預防性儲蓄與消費替代模式。這類動態變化是標準問卷資料難以捕捉的。@chang2024air 發現臺灣清明掃墓期間空氣污染濃度顯著上升，並將其歸因於返鄉車潮造成的移動污染，而非燃燒紙錢的儀式造成。研究量化此文化外部性的潛在健康成本，並提供評估東亞地區類似活動的分析框架。@lee2025forest 分析森林生物多樣性對鄰近農業區農家收益分配的影響，結果顯示多樣性較高的森林環境有助於縮小農家收益差距，顯示生態系服務具有均等化的分配效果。@liou2026hotel 進一步分析後疫情時代旅館業的復甦策略，檢視廠商面對大規模需求萎縮時，營收、就業與勞動市場僵固性之間的調整互動。
-
 
 # 參考文獻
