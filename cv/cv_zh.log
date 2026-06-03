@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.3)  3 JUN 2026 17:39
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.3)  3 JUN 2026 18:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -670,7 +670,7 @@ LaTeX Font Warning: Font shape `TU/SongtiSC(0)/m/it' undefined
 (Font)              using `TU/SongtiSC(0)/m/n' instead on input line 129.
 
 LaTeX Font Info:    Font shape `TU/SongtiSC(0)/b/n' will be
-(Font)              scaled to size 10.58174pt on input line 155.
+(Font)              scaled to size 10.58174pt on input line 153.
 [1
 
 ] [2] [3] 
@@ -689,7 +689,7 @@ Package rerunfilecheck Info: File `cv_zh.out' has not changed.
 Here is how much of TeX's memory you used:
  17806 strings out of 469775
  360449 string characters out of 5466165
- 863353 words of memory out of 5000000
+ 862353 words of memory out of 5000000
  46492 multiletter control sequences out of 15000+600000
  636053 words of font info for 84 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
