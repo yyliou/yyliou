@@ -6,7 +6,7 @@ output:
 geometry: margin=1in
 
 title: "履歷"
-author: "劉昱佑"
+author: "**劉昱佑**"
 
 jobtitle: "國立臺灣大學農業經濟學系，博士候選人"
 address: "106319 中華民國（臺灣）臺北市羅斯福路四段一號"
@@ -20,10 +20,7 @@ fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 header-includes:
-  - \usepackage{fontspec}
-  - \usepackage{xeCJK}
-  - \setmainfont{源雲明體月}[AutoFakeBold=2.5, AutoFakeSlant=0.2, BoldItalicFeatures={FakeSlant=0.2}]
-  - \setCJKmainfont{源雲明體月}[AutoFakeBold=2.5, AutoFakeSlant=0.2, BoldItalicFeatures={FakeSlant=0.2}]
+  - \usepackage{ctex}
 ---
 
 # 工作經歷
@@ -44,7 +41,7 @@ header-includes:
 
 # 著作
 
-## 同儕審查論文
+## **同儕審查論文**
 
 Liou, Y.-Y. and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860.
 
@@ -66,11 +63,11 @@ Liou, Y.-Y., H.-H. Chang, and D. R. Just. 2024. "[How do consumers respond to CO
 
 Chang, H.-H., B. Lee, and F.-A. Yang, Y.-Y. Liou. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
 
-# 預印本
+# **預印本**
 
 Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614.
 
-# 研討會論文
+# **研討會論文**
 
 "The Effects of Farmers' Pension Reform on Intra-household Family Farm Succession." AAEA Annual Meeting, Kansas City. 2026 (with Chang).
 
@@ -118,7 +115,7 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 # 教學
 
-**實踐大學** 講師（全英語授課）
+實踐大學，講師
 
 統計學 I & II \hfill 上學期：113年─114年、下學期：113年─114年
 
@@ -126,7 +123,7 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 應用程式設計 \hfill 下學期：112年─114年
 
-**國立臺灣大學** 教學助理
+國立臺灣大學，教學助理
 
 量化研究方法（張宏浩 教授） \hfill 108年下學期
 
@@ -134,13 +131,13 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 農業政策與績效評估（張宏浩 教授） \hfill 112年下學期
 
-# 技能
+# **技能**
 
-**語言**：英語（中等）、中文（母語）、閩南語（中等）
+語言：英語（中等）、中文（母語）、閩南語（中等）
 
-**軟體**：R、STATA、\LaTeX
+軟體：R、STATA、\LaTeX
 
-# 研究興趣
+# **研究興趣**
 
 農業與自然資源經濟學；環境與生態經濟學
 
