@@ -1,0 +1,121 @@
+---
+title: "**Research Statement**"
+author: "Yu-You Liou"
+date: "`r Sys.Date()`"
+output: 
+  pdf_document:
+  latex_engine: xelatex
+geometry: "margin=1in"
+fontsize: 11pt
+linestretch: 1.25
+bibliography: rs.bib
+link-citations: true
+linkcolor: blue
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My research lies at the intersection of agricultural economics, environmental economics, and transportation economics. I use quasi-experimental methods to evaluate how public policies shape household welfare, environmental outcomes, and resource allocation, with a focus on Taiwan and broader developing-economy contexts. My work spans three interconnected themes.
+
+## 1. Agricultural Energy Transition and Climate Policy
+
+**Why it matters.**
+The agricultural sector faces a dual imperative: adapting to climate change
+while contributing to decarbonization.
+Governments have increasingly used both demand-side instruments (e.g.,
+rooftop solar incentives for farms) and supply-side border measures (e.g.,
+carbon pricing in trade) to achieve climate goals, yet the welfare
+consequences for agricultural producers and downstream markets remain poorly
+understood.
+Rigorous empirical evidence on these effects is essential to avoid policies
+that inadvertently undermine food security or international competitiveness.
+
+**What my research does.**
+I study the farm-level economics of clean energy adoption using Taiwan's
+comprehensive agriculture census data.
+In @liou2025rooftop, I find that rooftop solar installation increases
+farm revenue on average, suggesting that energy transition subsidies can
+generate genuine co-benefits for crop producers.
+A complementary study of poultry producers [@lee2025solar] confirms
+that solar adoption is a win--win strategy for chicken farms---improving
+both profitability and environmental performance---while also revealing
+heterogeneous effects across farm size.
+Shifting from domestic to international dimensions, @liou2025cbam
+develops a theoretical framework to examine how the European Union's Carbon
+Border Adjustment Mechanism (CBAM) reshapes global trade flows and
+competitive dynamics, identifying conditions under which the mechanism
+improves or worsens welfare in exporting nations.
+Together, these studies map out a coherent research programme on how energy
+and climate policies propagate through agricultural supply chains.
+
+## 2. Transportation Externalities, Road Safety, and Urban Mobility
+
+**Why it matters.**
+Urban transportation generates large externalities---traffic fatalities,
+greenhouse gas emissions, and congestion---that impose enormous social costs.
+Demand for evidence on targeted policy levers is high: transit subsidies,
+traffic regulations, and land-use rules each have the potential to reshape
+travel behavior at scale, but causal identification has historically been
+difficult because policies are rarely assigned randomly.
+The COVID-19 pandemic further disrupted commuting patterns in ways that
+are not yet fully understood, creating a rare natural experiment on
+behavioral inertia in transport demand.
+
+**What my research does.**
+I exploit quasi-random variation in policy timing and geographic rollout to
+identify causal effects.
+@liou2025monthly shows that the introduction of monthly transit passes
+in Taiwan's major cities significantly increases public-transport ridership and
+reduces carbon emissions, consistent with a downward-sloping demand curve
+for travel that responds to price even among regular commuters.
+@liou2026hookturn evaluates the removal of hook-turn restrictions at
+busy intersections and finds a meaningful reduction in serious traffic
+accidents, providing rare causal evidence on how intersection-level
+regulation affects road safety outcomes.
+On the demand side, @chang2021metro documents a sharp and persistent
+decline in Taipei Metro ridership during the COVID-19 pandemic, pointing to
+the role of risk perception---beyond formal lockdown policies---in
+reshaping daily mobility.
+Extending this line of work to event-driven transport demand,
+@liou2026religious quantifies the elevated accident risk associated
+with large-scale religious tourism, offering actionable estimates for
+traffic management planning around recurrent mass-gathering events.
+
+## 3. Environmental Externalities, Natural Resources, and Consumer Behavior
+
+**Why it matters.**
+Economic activity generates diffuse environmental externalities---from air
+pollution to biodiversity loss---whose effects on households are often
+invisible in aggregate statistics.
+Understanding how households and farms respond to these externalities, and
+to macroeconomic shocks like pandemics, is essential for designing
+interventions that improve welfare without distorting resource allocation.
+This is particularly salient in mixed-use rural landscapes, where
+agricultural livelihoods interact closely with natural ecosystems and
+cultural practices that generate both positive and negative spillovers.
+
+**What my research does.**
+@lee2025forest examines how forest biodiversity shapes the
+distribution of farm revenue in adjacent agricultural areas of Taiwan,
+finding that higher forest diversity is associated with a more equal
+distribution of farm earnings---suggesting that ecosystem services act as
+a natural equalizer among smallholder farms.
+On the pollution side, @chang2024air identifies a significant spike
+in air pollution around Taiwan's Tomb-Sweeping Day, attributing the effect
+to the ritual burning of paper offerings; the study links religious-cultural
+externalities to quantifiable public health costs and offers a template for
+assessing pollution from periodic cultural events elsewhere in East Asia.
+Expanding the focus to macroeconomic disruptions and service sector responses,
+@liou2026hotel investigates hotel recovery strategies in the post-pandemic
+era, providing empirical evidence on how revenue, employment, and labor market
+rigidity interact as firms adapt to large-scale structural shocks.
+Finally, @liou2024covid applies a Bayesian change-point model to
+high-frequency credit card transaction data to trace how Taiwanese consumers
+adjusted spending across categories in response to the COVID-19 outbreak,
+revealing asymmetric patterns of precautionary saving and substitution that
+standard survey methods would have missed.
+
+# References
