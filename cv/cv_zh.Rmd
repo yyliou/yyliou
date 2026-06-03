@@ -1,15 +1,15 @@
 ---
-output: 
+output:
   pdf_document:
     latex_engine: xelatex
     template: svm-latex-cv.tex
 geometry: margin=1in
 
-title: "CV"
-author: "Yu-You Liou"
+title: "履歷"
+author: "劉昱佑"
 
-jobtitle: "PhD Candidate, Department of Agricultural Economics, National Taiwan University"
-address: "No. 1, Sec. 4, Roosevelt Rd., Taipei 106319, Taiwan (R.O.C.)"
+jobtitle: "博士候選人，國立臺灣大學農業經濟學系"
+address: "中華民國（臺灣）臺北市羅斯福路四段一號，郵遞區號 106319"
 fontawesome: false
 email: "d10627008@ntu.edu.tw"
 phone: "+886-978-910-776"
@@ -23,36 +23,37 @@ linkcolor: blue
 urlcolor: blue
 header-includes:
   - \usepackage{xeCJK}
-  - \setCJKmainfont[BoldFont={STHeiti}]{STSongti-SC-Regular}
+  - \setCJKmainfont[BoldFont={Songti SC Bold}]{Songti SC}
+  - \AtBeginDocument{\subsectionfont{\rmfamily\mdseries\normalsize\bf}}
 ---
 
-# Employment
+# 工作經歷
 
-*National Taiwan University*, Department of Agricultural Economics
+*國立臺灣大學*，農業經濟學系
 
-Research & Teaching Assistant \hfill 2019--present
+研究助理 ＆ 教學助理 \hfill 118年-迄今
 
-*Shih Chien University*, English Taught Program in International Business
+*實踐大學*，實踐大學國際企業英語學位學程
 
-Lecturer \hfill 2024--present
+講師 \hfill 113年-迄今
 
-*National Taiwan University*, Ecological Engineering Center
+*國立臺灣大學*，生態工程研究中心
 
-Research Assistant \hfill 2021--2022
+研究助理 \hfill 110年-111年
 
-# Education
+# 學歷
 
-*National Taiwan University*, PhD Candidate, Agricultural Economics \hfill 2022--present
+*國立臺灣大學*，博士候選人，農業經濟學系 \hfill 111年-迄今
 
-Supervisor: Prof. Hung-Hao Chang.
+指導教授：張宏浩 教授
 
-*National Taiwan University*, MS, Statistics; MS, Agricultural Economics \hfill 2021
+*國立臺灣大學*，農業經濟學系 理學碩士；統計學研究所 理學碩士 \hfill 110年
 
-*National Taiwan University*, BA, Political Science; BS, Agricultural Economics \hfill 2019
+*國立臺灣大學*，政治學系 文學學士；農業經濟學系 理學學士 \hfill 108年
 
-# Publications
+# 著作
 
-## Peer-reviewed Articles
+## 同儕審查期刊論文
 
 Liou, Y.-Y. and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860.
 
@@ -70,15 +71,15 @@ Liou, Y.-Y., M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect o
 
 Lee, B., Y.-Y. Liou, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue: Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
 
-Liou, Y.-Y., H.-H. Chang, and D. R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
+Liou, Y.-Y., H.-H. Chang, and D. R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737-5754.
 
 Chang, H.-H., B. Lee, and F.-A. Yang, Y.-Y. Liou. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
 
-## Preprints
+# 預印本
 
 Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614.
 
-## Conference Papers
+# 研討會論文
 
 "The Effects of Farmers' Pension Reform on Intra-household Family Farm Succession." AAEA Annual Meeting, Kansas City. 2026 (with Chang).
 
@@ -102,54 +103,54 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 "The Contribution of Productivity to Taiwan's GDP Growth: An Empirical Analysis (1981--2018)." Productivity and Efficiency Conference, Taipei. 2019 (with Chen).
 
-# Referee Activities
+# 審稿活動
 
-*Agribusiness* (3); *Frontiers in Environmental Science* (1); *Traffic Injury Prevention* (1).
+*Agribusiness* (1); *Frontiers in Environmental Science* (1); *Traffic Injury Prevention* (1)
 
-# Grants and Awards
+# 獲獎
 
-NSTC Graduate Research Fellowship, National Science and Technology Council \hfill 2022--2026
+國科會博士研究獎學金，國家科學及技術委員會 \hfill 111年-115年
 
-Sun, Yun-Suan Memorial Fellowship, National Policy Foundation \hfill 2023
+孫運璿紀念獎學金，國家政策研究基金會 \hfill 112年
 
-Research Grant, CMC Magnetics Co., Ltd. \hfill 2025
+中環學生傑出研究獎 \hfill 114年
 
-Teach Grant, Shih Chien University \hfill 2025
+全英授課獎勵，實踐大學 \hfill 114年
 
-Travel Grant, National Science and Technology Council \hfill 2025
+出國差旅補助，國家科學及技術委員會 \hfill 114年
 
-Travel Grant, Department of Agricultural Economics Alumni Association, NTU \hfill 2024
+出國差旅補助，國立臺灣大學農業經濟學系系友會 \hfill 113年
 
-Outstanding Veteran, Penghu Defense Command, Republic of China Army \hfill 2022
+績優退伍人員，中華民國陸軍澎湖防衛指揮部 \hfill 111年
 
-Altruistic Award, National Taiwan University \hfill 2019
+利他獎，國立臺灣大學 \hfill 108年
 
-# Teaching
+# 教學
 
-*Shih Chien University* — Lecturer (English-medium instruction)
+*實踐大學* — 講師（英語授課）
 
-Statistics I & II \hfill Fall 2024, 2025; Spring 2025, 2026
+統計學 I & II \hfill 上學期：113年、114年；下學期：113年、114年
 
-Data Analysis \hfill Fall 2024, 2025
+資料分析 \hfill 上學期：113年、114年
 
-Programming for Applications \hfill Spring 2024, 2025, 2026
+應用程式設計 \hfill 下學期：112年、113年、114年
 
-*National Taiwan University* — Teaching Assistant
+*國立臺灣大學* — 教學助理
 
-Quantitative Method (Prof. Chang) \hfill Spring 2020
+量化研究方法（張宏浩 教授） \hfill 108年下學期
 
-Agricultural Regulations (Prof. Chen) \hfill Spring 2022
+農業法規（陳政位 教授） \hfill 110年下學期
 
-Agricultural Policy and Performance Evaluation (Prof. Chang) \hfill Spring 2024
+農業政策與績效評估（張宏浩 教授） \hfill 112年下學期
 
-# Skills
+# 技能
 
-**Languages**: English (Intermediate), Mandarin (Native), Hokkien (Intermediate).
+**語言**：英語（中等）、中文（母語）、閩南語（中等）
 
-**Software**: R, STATA, \LaTeX.
+**軟體**：R、STATA、\LaTeX
 
-# Research Interests
+## 研究興趣
 
-Agricultural and Natural Resource Economics; Environmental and Ecological Economics.
+農業與自然資源經濟學；環境與生態經濟學
 
-Urban, Rural, Regional, Real Estate, and Transportation Economics.
+都市、農村、區域、不動產與運輸經濟學

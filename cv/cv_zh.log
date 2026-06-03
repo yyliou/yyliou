@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.3)  3 JUN 2026 17:05
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.3)  3 JUN 2026 17:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv.tex
-(./cv.tex
+**cv_zh.tex
+(./cv_zh.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-05-26>
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -279,51 +279,55 @@ File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
-(fontspec)             'STSongti-SC-Regular'. Check the typeset output, and if
-(fontspec)             it is okay then ignore this warning. Otherwise a
-(fontspec)             different font should be chosen.
+(fontspec)             'Songti SC'. Check the typeset output, and if it is
+(fontspec)             okay then ignore this warning. Otherwise a different
+(fontspec)             font should be chosen.
 
 
 Package fontspec Info: 
-(fontspec)             STSongti-SC-Regular scale = 0.9663655763468609.
+(fontspec)             Songti SC scale = 0.9663655763468609.
 
 
 Package fontspec Info: 
-(fontspec)             Could not resolve font "STHeiti/I" (it probably doesn't
-(fontspec)             exist).
+(fontspec)             Could not resolve font "Songti SC Bold/I" (it probably
+(fontspec)             doesn't exist).
 
 
 Package fontspec Info: 
-(fontspec)             Could not resolve font "STSongti-SC-Regular/I" (it
-(fontspec)             probably doesn't exist).
+(fontspec)             Could not resolve font "Songti SC/I" (it probably
+(fontspec)             doesn't exist).
 
 
 Package fontspec Info: 
-(fontspec)             STSongti-SC-Regular scale = 0.9663655763468609.
+(fontspec)             Songti SC scale = 0.9663655763468609.
 
 
 Package fontspec Info: 
-(fontspec)             STHeiti scale = 0.7292709035778116.
+(fontspec)             Songti SC Bold scale = 0.9663655763468609.
 
 
 Package fontspec Info: 
-(fontspec)             STSongti-SC-Regular/BI scale = 0.9663655763468609.
+(fontspec)             Songti SC/BI scale = 0.9663655763468609.
 
 
 Package fontspec Info: 
-(fontspec)             Font family 'STSongti-SC-Regular(0)' created for font
-(fontspec)             'STSongti-SC-Regular' with options
-(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Script={CJK},BoldFont={STHeiti}].
+(fontspec)             Font family 'SongtiSC(0)' created for font 'Songti SC'
+(fontspec)             with options
+(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Script={CJK},BoldFont={Songti
+(fontspec)             SC Bold}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9663655763468609]"STSongti-SC-Regular/OT:script=hani;language=dflt;mapping=tex-text;"
+(fontspec)             <->s*[0.9663655763468609]"Songti
+(fontspec)             SC/OT:script=hani;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.7292709035778116]"STHeiti/OT:script=hani;language=dflt;mapping=tex-text;"
+(fontspec)             <->s*[0.9663655763468609]"Songti SC
+(fontspec)             Bold/OT:script=hani;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.9663655763468609]"STSongti-SC-Regular/BI/OT:script=hani;language=dflt;mapping=tex-text;"
+(fontspec)             <->s*[0.9663655763468609]"Songti
+(fontspec)             SC/BI/OT:script=hani;language=dflt;mapping=tex-text;"
 
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
@@ -468,12 +472,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip78
 )
-Package hyperref Info: Option `unicode' set `true' on input line 96.
-Package hyperref Info: Option `colorlinks' set `true' on input line 96.
-Package hyperref Info: Option `breaklinks' set `true' on input line 96.
+Package hyperref Info: Option `unicode' set `true' on input line 97.
+Package hyperref Info: Option `colorlinks' set `true' on input line 97.
+Package hyperref Info: Option `breaklinks' set `true' on input line 97.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 96.
+(hyperref)                setting the option has no effect on input line 97.
 
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
@@ -518,36 +522,36 @@ Package datetime Info: No datetime.cfg file found, using default settings on inp
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks31
 \dt@b=\toks32
-) (./cv.aux)
-\openout1 = `cv.aux'.
+) (./cv_zh.aux)
+\openout1 = `cv_zh.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Info: Redefining \microtypecontext on input line 105.
-Package microtype Info: Applying patch `item' on input line 105.
-Package microtype Info: Applying patch `toc' on input line 105.
-Package microtype Info: Applying patch `eqnum' on input line 105.
-Package microtype Info: Applying patch `footnote' on input line 105.
-Package microtype Info: Applying patch `verbatim' on input line 105.
-LaTeX Info: Redefining \microtypesetup on input line 105.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Info: Redefining \microtypecontext on input line 106.
+Package microtype Info: Applying patch `item' on input line 106.
+Package microtype Info: Applying patch `toc' on input line 106.
+Package microtype Info: Applying patch `eqnum' on input line 106.
+Package microtype Info: Applying patch `footnote' on input line 106.
+Package microtype Info: Applying patch `verbatim' on input line 106.
+LaTeX Info: Redefining \microtypesetup on input line 106.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
@@ -601,14 +605,18 @@ File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2026-05-17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 105.
-(./cv.out) (./cv.out)
+Package hyperref Info: Link coloring ON on input line 106.
+(./cv_zh.out) (./cv_zh.out)
 \@outlinefile=\write3
-\openout3 = `cv.out'.
+\openout3 = `cv_zh.out'.
 
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
+LaTeX Font Info:    Font shape `TU/SongtiSC(0)/b/n' will be
+(Font)              scaled to size 20.04251pt on input line 109.
+LaTeX Font Info:    Font shape `TU/SongtiSC(0)/m/n' will be
+(Font)              scaled to size 10.58174pt on input line 117.
 
 Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                
@@ -655,25 +663,36 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 120.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 120.
+LaTeX Font Info:    Font shape `TU/SongtiSC(0)/b/n' will be
+(Font)              scaled to size 11.59644pt on input line 127.
+
+LaTeX Font Warning: Font shape `TU/SongtiSC(0)/m/it' undefined
+(Font)              using `TU/SongtiSC(0)/m/n' instead on input line 129.
+
+LaTeX Font Info:    Font shape `TU/SongtiSC(0)/b/n' will be
+(Font)              scaled to size 10.58174pt on input line 155.
 [1
 
 ] [2] [3] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./cv.aux)
+(./cv_zh.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2022/08/05>
  ***********
-Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 676D2AC4227AE000CEFA0D81ED3B2B49;1275.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `cv_zh.out' has not changed.
+(rerunfilecheck)             Checksum: 09A3E78A1B356689EFEE90E86D5074AB;819.
  ) 
 Here is how much of TeX's memory you used:
- 17715 strings out of 469775
- 354788 string characters out of 5466165
- 859114 words of memory out of 5000000
- 46402 multiletter control sequences out of 15000+600000
- 636045 words of font info for 83 fonts, out of 8000000 for 9000
+ 17806 strings out of 469775
+ 360449 string characters out of 5466165
+ 863353 words of memory out of 5000000
+ 46492 multiletter control sequences out of 15000+600000
+ 636053 words of font info for 84 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 87i,12n,112p,1191b,473s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,112p,1194b,473s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv.pdf (3 pages).
+Output written on cv_zh.pdf (3 pages).
