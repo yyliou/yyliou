@@ -28,27 +28,19 @@ header-includes:
 
 # 工作經歷
 
-**國立臺灣大學**，農業經濟學系
+國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill 118年─迄今
 
-研究助理及教學助理 \hfill 118年-迄今
+實踐大學國際企業英語學位學程，講師 \hfill 113年─迄今
 
-**實踐大學**，實踐大學國際企業英語學位學程
-
-講師 \hfill 113年-迄今
-
-**國立臺灣大學**，生態工程研究中心
-
-研究助理 \hfill 110年-111年
+國立臺灣大學生態工程研究中心，研究助理 \hfill 110年─111年
 
 # 學歷
 
-**國立臺灣大學**，農業經濟學系博士候選人 \hfill 111年-迄今
+國立臺灣大學農業經濟學系，博士生 \hfill 111年─迄今
 
-指導教授：張宏浩 教授
+國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110年
 
-**國立臺灣大學**，統計碩士；農業經濟學碩士 \hfill 110年
-
-**國立臺灣大學**，政治學學士；農業經濟學學士 \hfill 108年
+國立臺灣大學，政治學學士、農業經濟學學士 \hfill 108年
 
 # 著作
 
@@ -56,7 +48,7 @@ header-includes:
 
 Liou, Y.-Y. and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860.
 
-Liou, Y.-Y., M.-K. Kim, and H.-H. Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940/9198)." *Journal of Tourism Management Research*, 13(1), 148--162.
+Liou, Y.-Y., M.-K. Kim, and H.-H. Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940/9198)." *Journal of Tourism Management Research*, 13(1), 148─162.
 
 Liou, Y.-Y. and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209.
 
@@ -104,11 +96,11 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 # 審稿
 
-*Agribusiness* (1); *Frontiers in Environmental Science* (1); *Traffic Injury Prevention* (1)
+*Agribusiness* (3); *Frontiers in Environmental Science* (1); *Traffic Injury Prevention* (1)
 
 # 獲獎
 
-國家科學及技術委員會，國科會博士研究獎學金 \hfill 111年-115年
+國家科學及技術委員會，國科會博士研究獎學金 \hfill 111年─115年
 
 國家政策研究基金會，孫運璿紀念獎學金 \hfill 112年
 
@@ -128,11 +120,11 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 **實踐大學** 講師（全英語授課）
 
-統計學 I & II \hfill 上學期：113年、114年；下學期：113年、114年
+統計學 I & II \hfill 上學期：113年─114年、下學期：113年─114年
 
-資料分析 \hfill 上學期：113年、114年
+資料分析 \hfill 上學期：113年─114年
 
-應用程式設計 \hfill 下學期：112年、113年、114年
+應用程式設計 \hfill 下學期：112年─114年
 
 **國立臺灣大學** 教學助理
 
@@ -152,4 +144,4 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 農業與自然資源經濟學；環境與生態經濟學
 
-都市、農村、區域、不動產與運輸經濟學
+都市、農村、區域、不動產與運輸經濟?

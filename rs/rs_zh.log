@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.3)  3 JUN 2026 21:18
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.3)  3 JUN 2026 23:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1278,52 +1278,46 @@ LaTeX Font Info:    Font shape `TU/源雲明體月(2)/b/n' will be
 (Font)              scaled to size 10.95pt on input line 124.
 [1
 
-]
-LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 176.
-LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 176.
-LaTeX Font Info:    Font shape `TU/源雲明體月(2)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 176.
+] [2]
 
 LaTeX Font Warning: Font shape `TU/源雲明體月(0)/m/it' undefined
-(Font)              using `TU/源雲明體月(0)/m/n' instead on input line 184.
+(Font)              using `TU/源雲明體月(0)/m/n' instead on input line 186.
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.141pt on input line 185.
+(Font)              scaled to size 9.141pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.5293pt on input line 185.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 185.
+(Font)              scaled to size 6.5293pt on input line 187.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 187.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 13.05992pt on input line 185.
+(Font)              scaled to size 13.05992pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.14194pt on input line 185.
+(Font)              scaled to size 9.14194pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.52997pt on input line 185.
+(Font)              scaled to size 6.52997pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 13.05725pt on input line 185.
+(Font)              scaled to size 13.05725pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.14006pt on input line 185.
+(Font)              scaled to size 9.14006pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.52863pt on input line 185.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 185.
+(Font)              scaled to size 6.52863pt on input line 187.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 187.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 185.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 187.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 195.
-[2] [3] (./rs_zh.aux)
+(Font)              scaled to size 10.95pt on input line 197.
+[3] [4] (./rs_zh.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2022/08/05>
@@ -1333,12 +1327,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20603 strings out of 469775
- 400812 string characters out of 5466165
+ 20594 strings out of 469775
+ 400500 string characters out of 5466165
  1018467 words of memory out of 5000000
- 49313 multiletter control sequences out of 15000+600000
- 631942 words of font info for 90 fonts, out of 8000000 for 9000
+ 49307 multiletter control sequences out of 15000+600000
+ 631918 words of font info for 87 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  90i,5n,116p,1002b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on rs_zh.pdf (3 pages).
+Output written on rs_zh.pdf (4 pages).

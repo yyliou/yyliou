@@ -1,6 +1,6 @@
 ---
 title: "**Research Statement**"
-author: "Yu-You Liou"
+author: Yu-You Liou
 date: "`r Sys.Date()`"
 output: 
   pdf_document:
@@ -22,26 +22,34 @@ My research sits at the intersection of agricultural economics, environmental ec
 
 ## 1. Agricultural Energy Transition and Climate Policy
 
-**Why it matters.**
+**Why it matters**
+
 Agriculture must simultaneously adapt to climate change and contribute to decarbonization, placing farms at the center of climate policy design. Governments have deployed both demand-side instruments, such as rooftop solar subsidies, and supply-side border measures, such as carbon tariffs, to advance these goals. Yet the welfare consequences for agricultural producers remain poorly understood.
 
-**What my research does.**
+**What my research does**
+
 I study farm-level responses to clean energy incentives using Taiwan’s comprehensive agriculture census. @liou2025rooftop finds that rooftop solar installation raises average farm revenue, suggesting that energy transition subsidies can deliver genuine co-benefits for crop producers. A complementary study of poultry farms [@lee2025solar] confirms that solar adoption improves both profitability and environmental performance, and reveals that effects differ substantially by farm size. Shifting to the international dimension, @liou2025cbam develops a theoretical framework to assess how the EU’s Carbon Border Adjustment Mechanism reshapes global trade flows and competitive dynamics, identifying the conditions under which the policy improves or worsens welfare in exporting countries.
 
 ## 2. Transportation Externalities, Road Safety, and Urban Mobility
 
-**Why it matters.**
+**Why it matters**
+
 Urban transportation generates large externalities, including traffic fatalities, greenhouse gas emissions, and congestion. Causal identification is difficult because transport policies are rarely assigned randomly. The COVID-19 pandemic added a rare natural experiment by disrupting commuting patterns at scale, opening a window into behavioral inertia in travel demand.
 
-**What my research does.**
+**What my research does**
+
 @chang2021metro documents a sharp and persistent decline in Taipei Metro ridership during the COVID-19 pandemic, showing that risk perception, rather than formal lockdown orders, was the primary driver of reduced mobility. Building on this finding, @liou2025monthly shows that the introduction of monthly transit passes in Taiwan’s major cities significantly increases ridership and reduces carbon emissions, demonstrating that commuters respond to price incentives even at the margin. @liou2026hookturn evaluates the removal of hook-turn restrictions at busy intersections and finds a meaningful reduction in serious traffic accidents, providing rare causal evidence on how intersection-level regulation shapes road safety. @liou2026religious extends the analysis to event-driven demand by quantifying the elevated accident risk associated with large-scale religious tourism, producing actionable estimates for traffic management around recurring mass-gathering events.
 
 ## 3. Environmental Externalities, Natural Resources, and Consumer Behavior
 
-**Why it matters.**
+**Why it matters**
+
 Economic activity produces diffuse environmental externalities whose effects on households are often invisible in aggregate data. Understanding how households and firms respond to pollution, biodiversity changes, and macroeconomic shocks is essential for designing policies that improve welfare without distorting resource allocation. This challenge is especially salient in rural settings where agriculture, natural ecosystems, and cultural practices generate overlapping spillovers.
 
-**What my research does.**
+**What my research does**
+
 @liou2024covid applies a Bayesian change-point model to high-frequency credit card data to trace how Taiwanese consumers adjusted spending across categories in response to COVID-19, uncovering asymmetric patterns of precautionary saving and substitution that standard survey methods would have missed. @chang2024air identifies a significant spike in air pollution around Taiwan’s Tomb-Sweeping Day and attributes the increase to traffic flow rather than ritual paper burning. This study quantify the public health costs of a recurring cultural externality and offering a template for similar analyses elsewhere in East Asia. @lee2025forest finds that higher forest biodiversity is associated with a more equal distribution of farm revenue in adjacent agricultural areas, suggesting that ecosystem services act as a natural equalizer among smallholder farms. @liou2026hotel extends this line of inquiry to macroeconomic shocks by examining hotel recovery strategies in the post-pandemic era, documenting how revenue, employment, and labor market rigidity interact as firms adapt to large-scale demand disruptions.
+
+\newpage
 
 # References
