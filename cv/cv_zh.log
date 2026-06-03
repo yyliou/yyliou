@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.3)  3 JUN 2026 21:18
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.3)  3 JUN 2026 22:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -997,10 +997,7 @@ LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
 (Font)              scaled to size 6.70813pt on input line 199.
 [1
 
-] [2]
-LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/sc' will be
-(Font)              scaled to size 9.18175pt on input line 309.
-[3] 
+] [2] [3] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./cv_zh.aux)
  ***********
@@ -1011,13 +1008,13 @@ L3 programming layer <2022/08/05>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `cv_zh.out' has not changed.
-(rerunfilecheck)             Checksum: 09A3E78A1B356689EFEE90E86D5074AB;819.
+(rerunfilecheck)             Checksum: 7B69075662FB8C63DFA78E8532FF38A4;773.
  ) 
 Here is how much of TeX's memory you used:
- 17704 strings out of 469775
- 358843 string characters out of 5466165
- 854674 words of memory out of 5000000
- 46397 multiletter control sequences out of 15000+600000
+ 17702 strings out of 469775
+ 358775 string characters out of 5466165
+ 854627 words of memory out of 5000000
+ 46395 multiletter control sequences out of 15000+600000
  641063 words of font info for 80 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  87i,12n,116p,1194b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s

@@ -9,7 +9,7 @@ title: "履歷"
 author: "劉昱佑"
 
 jobtitle: "國立臺灣大學農業經濟學系，博士候選人"
-address: "中華民國（臺灣）臺北市羅斯福路四段一號，郵遞區號 106319"
+address: "106319 中華民國（臺灣）臺北市羅斯福路四段一號"
 fontawesome: false
 email: "d10627008@ntu.edu.tw"
 phone: "+886-978-910-776"
@@ -52,7 +52,7 @@ header-includes:
 
 # 著作
 
-## 同儕審查期刊論文
+## 同儕審查論文
 
 Liou, Y.-Y. and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860.
 
@@ -102,7 +102,7 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 "The Contribution of Productivity to Taiwan's GDP Growth: An Empirical Analysis (1981--2018)." Productivity and Efficiency Conference, Taipei. 2019 (with Chen).
 
-# 審稿活動
+# 審稿
 
 *Agribusiness* (1); *Frontiers in Environmental Science* (1); *Traffic Injury Prevention* (1)
 
@@ -138,7 +138,7 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 量化研究方法（張宏浩 教授） \hfill 108年下學期
 
-農業法規（陳政位 教授） \hfill 110年下學期
+農業法規（陳政位 副教授） \hfill 110年下學期
 
 農業政策與績效評估（張宏浩 教授） \hfill 112年下學期
 
@@ -148,7 +148,7 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 **軟體**：R、STATA、\LaTeX
 
-## 研究興趣
+# 研究興趣
 
 農業與自然資源經濟學；環境與生態經濟學
 
