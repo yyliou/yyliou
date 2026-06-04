@@ -13,10 +13,7 @@ link-citations: true
 linkcolor: blue
 urlcolor: blue
 header-includes:
-  - \usepackage{fontspec}
-  - \usepackage{xeCJK}
-  - \setmainfont{源雲明體月}
-  - \setCJKmainfont{源雲明體月}
+  - \usepackage{ctex}
 ---
 
 ```{r setup, include=FALSE}
