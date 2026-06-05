@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "履歷"
 author: "**劉昱佑**"
 
-jobtitle: "國立臺灣大學農業經濟學系，博士候選人"
+jobtitle: "國立臺灣大學農業經濟學系博士班"
 address: "106319 中華民國（臺灣）臺北市羅斯福路四段一號"
 fontawesome: false
 email: "d10627008@ntu.edu.tw"
