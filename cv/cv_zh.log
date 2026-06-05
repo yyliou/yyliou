@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.4)  5 JUN 2026 16:21
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.4)  6 JUN 2026 05:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -900,10 +900,6 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `TU/STSong(0)/b/n' will be
 (Font)              scaled to size 8.75116pt on input line 125.
-Missing character: There is no ─ (U+2500) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ─ (U+2500) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ─ (U+2500) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ─ (U+2500) in font [lmroman10-regular]:mapping=tex-text;!
 
 LaTeX Font Warning: Font shape `TU/lmr/bx/sc' undefined
 (Font)              using `TU/lmr/bx/n' instead on input line 143.
@@ -914,16 +910,9 @@ LaTeX Font Warning: Font shape `TU/STSong(0)/b/sc' undefined
 
 LaTeX Font Info:    Font shape `TU/STSong(0)/b/n' will be
 (Font)              scaled to size 7.98543pt on input line 143.
-Missing character: There is no ─ (U+2500) in font [lmroman10-regular]:mapping=tex-text;!
 [1
 
-] [2]
-Missing character: There is no ─ (U+2500) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ─ (U+2500) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ─ (U+2500) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ─ (U+2500) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ─ (U+2500) in font [lmroman10-regular]:mapping=tex-text;!
-[3] [4] 
+] [2] [3] [4] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./cv_zh.aux)
  ***********
@@ -939,7 +928,7 @@ Package rerunfilecheck Info: File `cv_zh.out' has not changed.
 Here is how much of TeX's memory you used:
  19134 strings out of 469775
  397454 string characters out of 5466165
- 880104 words of memory out of 5000000
+ 879104 words of memory out of 5000000
  47753 multiletter control sequences out of 15000+600000
  642219 words of font info for 89 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
