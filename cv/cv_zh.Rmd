@@ -125,9 +125,9 @@ Chang, H.-H., Y.-Y. Liou, and C. D. Meyerhoefer. 2024. "[Air Pollution During Re
 
 國立臺灣大學，教學助理
 
-量化研究方法（張宏浩 教授） \hfill 108年下學期
+數量方法（張宏浩 教授） \hfill 108年下學期
 
-農業法規（陳政位 副教授） \hfill 110年下學期
+農業法規甲（陳政位 副教授） \hfill 110年下學期
 
 農業政策與績效評估（張宏浩 教授） \hfill 112年下學期
 
