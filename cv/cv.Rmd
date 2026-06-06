@@ -21,9 +21,6 @@ fontfamilyoptions: "sc, osf"
 fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
-header-includes:
-  - \usepackage{xeCJK}
-  - \setCJKmainfont[BoldFont={STHeiti}]{STSongti-SC-Regular}
 ---
 
 # Employment
