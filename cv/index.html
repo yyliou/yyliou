@@ -6,6 +6,7 @@
 <title>Curriculum Vitae – Yu-You Liou</title>
 <script>
 (function () {
+  // Follow the main site: manual choice (sessionStorage) wins, otherwise by clock
   var t = sessionStorage.getItem('theme');
   if (t !== 'light' && t !== 'dark') {
     var h = new Date().getHours();
