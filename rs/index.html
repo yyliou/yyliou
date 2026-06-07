@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research Statement – Yu-You Liou</title>
+<style>
+  html, body { height: 100%; margin: 0; }
+  body {
+    display: flex; flex-direction: column;
+    font-family: "GenWanMin TW", "源雲明體", Georgia, "Times New Roman", "PMingLiU", serif;
+    background: #fafafa; color: #222;
+  }
+  header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0.6rem 1.2rem; border-bottom: 1px solid #ddd; background: #fff;
+  }
+  header h1 { font-size: 1.05rem; font-weight: 600; margin: 0; }
+  .controls { display: flex; gap: 0.5rem; align-items: center; }
+  .toggle {
+    display: inline-flex; border: 1px solid #bbb; border-radius: 999px; overflow: hidden;
+  }
+  .toggle button {
+    border: 0; background: transparent; padding: 0.35rem 0.95rem;
+    font: inherit; font-size: 0.9rem; cursor: pointer; color: #555;
+  }
+  .toggle button.active { background: #222; color: #fff; }
+  .dl {
+    font-size: 0.9rem; color: #555; text-decoration: none;
+    border: 1px solid #bbb; border-radius: 999px; padding: 0.35rem 0.95rem;
+  }
+  .dl:hover, .toggle button:hover:not(.active) { background: #eee; }
+  main { flex: 1; }
+  iframe { width: 100%; height: 100%; border: 0; display: block; }
+</style>
+</head>
+<body>
+  <header>
+    <h1 id="title">Research Statement</h1>
+    <div class="controls">
+      <span class="toggle" role="group" aria-label="Language">
+        <button id="btn-en" onclick="setLang('en')">English</button>
+        <button id="btn-zh" onclick="setLang('zh')">中文</button>
+      </span>
+      <a class="dl" id="dl" href="rs.pdf" download>Download</a>
+    </div>
+  </header>
+  <main><iframe id="viewer" src="rs.pdf" title="Research Statement PDF"></iframe></main>
+<script>
+  var files = { en: 'rs.pdf', zh: 'rs_zh.pdf' };
+  var titles = { en: 'Research Statement', zh: '研究計畫' };
+  function setLang(lang) {
+    document.getElementById('viewer').src = files[lang];
+    document.getElementById('dl').href = files[lang];
+    document.getElementById('title').textContent = titles[lang];
+    document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+    document.getElementById('btn-zh').classList.toggle('active', lang === 'zh');
+    document.documentElement.lang = lang === 'zh' ? 'zh-Hant' : 'en';
+    try { localStorage.setItem('rs-lang', lang); } catch (e) {}
+  }
+  var saved = 'en';
+  try { saved = localStorage.getItem('rs-lang') || 'en'; } catch (e) {}
+  setLang(saved);
+</script>
+</body>
+</html>
