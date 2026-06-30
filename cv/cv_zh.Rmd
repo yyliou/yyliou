@@ -36,9 +36,9 @@ header-includes:
 
 國立臺灣大學農業經濟學系，博士生 \hfill 111年-迄今
 
-國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110年 \newline 班級排名 3/33 [修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-agec-transcript.pdf) [學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-agec-certificate.pdf)
+國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110年 \newline 班級排名 3/33 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-agec-transcript.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-agec-certificate.pdf)]
 
-國立臺灣大學，政治學學士、農業經濟學學士 \hfill 108年 \newline 班級排名 13/41 [修課紀錄](https://yyliou.github.io/yyliou/cv/doc/bs-agec-transcript.pdf) [學位證明書](https://yyliou.github.io/yyliou/cv/doc/bs-agec-certificate.pdf)
+國立臺灣大學，政治學學士、農業經濟學學士 \hfill 108年 \newline 班級排名 13/41 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/bs-agec-transcript.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/bs-agec-certificate.pdf)]
 
 # 著作
 
