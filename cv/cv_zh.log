@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.24)  30 JUN 2026 10:04
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.24)  30 JUN 2026 13:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -209,11 +209,11 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen170
 \Gm@dimlist=\toks26
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctex.sty
-Package: ctex 2022/07/14 v2.5.10 Chinese adapter in LaTeX (CTEX)
+Package: ctex 2026/06/23 v2.6.0 Chinese adapter in LaTeX (CTEX)
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexhook.sty
-Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+Package: ctexhook 2026/06/23 v2.6.0 Document and package hooks (CTEX)
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexpatch.sty
-Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
+Package: ctexpatch 2026/06/23 v2.6.0 Patching commands (CTEX)
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
@@ -353,11 +353,11 @@ LaTeX Encoding Info:    Redeclaring text symbol \textdiv (encoding TS1) on input
 \g__ctex_section_depth_int=\count316
 \g__ctex_font_size_int=\count317
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
-File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+File: ctexopts.cfg 2026/06/23 v2.6.0 Option configuration file (CTEX)
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
-File: ctex-engine-xetex.def 2022/07/14 v2.5.10 XeLaTeX adapter (CTEX)
+File: ctex-engine-xetex.def 2026/06/23 v2.6.0 XeLaTeX adapter (CTEX)
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
-Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
+Package: xeCJK 2026/06/23 v3.10.0 Typesetting CJK scripts with XeLaTeX
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
 )
@@ -387,119 +387,118 @@ Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
 \c__xeCJK_default-space_node_skip=\skip56
 \l__xeCJK_ccglue_skip=\skip57
 \l__xeCJK_ecglue_skip=\skip58
+\g__xeCJK_par_guard_dim=\dimen178
 \l__xeCJK_punct_kern_skip=\skip59
 \l__xeCJK_indent_box=\box57
 \l__xeCJK_last_penalty_int=\count324
-\l__xeCJK_last_bound_dim=\dimen178
-\l__xeCJK_last_kern_dim=\dimen179
+\l__xeCJK_last_bound_dim=\dimen179
+\l__xeCJK_last_kern_dim=\dimen180
 \l__xeCJK_widow_penalty_int=\count325
 
 LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
-(template)           argument(s) on line 2396.
+(template)           argument(s) on line 2625.
 
-\l__xeCJK_fixed_punct_width_dim=\dimen180
-\l__xeCJK_mixed_punct_width_dim=\dimen181
-\l__xeCJK_middle_punct_width_dim=\dimen182
-\l__xeCJK_fixed_margin_width_dim=\dimen183
-\l__xeCJK_mixed_margin_width_dim=\dimen184
-\l__xeCJK_middle_margin_width_dim=\dimen185
-\l__xeCJK_bound_punct_width_dim=\dimen186
-\l__xeCJK_bound_margin_width_dim=\dimen187
-\l__xeCJK_margin_minimum_dim=\dimen188
-\l__xeCJK_kerning_total_width_dim=\dimen189
-\l__xeCJK_same_align_margin_dim=\dimen190
-\l__xeCJK_different_align_margin_dim=\dimen191
-\l__xeCJK_kerning_margin_width_dim=\dimen192
-\l__xeCJK_kerning_margin_minimum_dim=\dimen193
-\l__xeCJK_bound_dim=\dimen194
-\l__xeCJK_reverse_bound_dim=\dimen195
-\l__xeCJK_margin_dim=\dimen196
-\l__xeCJK_minimum_bound_dim=\dimen197
-\l__xeCJK_kerning_margin_dim=\dimen198
+\l__xeCJK_fixed_punct_width_dim=\dimen181
+\l__xeCJK_mixed_punct_width_dim=\dimen182
+\l__xeCJK_middle_punct_width_dim=\dimen183
+\l__xeCJK_fixed_margin_width_dim=\dimen184
+\l__xeCJK_mixed_margin_width_dim=\dimen185
+\l__xeCJK_middle_margin_width_dim=\dimen186
+\l__xeCJK_bound_punct_width_dim=\dimen187
+\l__xeCJK_bound_margin_width_dim=\dimen188
+\l__xeCJK_margin_minimum_dim=\dimen189
+\l__xeCJK_kerning_total_width_dim=\dimen190
+\l__xeCJK_same_align_margin_dim=\dimen191
+\l__xeCJK_different_align_margin_dim=\dimen192
+\l__xeCJK_kerning_margin_width_dim=\dimen193
+\l__xeCJK_kerning_margin_minimum_dim=\dimen194
+\l__xeCJK_bound_dim=\dimen195
+\l__xeCJK_reverse_bound_dim=\dimen196
+\l__xeCJK_margin_dim=\dimen197
+\l__xeCJK_minimum_bound_dim=\dimen198
+\l__xeCJK_kerning_margin_dim=\dimen199
 \g__xeCJK_family_int=\count326
 \l__xeCJK_fam_int=\count327
 \g__xeCJK_fam_allocation_int=\count328
 \l__xeCJK_verb_case_int=\count329
 \l__xeCJK_verb_exspace_skip=\skip60
+\l__xeCJK_default_char_int=\count330
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
-File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
+File: xeCJK.cfg 2026/06/23 v3.10.0 Configuration file for xeCJK package
 ))
-\ccwd=\dimen199
+\ccwd=\dimen256
 \l__ctex_ccglue_skip=\skip61
 )
-\l__ctex_ziju_dim=\dimen256
+\l__ctex_ziju_dim=\dimen257
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
-\l__zhnum_scale_int=\count330
-\l__zhnum_tmp_int=\count331
+\l__zhnum_scale_int=\count331
+\l__zhnum_tmp_int=\count332
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
 )) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
-File: ctex-scheme-chinese.def 2022/07/14 v2.5.10 Chinese scheme for generic (CTEX)
+File: ctex-scheme-chinese.def 2026/06/23 v2.6.0 Chinese scheme for generic (CTEX)
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
-File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
+File: ctex-name-utf8.cfg 2026/06/23 v2.6.0 Caption with encoding UTF-8 (CTEX)
 )) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def
-File: ctex-fontset-mac.def 2022/07/14 v2.5.10 macOS fonts definition (CTEX)
-(/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-macold.def
-File: ctex-fontset-macold.def 2022/07/14 v2.5.10 macOS fonts definition for Yosemite or earlier version (CTEX)
+File: ctex-fontset-mac.def 2026/06/23 v2.6.0 macOS fonts definition (CTEX)
+(/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-macnew.def
+File: ctex-fontset-macnew.def 2026/06/23 v2.6.0 macOS fonts definition for El Capitan or later version (CTEX)
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
-(fontspec)             'STSong'. Check the typeset output, and if it is okay
-(fontspec)             then ignore this warning. Otherwise a different font
-(fontspec)             should be chosen.
+(fontspec)             'Songti SC Light'. Check the typeset output, and if it
+(fontspec)             is okay then ignore this warning. Otherwise a different
+(fontspec)             font should be chosen.
 
 
 Package fontspec Info: 
-(fontspec)             STSong scale = 0.9663655763468609.
+(fontspec)             Songti SC Light scale = 0.9663655763468609.
 
 
 Package fontspec Info: 
-(fontspec)             Could not resolve font "STKaiti/B" (it probably doesn't
-(fontspec)             exist).
+(fontspec)             Songti SC Light scale = 0.9663655763468609.
 
 
 Package fontspec Info: 
-(fontspec)             Could not resolve font "STHeiti/I" (it probably doesn't
-(fontspec)             exist).
+(fontspec)             Songti SC Bold scale = 0.9663655763468609.
 
 
 Package fontspec Info: 
-(fontspec)             Could not resolve font "STSong/BI" (it probably doesn't
-(fontspec)             exist).
+(fontspec)             Kaiti SC scale = 0.9663655763468609.
 
 
 Package fontspec Info: 
-(fontspec)             STSong scale = 0.9663655763468609.
+(fontspec)             Kaiti SC Bold scale = 0.9663655763468609.
 
 
 Package fontspec Info: 
-(fontspec)             STHeiti scale = 0.7292709035778116.
-
-
-Package fontspec Info: 
-(fontspec)             STKaiti scale = 0.9663655763468609.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'STSong(0)' created for font 'STSong' with
-(fontspec)             options
-(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Script={CJK},BoldFont={STHeiti},ItalicFont={STKaiti}].
+(fontspec)             Font family 'SongtiSCLight(0)' created for font 'Songti
+(fontspec)             SC Light' with options
+(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Script={CJK},BoldItalicFont={Kaiti
+(fontspec)             SC Bold},BoldFont={Songti SC Bold},ItalicFont={Kaiti
+(fontspec)             SC}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9663655763468609]"STSong/OT:script=hani;language=dflt;mapping=tex-text;"
+(fontspec)             <->s*[0.9663655763468609]"Songti SC
+(fontspec)             Light/OT:script=hani;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.7292709035778116]"STHeiti/OT:script=hani;language=dflt;mapping=tex-text;"
+(fontspec)             <->s*[0.9663655763468609]"Songti SC
+(fontspec)             Bold/OT:script=hani;language=dflt;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[0.9663655763468609]"STKaiti/OT:script=hani;language=dflt;mapping=tex-text;"
+(fontspec)             <->s*[0.9663655763468609]"Kaiti
+(fontspec)             SC/OT:script=hani;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.9663655763468609]"Kaiti SC
+(fontspec)             Bold/OT:script=hani;language=dflt;mapping=tex-text;"
 
 ))) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctex.cfg
-File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+File: ctex.cfg 2026/06/23 v2.6.0 Configuration file (CTEX)
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
@@ -523,12 +522,12 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box58
 \beforetitleunit=\skip62
 \aftertitleunit=\skip63
-\ttl@plus=\dimen257
-\ttl@minus=\dimen258
+\ttl@plus=\dimen258
+\ttl@minus=\dimen259
 \ttl@toksa=\toks27
-\titlewidth=\dimen259
-\titlewidthlast=\dimen260
-\titlewidthfirst=\dimen261
+\titlewidth=\dimen260
+\titlewidthlast=\dimen261
+\titlewidthfirst=\dimen262
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip64
@@ -552,7 +551,7 @@ Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
 Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (HMM)
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
 Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
-\c@lastpagecount=\count332
+\c@lastpagecount=\count333
 ) 
 )) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2026-06-17 v7.01r Hypertext links for LaTeX
@@ -577,19 +576,19 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count333
+\c@section@level=\count334
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen262
-\Hy@linkcounter=\count334
-\Hy@pagecounter=\count335
+\@linkdim=\dimen263
+\Hy@linkcounter=\count335
+\Hy@pagecounter=\count336
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2026-06-17 v7.01r Hyperref: PDFDocEncoding definition (HO)
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count336
+\Hy@SavedSpaceFactor=\count337
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2026-06-17 v7.01r Hyperref: PDF Unicode definition (HO)
 )
@@ -601,21 +600,21 @@ Package hyperref Info: Plain pages OFF on input line 4214.
 Package hyperref Info: Backreferencing OFF on input line 4219.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4466.
-\c@Hy@tempcnt=\count337
+\c@Hy@tempcnt=\count338
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4805.
-\XeTeXLinkMargin=\dimen263
+\XeTeXLinkMargin=\dimen264
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count338
-\Field@Width=\dimen264
-\Fld@charsize=\dimen265
+\Fld@menulength=\count339
+\Field@Width=\dimen265
+\Fld@charsize=\dimen266
 Package hyperref Info: Hyper figures OFF on input line 6091.
 Package hyperref Info: Link nesting OFF on input line 6096.
 Package hyperref Info: Hyper index ON on input line 6099.
@@ -623,18 +622,18 @@ Package hyperref Info: backreferencing OFF on input line 6106.
 Package hyperref Info: Link coloring OFF on input line 6111.
 Package hyperref Info: Link coloring with OCG OFF on input line 6116.
 Package hyperref Info: PDF/A mode OFF on input line 6121.
-\Hy@abspage=\count339
-\c@Item=\count340
-\c@Hfootnote=\count341
+\Hy@abspage=\count340
+\c@Item=\count341
+\c@Hfootnote=\count342
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2026-06-17 v7.01r Hyperref driver for XeTeX
 \pdfm@box=\box59
-\c@Hy@AnnotLevel=\count342
-\HyField@AnnotCount=\count343
-\Fld@listcount=\count344
-\c@bookmark@seq@number=\count345
+\c@Hy@AnnotLevel=\count343
+\HyField@AnnotCount=\count344
+\Fld@listcount=\count345
+\c@bookmark@seq@number=\count346
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -644,12 +643,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip78
 )
-Package hyperref Info: Option `unicode' set `true' on input line 95.
-Package hyperref Info: Option `colorlinks' set `true' on input line 95.
-Package hyperref Info: Option `breaklinks' set `true' on input line 95.
+Package hyperref Info: Option `unicode' set `true' on input line 97.
+Package hyperref Info: Option `colorlinks' set `true' on input line 97.
+Package hyperref Info: Option `breaklinks' set `true' on input line 97.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 95.
+(hyperref)                setting the option has no effect on input line 97.
 
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
@@ -661,62 +660,62 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 Package: fcprefix 2012/09/28
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count346
+\fc@digit@counter=\count347
 ))
-\c@padzeroesN=\count347
-\fc@tmpcatcode=\count348
-\@DT@modctr=\count349
-\@ordinalctr=\count350
-\@orgargctr=\count351
-\@strctr=\count352
-\@tmpstrctr=\count353
-\@DT@loopN=\count354
-\@DT@X=\count355
+\c@padzeroesN=\count348
+\fc@tmpcatcode=\count349
+\@DT@modctr=\count350
+\@ordinalctr=\count351
+\@orgargctr=\count352
+\@strctr=\count353
+\@tmpstrctr=\count354
+\@DT@loopN=\count355
+\@DT@X=\count356
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/datetime/datetime-defaults.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count356
-\@month=\count357
-\@year=\count358
-\c@HOUR=\count359
-\c@HOURXII=\count360
-\c@MINUTE=\count361
-\c@TOHOUR=\count362
-\c@TOMINUTE=\count363
-\c@SECOND=\count364
-\currenthour=\count365
-\currentminute=\count366
-\currentsecond=\count367
+\@day=\count357
+\@month=\count358
+\@year=\count359
+\c@HOUR=\count360
+\c@HOURXII=\count361
+\c@MINUTE=\count362
+\c@TOHOUR=\count363
+\c@TOMINUTE=\count364
+\c@SECOND=\count365
+\currenthour=\count366
+\currentminute=\count367
+\currentsecond=\count368
 Package datetime Info: No datetime.cfg file found, using default settings on input line 308.
-\@dtctr=\count368
-\dayofyear=\count369
-\dayofweek=\count370
+\@dtctr=\count369
+\dayofyear=\count370
+\dayofweek=\count371
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks29
 \dt@b=\toks30
 ) (./cv_zh.aux)
 \openout1 = `cv_zh.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -762,7 +761,7 @@ File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2026-05-17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 104.
+Package hyperref Info: Link coloring ON on input line 106.
 (./cv_zh.out) (./cv_zh.out)
 \@outlinefile=\write3
 \openout3 = `cv_zh.out'.
@@ -770,10 +769,10 @@ Package hyperref Info: Link coloring ON on input line 104.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
-LaTeX Font Info:    Font shape `TU/STSong(0)/b/n' will be
-(Font)              scaled to size 15.12492pt on input line 107.
-LaTeX Font Info:    Font shape `TU/STSong(0)/m/n' will be
-(Font)              scaled to size 10.58174pt on input line 115.
+LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/b/n' will be
+(Font)              scaled to size 20.04251pt on input line 109.
+LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/n' will be
+(Font)              scaled to size 10.58174pt on input line 117.
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -816,59 +815,56 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[0.9707178366978005]"STFangsong/OT:script=hani;language=dflt;mapping=tex-text;"
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 118.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 120.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 118.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 120.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 118.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 120.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 118.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 120.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 118.
+(Font)              <10.95> on input line 120.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 118.
+(Font)              <8> on input line 120.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 118.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 118.
+(Font)              <6> on input line 120.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 120.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 118.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 120.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `TU/STSong(0)/b/n' will be
-(Font)              scaled to size 8.75116pt on input line 125.
+LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/b/n' will be
+(Font)              scaled to size 11.59644pt on input line 127.
 
 LaTeX Font Warning: Font shape `TU/lmr/bx/sc' undefined
-(Font)              using `TU/lmr/bx/n' instead on input line 143.
+(Font)              using `TU/lmr/bx/n' instead on input line 151.
 
 
-LaTeX Font Warning: Font shape `TU/STSong(0)/b/sc' undefined
-(Font)              using `TU/STSong(0)/b/n' instead on input line 143.
+LaTeX Font Warning: Font shape `TU/SongtiSCLight(0)/b/sc' undefined
+(Font)              using `TU/SongtiSCLight(0)/b/n' instead on input line 151.
 
-LaTeX Font Info:    Font shape `TU/STSong(0)/b/n' will be
-(Font)              scaled to size 7.98543pt on input line 143.
+LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/b/n' will be
+(Font)              scaled to size 10.58174pt on input line 151.
 [1
 
-] [2]
-LaTeX Font Info:    Font shape `TU/STSong(0)/m/it' will be
-(Font)              scaled to size 10.58174pt on input line 255.
-[3] [4] [5] 
+] [2] [3] [4] [5] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./cv_zh.aux)
  ***********
 LaTeX2e <2026-06-01>
-L3 programming layer <2022/07/14>
+L3 programming layer <2026/06/23>
  ***********
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -877,12 +873,12 @@ Package rerunfilecheck Info: File `cv_zh.out' has not changed.
 (rerunfilecheck)             Checksum: A0851569F407AC920261D395C2B5549B;851.
  ) 
 Here is how much of TeX's memory you used:
- 17482 strings out of 469837
- 372067 string characters out of 5468239
- 818793 words of memory out of 5000000
- 46122 multiletter control sequences out of 15000+600000
- 642227 words of font info for 90 fonts, out of 8000000 for 9000
+ 17617 strings out of 469837
+ 376306 string characters out of 5468239
+ 821822 words of memory out of 5000000
+ 46249 multiletter control sequences out of 15000+600000
+ 642243 words of font info for 92 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 87i,12n,134p,1194b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,131p,1194b,484s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on cv_zh.pdf (5 pages).
