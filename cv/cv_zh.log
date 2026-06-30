@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.24)  28 JUN 2026 13:05
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.24)  30 JUN 2026 10:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -860,7 +860,10 @@ LaTeX Font Info:    Font shape `TU/STSong(0)/b/n' will be
 (Font)              scaled to size 7.98543pt on input line 143.
 [1
 
-] [2] [3] [4] 
+] [2]
+LaTeX Font Info:    Font shape `TU/STSong(0)/m/it' will be
+(Font)              scaled to size 10.58174pt on input line 255.
+[3] [4] [5] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./cv_zh.aux)
  ***********
@@ -871,15 +874,15 @@ L3 programming layer <2022/07/14>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `cv_zh.out' has not changed.
-(rerunfilecheck)             Checksum: 7B69075662FB8C63DFA78E8532FF38A4;773.
+(rerunfilecheck)             Checksum: A0851569F407AC920261D395C2B5549B;851.
  ) 
 Here is how much of TeX's memory you used:
- 17355 strings out of 469837
- 363987 string characters out of 5468239
- 817667 words of memory out of 5000000
- 45996 multiletter control sequences out of 15000+600000
- 642219 words of font info for 89 fonts, out of 8000000 for 9000
+ 17482 strings out of 469837
+ 372067 string characters out of 5468239
+ 818793 words of memory out of 5000000
+ 46122 multiletter control sequences out of 15000+600000
+ 642227 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  87i,12n,134p,1194b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv_zh.pdf (4 pages).
+Output written on cv_zh.pdf (5 pages).
