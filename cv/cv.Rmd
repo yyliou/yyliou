@@ -45,9 +45,9 @@ Research Assistant \hfill 2021--2022
 
 Supervisor: Prof. Hung-Hao Chang.
 
-*National Taiwan University*, MS, Statistics; MS, Agricultural Economics \hfill 2021 \newline Class rank 3/33 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/ms-agec-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/ms-agec-certificate.pdf)]
+*National Taiwan University*, MS, Statistics; MS, Agricultural Economics \hfill 2021 \newline GPA 4.19/4.3, class rank 3/33 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/ms-agec-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/ms-agec-certificate.pdf)]
 
-*National Taiwan University*, BA, Political Science; BS, Agricultural Economics \hfill 2019 \newline Class rank 13/41  [[Transcript](https://yyliou.github.io/yyliou/cv/doc/bs-agec-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/bs-agec-certificate.pdf)]
+*National Taiwan University*, BA, Political Science; BS, Agricultural Economics \hfill 2019 \newline GPA 3.74/4.3, class rank 13/41  [[Transcript](https://yyliou.github.io/yyliou/cv/doc/bs-agec-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/bs-agec-certificate.pdf)]
 
 # Publications
 
@@ -126,6 +126,7 @@ Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution Durin
 Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics, National Taiwan University.
 
 ```{=latex}
+\projitem{22.}{\textit{Market Competition and Regulation of Professional Services --- A Retrospective and Prospective Analysis of Lawyers, Accountants, Architects, and Engineers}, \href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{2026}
 \projitem{21.}{\textit{Enhancement of the Greenhouse Gas Voluntary Reduction System and Capacity Building for Natural Carbon Sinks}}{2026}
 \projitem{20.}{\textit{Adaptation of Food and Agricultural System to Net Zero Policies (III)}, \href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{2026}
 \projitem{19.}{\textit{The Impact of Aquavoltaics Policy on Farmland Price --- the Case of Taiwan}, \href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{2026}
@@ -157,8 +158,6 @@ Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics
 
 NSTC Graduate Research Fellowship, National Science and Technology Council \hfill 2022--2026
 
-Sun, Yun-Suan Memorial Fellowship, National Policy Foundation \hfill 2023
-
 Research Grant, CMC Magnetics Co., Ltd. \hfill 2025
 
 Teaching Grant, Shih Chien University \hfill 2025
@@ -166,6 +165,8 @@ Teaching Grant, Shih Chien University \hfill 2025
 Travel Grant, National Science and Technology Council \hfill 2025
 
 Travel Grant, Department of Agricultural Economics Alumni Association, NTU \hfill 2024
+
+Sun, Yun-Suan Memorial Fellowship, National Policy Foundation \hfill 2023
 
 Outstanding Veteran, Penghu Defense Command, Republic of China Army \hfill 2022
 
@@ -175,19 +176,22 @@ Altruistic Award, National Taiwan University \hfill 2019
 
 *Shih Chien University* — Lecturer (English-medium instruction)
 
-[Statistics I & II](https://yyliou.github.io/stat) \hfill Fall 2024, 2025; Spring 2025, 2026
+[Statistics I & II](https://yyliou.github.io/stat)
+\newline Fall 2024: 4.40/5, Spring 2025: 4.62/5, Fall 2025: 4.57/5, Spring 2026: pending
 
-[Data Analysis](https://yyliou.github.io/da) \hfill Fall 2024, 2025
+[Data Analysis](https://yyliou.github.io/da)
+\newline Fall 2024: 4.52/5, Fall 2025: 4.58/5
 
-[Programming for Applications](https://yyliou.github.io/pa) \hfill Spring 2024, 2025, 2026
+[Programming for Applications](https://yyliou.github.io/pa)
+\newline Spring 2024: 4.47/5, Spring 2025: 4.67/5, Spring 2026: pending
 
 *National Taiwan University* — Teaching Assistant
 
-Quantitative Method (Prof. Chang) \hfill Spring 2020
+Agricultural Policy and Performance Evaluation (Prof. Chang) \hfill Spring 2024, Fall 2026
 
 Agricultural Regulations (Prof. Chen) \hfill Spring 2022
 
-Agricultural Policy and Performance Evaluation (Prof. Chang) \hfill Spring 2024, Fall 2026
+Quantitative Method (Prof. Chang) \hfill Spring 2020
 
 # Skills
 

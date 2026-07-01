@@ -29,7 +29,7 @@ header-includes:
 
 # 工作經歷
 
-國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill 118年-迄今
+國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill 108年-迄今
 
 實踐大學國際企業英語學位學程，講師 \hfill 113年-迄今
 
@@ -39,9 +39,9 @@ header-includes:
 
 國立臺灣大學農業經濟學系，博士生 \hfill 111年-迄今
 
-國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110年 \newline 班級排名 3/33 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-agec-transcript.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-agec-certificate.pdf)]
+國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110年 \newline GPA 4.19/4.3、年級排名 3/33 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-agec-transcript.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-agec-certificate.pdf)]
 
-國立臺灣大學，政治學學士、農業經濟學學士 \hfill 108年 \newline 班級排名 13/41 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/bs-agec-transcript.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/bs-agec-certificate.pdf)]
+國立臺灣大學，政治學學士、農業經濟學學士 \hfill 108年 \newline GPA 3.74/4.3、年級排名 13/41 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/bs-agec-transcript.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/bs-agec-certificate.pdf)]
 
 # 著作
 
@@ -117,9 +117,10 @@ Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution Durin
 
 # 研究計畫
 
-張宏浩教授研究團隊研究助理，國立臺灣大學農業經濟學系。
+張宏浩教授研究團隊研究助理，國立臺灣大學農業經濟學系
 
 ```{=latex}
+\projitem{22.}{專門職業（律師、會計師、建築師及技師）與市場競爭——回顧與前瞻，\href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{115年}
 \projitem{21.}{溫室氣體自願減量制度精進與自然碳匯碳能量培力}{115年}
 \projitem{20.}{淨零政策下糧食與農業系統之調適（三），\href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{115年}
 \projitem{19.}{漁電共生政策對農地價格之影響——以臺灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{115年}
@@ -151,15 +152,15 @@ Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution Durin
 
 國家科學及技術委員會，國科會博士研究獎學金 \hfill 111年-115年
 
-國家政策研究基金會，孫運璿紀念獎學金 \hfill 112年
-
 國立臺灣大學生物資源暨農學院，中環學生傑出研究獎 \hfill 114年
 
 實踐大學，全英授課獎勵 \hfill 114年
 
-國家科學及技術委員會，出國差旅補助 \hfill 114年
+國家科學及技術委員會，補助國內研究生出席國際學術會議 \hfill 114年
 
 國立臺灣大學農業經濟學系系友會，出國差旅補助 \hfill 113年
+
+國家政策研究基金會，孫運璿紀念獎學金 \hfill 112年
 
 中華民國陸軍澎湖防衛指揮部，績優退伍人員 \hfill 111年
 
@@ -169,19 +170,22 @@ Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution Durin
 
 實踐大學，講師
 
-[統計學 I & II](https://yyliou.github.io/stat) \hfill 上學期：113年-114年、下學期：113年-114年
+[統計學 I & II](https://yyliou.github.io/stat)
+\newline 113學年上學期 4.40/5、113學年下學期 4.62/5、114學年上學期 4.57/5、114學年下學期（待公布）
 
-[資料分析](https://yyliou.github.io/da) \hfill 上學期：113年-114年
+[資料分析](https://yyliou.github.io/da)
+\newline 113學年上學期 4.52/5、114學年上學期 4.58/5
 
-[應用程式設計](https://yyliou.github.io/pa) \hfill 下學期：112年114年
+[應用程式設計](https://yyliou.github.io/pa)
+\newline 112學年下學期 4.47/5、113學年下學期 4.67/5、114學年下學期（待公布）
 
 國立臺灣大學，教學助理
 
-數量方法（張宏浩 教授） \hfill 108年下學期
+農業政策與績效評估（張宏浩 教授） \hfill 112年下學期、115年上學期
 
 農業法規甲（陳政位 副教授） \hfill 110年下學期
 
-農業政策與績效評估（張宏浩 教授） \hfill 112年下學期、115年上學期
+數量方法（張宏浩 教授） \hfill 108年下學期
 
 # **技能**
 
