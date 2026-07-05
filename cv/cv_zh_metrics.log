@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.5)  5 JUL 2026 10:33
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.5)  5 JUL 2026 10:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv_zh.tex
-(./cv_zh.tex
+**cv_zh_metrics.tex
+(./cv_zh_metrics.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -279,7 +279,24 @@ LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
 \l__xeCJK_default_char_int=\count327
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2026/07/01 v3.10.1 Configuration file for xeCJK package
-))
+)) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+(/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+(/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
 
 Package fontspec Info: 
 (fontspec)             源雲明體月 scale = 0.8385200768861646.
@@ -318,7 +335,7 @@ Package fontspec Info:
 (fontspec)             <->s*[0.8385200768861646]"源雲明體月/BI/OT:script=latn;language=dflt;mapping=tex-text;"
 
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 9.18175pt on input line 45.
+(Font)              scaled to size 9.18175pt on input line 49.
 
 Package fontspec Info: 
 (fontspec)             源雲明體月 scale = 0.8385146547306952.
@@ -499,12 +516,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip77
 )
-Package hyperref Info: Option `unicode' set `true' on input line 100.
-Package hyperref Info: Option `colorlinks' set `true' on input line 100.
-Package hyperref Info: Option `breaklinks' set `true' on input line 100.
+Package hyperref Info: Option `unicode' set `true' on input line 104.
+Package hyperref Info: Option `colorlinks' set `true' on input line 104.
+Package hyperref Info: Option `breaklinks' set `true' on input line 104.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 100.
+(hyperref)                setting the option has no effect on input line 104.
 
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
@@ -549,29 +566,29 @@ Package datetime Info: No datetime.cfg file found, using default settings on inp
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks29
 \dt@b=\toks30
-) (./cv_zh.aux)
-\openout1 = `cv_zh.aux'.
+) (./cv_zh_metrics.aux)
+\openout1 = `cv_zh_metrics.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -606,36 +623,25 @@ LaTeX Font Info:    ... okay on input line 109.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2026-05-17 v1.3f Standard LaTeX Color (DPC)
-(/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: xetex.def on input line 149.
-(/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
-) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 2026-05-17 v3.0m Driver-dependent file (DPC,SPQR)
-) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 109.
-(./cv_zh.out) (./cv_zh.out)
+Package hyperref Info: Link coloring ON on input line 113.
+(./cv_zh_metrics.out) (./cv_zh_metrics.out)
 \@outlinefile=\write3
-\openout3 = `cv_zh.out'.
+\openout3 = `cv_zh_metrics.out'.
 
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 17.39082pt on input line 112.
+(Font)              scaled to size 17.39082pt on input line 116.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/n' will be
-(Font)              scaled to size 17.39082pt on input line 112.
+(Font)              scaled to size 17.39082pt on input line 116.
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/b/n' will be
-(Font)              scaled to size 17.39082pt on input line 112.
+(Font)              scaled to size 17.39082pt on input line 116.
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
-(Font)              scaled to size 9.18175pt on input line 120.
+(Font)              scaled to size 9.18175pt on input line 124.
 
 LaTeX Font Warning: Font shape `TU/源雲明體月(0)/m/it' undefined
-(Font)              using `TU/源雲明體月(0)/m/n' instead on input line 123.
+(Font)              using `TU/源雲明體月(0)/m/n' instead on input line 127.
 
 
 Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
@@ -643,73 +649,83 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                Try to use `\setCJKmonofont[<...>]{<...>}' to define
 (xeCJK)                it.
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 123.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 127.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 123.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 127.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 123.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 127.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 123.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 127.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 123.
+(Font)              <10.95> on input line 127.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 123.
+(Font)              <8> on input line 127.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 123.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 123.
+(Font)              <6> on input line 127.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 127.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 123.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 127.
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/it' will be
-(Font)              scaled to size 9.18175pt on input line 123.
+(Font)              scaled to size 9.18175pt on input line 127.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 12.07462pt on input line 130.
+(Font)              scaled to size 12.07462pt on input line 134.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/n' will be
-(Font)              scaled to size 12.07462pt on input line 130.
+(Font)              scaled to size 12.07462pt on input line 134.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 10.0622pt on input line 130.
+(Font)              scaled to size 10.0622pt on input line 134.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/n' will be
-(Font)              scaled to size 10.0622pt on input line 130.
+(Font)              scaled to size 10.0622pt on input line 134.
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/b/n' will be
-(Font)              scaled to size 10.0622pt on input line 130.
+(Font)              scaled to size 10.0622pt on input line 134.
 
 LaTeX Font Warning: Font shape `TU/源雲明體月(0)/m/sc' undefined
-(Font)              using `TU/源雲明體月(0)/m/n' instead on input line 154.
+(Font)              using `TU/源雲明體月(0)/m/n' instead on input line 158.
 
 
 LaTeX Font Warning: Font shape `TU/源雲明體月(0)/b/sc' undefined
-(Font)              using `TU/源雲明體月(0)/b/n' instead on input line 154.
+(Font)              using `TU/源雲明體月(0)/b/n' instead on input line 158.
 
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/n' will be
-(Font)              scaled to size 9.18175pt on input line 154.
+(Font)              scaled to size 9.18175pt on input line 158.
 
 LaTeX Font Warning: Font shape `TU/源雲明體月(1)/b/sc' undefined
-(Font)              using `TU/源雲明體月(1)/b/n' instead on input line 154.
+(Font)              using `TU/源雲明體月(1)/b/n' instead on input line 158.
 
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/b/n' will be
-(Font)              scaled to size 9.18175pt on input line 154.
+(Font)              scaled to size 9.18175pt on input line 158.
+LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/it' will be
+(Font)              scaled to size 8.38516pt on input line 166.
+
+LaTeX Font Warning: Font shape `TU/源雲明體月(1)/m/it' undefined
+(Font)              using `TU/源雲明體月(1)/m/n' instead on input line 166.
+
+LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
+(Font)              scaled to size 8.38516pt on input line 166.
+LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
+(Font)              scaled to size 8.38516pt on input line 167.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
 (Font)              scaled to size 6.70813pt on input line 204.
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
 (Font)              scaled to size 6.70813pt on input line 204.
 [1
 
-] [2] [3] [4] 
+] [2] [3] [4] [5] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./cv_zh.aux)
+(./cv_zh_metrics.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026/07/01>
@@ -717,16 +733,16 @@ L3 programming layer <2026/07/01>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `cv_zh.out' has not changed.
+Package rerunfilecheck Info: File `cv_zh_metrics.out' has not changed.
 (rerunfilecheck)             Checksum: A0851569F407AC920261D395C2B5549B;851.
  ) 
 Here is how much of TeX's memory you used:
- 16166 strings out of 469837
- 335604 string characters out of 5468240
- 806087 words of memory out of 5000000
- 44864 multiletter control sequences out of 15000+600000
- 641111 words of font info for 86 fonts, out of 8000000 for 9000
+ 16572 strings out of 469837
+ 349284 string characters out of 5468240
+ 824251 words of memory out of 5000000
+ 45268 multiletter control sequences out of 15000+600000
+ 641127 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 87i,12n,116p,1194b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,116p,1202b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv_zh.pdf (4 pages).
+Output written on cv_zh_metrics.pdf (5 pages).
