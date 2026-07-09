@@ -47,7 +47,7 @@ Supervisor: Prof. Hung-Hao Chang.
 
 *National Taiwan University*, MS, Statistics; MS, Agricultural Economics \hfill 2021 \newline GPA 4.19/4.3, class rank 3/33 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/ms-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/ms-certificate.pdf)]
 
-*National Taiwan University*, BA, Political Science; BS, Agricultural Economics \hfill 2019 \newline GPA 3.74/4.3, class rank 13/41  [[Transcript](https://yyliou.github.io/yyliou/cv/doc/bs-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/bs-certificate.pdf)]
+*National Taiwan University*, BA, Political Science; BS, Agricultural Economics \hfill 2019 \newline GPA 3.74/4.3, class rank 13/41 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/bs-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/bs-certificate.pdf)]
 
 # Publications
 
@@ -75,7 +75,7 @@ Supervisor: Prof. Hung-Hao Chang.
 
 2\. **Liou, Y.-Y.**, H.-H. Chang, and D. R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
 
-1\. Chang, H.-H., B. Lee, and F.-A. Yang, **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
+1\. Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
 
 ```{=latex}
 \end{hanglist}
@@ -177,10 +177,10 @@ Altruistic Award, National Taiwan University \hfill 2019
 *Shih Chien University* — Lecturer (English-medium instruction)
 
 [Statistics I & II](https://yyliou.github.io/stat)
-\newline Fall 2024: 4.40/5, Spring 2025: 4.62/5, Fall 2025: 4.57/5, Spring 2026: pending
+\newline Fall 2024: 4.40/5, Spring 2025: 4.62/5, Fall 2025: 4.57/5, Spring 2026: pending, Fall 2026: pending
 
 [Data Analysis](https://yyliou.github.io/da)
-\newline Fall 2024: 4.52/5, Fall 2025: 4.58/5
+\newline Fall 2024: 4.52/5, Fall 2025: 4.58/5, Fall 2026: pending
 
 [Programming for Applications](https://yyliou.github.io/pa)
 \newline Spring 2024: 4.47/5, Spring 2025: 4.67/5, Spring 2026: pending

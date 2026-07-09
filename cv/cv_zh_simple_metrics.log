@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.5)  9 JUL 2026 15:57
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.5)  9 JUL 2026 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv_zh_metrics.tex
-(./cv_zh_metrics.tex
+**cv_zh_simple_metrics.tex
+(./cv_zh_simple_metrics.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -566,8 +566,8 @@ Package datetime Info: No datetime.cfg file found, using default settings on inp
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks29
 \dt@b=\toks30
-) (./cv_zh_metrics.aux)
-\openout1 = `cv_zh_metrics.aux'.
+) (./cv_zh_simple_metrics.aux)
+\openout1 = `cv_zh_simple_metrics.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
 LaTeX Font Info:    ... okay on input line 113.
@@ -624,9 +624,9 @@ LaTeX Font Info:    ... okay on input line 113.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 113.
-(./cv_zh_metrics.out) (./cv_zh_metrics.out)
+(./cv_zh_simple_metrics.out) (./cv_zh_simple_metrics.out)
 \@outlinefile=\write3
-\openout3 = `cv_zh_metrics.out'.
+\openout3 = `cv_zh_simple_metrics.out'.
 
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
@@ -718,14 +718,14 @@ LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
 (Font)              scaled to size 8.38516pt on input line 167.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 6.70813pt on input line 204.
+(Font)              scaled to size 6.70813pt on input line 205.
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
-(Font)              scaled to size 6.70813pt on input line 204.
+(Font)              scaled to size 6.70813pt on input line 205.
 [1
 
-] [2] [3] [4] [5] 
+] [2] [3] [4] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./cv_zh_metrics.aux)
+(./cv_zh_simple_metrics.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026/07/01>
@@ -733,16 +733,16 @@ L3 programming layer <2026/07/01>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `cv_zh_metrics.out' has not changed.
+Package rerunfilecheck Info: File `cv_zh_simple_metrics.out' has not changed.
 (rerunfilecheck)             Checksum: A0851569F407AC920261D395C2B5549B;851.
  ) 
 Here is how much of TeX's memory you used:
  16572 strings out of 469837
- 349284 string characters out of 5468240
- 824251 words of memory out of 5000000
+ 349417 string characters out of 5468240
+ 825272 words of memory out of 5000000
  45268 multiletter control sequences out of 15000+600000
  641127 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 87i,12n,116p,1202b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,116p,1209b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv_zh_metrics.pdf (5 pages).
+Output written on cv_zh_simple_metrics.pdf (4 pages).

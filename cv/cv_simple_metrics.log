@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.5)  9 JUL 2026 15:56
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.5)  9 JUL 2026 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv_metrics.tex
-(./cv_metrics.tex
+**cv_simple_metrics.tex
+(./cv_simple_metrics.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -387,8 +387,8 @@ Package datetime Info: No datetime.cfg file found, using default settings on inp
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks29
 \dt@b=\toks30
-) (./cv_metrics.aux)
-\openout1 = `cv_metrics.aux'.
+) (./cv_simple_metrics.aux)
+\openout1 = `cv_simple_metrics.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
 LaTeX Font Info:    ... okay on input line 109.
@@ -445,9 +445,9 @@ LaTeX Font Info:    ... okay on input line 109.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 109.
-(./cv_metrics.out) (./cv_metrics.out)
+(./cv_simple_metrics.out) (./cv_simple_metrics.out)
 \@outlinefile=\write3
-\openout3 = `cv_metrics.out'.
+\openout3 = `cv_simple_metrics.out'.
 
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
@@ -487,27 +487,27 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 [1
 
 ] [2] [3]
-Underfull \hbox (badness 1152) in paragraph at lines 331--331
+Underfull \hbox (badness 1152) in paragraph at lines 311--311
 []\TU/lmr/m/n/10.95 11. Economic Evaluation of Circular Economy Using Agricultural By-Products,
  []
 
 [4] [5] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./cv_metrics.aux)
+(./cv_simple_metrics.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
  ***********
-Package rerunfilecheck Info: File `cv_metrics.out' has not changed.
+Package rerunfilecheck Info: File `cv_simple_metrics.out' has not changed.
 (rerunfilecheck)             Checksum: 52BFB4585A3BDB50D209D133E7DFA341;1409.
  ) 
 Here is how much of TeX's memory you used:
  14678 strings out of 469837
- 279206 string characters out of 5468240
- 767047 words of memory out of 5000000
+ 279339 string characters out of 5468240
+ 767082 words of memory out of 5000000
  43417 multiletter control sequences out of 15000+600000
  635447 words of font info for 76 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 87i,12n,91p,1199b,421s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,91p,1206b,421s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv_metrics.pdf (5 pages).
+Output written on cv_simple_metrics.pdf (5 pages).
