@@ -21,9 +21,15 @@ fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 header-includes:
+  - \usepackage{xeCJK}
+  - \setCJKmainfont{源雲明體月}
   - \newenvironment{hanglist}{\par\setlength{\leftskip}{1.6em}\setlength{\parindent}{-1.6em}}{\par}
   - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\hangindent=1.6em\hangafter=1\relax#1\hspace{0.35em}#2\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
 ---
+
+```{=latex}
+{\raggedleft\small[\href{https://yyliou.github.io/yyliou/cv/cv_zh_simple.pdf}{中文版由此去}]\par}
+```
 
 # Employment
 

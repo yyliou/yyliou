@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.5)  9 JUL 2026 21:11
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.5)  9 JUL 2026 21:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -682,45 +682,45 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/it' will be
 (Font)              scaled to size 9.18175pt on input line 127.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 12.07462pt on input line 134.
-LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/n' will be
-(Font)              scaled to size 12.07462pt on input line 134.
+(Font)              scaled to size 8.38516pt on input line 134.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 10.0622pt on input line 134.
+(Font)              scaled to size 12.07462pt on input line 136.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/n' will be
-(Font)              scaled to size 10.0622pt on input line 134.
+(Font)              scaled to size 12.07462pt on input line 136.
+LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
+(Font)              scaled to size 10.0622pt on input line 136.
+LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/n' will be
+(Font)              scaled to size 10.0622pt on input line 136.
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/b/n' will be
-(Font)              scaled to size 10.0622pt on input line 134.
+(Font)              scaled to size 10.0622pt on input line 136.
 
 LaTeX Font Warning: Font shape `TU/源雲明體月(0)/m/sc' undefined
-(Font)              using `TU/源雲明體月(0)/m/n' instead on input line 158.
+(Font)              using `TU/源雲明體月(0)/m/n' instead on input line 160.
 
 
 LaTeX Font Warning: Font shape `TU/源雲明體月(0)/b/sc' undefined
-(Font)              using `TU/源雲明體月(0)/b/n' instead on input line 158.
+(Font)              using `TU/源雲明體月(0)/b/n' instead on input line 160.
 
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/n' will be
-(Font)              scaled to size 9.18175pt on input line 158.
+(Font)              scaled to size 9.18175pt on input line 160.
 
 LaTeX Font Warning: Font shape `TU/源雲明體月(1)/b/sc' undefined
-(Font)              using `TU/源雲明體月(1)/b/n' instead on input line 158.
+(Font)              using `TU/源雲明體月(1)/b/n' instead on input line 160.
 
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/b/n' will be
-(Font)              scaled to size 9.18175pt on input line 158.
+(Font)              scaled to size 9.18175pt on input line 160.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/it' will be
-(Font)              scaled to size 8.38516pt on input line 166.
+(Font)              scaled to size 8.38516pt on input line 168.
 
 LaTeX Font Warning: Font shape `TU/源雲明體月(1)/m/it' undefined
-(Font)              using `TU/源雲明體月(1)/m/n' instead on input line 166.
+(Font)              using `TU/源雲明體月(1)/m/n' instead on input line 168.
 
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
-(Font)              scaled to size 8.38516pt on input line 166.
+(Font)              scaled to size 8.38516pt on input line 168.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 8.38516pt on input line 167.
-LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 6.70813pt on input line 204.
+(Font)              scaled to size 6.70813pt on input line 206.
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
-(Font)              scaled to size 6.70813pt on input line 204.
+(Font)              scaled to size 6.70813pt on input line 206.
 [1
 
 ] [2] [3] [4] [5] 

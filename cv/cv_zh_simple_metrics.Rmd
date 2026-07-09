@@ -31,6 +31,10 @@ header-includes:
   - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\hangindent=1.6em\hangafter=1\relax#1\hspace{0.35em}#2\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
 ---
 
+```{=latex}
+{\raggedleft\small[\href{https://yyliou.github.io/yyliou/cv/cv_simple_metrics.pdf}{English version}]\par}
+```
+
 # 工作經歷
 
 國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill 108年-迄今
