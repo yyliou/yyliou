@@ -57,7 +57,7 @@ header-includes:
 
 10\. **Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學（Economics）第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊} \newline \textit{Earlier version presented at the 20th EAEA International Conference (2025).}
 
-9\. **Liou, Y.-Y.**, M.-K. Kim, and H.-H. Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940/9198)." *Journal of Tourism Management Research*, 13(1), 148--162. \newline \jmetric{〔ESCI；JIF＝1.1；觀光休閒運動（Hospitality, Leisure, Sport \& Tourism）第 104/141 名（前 73.8\%），Q3〕}
+9\. **Liou, Y.-Y.**, M.-K. Kim, and H.-H. Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." *Journal of Tourism Management Research*, 13(1), 148--162. \newline \jmetric{〔ESCI；JIF＝1.1；觀光休閒運動（Hospitality, Leisure, Sport \& Tourism）第 104/141 名（前 73.8\%），Q3〕}
 
 8\. **Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動（Hospitality, Leisure, Sport \& Tourism）第 29/141 名（前 20.6\%），Q1〕} \newline \textit{Earlier version presented at the 19th EAEA International Conference (2024).}
 
