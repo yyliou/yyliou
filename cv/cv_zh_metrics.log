@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.5)  9 JUL 2026 21:36
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.10)  10 JUL 2026 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -718,9 +718,9 @@ LaTeX Font Warning: Font shape `TU/源雲明體月(1)/m/it' undefined
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
 (Font)              scaled to size 8.38516pt on input line 170.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 6.70813pt on input line 202.
+(Font)              scaled to size 6.70813pt on input line 201.
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
-(Font)              scaled to size 6.70813pt on input line 202.
+(Font)              scaled to size 6.70813pt on input line 201.
 [1
 
 ] [2] [3] [4] [5] 
@@ -734,13 +734,13 @@ L3 programming layer <2026/07/01>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `cv_zh_metrics.out' has not changed.
-(rerunfilecheck)             Checksum: A0851569F407AC920261D395C2B5549B;851.
+(rerunfilecheck)             Checksum: FBAA1AF6E13BA4C14180E2546E40490F;937.
  ) 
 Here is how much of TeX's memory you used:
- 16572 strings out of 469837
- 349284 string characters out of 5468240
- 823251 words of memory out of 5000000
- 45268 multiletter control sequences out of 15000+600000
+ 16613 strings out of 469837
+ 351835 string characters out of 5468239
+ 824293 words of memory out of 5000000
+ 45309 multiletter control sequences out of 15000+600000
  641127 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  87i,12n,116p,1202b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s

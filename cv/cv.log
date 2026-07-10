@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.5)  9 JUL 2026 21:26
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.10)  10 JUL 2026 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,12 +597,12 @@ LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
 (Font)              scaled to size 8.38516pt on input line 129.
 [1
 
-] [2]
-Underfull \hbox (badness 1152) in paragraph at lines 316--316
+] [2] [3]
+Underfull \hbox (badness 1152) in paragraph at lines 332--332
 []\TU/lmr/m/n/10.95 11. Economic Evaluation of Circular Economy Using Agricultural By-Products,
  []
 
-[3] [4] [5] 
+[4] [5] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./cv.aux)
  ***********
@@ -610,13 +610,13 @@ LaTeX2e <2026-06-01>
 L3 programming layer <2026/07/01>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 52BFB4585A3BDB50D209D133E7DFA341;1409.
+(rerunfilecheck)             Checksum: A4074F104AE82582B32A57D796CD53DE;1526.
  ) 
 Here is how much of TeX's memory you used:
- 16026 strings out of 469837
- 324524 string characters out of 5468240
- 801250 words of memory out of 5000000
- 44738 multiletter control sequences out of 15000+600000
+ 16027 strings out of 469837
+ 324537 string characters out of 5468239
+ 801415 words of memory out of 5000000
+ 44739 multiletter control sequences out of 15000+600000
  636045 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  87i,12n,112p,1191b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s

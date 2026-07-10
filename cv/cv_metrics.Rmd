@@ -51,11 +51,9 @@ Research Assistant \hfill 2021--2022
 
 # Education
 
-*National Taiwan University*, PhD Fellow, Agricultural Economics \hfill 2022--present
+*National Taiwan University*, PhD Fellow, Agricultural Economics \hfill 2022--present \newline Supervisor: Prof. Hung-Hao Chang.
 
-Supervisor: Prof. Hung-Hao Chang.
-
-*National Taiwan University*, MS, Statistics; MS, Agricultural Economics \hfill 2021 \newline GPA 4.19/4.3, class rank 3/33 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/ms-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/ms-certificate.pdf)]
+*National Taiwan University*, MS, Statistics; MS, Agricultural Economics \hfill 2021 \newline GPA 4.19/4.3, class rank 3/33 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/ms-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/ms-certificate.pdf)] \newline Supervisors: Prof. Hung-Hao Chang and Prof. Yao-Wen Hsu.
 
 *National Taiwan University*, BA, Political Science; BS, Agricultural Economics \hfill 2019 \newline GPA 3.74/4.3, class rank 13/41 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/bs-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/bs-certificate.pdf)]
 
@@ -95,9 +93,15 @@ Supervisor: Prof. Hung-Hao Chang.
 \noindent\textit{\small Note: JIF and rankings are based on Clarivate JCR 2025 data (released June 2026); each journal is shown in its best-percentile category as \#rank/total.}\newline
 \noindent\zhunote{\normalfont Red}\textit{\small{} text marks NSTC-recommended international journals and NTU Outstanding Journals.}
 
-## Preprints
+## Working Papers
 
 Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Conference (2025), the 99th Annual Conference of WEAI (2024), and the IAAE 2024 Annual Conference (2024).}
+
+## Theses
+
+**Liou, Y.-Y.** 2021. "[Constructing Property Price Indices: Big Data Analyses from Actual Price Registration of Real Estate Transactions in Taiwan](https://doi.org/10.6342/NTU202101981)." Master's Thesis, Department of Agricultural Economics, National Taiwan University. \newline \textit{Grade: A+. Committee: Hung-Hao Chang, Chiu-Yueh Chung, Jiun-Hao Wang, Tzu-Chin Lin, and Sheng-Fu Tsai.}
+
+**Liou, Y.-Y.** 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline \textit{Grade: A+. Committee: Yao-Wen Hsu, Yung-Chih Lien, and Shih-Ping Ho.}
 
 ## Conference Papers
 

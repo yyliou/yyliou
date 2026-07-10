@@ -41,11 +41,9 @@ header-includes:
 
 # 學歷
 
-國立臺灣大學農業經濟學系，博士生 \hfill 111年-迄今
+國立臺灣大學農業經濟學系，博士生 \hfill 111年-迄今 \newline 指導教授：張宏浩特聘教授
 
-指導教授：張宏浩特聘教授
-
-國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110年 \newline GPA 4.19/4.3、年級排名 3/33 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-certificate-zh.pdf)]
+國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110年 \newline GPA 4.19/4.3、年級排名 3/33 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-certificate-zh.pdf)] \newline 指導教授：張宏浩特聘教授、許耀文副教授
 
 國立臺灣大學，政治學學士、農業經濟學學士 \hfill 108年 \newline GPA 3.74/4.3、年級排名 13/41 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/bs-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/bs-certificate-zh.pdf)]
 
@@ -81,9 +79,15 @@ header-includes:
 \end{hanglist}
 ```
 
-# **預印本**
+# **工作論文**
 
 Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Conference (2025), the 99th Annual Conference of WEAI (2024), and the IAAE 2024 Annual Conference (2024).}
+
+# **學位論文**
+
+**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文。\newline 成績：A+。口試委員：張宏浩、鐘秋悅、王俊豪、林子欽、蔡昇甫。
+
+**劉昱佑**（2021）。「[以多階層線性模型探討旅館房價外部性因子的調節作用——公共財與產業環境的實證分析](https://doi.org/10.6342/NTU202102085)」。國立臺灣大學統計碩士學位學程碩士論文。\newline 成績：A+。口試委員：許耀文、連勇智、荷世平。
 
 # **研討會論文**
 
