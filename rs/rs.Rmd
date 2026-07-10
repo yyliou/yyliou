@@ -2,9 +2,9 @@
 title: "**Research Statement**"
 author: Yu-You Liou
 date: "`r Sys.Date()`"
-output: 
+output:
   pdf_document:
-  latex_engine: xelatex
+    latex_engine: xelatex
 geometry: "margin=1in"
 fontsize: 11pt
 linestretch: 1.25
@@ -12,10 +12,17 @@ bibliography: rs.bib
 link-citations: true
 linkcolor: blue
 urlcolor: blue
+header-includes:
+  - \usepackage{xeCJK}
+  - \setCJKmainfont{源雲明體月}
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{=latex}
+{\raggedleft\small[\href{https://yyliou.github.io/yyliou/rs/rs_zh.pdf}{中文版由此去}]\par}
 ```
 
 A central challenge for public policy is that markets routinely fail to price externalities—the spillover costs and benefits that economic activity imposes on the environment, on public health, and on other people. My research asks how policies and large shocks reshape those externalities, and who ultimately bears the gains and losses. Across two connected research programs, one centered on the rural economy and one on the urban and regional economy, I use quasi-experimental methods and rich administrative data—including Taiwan's agricultural census, transit records, accident registries, and high-frequency transaction data—to deliver credible causal evidence where it has been scarce. Taiwan offers an unusually informative laboratory: a dense, well-measured economy in which clean-energy programs, transit reforms, and pandemic disruptions arrived as sharp, datable changes that allow before-and-after comparisons of real-world behavior. The two programs share a common goal—turning diffuse, hard-to-see externalities into measured quantities that policymakers can act on.
