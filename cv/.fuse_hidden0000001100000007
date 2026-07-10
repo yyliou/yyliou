@@ -1,0 +1,236 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "履歷"
+author: "**劉昱佑**"
+
+jobtitle: "國立臺灣大學農業經濟學系博士班"
+address: "106319 中華民國（臺灣）臺北市羅斯福路四段一號"
+fontawesome: false
+email: "d10627008@ntu.edu.tw"
+phone: "+886-978-910-776"
+web: "yyliou.github.io"
+orcid: "0009-0006-3155-7540"
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+header-includes:
+  - \usepackage{fontspec}
+  - \usepackage{xeCJK}
+  - \usepackage{xcolor}
+  - \definecolor{zhu}{HTML}{D8301B}
+  - \newcommand{\jmetric}[1]{\textit{\small{}#1}}
+  - \newcommand{\zhunote}[1]{\textcolor{zhu}{\small{}#1}}
+  - \setmainfont{源雲明體月}
+  - \setCJKmainfont{源雲明體月}
+  - \newenvironment{hanglist}{\par\setlength{\leftskip}{1.6em}\setlength{\parindent}{-1.6em}}{\par}
+  - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\hangindent=1.6em\hangafter=1\relax#1\hspace{0.35em}#2\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
+---
+
+```{=latex}
+{\raggedleft\small[\href{https://yyliou.github.io/yyliou/cv/cv_metrics.pdf}{English version}]\par}
+```
+
+# 工作經歷
+
+國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill 108年-迄今
+
+實踐大學國際企業英語學位學程，講師 \hfill 113年-迄今
+
+國立臺灣大學生態工程研究中心，研究助理 \hfill 110年-111年
+
+# 學歷
+
+國立臺灣大學農業經濟學系，博士生 \hfill 111年-迄今 \newline 指導教授：張宏浩特聘教授
+
+國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110年 \newline GPA 4.19/4.3、年級排名 3/33 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-certificate-zh.pdf)] \newline 指導教授：張宏浩特聘教授、許耀文副教授
+
+國立臺灣大學，政治學學士、農業經濟學學士 \hfill 108年 \newline GPA 3.74/4.3、年級排名 13/41 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/bs-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/bs-certificate-zh.pdf)]
+
+# 著作
+
+## **同儕審查論文**
+
+```{=latex}
+\begin{hanglist}
+```
+
+10\. **Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學（Economics）第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊} \newline \textit{Earlier version presented at the 20th EAEA International Conference (2025).}
+
+9\. **Liou, Y.-Y.**, M.-K. Kim, and H.-H. Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." *Journal of Tourism Management Research*, 13(1), 148--162. \newline \jmetric{〔ESCI；JIF＝1.1；觀光休閒運動（Hospitality, Leisure, Sport \& Tourism）第 104/141 名（前 73.8\%），Q3〕}
+
+8\. **Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動（Hospitality, Leisure, Sport \& Tourism）第 29/141 名（前 20.6\%），Q1〕} \newline \textit{Earlier version presented at the 19th EAEA International Conference (2024).}
+
+7\. **Liou, Y.-Y.** and H.-H. Chang. 2025. "[Rooftop Solar Energy Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness* (Forthcoming). \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝2.4；經濟學（Economics）第 196/627 名（前 31.3\%），Q2〕} \newline \textit{Earlier version presented at the 18th Congress of EAAE (2025) and the 19th EAEA International Conference (2024).}
+
+6\. **Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition: A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *Singapore Economic Review* (Forthcoming). \newline \jmetric{〔SSCI、EconLit；JIF＝1.2；經濟學（Economics）第 379/627 名（前 60.0\%），Q3〕}
+
+5\. Lee, B., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Is Solar Panel Adoption a Win--Win Strategy for Chicken Farms? Evidence from Agriculture Census Data](https://www.mdpi.com/2077-0472/15/20/2124)." *Agriculture*, 15(20), 2124. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學（Agronomy）第 16/133 名（前 12.0\%），Q1〕} \newline \zhunote{臺大傑出期刊}
+
+4\. **Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝8.7；運輸學（Transportation）第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊}
+
+3\. Lee, Z.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue: Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{〔SCIE、SSCI；JIF＝4.6；林學（Forestry）第 7/92 名（前 7.6\%），Q1〕} \newline \zhunote{臺大傑出期刊}
+
+2\. **Liou, Y.-Y.**, H.-H. Chang, and D. R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
+
+1\. Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{〔SSCI；JIF＝6.8；經濟學（Economics）第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊}
+
+```{=latex}
+\end{hanglist}
+```
+
+\vspace{2pt}
+\noindent\textit{\small 註：JIF 與排名依 Clarivate JCR 2025年資料（2026年6月發布）計算，領域取排名百分比最佳者，「第 名次／該領域期刊數」。}\newline
+\noindent\zhunote{\normalfont 紅字}\textit{\small 為國科會學門推薦國際期刊與臺大傑出期刊之標註。}
+
+# **工作論文**
+
+```{=latex}
+\begin{hanglist}
+```
+
+1\. Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Conference (2025), the 99th Annual Conference of WEAI (2024), and the IAAE 2024 Annual Conference (2024).}
+
+```{=latex}
+\end{hanglist}
+```
+
+# **學位論文**
+
+```{=latex}
+\begin{hanglist}
+```
+
+2\. **劉昱佑**（2021）。「[以多階層線性模型探討旅館房價外部性因子的調節作用——公共財與產業環境的實證分析](https://doi.org/10.6342/NTU202102085)」。國立臺灣大學統計碩士學位學程碩士論文（英文撰寫）。\newline 成績：A+。口試委員：許耀文、連勇智、荷世平。
+
+1\. **劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文（中文撰寫）。\newline 成績：A+。口試委員：張宏浩、鐘秋悅、王俊豪、林子欽、蔡昇甫。
+
+```{=latex}
+\end{hanglist}
+```
+
+# **研討會論文**
+
+```{=latex}
+\begin{hanglist}
+```
+
+14\. "Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations." 12th ASAE International Conference, Jakarta. 2026 (with Chang and Wu).
+
+13\. "Does Metro Expansion Always Reduce Traffic Accidents?" 21st International Convention of the East Asian Economic Association (EAEA), Siem Reap. 2026 (with Chang).
+
+12\. "Green Gentrification beyond the City: Evidence from a Suburban Asian Context." 21st International Convention of the East Asian Economic Association (EAEA), Siem Reap. 2026 (with Chang).
+
+11\. "The Effects of Farmers' Pension Reform on Intra-household Family Farm Succession." AAEA Annual Meeting, Kansas City. 2026 (with Chang).
+
+10\. "Compensation or Clean Air? Housing Market Evidence from Coal Reduction." World Congress of Environmental and Resource Economists, Carcavelos. 2026 (with Chang).
+
+9\. "The Development of Aquavoltaics Policy and Farmland Price." CAER-IFPRI Annual Conference, Beijing; APSTE International Conference, 2025 (with Chang).
+
+8\. 「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。[第十六屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20240614.pdf)，臺北。2024（與李成蔭合著）。
+
+7\. "Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day." WEAI Annual Conference, Seattle; IAAE Annual Conference. 2024 (with Chang and Meyerhoefer).
+
+6\. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." International Conference on Agricultural and Environmental Economics, Taipei. 2023 (with Chang).
+
+5\. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students, Taipei. 2023.
+
+4\. 「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。[第十五屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20230605.pdf)，臺北。2023。
+
+3\. 「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。[第十五屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20230605.pdf)，臺北。2023（與何驊哲合著）。
+
+2\. 「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。[2020 年臺灣農村經濟學會年會暨學術研討會](https://www.rest.org.tw/zh_tw/events/-%E6%95%AC%E9%82%80%E5%8F%83%E5%8A%A0-2020%E5%B9%B4%E8%87%BA%E7%81%A3%E8%BE%B2%E6%9D%91%E7%B6%93%E6%BF%9F%E5%AD%B8%E6%9C%83%E5%B9%B4%E6%9C%83%E6%9A%A8%E5%AD%B8%E8%A1%93%E7%A0%94%E8%A8%8E%E6%9C%83-47878385)，臺北。2020（與張宏浩合著）。
+
+1\. 「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。[2019 年生產力與效率學術研討會](https://sites.google.com/view/tepa20190727)，臺北。2019（與陳林松合著）。
+
+```{=latex}
+\end{hanglist}
+```
+
+# 研究計畫
+
+張宏浩教授研究團隊研究助理，國立臺灣大學農業經濟學系
+
+```{=latex}
+\projitem{22.}{專門職業（律師、會計師、建築師及技師）與市場競爭——回顧與前瞻，\href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{115年}
+\projitem{21.}{溫室氣體自願減量制度精進與自然碳匯碳能量培力}{115年}
+\projitem{20.}{淨零政策下糧食與農業系統之調適（三），\href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{115年}
+\projitem{19.}{漁電共生政策對農地價格之影響——以臺灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{115年}
+\projitem{18.}{提升臺灣碳匯能力之政策成本效益分析與策略建議：以土壤友善農業生產模式為例，\href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}{114年}
+\projitem{17.}{因應國土計畫政策之農地價格指數應用分析，113農基金-永續-11}{114年}
+\projitem{16.}{淨零政策下糧食與農業系統之調適（二），\href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}{114年}
+\projitem{15.}{線上媒合平台之農業勞動力供給——以臺灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}{113-114年}
+\projitem{14.}{建構有機農業生態系服務架構：蔬菜與稻米之價值調查與量化模型，113農再-2.2.2-1.5-糧-004}{113年}
+\projitem{13.}{臺灣增匯策略之成本評估與政策建議，\href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}{113年}
+\projitem{12.}{電動車產業政策與競爭法規範之研究，\href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}{113年}
+\projitem{11.}{農業副產物循環經濟之經濟評估，\href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}{113年}
+\projitem{10.}{淨零政策下糧食與農業系統之調適（一），\href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}{113年}
+\projitem{9.}{臺灣增匯策略之成本評估與政策建議，\href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}{112年}
+\projitem{8.}{農地永續利用決策之農地價格指數評估與建立，112農基金-1.1-企-10-(2)}{112年}
+\projitem{7.}{大學社會責任實踐計畫：「攜手雲林——深化重點農業地區產業鏈結」，112L5A001B}{112年}
+\projitem{6.}{農場傳承之經濟分析——以臺灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}{112年}
+\projitem{5.}{農地資源與永續利用之決策評估，\href{https://www.grb.gov.tw/search/planDetail?id=14766648}{111農科-3.1.3-企-Q2(Z)}}{111年}
+\projitem{4.}{食物可及性、市場競爭與房價——以臺灣便利商店為例之實證，\href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}{111年}
+\projitem{3.}{臺灣農民職業災害保險之經濟分析，\href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}{110年}
+\projitem{2.}{農村再生計畫對農業勞動與休閒農業參與之影響，109農再-2.1.3-1.3-企-015}{109年}
+\projitem{1.}{共享經濟對臺灣農地價格之影響，\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}{109年}
+```
+
+# 審稿
+
+[*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (4); [*Frontiers in Climate*](https://www.frontiersin.org/journals/climate) (1); [*Frontiers in Environmental Science*](https://www.frontiersin.org/journals/environmental-science) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1)
+
+# 獲獎
+
+國家科學及技術委員會，國科會博士研究獎學金 \hfill 111年-115年
+
+國立臺灣大學生物資源暨農學院，中環學生傑出研究獎 \hfill 114年
+
+實踐大學，全英授課獎勵 \hfill 114年
+
+國家科學及技術委員會，補助國內研究生出席國際學術會議 \hfill 114年
+
+國立臺灣大學農業經濟學系系友會，出國差旅補助 \hfill 113年
+
+國家政策研究基金會，孫運璿紀念獎學金 \hfill 112年
+
+中華民國陸軍澎湖防衛指揮部，績優退伍人員 \hfill 111年
+
+國立臺灣大學，利他獎 \hfill 108年
+
+# 教學
+
+實踐大學，講師
+
+[統計學 I & II](https://yyliou.github.io/stat)
+\newline 113學年上學期 4.40/5、113學年下學期 4.62/5、114學年上學期 4.57/5、114學年下學期（待公布）、115學年上學期（待公布）
+
+[資料分析](https://yyliou.github.io/da)
+\newline 113學年上學期 4.52/5、114學年上學期 4.58/5、115學年上學期（待公布）
+
+[應用程式設計](https://yyliou.github.io/pa)
+\newline 112學年下學期 4.47/5、113學年下學期 4.67/5、114學年下學期（待公布）
+
+國立臺灣大學，教學助理
+
+農業政策與績效評估（張宏浩 教授） \hfill 112年下學期、115年上學期
+
+農業法規甲（陳政位 副教授） \hfill 110年下學期
+
+數量方法（張宏浩 教授） \hfill 108年下學期
+
+# **技能**
+
+語言：英語（中等）、中文（母語）、閩南語（中等）
+
+軟體：R、STATA、\LaTeX
+
+# **研究興趣**
+
+農業與自然資源經濟學；環境與生態經濟學
+
+都市、農村、區域、不動產與運輸經濟學

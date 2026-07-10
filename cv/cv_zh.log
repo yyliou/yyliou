@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.10)  10 JUL 2026 14:48
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.10)  10 JUL 2026 23:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -704,12 +704,17 @@ LaTeX Font Warning: Font shape `TU/源雲明體月(1)/b/sc' undefined
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/b/n' will be
 (Font)              scaled to size 9.18175pt on input line 158.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 6.70813pt on input line 202.
+(Font)              scaled to size 6.70813pt on input line 204.
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
-(Font)              scaled to size 6.70813pt on input line 202.
+(Font)              scaled to size 6.70813pt on input line 204.
 [1
 
-] [2] [3] [4] [5] 
+]
+LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/sc' will be
+(Font)              scaled to size 9.18175pt on input line 226.
+LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/sc' will be
+(Font)              scaled to size 9.18175pt on input line 226.
+[2] [3] [4] [5] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./cv_zh.aux)
  ***********
@@ -720,15 +725,15 @@ L3 programming layer <2026/07/01>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `cv_zh.out' has not changed.
-(rerunfilecheck)             Checksum: FBAA1AF6E13BA4C14180E2546E40490F;937.
+(rerunfilecheck)             Checksum: 7BC2F32815EA8337BC6BF7AE7847278D;976.
  ) 
 Here is how much of TeX's memory you used:
- 16209 strings out of 469837
- 338235 string characters out of 5468239
- 806235 words of memory out of 5000000
- 44906 multiletter control sequences out of 15000+600000
+ 16230 strings out of 469837
+ 339568 string characters out of 5468239
+ 809234 words of memory out of 5000000
+ 44927 multiletter control sequences out of 15000+600000
  641119 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 87i,12n,116p,1194b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,116p,1194b,476s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on cv_zh.pdf (5 pages).

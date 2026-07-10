@@ -1,0 +1,228 @@
+---
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: "Yu-You Liou"
+
+jobtitle: "PhD Fellow, Department of Agricultural Economics, National Taiwan University"
+address: "No. 1, Sec. 4, Roosevelt Rd., Taipei 106319, Taiwan (R.O.C.)"
+fontawesome: false
+email: "d10627008@ntu.edu.tw"
+phone: "+886-978-910-776"
+web: "yyliou.github.io"
+orcid: "0009-0006-3155-7540"
+fontfamily: mathpazo
+fontfamilyoptions: "sc, osf"
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+header-includes:
+  - \usepackage{xeCJK}
+  - \setCJKmainfont{源雲明體月}
+  - \newenvironment{hanglist}{\par\setlength{\leftskip}{1.6em}\setlength{\parindent}{-1.6em}}{\par}
+  - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\hangindent=1.6em\hangafter=1\relax#1\hspace{0.35em}#2\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
+---
+
+```{=latex}
+{\raggedleft\small[\href{https://yyliou.github.io/yyliou/cv/cv_zh_simple.pdf}{中文版由此去}]\par}
+```
+
+# Employment
+
+*National Taiwan University*, Department of Agricultural Economics
+
+Research & Teaching Assistant \hfill 2019--present
+
+*Shih Chien University*, English Taught Program in International Business
+
+Lecturer \hfill 2024--present
+
+*National Taiwan University*, Ecological Engineering Center
+
+Research Assistant \hfill 2021--2022
+
+# Education
+
+*National Taiwan University*, PhD Fellow, Agricultural Economics \hfill 2022--present \newline Supervisor: Prof. Hung-Hao Chang.
+
+*National Taiwan University*, MS, Statistics; MS, Agricultural Economics \hfill 2021 \newline GPA 4.19/4.3, class rank 3/33 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/ms-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/ms-certificate.pdf)] \newline Supervisors: Prof. Hung-Hao Chang and Prof. Yao-Wen Hsu.
+
+*National Taiwan University*, BA, Political Science; BS, Agricultural Economics \hfill 2019 \newline GPA 3.74/4.3, class rank 13/41 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/bs-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/bs-certificate.pdf)]
+
+# Publications
+
+## Peer-reviewed Articles
+
+```{=latex}
+\begin{hanglist}
+```
+
+7\. **Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \textit{Earlier version presented at the 20th EAEA International Conference (2025).}
+
+6\. **Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \textit{Earlier version presented at the 19th EAEA International Conference (2024).}
+
+5\. **Liou, Y.-Y.** and H.-H. Chang. 2025. "[Rooftop Solar Energy Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness* (Forthcoming). \newline \textit{Earlier version presented at the 18th Congress of EAAE (2025) and the 19th EAEA International Conference (2024).}
+
+4\. **Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition: A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *Singapore Economic Review* (Forthcoming).
+
+3\. **Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903.
+
+2\. Lee, Z.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue: Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
+
+1\. Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
+
+```{=latex}
+\end{hanglist}
+```
+
+## Working Papers
+
+```{=latex}
+\begin{hanglist}
+```
+
+1\. Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Conference (2025), the 99th Annual Conference of WEAI (2024), and the IAAE 2024 Annual Conference (2024).}
+
+```{=latex}
+\end{hanglist}
+```
+
+## Theses
+
+```{=latex}
+\begin{hanglist}
+```
+
+2\. **Liou, Y.-Y.** 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline \textit{Grade: A+. Committee: Yao-Wen Hsu, Yung-Chih Lien, and Shih-Ping Ho.}
+
+1\. **劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文。 \newline [Constructing Property Price Indices: Big Data Analyses from Actual Price Registration of Real Estate Transactions in Taiwan. Master's Thesis, Department of Agricultural Economics, National Taiwan University.] \newline \textit{Grade: A+. Committee: Hung-Hao Chang, Chiu-Yueh Chung, Jiun-Hao Wang, Tzu-Chin Lin, and Sheng-Fu Tsai.}
+
+```{=latex}
+\end{hanglist}
+```
+
+## Conference Papers
+
+```{=latex}
+\begin{hanglist}
+```
+
+14\. "Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations." 12th ASAE International Conference, Jakarta. 2026 (with Chang and Wu).
+
+13\. "Does Metro Expansion Always Reduce Traffic Accidents?" 21st International Convention of the East Asian Economic Association (EAEA), Siem Reap. 2026 (with Chang).
+
+12\. "Green Gentrification beyond the City: Evidence from a Suburban Asian Context." 21st International Convention of the East Asian Economic Association (EAEA), Siem Reap. 2026 (with Chang).
+
+11\. "The Effects of Farmers' Pension Reform on Intra-household Family Farm Succession." AAEA Annual Meeting, Kansas City. 2026 (with Chang).
+
+10\. "Compensation or Clean Air? Housing Market Evidence from Coal Reduction." World Congress of Environmental and Resource Economists, Carcavelos. 2026 (with Chang).
+
+9\. "The Development of Aquavoltaics Policy and Farmland Price." CAER-IFPRI Annual Conference, Beijing; APSTE International Conference, 2025 (with Chang).
+
+8\. 「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。[第十六屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20240614.pdf)，臺北。2024（與李成蔭合著）。 \newline [Conformity or Accountability? An Analysis of Local Election Results on Presidential Satisfaction. 16th International Conference on Parliamentary Studies, Taipei. 2024 (with Lee).]
+
+7\. "Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day." WEAI Annual Conference, Seattle; IAAE Annual Conference. 2024 (with Chang and Meyerhoefer).
+
+6\. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." International Conference on Agricultural and Environmental Economics, Taipei. 2023 (with Chang).
+
+5\. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students, Taipei. 2023.
+
+4\. 「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。[第十五屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20230605.pdf)，臺北。2023。 \newline [Path Dependency of Spatiotemporal Voting Behavior: An Empirical Analysis of the 2022 Taipei Mayoral Election. 15th International Conference on Parliamentary Studies, Taipei. 2023.]
+
+3\. 「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。[第十五屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20230605.pdf)，臺北。2023（與何驊哲合著）。 \newline [The Impact of 'Newcomer Aura' on Election Probability: An Empirical Study of Taiwan's Councilor Elections (2009--2022). 15th International Conference on Parliamentary Studies, Taipei. 2023 (with Ho).]
+
+2\. 「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。[2020 年臺灣農村經濟學會年會暨學術研討會](https://www.rest.org.tw/zh_tw/events/-%E6%95%AC%E9%82%80%E5%8F%83%E5%8A%A0-2020%E5%B9%B4%E8%87%BA%E7%81%A3%E8%BE%B2%E6%9D%91%E7%B6%93%E6%BF%9F%E5%AD%B8%E6%9C%83%E5%B9%B4%E6%9C%83%E6%9A%A8%E5%AD%B8%E8%A1%93%E7%A0%94%E8%A8%8E%E6%9C%83-47878385)，臺北。2020（與張宏浩合著）。 \newline [A Non-hierarchical Clustering Analysis of Consumer Behavior in Agricultural Products. Annual Conference of the Taiwan Rural Economics Society, Taipei. 2020 (with Chang).]
+
+1\. 「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。[2019 年生產力與效率學術研討會](https://sites.google.com/view/tepa20190727)，臺北。2019（與陳林松合著）。 \newline [The Contribution of Productivity to Taiwan's GDP Growth: An Empirical Analysis (1981--2018). 2019 Taiwan Productivity and Efficiency Conference, Taipei. 2019 (with Chen).]
+
+```{=latex}
+\end{hanglist}
+```
+
+# Research Projects
+
+Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics, National Taiwan University.
+
+```{=latex}
+\projitem{22.}{Market Competition and Regulation of Professional Services --- A Retrospective and Prospective Analysis of Lawyers, Accountants, Architects, and Engineers, \href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{2026}
+\projitem{21.}{Enhancement of the Greenhouse Gas Voluntary Reduction System and Capacity Building for Natural Carbon Sinks}{2026}
+\projitem{20.}{Adaptation of Food and Agricultural System to Net Zero Policies (III), \href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{2026}
+\projitem{19.}{The Impact of Aquavoltaics Policy on Farmland Price --- the Case of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{2026}
+\projitem{18.}{Policy Cost-Benefit Analysis and Strategic Recommendations for Enhancing Carbon Sink Capacity in Taiwan: A Case Study on Soil-Optimized Agricultural Production Models}{2025}
+\projitem{17.}{Applied Analysis of the Farmland Price Index in Response to the National Land Planning Policy}{2025}
+\projitem{16.}{Adaptation of Food and Agricultural System to Net Zero Policies (II), \href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}{2025}
+\projitem{15.}{Farm Labor Supply in Online Job-Matching Platforms --- the Case of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}{2024--2025}
+\projitem{14.}{Establishing a Framework for Ecosystem Services in Organic Agriculture: Value Investigation and Quantification Model for Vegetables and Rice}{2024}
+\projitem{13.}{Cost Assessments and Policy Suggestions for Carbon-sink-increasing Strategies in Taiwan}{2024}
+\projitem{12.}{Research on Electric Vehicle Industry Policies and Competition Law Regulations, \href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}{2024}
+\projitem{11.}{Economic Evaluation of Circular Economy Using Agricultural By-Products, \href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}{2024}
+\projitem{10.}{Adaptation of Food and Agricultural System to Net Zero Policies (I), \href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}{2024}
+\projitem{9.}{Cost Assessments and Policy Suggestions for Carbon-sink-increasing Strategies in Taiwan}{2023}
+\projitem{8.}{Evaluation and Establishment of Farmland Price Indices for Decision-making on Sustainable Farmland Use}{2023}
+\projitem{7.}{University Social Responsibility Program: ``Partnership with Yunlin --- Deepening Industrial Linkages in Key Agricultural Areas'', 112L5A001B}{2023}
+\projitem{6.}{Economic Analysis of Farm Succession --- a Case Study of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}{2023}
+\projitem{5.}{Decision Evaluation of Farmland Resources and Sustainable Uses}{2022}
+\projitem{4.}{Food Accessibility, Market Competition and Housing Prices --- Empirical Evidence of Convenience Stores in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}{2022}
+\projitem{3.}{Economic Analysis of Farmer Occupational Injury Insurance Program in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}{2021}
+\projitem{2.}{Impact of Rural Regeneration Programs on Farm Labor and Leisure Agriculture Participation}{2020}
+\projitem{1.}{Impact of Sharing Economy on Farmland Price in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}{2020}
+```
+
+# Referee Activities
+
+[*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (4); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1).
+
+# Grants and Awards
+
+NSTC Graduate Research Fellowship, National Science and Technology Council \hfill 2022--2026
+
+Research Grant, CMC Magnetics Co., Ltd. \hfill 2025
+
+Teaching Grant, Shih Chien University \hfill 2025
+
+Travel Grant, National Science and Technology Council \hfill 2025
+
+Travel Grant, Department of Agricultural Economics Alumni Association, NTU \hfill 2024
+
+Sun, Yun-Suan Memorial Fellowship, National Policy Foundation \hfill 2023
+
+Outstanding Veteran, Penghu Defense Command, Republic of China Army \hfill 2022
+
+Altruistic Award, National Taiwan University \hfill 2019
+
+# Teaching
+
+*Shih Chien University* — Lecturer (English-medium instruction)
+
+[Statistics I & II](https://yyliou.github.io/stat)
+\newline Fall 2024: 4.40/5, Spring 2025: 4.62/5, Fall 2025: 4.57/5, Spring 2026: pending, Fall 2026: pending
+
+[Data Analysis](https://yyliou.github.io/da)
+\newline Fall 2024: 4.52/5, Fall 2025: 4.58/5, Fall 2026: pending
+
+[Programming for Applications](https://yyliou.github.io/pa)
+\newline Spring 2024: 4.47/5, Spring 2025: 4.67/5, Spring 2026: pending
+
+*National Taiwan University* — Teaching Assistant
+
+Agricultural Policy and Performance Evaluation (Prof. Chang) \hfill Spring 2024, Fall 2026
+
+Agricultural Regulations (Prof. Chen) \hfill Spring 2022
+
+Quantitative Method (Prof. Chang) \hfill Spring 2020
+
+# Skills
+
+**Languages**: English (Intermediate), Mandarin (Native), Hokkien (Intermediate).
+
+**Software**: R, STATA, \LaTeX.
+
+# Research Interests
+
+Agricultural and Natural Resource Economics; Environmental and Ecological Economics.
+
+Urban, Rural, Regional, Real Estate, and Transportation Economics.

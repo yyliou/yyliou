@@ -23,8 +23,8 @@ urlcolor: blue
 header-includes:
   - \usepackage{xeCJK}
   - \setCJKmainfont{源雲明體月}
-  - \newenvironment{hanglist}{\par\setlength{\leftskip}{1.6em}\setlength{\parindent}{-1.6em}}{\par}
-  - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\hangindent=1.6em\hangafter=1\relax#1\hspace{0.35em}#2\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
+  - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
+  - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
 ---
 
 ```{=latex}
@@ -61,19 +61,19 @@ Research Assistant \hfill 2021--2022
 \begin{hanglist}
 ```
 
-7\. **Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \textit{Earlier version presented at the 20th EAEA International Conference (2025).}
+`\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
 
-6\. **Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \textit{Earlier version presented at the 19th EAEA International Conference (2024).}
+`\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \textit{Earlier version presented at the 19th EAEA International Convention (2024).}
 
-5\. **Liou, Y.-Y.** and H.-H. Chang. 2025. "[Rooftop Solar Energy Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness* (Forthcoming). \newline \textit{Earlier version presented at the 18th Congress of EAAE (2025) and the 19th EAEA International Conference (2024).}
+`\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2025. "[Rooftop Solar Energy Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness* (Forthcoming). \newline \textit{Earlier version presented at the 18th Congress of EAAE (2025) and the 19th EAEA International Convention (2024).}
 
-4\. **Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition: A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *Singapore Economic Review* (Forthcoming).
+`\makebox[2.0em][l]{4.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition: A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *Singapore Economic Review* (Forthcoming).
 
-3\. **Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903.
+`\makebox[2.0em][l]{3.}`{=latex}**Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903.
 
-2\. Lee, Z.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue: Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
+`\makebox[2.0em][l]{2.}`{=latex}Lee, Z.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue: Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
 
-1\. Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
+`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
 
 ```{=latex}
 \end{hanglist}
@@ -81,13 +81,29 @@ Research Assistant \hfill 2021--2022
 
 ## Working Papers
 
-Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Conference (2025), the 99th Annual Conference of WEAI (2024), and the IAAE 2024 Annual Conference (2024).}
+```{=latex}
+\begin{hanglist}
+```
+
+`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the IAAE 2024 Annual Conference (2024).}
+
+```{=latex}
+\end{hanglist}
+```
 
 ## Theses
 
-**Liou, Y.-Y.** 2021. "[Constructing Property Price Indices: Big Data Analyses from Actual Price Registration of Real Estate Transactions in Taiwan](https://doi.org/10.6342/NTU202101981)." Master's Thesis, Department of Agricultural Economics, National Taiwan University. \newline \textit{Grade: A+. Committee: Hung-Hao Chang, Chiu-Yueh Chung, Jiun-Hao Wang, Tzu-Chin Lin, and Sheng-Fu Tsai.}
+```{=latex}
+\begin{hanglist}
+```
 
-**Liou, Y.-Y.** 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline \textit{Grade: A+. Committee: Yao-Wen Hsu, Yung-Chih Lien, and Shih-Ping Ho.}
+`\makebox[2.0em][l]{2.}`{=latex}**Liou, Y.-Y.** 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline \textit{Grade: A+. Committee: Yao-Wen Hsu, Yung-Chih Lien, and Shih-Ping Ho.}
+
+`\makebox[2.0em][l]{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文。 \newline [Constructing Property Price Indices: Big Data Analyses from Actual Price Registration of Real Estate Transactions in Taiwan. Master's Thesis, Department of Agricultural Economics, National Taiwan University.] \newline \textit{Grade: A+. Committee: Hung-Hao Chang, Yessica C.Y. Chung, Jiun-Hao Wang, Tzu-Chin Lin, and Sheng-Fu Tsai.}
+
+```{=latex}
+\end{hanglist}
+```
 
 ## Conference Papers
 
@@ -95,33 +111,33 @@ Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution Durin
 \begin{hanglist}
 ```
 
-14\. "Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations." 12th ASAE International Conference, Jakarta. 2026 (with Chang and Wu).
+`\makebox[2.0em][l]{14.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and Wu. 2026. "Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers\' Associations." [12th ASAE International Conference](https://asae-conference.org/), Jakarta.
 
-13\. "Does Metro Expansion Always Reduce Traffic Accidents?" 21st International Convention of the East Asian Economic Association (EAEA), Siem Reap. 2026 (with Chang).
+`\makebox[2.0em][l]{13.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "Does Metro Expansion Always Reduce Traffic Accidents?" [21st International Convention of the East Asian Economic Association (EAEA)](https://eaea21.pfm.gov.kh/), Siem Reap.
 
-12\. "Green Gentrification beyond the City: Evidence from a Suburban Asian Context." 21st International Convention of the East Asian Economic Association (EAEA), Siem Reap. 2026 (with Chang).
+`\makebox[2.0em][l]{12.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "Green Gentrification beyond the City: Evidence from a Suburban Asian Context." [21st International Convention of the East Asian Economic Association (EAEA)](https://eaea21.pfm.gov.kh/), Siem Reap.
 
-11\. "The Effects of Farmers' Pension Reform on Intra-household Family Farm Succession." AAEA Annual Meeting, Kansas City. 2026 (with Chang).
+`\makebox[2.0em][l]{11.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "The Effects of Farmers\' Pension Reform on Intra-household Family Farm Succession." [AAEA Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting), Kansas City.
 
-10\. "Compensation or Clean Air? Housing Market Evidence from Coal Reduction." World Congress of Environmental and Resource Economists, Carcavelos. 2026 (with Chang).
+`\makebox[2.0em][l]{10.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "Compensation or Clean Air? Housing Market Evidence from Coal Reduction." [World Congress of Environmental and Resource Economists](https://wcere2026.org/), Carcavelos.
 
-9\. "The Development of Aquavoltaics Policy and Farmland Price." CAER-IFPRI Annual Conference, Beijing; APSTE International Conference, 2025 (with Chang).
+`\makebox[2.0em][l]{9.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2025. "The Development of Aquavoltaics Policy and Farmland Price." [CAER-IFPRI Annual Conference](https://2025-caer-ifpri-confer.scievent.com/), Beijing; APSTE International Conference.
 
-8\. "Conformity or Accountability? An Analysis of Local Election Results on Presidential Satisfaction." International Conference on Parliamentary Studies, Taipei. 2024 (with Lee).
+`\makebox[2.0em][l]{8.}`{=latex}**劉昱佑**、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。[第十六屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20240614.pdf)，臺北。 \newline [**Liou, Y.-Y.** and C.-Y. Lee. 2024. "Conformity or Accountability? An Analysis of Local Election Results on Presidential Satisfaction." 16th International Conference on Parliamentary Studies, Taipei.]
 
-7\. "Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day." WEAI Annual Conference, Seattle; IAAE Annual Conference. 2024 (with Chang and Meyerhoefer).
+`\makebox[2.0em][l]{7.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day." [WEAI Annual Conference](https://www.weai.org/annual-conference), Seattle; [IAAE Annual Conference](https://easyconferences.eu/iaae2024/).
 
-6\. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." International Conference on Agricultural and Environmental Economics, Taipei. 2023 (with Chang).
+`\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households\' Resource Allocation." International Conference on Agricultural and Environmental Economics, Taipei.
 
-5\. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students, Taipei. 2023.
+`\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.** 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students, Taipei.
 
-4\. "Path Dependency of Spatiotemporal Voting Behavior: An Empirical Analysis of the 2022 Taipei Mayoral Election." International Conference on Parliamentary Studies, Taipei. 2023 (with Chang).
+`\makebox[2.0em][l]{4.}`{=latex}**劉昱佑**（2023）。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。[第十五屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20230605.pdf)，臺北。 \newline [**Liou, Y.-Y.** 2023. "Path Dependency of Spatiotemporal Voting Behavior: An Empirical Analysis of the 2022 Taipei Mayoral Election." 15th International Conference on Parliamentary Studies, Taipei.]
 
-3\. "The Impact of 'Newcomer Aura' on Election Probability: An Empirical Study of Taiwan's Councilor Elections (2009--2022)." International Conference on Parliamentary Studies, Taipei. 2023 (with Ho).
+`\makebox[2.0em][l]{3.}`{=latex}何驊哲、**劉昱佑**（2023）。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。[第十五屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20230605.pdf)，臺北。 \newline [Ho, H.-C. and **Y.-Y. Liou**. 2023. \"The Impact of 'Newcomer Aura' on Election Probability: An Empirical Study of Taiwan's Councilor Elections (2009--2022).\" 15th International Conference on Parliamentary Studies, Taipei.]
 
-2\. "A Non-hierarchical Clustering Analysis of Consumer Behavior in Agricultural Products." Annual Conference of the Taiwan Rural Economics Society, Taipei. 2020 (with Chang).
+`\makebox[2.0em][l]{2.}`{=latex}**劉昱佑**、張宏浩（2020）。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。[2020 年臺灣農村經濟學會年會暨學術研討會](https://www.rest.org.tw/zh_tw/events/-%E6%95%AC%E9%82%80%E5%8F%83%E5%8A%A0-2020%E5%B9%B4%E8%87%BA%E7%81%A3%E8%BE%B2%E6%9D%91%E7%B6%93%E6%BF%9F%E5%AD%B8%E6%9C%83%E5%B9%B4%E6%9C%83%E6%9A%A8%E5%AD%B8%E8%A1%93%E7%A0%94%E8%A8%8E%E6%9C%83-47878385)，臺北。 \newline [**Liou, Y.-Y.** and H.-H. Chang. 2020. "A Non-hierarchical Clustering Analysis of Consumer Behavior in Agricultural Products." Annual Conference of the Taiwan Rural Economics Society, Taipei.]
 
-1\. "The Contribution of Productivity to Taiwan's GDP Growth: An Empirical Analysis (1981--2018)." Productivity and Efficiency Conference, Taipei. 2019 (with Chen).
+`\makebox[2.0em][l]{1.}`{=latex}**劉昱佑**、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。[2019 年生產力與效率學術研討會](https://sites.google.com/view/tepa20190727)，臺北。 \newline [**Liou, Y.-Y.** and L. Chen. 2019. "The Contribution of Productivity to Taiwan\'s GDP Growth: An Empirical Analysis (1981--2018)." 2019 Taiwan Productivity and Efficiency Conference, Taipei.]
 
 ```{=latex}
 \end{hanglist}
@@ -162,9 +178,9 @@ Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics
 
 # Grants and Awards
 
-NSTC Graduate Research Fellowship, National Science and Technology Council \hfill 2022--2026
+Graduate Research Fellowship, National Science and Technology Council \hfill 2022--2026
 
-Research Grant, CMC Magnetics Co., Ltd. \hfill 2025
+CMC Outstanding Student Research Award, College of Bioresources and Agriculture, NTU \hfill 2025
 
 Teaching Grant, Shih Chien University \hfill 2025
 
