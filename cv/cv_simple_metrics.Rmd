@@ -119,7 +119,7 @@ Research Assistant \hfill 2021--2022
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{14.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and Wu. 2026. "Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers\' Associations." [12th ASAE International Conference](https://asae-conference.org/), Jakarta.
+`\makebox[2.0em][l]{14.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and K. Wu. 2026. "Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers\' Associations." [12th ASAE International Conference](https://asae-conference.org/), Jakarta.
 
 `\makebox[2.0em][l]{13.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "Does Metro Expansion Always Reduce Traffic Accidents?" [21st International Convention of the East Asian Economic Association (EAEA)](https://eaea21.pfm.gov.kh/), Siem Reap.
 
@@ -196,7 +196,7 @@ Travel Grant, National Science and Technology Council \hfill 2025
 
 Travel Grant, Department of Agricultural Economics Alumni Association, NTU \hfill 2024
 
-Sun, Yun-Suan Memorial Fellowship, National Policy Foundation \hfill 2023
+Sun Yun-Suan Memorial Fellowship, National Policy Foundation \hfill 2023
 
 Outstanding Veteran, Penghu Defense Command, Republic of China Army \hfill 2022
 
@@ -227,7 +227,7 @@ Quantitative Method (Prof. Chang) \hfill Spring 2020
 
 **Languages**: English (Intermediate), Mandarin (Native), Hokkien (Intermediate).
 
-**Software**: R, STATA, \LaTeX.
+**Software**: R, Stata, \LaTeX.
 
 # Research Interests
 

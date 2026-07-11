@@ -113,7 +113,7 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{14.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and Wu. 2026. "Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers\' Associations." [12th ASAE International Conference](https://asae-conference.org/), Jakarta.
+`\makebox[2.0em][l]{14.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and K. Wu. 2026. "Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers\' Associations." [12th ASAE International Conference](https://asae-conference.org/), Jakarta.
 
 `\makebox[2.0em][l]{13.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "Does Metro Expansion Always Reduce Traffic Accidents?" [21st International Convention of the East Asian Economic Association (EAEA)](https://eaea21.pfm.gov.kh/), Siem Reap.
 
@@ -221,7 +221,7 @@ header-includes:
 
 語言：英語（中等）、中文（母語）、閩南語（中等）
 
-軟體：R、STATA、\LaTeX
+軟體：R、Stata、\LaTeX
 
 # 研究興趣
 
