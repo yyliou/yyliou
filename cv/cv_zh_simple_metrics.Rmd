@@ -87,7 +87,7 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the IAAE 2024 Annual Conference (2024).}
+`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
 
 ```{=latex}
 \end{hanglist}
@@ -113,33 +113,33 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{14.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and K. Wu. 2026. "Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers\' Associations." [12th ASAE International Conference](https://asae-conference.org/), Jakarta.
+`\makebox[2.0em][l]{14.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and K. Wu. 2026. "Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers\' Associations." 12th ASAE International Conference, Jakarta.
 
-`\makebox[2.0em][l]{13.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "Does Metro Expansion Always Reduce Traffic Accidents?" [21st International Convention of the East Asian Economic Association (EAEA)](https://eaea21.pfm.gov.kh/), Siem Reap.
+`\makebox[2.0em][l]{13.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "Does Metro Expansion Always Reduce Traffic Accidents?" 21st International Convention of the East Asian Economic Association (EAEA), Siem Reap.
 
-`\makebox[2.0em][l]{12.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "Green Gentrification beyond the City: Evidence from a Suburban Asian Context." [21st International Convention of the East Asian Economic Association (EAEA)](https://eaea21.pfm.gov.kh/), Siem Reap.
+`\makebox[2.0em][l]{12.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "Green Gentrification beyond the City: Evidence from a Suburban Asian Context." 21st International Convention of the East Asian Economic Association (EAEA), Siem Reap.
 
-`\makebox[2.0em][l]{11.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "The Effects of Farmers\' Pension Reform on Intra-household Family Farm Succession." [AAEA Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting), Kansas City.
+`\makebox[2.0em][l]{11.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "The Effects of Farmers\' Pension Reform on Intra-household Family Farm Succession." AAEA Annual Meeting, Kansas City.
 
-`\makebox[2.0em][l]{10.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "Compensation or Clean Air? Housing Market Evidence from Coal Reduction." [World Congress of Environmental and Resource Economists](https://wcere2026.org/), Carcavelos.
+`\makebox[2.0em][l]{10.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and D. Zilberman. 2026. "Compensation or Clean Air? Housing Market Evidence from Coal Reduction." 7th World Congress of Environmental and Resource Economists, Carcavelos.
 
-`\makebox[2.0em][l]{9.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2025. "The Development of Aquavoltaics Policy and Farmland Price." [CAER-IFPRI Annual Conference](https://2025-caer-ifpri-confer.scievent.com/), Beijing; APSTE International Conference.
+`\makebox[2.0em][l]{9.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2025. "The Development of Aquavoltaics Policy and Farmland Price." 17th CAER-IFPRI Annual Conference, Beijing; APSTE International Conference.
 
-`\makebox[2.0em][l]{8.}`{=latex}**劉昱佑**、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。[第十六屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20240614.pdf)，臺北。
+`\makebox[2.0em][l]{8.}`{=latex}**劉昱佑**、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。第十六屆國會國際學術研討會，臺北。
 
-`\makebox[2.0em][l]{7.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day." [WEAI Annual Conference](https://www.weai.org/annual-conference), Seattle; [IAAE Annual Conference](https://easyconferences.eu/iaae2024/).
+`\makebox[2.0em][l]{7.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day." 99th WEAI Annual Conference, Seattle; 11th IAAE Annual Conference.
 
 `\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households\' Resource Allocation." International Conference on Agricultural and Environmental Economics, Taipei.
 
 `\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.** 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students, Taipei.
 
-`\makebox[2.0em][l]{4.}`{=latex}**劉昱佑**（2023）。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。[第十五屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20230605.pdf)，臺北。
+`\makebox[2.0em][l]{4.}`{=latex}**劉昱佑**（2023）。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。第十五屆國會國際學術研討會，臺北。
 
-`\makebox[2.0em][l]{3.}`{=latex}何驊哲、**劉昱佑**（2023）。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。[第十五屆國會國際學術研討會](https://scups.ppo.scu.edu.tw/upload/files/20230605.pdf)，臺北。
+`\makebox[2.0em][l]{3.}`{=latex}何驊哲、**劉昱佑**（2023）。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。第十五屆國會國際學術研討會，臺北。
 
-`\makebox[2.0em][l]{2.}`{=latex}**劉昱佑**、張宏浩（2020）。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。[2020 年臺灣農村經濟學會年會暨學術研討會](https://www.rest.org.tw/zh_tw/events/-%E6%95%AC%E9%82%80%E5%8F%83%E5%8A%A0-2020%E5%B9%B4%E8%87%BA%E7%81%A3%E8%BE%B2%E6%9D%91%E7%B6%93%E6%BF%9F%E5%AD%B8%E6%9C%83%E5%B9%B4%E6%9C%83%E6%9A%A8%E5%AD%B8%E8%A1%93%E7%A0%94%E8%A8%8E%E6%9C%83-47878385)，臺北。
+`\makebox[2.0em][l]{2.}`{=latex}**劉昱佑**、張宏浩（2020）。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。2020 年臺灣農村經濟學會年會暨學術研討會，臺北。
 
-`\makebox[2.0em][l]{1.}`{=latex}**劉昱佑**、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。[2019 年生產力與效率學術研討會](https://sites.google.com/view/tepa20190727)，臺北。
+`\makebox[2.0em][l]{1.}`{=latex}**劉昱佑**、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。2019 年生產力與效率學術研討會，臺北。
 
 ```{=latex}
 \end{hanglist}
