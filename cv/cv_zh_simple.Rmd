@@ -13,7 +13,6 @@ address: "106319 中華民國（臺灣）臺北市羅斯福路四段一號"
 fontawesome: false
 email: "d10627008@ntu.edu.tw"
 phone: "+886-978-910-776"
-web: "yyliou.github.io"
 orcid: "0009-0006-3155-7540"
 fontsize: 11pt
 linkcolor: blue
@@ -111,19 +110,19 @@ header-includes:
 
 `\makebox[2.0em][l]{12.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "Green Gentrification beyond the City: Evidence from a Suburban Asian Context." 21st International Convention of the East Asian Economic Association (EAEA), Siem Reap.
 
-`\makebox[2.0em][l]{11.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "The Effects of Farmers\' Pension Reform on Intra-household Family Farm Succession." AAEA Annual Meeting, Kansas City.
+`\makebox[2.0em][l]{11.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "The Effects of Farmers\' Pension Reform on Intra-household Family Farm Succession." AAEA Annual Meeting (2026), Kansas City.
 
 `\makebox[2.0em][l]{10.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and D. Zilberman. 2026. "Compensation or Clean Air? Housing Market Evidence from Coal Reduction." 7th World Congress of Environmental and Resource Economists, Carcavelos.
 
-`\makebox[2.0em][l]{9.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2025. "The Development of Aquavoltaics Policy and Farmland Price." 17th CAER-IFPRI Annual Conference, Beijing; APSTE International Conference.
+`\makebox[2.0em][l]{9.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2025. "The Development of Aquavoltaics Policy and Farmland Price." 17th CAER-IFPRI Annual Conference, Beijing.
 
 `\makebox[2.0em][l]{8.}`{=latex}**劉昱佑**、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。第十六屆國會國際學術研討會，臺北。
 
 `\makebox[2.0em][l]{7.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day." 99th WEAI Annual Conference, Seattle; 11th IAAE Annual Conference.
 
-`\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households\' Resource Allocation." International Conference on Agricultural and Environmental Economics, Taipei.
+`\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households\' Resource Allocation." International Conference on Agricultural and Environmental Economics (2023), Taipei.
 
-`\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.** 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students, Taipei.
+`\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.** 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students (2023), Taipei.
 
 `\makebox[2.0em][l]{4.}`{=latex}**劉昱佑**（2023）。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。第十五屆國會國際學術研討會，臺北。
 
