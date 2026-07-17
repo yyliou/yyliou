@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.10)  11 JUL 2026 10:49
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.10)  17 JUL 2026 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -195,9 +195,9 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
-Package: xeCJK 2026/07/01 v3.10.1 Typesetting CJK scripts with XeLaTeX
+Package: xeCJK 2026/07/06 v3.10.2 Typesetting CJK scripts with XeLaTeX
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexhook.sty
-Package: ctexhook 2026/07/01 v2.6.1 Document and package hooks (CTEX)
+Package: ctexhook 2026/07/04 v2.6.2 Document and package hooks (CTEX)
 ) (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
 )
@@ -216,6 +216,7 @@ Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
 \c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
 \c__xeCJK_CM_class_int=\XeTeXcharclass7
 \c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\c__xeCJK_PoZheHao_class_int=\XeTeXcharclass9
 \l__xeCJK_last_skip=\skip55
 \c__xeCJK_none_node=\count319
 \g__xeCJK_node_int=\count320
@@ -236,7 +237,7 @@ Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
 \l__xeCJK_widow_penalty_int=\count322
 
 LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
-(template)           argument(s) on line 2625.
+(template)           argument(s) on line 2692.
 
 \l__xeCJK_fixed_punct_width_dim=\dimen180
 \l__xeCJK_mixed_punct_width_dim=\dimen181
@@ -264,7 +265,7 @@ LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
 \l__xeCJK_verb_exspace_skip=\skip60
 \l__xeCJK_default_char_int=\count327
 (/Users/oliverliou/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
-File: xeCJK.cfg 2026/07/01 v3.10.1 Configuration file for xeCJK package
+File: xeCJK.cfg 2026/07/06 v3.10.2 Configuration file for xeCJK package
 ))
 
 Package fontspec Info: 
@@ -605,26 +606,26 @@ LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/n' will be
-(Font)              scaled to size 9.18175pt on input line 260.
+(Font)              scaled to size 9.18175pt on input line 267.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 9.18175pt on input line 260.
+(Font)              scaled to size 9.18175pt on input line 267.
 [2] [3] [4] [5] [6] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./cv_simple_metrics.aux)
  ***********
 LaTeX2e <2026-06-01>
-L3 programming layer <2026/07/01>
+L3 programming layer <2026/07/06>
  ***********
 Package rerunfilecheck Info: File `cv_simple_metrics.out' has not changed.
 (rerunfilecheck)             Checksum: A4074F104AE82582B32A57D796CD53DE;1526.
  ) 
 Here is how much of TeX's memory you used:
- 16394 strings out of 469837
- 336640 string characters out of 5468239
- 811890 words of memory out of 5000000
- 45103 multiletter control sequences out of 15000+600000
+ 16421 strings out of 469837
+ 337596 string characters out of 5468239
+ 812866 words of memory out of 5000000
+ 45130 multiletter control sequences out of 15000+600000
  636069 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 87i,12n,112p,1206b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,112p,1206b,558s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on cv_simple_metrics.pdf (6 pages).

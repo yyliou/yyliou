@@ -64,6 +64,8 @@ Research Assistant \hfill 2021--2022
 \begin{hanglist}
 ```
 
+`\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "Food Traceability Systems and the Probability of Using Chemical Fertilizers and Pesticides: Empirical Evidence Using Plot- and Farm Household-Level Data from the Agricultural Census." *Food Policy* (Forthcoming). \newline \jmetric{SCIE, SSCI, EconLit. JIF=6.8. \#24/627 (3.8\%) in Economics (Q1).} \newline \zhunote{NTU Outstanding Journal}
+
 `\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{SCIE, SSCI, EconLit. JIF=7.2. \#21/627 (3.3\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended journal (Regional Studies \& Geography); NSTC Economics B+ journal; NSTC-recommended journal (Management II); NTU Outstanding Journal} \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
 
 `\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{ESCI. JIF=4.1. \#29/141 (20.6\%) in Hospitality, Leisure, Sport \& Tourism (Q1).} \newline \textit{Earlier version presented at the 19th EAEA International Convention (2024).}

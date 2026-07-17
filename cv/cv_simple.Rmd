@@ -60,6 +60,8 @@ Research Assistant \hfill 2021--2022
 \begin{hanglist}
 ```
 
+`\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "Food Traceability Systems and the Probability of Using Chemical Fertilizers and Pesticides: Empirical Evidence Using Plot- and Farm Household-Level Data from the Agricultural Census." *Food Policy* (Forthcoming).
+
 `\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
 
 `\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \textit{Earlier version presented at the 19th EAEA International Convention (2024).}
