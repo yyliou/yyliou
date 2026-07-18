@@ -58,8 +58,6 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{12.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2026. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." *Journal of the Association of Environmental and Resource Economists* (Conditionally Accepted). \newline \jmetric{〔SSCI、EconLit；JIF＝3.1；經濟學（Economics）第 135/627 名（前 21.5\%），Q1〕} \newline \zhunote{臺大優良期刊} \newline \textit{Earlier version available at \href{https://ssrn.com/abstract=4984614}{SSRN} and presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
-
 `\makebox[2.0em][l]{11.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "Food Traceability Systems and the Probability of Using Chemical Fertilizers and Pesticides: Empirical Evidence Using Plot- and Farm Household-Level Data from the Agricultural Census." *Food Policy* (Forthcoming). \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝6.8；經濟學（Economics）第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{臺大傑出期刊}
 
 `\makebox[2.0em][l]{10.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學（Economics）第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊} \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
@@ -89,6 +87,18 @@ header-includes:
 \vspace{2pt}
 \noindent\textit{\small 註：JIF 與排名依 Clarivate JCR 2025年資料（2026年6月發布）計算，領域取排名百分比最佳者，「第 名次／該領域期刊數」。}\newline
 \noindent\zhunote{\normalfont 紅字}\textit{\small 為國科會學門推薦國際期刊與臺大傑出／優良期刊之標註。}
+
+## **工作論文**
+
+```{=latex}
+\begin{hanglist}
+```
+
+`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
+
+```{=latex}
+\end{hanglist}
+```
 
 ## **學位論文**
 
