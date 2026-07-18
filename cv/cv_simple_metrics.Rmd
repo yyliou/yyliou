@@ -64,9 +64,11 @@ Research Assistant \hfill 2021--2022
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "Food Traceability Systems and the Probability of Using Chemical Fertilizers and Pesticides: Empirical Evidence Using Plot- and Farm Household-Level Data from the Agricultural Census." *Food Policy* (Forthcoming). \newline \jmetric{SCIE, SSCI, EconLit. JIF=6.8. \#24/627 (3.8\%) in Economics (Q1).} \newline \zhunote{NTU Outstanding Journal}
+`\makebox[2.0em][l]{9.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2026. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." *Journal of the Association of Environmental and Resource Economists* (Conditionally Accepted). \newline \jmetric{SSCI, EconLit. JIF=3.1. \#135/627 (21.5\%) in Economics (Q1).} \newline \zhunote{NTU Outstanding Journal} \newline \textit{Earlier version available at \href{https://ssrn.com/abstract=4984614}{SSRN} and presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
 
-`\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{SCIE, SSCI, EconLit. JIF=7.2. \#21/627 (3.3\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended journal (Regional Studies \& Geography); NSTC Economics B+ journal; NSTC-recommended journal (Management II); NTU Outstanding Journal} \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
+`\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "Food Traceability Systems and the Probability of Using Chemical Fertilizers and Pesticides: Empirical Evidence Using Plot- and Farm Household-Level Data from the Agricultural Census." *Food Policy* (Forthcoming). \newline \jmetric{SCIE, SSCI, EconLit. JIF=6.8. \#24/627 (3.8\%) in Economics (Q1).} \newline \zhunote{NTU Distinguished Journal}
+
+`\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{SCIE, SSCI, EconLit. JIF=7.2. \#21/627 (3.3\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended journal (Regional Studies \& Geography); NSTC Economics B+ journal; NSTC-recommended journal (Management II); NTU Distinguished Journal} \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
 
 `\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{ESCI. JIF=4.1. \#29/141 (20.6\%) in Hospitality, Leisure, Sport \& Tourism (Q1).} \newline \textit{Earlier version presented at the 19th EAEA International Convention (2024).}
 
@@ -74,11 +76,11 @@ Research Assistant \hfill 2021--2022
 
 `\makebox[2.0em][l]{4.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition: A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *Singapore Economic Review* (Forthcoming). \newline \jmetric{SSCI, EconLit. JIF=1.2. \#379/627 (60.4\%) in Economics (Q3).}
 
-`\makebox[2.0em][l]{3.}`{=latex}**Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{SCIE, SSCI, EconLit. JIF=8.7. \#5/66 (7.6\%) in Transportation (Q1).} \newline \zhunote{NSTC-recommended journal (Regional Studies \& Geography); NSTC-recommended journal (Management II); NTU Outstanding Journal}
+`\makebox[2.0em][l]{3.}`{=latex}**Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{SCIE, SSCI, EconLit. JIF=8.7. \#5/66 (7.6\%) in Transportation (Q1).} \newline \zhunote{NSTC-recommended journal (Regional Studies \& Geography); NSTC-recommended journal (Management II); NTU Distinguished Journal}
 
-`\makebox[2.0em][l]{2.}`{=latex}Lee, Z.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue: Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{SCIE, SSCI. JIF=4.6. \#7/92 (7.6\%) in Forestry (Q1).} \newline \zhunote{NTU Outstanding Journal}
+`\makebox[2.0em][l]{2.}`{=latex}Lee, Z.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue: Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{SCIE, SSCI. JIF=4.6. \#7/92 (7.6\%) in Forestry (Q1).} \newline \zhunote{NTU Distinguished Journal}
 
-`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{SSCI. JIF=6.8. \#24/627 (3.8\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended journal (Regional Studies \& Geography); NSTC-recommended journal (Management II); NTU Outstanding Journal}
+`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{SSCI. JIF=6.8. \#24/627 (3.8\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended journal (Regional Studies \& Geography); NSTC-recommended journal (Management II); NTU Distinguished Journal}
 
 ```{=latex}
 \end{hanglist}
@@ -86,19 +88,7 @@ Research Assistant \hfill 2021--2022
 
 \vspace{2pt}
 \noindent\textit{\small Note: JIF and rankings are based on Clarivate JCR 2025 data (released June 2026); each journal is shown in its best-percentile category as \#rank/total.}\newline
-\noindent\zhunote{\normalfont Red}\textit{\small{} text marks NSTC-recommended international journals and NTU Outstanding Journals.}
-
-## Working Papers
-
-```{=latex}
-\begin{hanglist}
-```
-
-`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
-
-```{=latex}
-\end{hanglist}
-```
+\noindent\zhunote{\normalfont Red}\textit{\small{} text marks NSTC-recommended international journals and NTU Distinguished and Outstanding Journals.}
 
 ## Theses
 

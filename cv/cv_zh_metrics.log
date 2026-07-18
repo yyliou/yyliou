@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.10)  17 JUL 2026 11:17
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.10)  18 JUL 2026 11:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -719,16 +719,16 @@ LaTeX Font Warning: Font shape `TU/源雲明體月(1)/m/it' undefined
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
 (Font)              scaled to size 8.38516pt on input line 171.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 6.70813pt on input line 203.
+(Font)              scaled to size 6.70813pt on input line 205.
 LaTeX Font Info:    Font shape `TU/源雲明體月(1)/m/n' will be
-(Font)              scaled to size 6.70813pt on input line 203.
+(Font)              scaled to size 6.70813pt on input line 205.
 [1
 
 ]
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/sc' will be
-(Font)              scaled to size 9.18175pt on input line 257.
+(Font)              scaled to size 9.18175pt on input line 266.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/sc' will be
-(Font)              scaled to size 9.18175pt on input line 257.
+(Font)              scaled to size 9.18175pt on input line 266.
 [2] [3] [4] [5] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./cv_zh_metrics.aux)
@@ -740,13 +740,13 @@ L3 programming layer <2026/07/06>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `cv_zh_metrics.out' has not changed.
-(rerunfilecheck)             Checksum: 7BC2F32815EA8337BC6BF7AE7847278D;976.
+(rerunfilecheck)             Checksum: 2D9D70A220470799D57913F0D123B9EB;885.
  ) 
 Here is how much of TeX's memory you used:
- 16661 strings out of 469837
- 354124 string characters out of 5468239
- 825260 words of memory out of 5000000
- 45357 multiletter control sequences out of 15000+600000
+ 16660 strings out of 469837
+ 354098 string characters out of 5468239
+ 825217 words of memory out of 5000000
+ 45356 multiletter control sequences out of 15000+600000
  641127 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  87i,12n,116p,1202b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s

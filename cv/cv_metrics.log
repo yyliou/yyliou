@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.10)  17 JUL 2026 11:16
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.10)  18 JUL 2026 11:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -606,9 +606,9 @@ LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
 
 ] [2]
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/b/n' will be
-(Font)              scaled to size 9.18175pt on input line 290.
+(Font)              scaled to size 9.18175pt on input line 287.
 LaTeX Font Info:    Font shape `TU/源雲明體月(0)/m/n' will be
-(Font)              scaled to size 9.18175pt on input line 290.
+(Font)              scaled to size 9.18175pt on input line 287.
 [3] [4] [5] [6] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./cv_metrics.aux)
@@ -617,13 +617,13 @@ LaTeX2e <2026-06-01>
 L3 programming layer <2026/07/06>
  ***********
 Package rerunfilecheck Info: File `cv_metrics.out' has not changed.
-(rerunfilecheck)             Checksum: A4074F104AE82582B32A57D796CD53DE;1526.
+(rerunfilecheck)             Checksum: 00AFC4B4AF772CD0394C332317BF8516;1394.
  ) 
 Here is how much of TeX's memory you used:
- 16421 strings out of 469837
- 337463 string characters out of 5468239
- 812831 words of memory out of 5000000
- 45130 multiletter control sequences out of 15000+600000
+ 16420 strings out of 469837
+ 337447 string characters out of 5468239
+ 812648 words of memory out of 5000000
+ 45129 multiletter control sequences out of 15000+600000
  636069 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  87i,12n,112p,1199b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
