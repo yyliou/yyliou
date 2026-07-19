@@ -26,27 +26,40 @@ knitr::opts_chunk$set(echo = TRUE)
 {\raggedleft\small[\href{https://yyliou.github.io/yyliou/rs/rs_zh.pdf}{中文版由此去}]\par}
 ```
 
-Environmental quality depends on incentives. My research studies how changes in incentives reshape resource use, environmental quality, and social welfare. I focus on settings where private decisions generate environmental externalities that markets fail to internalize, spanning agriculture, forestry, transportation, and energy.
+Environmental damage is rarely the aim of economic activity. It is the residue of ordinary decisions. Farmers choose inputs, firms choose technologies, and households choose how to travel. None of these decisions carries its full social cost, so private incentives and social value drift apart. My research asks how policy reforms and external shocks change those incentives, and how the changes reach resource allocation, environmental quality, and welfare.
 
-My work follows two complementary themes. The first examines how resource-dependent households and firms manage environmental resources as incentives change. The second studies how transportation systems generate externalities and how policies and shocks reshape travel behavior. Both themes ask how economic decisions interact with environmental constraints and public policy.
+Taiwan suits these questions well. Its administrative records cover whole populations rather than samples. The island is also dense, heavily motorized, and reliant on imported energy, which sharpens the conflict between production, travel, and environmental quality. Evidence from Taiwan therefore carries beyond its own policy debates to other land-scarce economies urbanizing quickly.
 
-## 1. Environmental and Natural Resource Management
+My work runs along three connected lines. The first asks how policy incentives in agriculture and resource management reshape production and environmental outcomes. The second asks how transport policy and mass events alter travel behavior and generate accidents and pollution. The third asks how major policies and shocks change household and firm behavior, and how economies adjust.
 
-Agriculture and forestry rely on natural resources whose environmental value is rarely reflected in market prices. This research examines how resource-dependent households respond to changing incentives, and how those responses affect production, environmental outcomes, and risk.
+## 1. Farm Household Economics and Environmental Resource Management
 
-- **Farm Household Economics** @liou2025rooftop, @lee2025solar, @chang2026food, and @lee2025forest examine how farm and forest households make production decisions, manage environmental resources, and bear economic risk. Renewable-energy adoption complements farming by raising farm sales and labor demand. Food-traceability adoption lowers chemical input use and groundwater extraction while improving revenue and market access. In forestry, greater tree diversity reduces expected income but also lowers income volatility, showing that biodiversity acts as natural capital with risk-reduction value.
+Agriculture and forestry depend on natural resources whose environmental value markets rarely register. What is profitable for a farm household therefore diverges from what is valuable to society. This research asks how policy and market institutions can make sustainable practice economically viable, and what that shift means for income, risk, and welfare.
 
-- **Climate Policy** @liou2025cbam extends the agenda to international climate policy. Using a theoretical model, it shows how carbon border adjustment policies alter incentives for cleaner production and reshape global production decisions.
+I first examine the energy transition on the farm. Solar power is usually cast as a competitor to food production for scarce land. [@liou2025rooftop] and [@lee2025solar] show that panels on existing farm buildings displace nothing. They raise farm sales and farm labor use. Adopting chicken farms sell 5.8% more, and the gain comes from higher output rather than higher quality. Designed well, renewable energy and farming are complements rather than rivals.
 
-## 2. Transportation and Environmental Externalities
+I then ask how market institutions encourage cleaner production. [@chang2026food] examines food traceability, a system built for food safety rather than for the environment. Farms that adopt it grow markedly less likely to use chemical fertilizer, pesticide, and groundwater, with reductions of 8.2, 15.4, and 40 percentage points. Revenue rises at the same time and sales channels widen. Information transparency can deliver environmental gains well beyond a policy's stated purpose.
 
-Transportation generates large externalities through accidents, congestion, pollution, and carbon emissions. This research examines how transport policies and large-scale shocks affect travel behavior, environmental outcomes, and social welfare.
+I also study what natural capital is worth to the households holding it. [@lee2025forest] finds that forest farms with greater tree diversity earn less on average but face far steadier revenue. The fall in volatility outweighs the loss in expected income. Biodiversity is not only an ecological asset. It is insurance for the households that maintain it.
 
-- **Large-scale Events and Road Safety** @liou2026hookturn, @liou2026religious, and @chang2024air study how institutional change and large-scale events affect traffic risk and environmental outcomes. Traffic-regulation reform reduces accidents, injuries, and medical costs, whereas large-scale events raise traffic risk and pollution mainly by shifting travel demand.
+## 2. Transport Policy and Environmental Externalities
 
-- **Travel Demand and COVID-19** @liou2025monthly, @chang2021metro, @liou2024covid, and @liou2026hotel examine how transport systems and local economies respond to policy changes and large-scale shocks. Transit pricing raises mobility while cutting carbon emissions, and COVID-19 reshaped travel behavior and slowed economic recovery by changing perceived risk and consumer decisions.
+Travel generates external costs through accidents, pollution, and congestion. Their size depends on how policy is designed and how travelers respond. This research examines how transport policy and mass events change travel behavior, and what those changes cost in safety, environmental quality, and welfare.
 
+I first examine how traffic rules affect road safety. [@liou2026hookturn] uses the removal of the two-stage left turn requirement for motorcycles in part of Tainan City. Accidents fell by 21%, victims by 19%, and vehicles involved by 28%. Road safety is usually pursued through infrastructure, which is slow and expensive to build. A cheap change in rules can deliver comparable gains by changing how people drive.
+
+I then treat transport policy as climate policy. [@liou2025monthly] finds that the Taipei monthly pass raised ridership, passenger kilometers, and trip value by 4.3%, 4.6%, and 4.6%. Whether emissions fall depends on where the new trips come from. Only if roughly 70% to 80% replace car or motorcycle journeys does the program lower emissions. Raising transit use is not the same as cutting carbon.
+
+I also measure the external costs of mass events. [@liou2026religious] finds that accidents rose by 14.9% and victims by 17.4% during the Dajia Mazu Pilgrimage. Townships lying off the route still saw accidents rise by 9.8%. [@chang2024air] uses the Hakka practice of tomb sweeping at the Lantern Festival to estimate what ritual observance does to air quality. Culturally valuable events carry costs borne by people who never took part in them.
+
+## 3. Policy Shocks and Economic Adjustment
+
+Economic activity responds not only to policy design but also to shocks such as climate regulation and public health emergencies. This research asks how households and firms react to institutional change, and how markets absorb shocks through behavioral adjustment.
+
+I first examine how climate policy shapes firms' technology choices. [@liou2025cbam] studies the green transition incentives created by the Carbon Border Adjustment Mechanism. Building on a strategic trade model with green investment, it shows that border adjustment pushes exporting firms toward cleaner technology. The effect on market structure is less uniform, depending on industry characteristics and on green technology in the exporting country. Carbon border policy is more than a trade measure. It shapes technological transition worldwide.
+
+I also study behavioral adjustment under large public shocks. COVID-19 offered an unusual chance to watch risk perception turn into economic decisions. [@chang2021metro] finds that each additional confirmed case cut Taipei metro ridership by 1.43%, showing travelers revising behavior as information arrived. [@liou2024covid] finds that consumers moved food purchases online in response to the same risk. [@liou2026hotel] follows the recovery, where hotel revenue returned through higher prices rather than more guests, and restoring labor supply would raise revenue by as much as 17.8%. Such shocks do not merely move demand. They reshape the path an industry takes back.
 
 \newpage
 
-# References
+## References
