@@ -26,13 +26,13 @@ knitr::opts_chunk$set(echo = TRUE)
 {\raggedleft\small[\href{https://yyliou.github.io/yyliou/rs/rs_zh.pdf}{中文版由此去}]\par}
 ```
 
-Environmental damage is rarely the aim of economic activity. It is the residue of ordinary decisions. Farmers choose inputs, firms choose technologies, and households choose how to travel. None of these decisions carries its full social cost, so private incentives and social value drift apart. My research asks how policy reforms and external shocks change those incentives, and how the changes reach resource allocation, environmental quality, and welfare.
+My research focuses on environmental economics and policy evaluation. The central question I ask is how policy-induced changes in incentives affect the behavior of individuals and firms, and how these adjustments in turn shape environmental quality and social welfare.
 
-Taiwan suits these questions well. Its administrative records cover whole populations rather than samples. The island is also dense, heavily motorized, and reliant on imported energy, which sharpens the conflict between production, travel, and environmental quality. Evidence from Taiwan therefore carries beyond its own policy debates to other land-scarce economies urbanizing quickly.
+Many environmental outcomes, including air pollution, traffic accidents, and natural resource use, involve externalities that markets fail to price, so governments intervene to improve resource allocation. Whether a policy achieves its intended goals, or generates unintended consequences, remains an empirical question. I use causal inference methods and large-scale administrative data to evaluate how policies change behavior and environmental outcomes.
 
-My work runs along three connected lines. The first asks how policy incentives in agriculture and resource management reshape production and environmental outcomes. The second asks how transport policy and mass events alter travel behavior and generate accidents and pollution. The third asks how major policies and shocks change household and firm behavior, and how economies adjust.
+My research covers two themes. The first examines agricultural and environmental sustainability, asking how policies influence farmers' technology adoption, production decisions, and resource use, and whether institutional design can advance agriculture and environmental quality at the same time. The second studies urban environmental and transportation policies, evaluating interventions such as mass transit expansion, fare subsidies, and road safety programs, with attention to their unintended consequences.
 
-## 1. Farm Household Economics and Environmental Resource Management
+## 1. Agricultural and Environmental Sustainability
 
 Agriculture and forestry depend on natural resources whose environmental value markets rarely register. What is profitable for a farm household therefore diverges from what is valuable to society. This research asks how policy and market institutions can make sustainable practice economically viable, and what that shift means for income, risk, and welfare.
 
@@ -42,23 +42,21 @@ I then ask how market institutions encourage cleaner production. [@chang2026food
 
 I also study what natural capital is worth to the households holding it. [@lee2025forest] finds that forest farms with greater tree diversity earn less on average but face far steadier revenue. The fall in volatility outweighs the loss in expected income. Biodiversity is not only an ecological asset. It is insurance for the households that maintain it.
 
-## 2. Transport Policy and Environmental Externalities
+## 2. Urban Environmental and Transportation Policy
 
-Travel generates external costs through accidents, pollution, and congestion. Their size depends on how policy is designed and how travelers respond. This research examines how transport policy and mass events change travel behavior, and what those changes cost in safety, environmental quality, and welfare.
+Travel generates external costs through accidents, pollution, and congestion. Their size depends on how policy is designed and how travelers respond. This research examines how transit policy, fare subsidies, and mass events change travel behavior, and what those changes cost in safety, environmental quality, and welfare.
 
 I first examine how traffic rules affect road safety. [@liou2026hookturn] uses the removal of the two-stage left turn requirement for motorcycles in part of Tainan City. Accidents fell by 21%, victims by 19%, and vehicles involved by 28%. Road safety is usually pursued through infrastructure, which is slow and expensive to build. A cheap change in rules can deliver comparable gains by changing how people drive.
 
-I then treat transport policy as climate policy. [@liou2025monthly] finds that the Taipei monthly pass raised ridership, passenger kilometers, and trip value by 4.3%, 4.6%, and 4.6%. Whether emissions fall depends on where the new trips come from. Only if roughly 70% to 80% replace car or motorcycle journeys does the program lower emissions. Raising transit use is not the same as cutting carbon.
+I then treat fare policy as climate policy. [@liou2025monthly] finds that the Taipei monthly pass raised ridership, passenger kilometers, and trip value by 4.3%, 4.6%, and 4.6%. Whether emissions fall depends on where the new trips come from. Only if roughly 70% to 80% replace car or motorcycle journeys does the program lower emissions. Raising transit use is not the same as cutting carbon. Transit demand also responds sharply to risk information: [@chang2021metro] finds that during COVID-19, each additional confirmed case cut Taipei metro ridership by 1.43%.
 
 I also measure the external costs of mass events. [@liou2026religious] finds that accidents rose by 14.9% and victims by 17.4% during the Dajia Mazu Pilgrimage. Townships lying off the route still saw accidents rise by 9.8%. [@chang2024air] uses the Hakka practice of tomb sweeping at the Lantern Festival to estimate what ritual observance does to air quality. Culturally valuable events carry costs borne by people who never took part in them.
 
-## 3. Policy Shocks and Economic Adjustment
+## 3. Other Topics
 
-Economic activity responds not only to policy design but also to shocks such as climate regulation and public health emergencies. This research asks how households and firms react to institutional change, and how markets absorb shocks through behavioral adjustment.
+Beyond these two themes, I also study how households and firms adjust to major policy and public shocks. [@liou2025cbam] builds a strategic trade model with green investment and shows that the Carbon Border Adjustment Mechanism pushes exporting firms toward cleaner technology, with effects on market structure that depend on industry characteristics and green technology in the exporting country. [@liou2024covid] finds that consumers moved food purchases online in response to pandemic risk, and [@liou2026hotel] shows that hotel revenue recovered through higher prices rather than more guests, with restoring labor supply worth up to 17.8% in revenue.
 
-I first examine how climate policy shapes firms' technology choices. [@liou2025cbam] studies the green transition incentives created by the Carbon Border Adjustment Mechanism. Building on a strategic trade model with green investment, it shows that border adjustment pushes exporting firms toward cleaner technology. The effect on market structure is less uniform, depending on industry characteristics and on green technology in the exporting country. Carbon border policy is more than a trade measure. It shapes technological transition worldwide.
-
-I also study behavioral adjustment under large public shocks. COVID-19 offered an unusual chance to watch risk perception turn into economic decisions. [@chang2021metro] finds that each additional confirmed case cut Taipei metro ridership by 1.43%, showing travelers revising behavior as information arrived. [@liou2024covid] finds that consumers moved food purchases online in response to the same risk. [@liou2026hotel] follows the recovery, where hotel revenue returned through higher prices rather than more guests, and restoring labor supply would raise revenue by as much as 17.8%. Such shocks do not merely move demand. They reshape the path an industry takes back.
+Although these studies span rural and urban settings, they address a common question: how policies reshape incentives, and how those changed incentives play out in environmental and economic outcomes. Through credible empirical evidence, I aim to inform the design of more effective public policy that also safeguards social welfare.
 
 \newpage
 
