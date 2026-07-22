@@ -14,6 +14,7 @@ fontawesome: false
 email: "d10627008@ntu.edu.tw"
 phone: "+886-978-910-776"
 orcid: "0009-0006-3155-7540"
+web: "yyliou.github.io"
 fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
