@@ -83,13 +83,65 @@ header-includes:
 \noindent\textit{\small 註：JIF 與排名依 Clarivate JCR 2025年資料（2026年6月發布）計算，領域取排名百分比最佳者，「第 名次／該領域期刊數」。}\newline
 \noindent\zhunote{\normalfont 紅字}\textit{\small 為國科會學門推薦國際期刊與臺大傑出／優良期刊之標註。}
 
-## **工作論文**
+## **進行中研究**
+
+### 修訂中
 
 ```{=latex}
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
+[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614) (with Chang and Meyerhoefer). \newline \textit{SSRN Working Paper No. 4984614. Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
+
+Does the Development of Aquavoltaics Production Affect Farmland Price? (with Chang).
+
+The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Chang).
+
+Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Chang and Wu).
+
+Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Chang).
+
+```{=latex}
+\end{hanglist}
+```
+
+### 審稿中
+
+```{=latex}
+\begin{hanglist}
+```
+
+Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Chang).
+
+```{=latex}
+\end{hanglist}
+```
+
+### 投稿中
+
+```{=latex}
+\begin{hanglist}
+```
+
+From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
+
+Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Chang and Sun).
+
+Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang).
+
+```{=latex}
+\end{hanglist}
+```
+
+### 待投稿
+
+```{=latex}
+\begin{hanglist}
+```
+
+Does Metro Expansion Always Reduce Traffic Accidents? (with Chang).
+
+Air Quality vs. Fiscal Compensation: Evidence from Coal Reduction and Housing Markets (with Chang and Zilberman).
 
 ```{=latex}
 \end{hanglist}
@@ -184,7 +236,7 @@ header-includes:
 
 國家科學及技術委員會，博士研究獎學金 \hfill 111年-115年
 
-國立臺灣大學生物資源暨農學院，中環學生傑出研究獎 \hfill 114年
+國立臺灣大學生物資源暨農學院，中環傑出學生研究獎 \hfill 114年
 
 實踐大學，全英授課獎勵 \hfill 114年
 
@@ -221,7 +273,7 @@ header-includes:
 
 # 技能
 
-語言：英語（中等）、中文（母語）、閩南語（中等）
+語言：英語（專業工作能力）、中文（母語）、閩南語（中等）
 
 軟體：R、Stata、\LaTeX
 

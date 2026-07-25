@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: "Yu-You Liou"
 
-jobtitle: "PhD Fellow, Department of Agricultural Economics, National Taiwan University"
+jobtitle: "Ph.D. Student, Department of Agricultural Economics, National Taiwan University"
 address: "No. 1, Sec. 4, Roosevelt Rd., Taipei 106319, Taiwan (R.O.C.)"
 fontawesome: false
 email: "d10627008@ntu.edu.tw"
@@ -51,7 +51,7 @@ Research Assistant \hfill 2021--2022
 
 # Education
 
-*National Taiwan University*, PhD Fellow, Agricultural Economics \hfill 2022--present \newline Supervisor: Prof. Hung-Hao Chang.
+*National Taiwan University*, Ph.D. Student, Agricultural Economics \hfill 2022--present \newline Supervisor: Prof. Hung-Hao Chang.
 
 *National Taiwan University*, MS, Statistics; MS, Agricultural Economics \hfill 2021 \newline GPA 4.19/4.3, class rank 3/33 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/ms-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/ms-certificate.pdf)] \newline Supervisors: Prof. Hung-Hao Chang and Prof. Yao-Wen Hsu.
 
@@ -89,13 +89,65 @@ Research Assistant \hfill 2021--2022
 \noindent\textit{\small Note: JIF and rankings are based on Clarivate JCR 2025 data (released June 2026); each journal is shown in its best-percentile category as \#rank/total.}\newline
 \noindent\zhunote{\normalfont Red}\textit{\small{} text marks NSTC-recommended international journals and NTU Distinguished and Outstanding Journals.}
 
-## Working Papers
+## Work in Progress
+
+### Revision & Resubmission
 
 ```{=latex}
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution During Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." SSRN Working Paper No. 4984614. \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
+[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614) (with Chang and Meyerhoefer). \newline \textit{SSRN Working Paper No. 4984614. Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
+
+Does the Development of Aquavoltaics Production Affect Farmland Price? (with Chang).
+
+The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Chang).
+
+Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Chang and Wu).
+
+Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Chang).
+
+```{=latex}
+\end{hanglist}
+```
+
+### Under Review
+
+```{=latex}
+\begin{hanglist}
+```
+
+Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Chang).
+
+```{=latex}
+\end{hanglist}
+```
+
+### Submitted
+
+```{=latex}
+\begin{hanglist}
+```
+
+From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
+
+Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Chang and Sun).
+
+Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang).
+
+```{=latex}
+\end{hanglist}
+```
+
+### Pending
+
+```{=latex}
+\begin{hanglist}
+```
+
+Does Metro Expansion Always Reduce Traffic Accidents? (with Chang).
+
+Air Quality vs. Fiscal Compensation: Evidence from Coal Reduction and Housing Markets (with Chang and Zilberman).
 
 ```{=latex}
 \end{hanglist}
@@ -190,7 +242,7 @@ Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics
 
 Graduate Research Fellowship, National Science and Technology Council \hfill 2022--2026
 
-CMC Outstanding Student Research Award, College of Bioresources and Agriculture, NTU \hfill 2025
+Outstanding Student Research Award, CMC Magnetics Corporation \hfill 2025
 
 Teaching Grant, Shih Chien University \hfill 2025
 
@@ -227,7 +279,7 @@ Quantitative Method (Prof. Chang) \hfill Spring 2020
 
 # Skills
 
-**Languages**: English (Intermediate), Mandarin (Native), Hokkien (Intermediate).
+**Languages**: English (Professional Working Proficiency), Mandarin (Native), Hokkien (Intermediate).
 
 **Software**: R, Stata, \LaTeX.
 
