@@ -89,15 +89,15 @@ header-includes:
 \begin{hanglist}
 ```
 
-[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614) (with Chang and Meyerhoefer). \newline \textit{SSRN Working Paper No. 4984614. Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
+`\makebox[2.0em][l]{11.}`{=latex}[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614) (with Chang and Meyerhoefer). \newline \textit{SSRN Working Paper No. 4984614. Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
 
-Does the Development of Aquavoltaics Production Affect Farmland Price? (with Chang).
+`\makebox[2.0em][l]{10.}`{=latex}Does the Development of Aquavoltaics Production Affect Farmland Price? (with Chang).
 
-The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Chang).
+`\makebox[2.0em][l]{9.}`{=latex}The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Chang).
 
-Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Chang and Wu).
+`\makebox[2.0em][l]{8.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Chang and Wu).
 
-Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Chang).
+`\makebox[2.0em][l]{7.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Chang).
 
 ```{=latex}
 \end{hanglist}
@@ -109,7 +109,7 @@ Technology Adoption of Environmentally Controlled Housing System and the Distrib
 \begin{hanglist}
 ```
 
-Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Chang).
+`\makebox[2.0em][l]{6.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Chang).
 
 ```{=latex}
 \end{hanglist}
@@ -121,11 +121,11 @@ Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Hou
 \begin{hanglist}
 ```
 
-From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
+`\makebox[2.0em][l]{5.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
 
-Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Chang and Sun).
+`\makebox[2.0em][l]{4.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Chang and Sun).
 
-Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang).
+`\makebox[2.0em][l]{3.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang).
 
 ```{=latex}
 \end{hanglist}
@@ -137,9 +137,9 @@ Pension Policy Reform of the Minimum Contribution Period and Intra-household Suc
 \begin{hanglist}
 ```
 
-Does Metro Expansion Always Reduce Traffic Accidents? (with Chang).
+`\makebox[2.0em][l]{2.}`{=latex}Does Metro Expansion Always Reduce Traffic Accidents? (with Chang).
 
-Air Quality vs. Fiscal Compensation: Evidence from Coal Reduction and Housing Markets (with Chang and Zilberman).
+`\makebox[2.0em][l]{1.}`{=latex}Air Quality vs. Fiscal Compensation: Evidence from Coal Reduction and Housing Markets (with Chang and Zilberman).
 
 ```{=latex}
 \end{hanglist}
