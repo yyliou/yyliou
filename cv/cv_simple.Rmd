@@ -25,8 +25,8 @@ contactline:
 sectionindent: "1.15in"
 sectionsep: "0.20in"
 
-mainfont: "Palatino"
-mainfontoptions: "Scale=1.0"
+mainfont: "texgyrepagella-regular.otf"   # TeX Gyre Pagella = Palatino；需 tinytex::tlmgr_install("tex-gyre")
+mainfontoptions: "Scale=1.0, BoldFont=texgyrepagella-bold.otf, ItalicFont=texgyrepagella-italic.otf, BoldItalicFont=texgyrepagella-bolditalic.otf"
 CJKmainfont: "源雲明體月"
 fontsize: 11pt
 linkcolor: blue
