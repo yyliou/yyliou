@@ -1,22 +1,33 @@
 ---
-output: 
+output:
   pdf_document:
     latex_engine: xelatex
-    template: svm-latex-cv.tex
-geometry: margin=1in
+    template: jenpan-latex-cv.tex
+geometry: margin=0.9in
 
 title: "CV"
 author: "Yu-You Liou"
+author-meta: "Yu-You Liou"
+updated: true
 
-jobtitle: "Ph.D. Student, Department of Agricultural Economics, National Taiwan University"
-address: "No. 1, Sec. 4, Roosevelt Rd., Taipei 106319, Taiwan (R.O.C.)"
-fontawesome: false
-email: "d10627008@ntu.edu.tw"
-phone: "+886-978-910-776"
-orcid: "0009-0006-3155-7540"
-web: "yyliou.github.io"
-fontfamily: mathpazo
-fontfamilyoptions: "sc, osf"
+jobtitle: "National Taiwan University"
+addressline:
+  - "Department of Agricultural Economics"
+  - "No. 1, Sec. 4, Roosevelt Rd."
+  - "Taipei 106319, Taiwan (R.O.C.)"
+
+contactline:
+  - "+886-978-910-776"
+  - "[d10627008@ntu.edu.tw](mailto:d10627008@ntu.edu.tw)"
+  - "[yyliou.github.io](https://yyliou.github.io)"
+  - "ORCID [0009-0006-3155-7540](https://orcid.org/0009-0006-3155-7540)"
+
+sectionindent: "1.15in"
+sectionsep: "0.20in"
+
+mainfont: "Palatino"
+mainfontoptions: "Scale=1.0"
+CJKmainfont: "源雲明體月"
 fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
@@ -25,8 +36,6 @@ header-includes:
   - \definecolor{zhu}{HTML}{D8301B}
   - \newcommand{\jmetric}[1]{\textit{\small{}#1}}
   - \newcommand{\zhunote}[1]{\textcolor{zhu}{\small{}#1}}
-  - \usepackage{xeCJK}
-  - \setCJKmainfont{源雲明體月}
   - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
   - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
 ---
@@ -39,19 +48,19 @@ header-includes:
 
 *National Taiwan University*, Department of Agricultural Economics
 
-Research & Teaching Assistant \hfill 2019--present
+Research & Teaching Assistant \hfill \mbox{2019--present}
 
 *Shih Chien University*, English Taught Program in International Business
 
-Lecturer \hfill 2024--present
+Lecturer \hfill \mbox{2024--present}
 
 *National Taiwan University*, Ecological Engineering Center
 
-Research Assistant \hfill 2021--2022
+Research Assistant \hfill \mbox{2021--2022}
 
 # Education
 
-*National Taiwan University*, Ph.D. Student, Agricultural Economics \hfill 2022--present \newline Supervisor: Prof. Hung-Hao Chang.
+*National Taiwan University*, Ph.D. Student, Agricultural Economics \hfill \mbox{2022--present} \newline Supervisor: Prof. Hung-Hao Chang.
 
 *National Taiwan University*, MS, Statistics; MS, Agricultural Economics \hfill 2021 \newline GPA 4.19/4.3, class rank 3/33 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/ms-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/ms-certificate.pdf)] \newline Supervisors: Prof. Hung-Hao Chang and Prof. Yao-Wen Hsu.
 
@@ -246,21 +255,21 @@ Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics
 
 # Grants and Awards
 
-Graduate Research Fellowship, National Science and Technology Council \hfill 2022--2026
+Graduate Research Fellowship, National Science and Technology Council \hfill \mbox{2022--2026}
 
-CMC Outstanding Student Research Award, College of Bioresources and Agriculture, NTU \hfill 2025
+CMC Outstanding Student Research Award, College of Bioresources and Agriculture, National Taiwan University \hfill \mbox{2025}
 
-English-Medium Instruction (EMI) Teaching Grant, Shih Chien University \hfill 2025
+English-Medium Instruction (EMI) Teaching Grant, Shih Chien University \hfill \mbox{2025}
 
-Travel Grant, National Science and Technology Council \hfill 2025
+Travel Grant, National Science and Technology Council \hfill \mbox{2025}
 
-Travel Grant, Department of Agricultural Economics Alumni Association, NTU \hfill 2024
+Travel Grant, Department of Agricultural Economics Alumni Association, National Taiwan University \hfill \mbox{2024}
 
-Sun Yun-Suan Memorial Fellowship, National Policy Foundation \hfill 2023
+Sun Yun-Suan Memorial Fellowship, National Policy Foundation \hfill \mbox{2023}
 
-Outstanding Veteran, Penghu Defense Command, Republic of China Army \hfill 2022
+Outstanding Veteran, Penghu Defense Command, Republic of China Army \hfill \mbox{2022}
 
-Altruistic Award, National Taiwan University \hfill 2019
+Altruistic Award, National Taiwan University \hfill \mbox{2019}
 
 # Teaching
 
@@ -277,11 +286,11 @@ Altruistic Award, National Taiwan University \hfill 2019
 
 *National Taiwan University* — Teaching Assistant
 
-Agricultural Policy and Performance Evaluation (Prof. Chang) \hfill Spring 2024, Fall 2026
+Agricultural Policy and Performance Evaluation (Prof. Chang) \hfill \mbox{Spring 2024, Fall 2026}
 
-Agricultural Regulations (Prof. Chen) \hfill Spring 2022
+Agricultural Regulations (Prof. Chen) \hfill \mbox{Spring 2022}
 
-Quantitative Method (Prof. Chang) \hfill Spring 2020
+Quantitative Method (Prof. Chang) \hfill \mbox{Spring 2020}
 
 # Skills
 

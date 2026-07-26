@@ -2,31 +2,41 @@
 output:
   pdf_document:
     latex_engine: xelatex
-    template: svm-latex-cv.tex
-geometry: margin=1in
+    template: jenpan-latex-cv.tex
+geometry: margin=0.9in
 
 title: "履歷"
-author: "**劉昱佑**"
+author: "劉昱佑"
+author-meta: "Yu-You Liou"
+updated: true
+zhdate: true
 
-jobtitle: "國立臺灣大學農業經濟學系博士班"
-address: "106319 中華民國（臺灣）臺北市羅斯福路四段一號"
-fontawesome: false
-email: "d10627008@ntu.edu.tw"
-phone: "+886-978-910-776"
-orcid: "0009-0006-3155-7540"
-web: "yyliou.github.io"
+jobtitle: "國立臺灣大學"
+addressline:
+  - "農業經濟學系博士班"
+  - "106319 臺北市羅斯福路四段一號"
+  - "中華民國（臺灣）"
+
+contactline:
+  - "+886-978-910-776"
+  - "[d10627008@ntu.edu.tw](mailto:d10627008@ntu.edu.tw)"
+  - "[yyliou.github.io](https://yyliou.github.io)"
+  - "ORCID [0009-0006-3155-7540](https://orcid.org/0009-0006-3155-7540)"
+
+sectionindent: "1.15in"
+sectionsep: "0.20in"
+sectionfont: "\\normalsize\\bfseries"
+
+mainfont: "源雲明體月"
+CJKmainfont: "源雲明體月"
 fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 header-includes:
-  - \usepackage{fontspec}
-  - \usepackage{xeCJK}
   - \usepackage{xcolor}
   - \definecolor{zhu}{HTML}{D8301B}
   - \newcommand{\jmetric}[1]{\textit{\small{}#1}}
   - \newcommand{\zhunote}[1]{\textcolor{zhu}{\small{}#1}}
-  - \setmainfont{源雲明體月}
-  - \setCJKmainfont{源雲明體月}
   - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
   - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
 ---
@@ -37,11 +47,11 @@ header-includes:
 
 # 工作經歷
 
-國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill 108年-迄今
+國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill \mbox{108年-迄今}
 
-實踐大學國際企業英語學位學程，講師 \hfill 113年-迄今
+實踐大學國際企業英語學位學程，講師 \hfill \mbox{113年-迄今}
 
-國立臺灣大學生態工程研究中心，研究助理 \hfill 110年-111年
+國立臺灣大學生態工程研究中心，研究助理 \hfill \mbox{110年-111年}
 
 # 學歷
 
@@ -234,21 +244,21 @@ header-includes:
 
 # 獲獎
 
-國家科學及技術委員會，博士生研究獎學金 \hfill 111年-115年
+國家科學及技術委員會，博士生研究獎學金 \hfill \mbox{111年-115年}
 
-國立臺灣大學生物資源暨農學院，中環傑出學生研究獎 \hfill 114年
+國立臺灣大學生物資源暨農學院，中環傑出學生研究獎 \hfill \mbox{114年}
 
-實踐大學，全英語授課獎勵 \hfill 114年
+實踐大學，全英語授課獎勵 \hfill \mbox{114年}
 
-國家科學及技術委員會，補助國內研究生出席國際學術會議 \hfill 114年
+國家科學及技術委員會，補助國內研究生出席國際學術會議 \hfill \mbox{114年}
 
-國立臺灣大學農業經濟學系系友會，出國差旅補助 \hfill 113年
+國立臺灣大學農業經濟學系系友會，出國差旅補助 \hfill \mbox{113年}
 
-國家政策研究基金會，孫運璿紀念獎學金 \hfill 112年
+國家政策研究基金會，孫運璿紀念獎學金 \hfill \mbox{112年}
 
-中華民國陸軍澎湖防衛指揮部，績優退伍人員 \hfill 111年
+中華民國陸軍澎湖防衛指揮部，績優退伍人員 \hfill \mbox{111年}
 
-國立臺灣大學，利他獎 \hfill 108年
+國立臺灣大學，利他獎 \hfill \mbox{108年}
 
 # 教學
 
@@ -265,11 +275,11 @@ header-includes:
 
 國立臺灣大學，教學助理
 
-農業政策與績效評估（張宏浩教授） \hfill 112學年下學期、115學年上學期
+農業政策與績效評估（張宏浩教授） \hfill \mbox{112學年下學期、115學年上學期}
 
-農業法規甲（陳政位副教授） \hfill 110學年下學期
+農業法規甲（陳政位副教授） \hfill \mbox{110學年下學期}
 
-數量方法（張宏浩教授） \hfill 108學年下學期
+數量方法（張宏浩教授） \hfill \mbox{108學年下學期}
 
 # 技能
 

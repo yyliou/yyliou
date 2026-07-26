@@ -1,0 +1,158 @@
+%%% jenpan-latex-cv.tex ---------------------------------------------------
+%%% A pandoc/R Markdown LaTeX template that reproduces the layout of
+%%% Jennifer Pan's CV (https://jenpan.com/jen_pan/CVJPan.pdf):
+%%%   * name + date, bold, flush left, at the very top
+%%%   * address block indented to the body column, contacts flush right
+%%%   * a full-width rule under the header
+%%%   * section titles set in SMALL CAPS in a narrow left-hand column,
+%%%     with all entries in a body column to their right
+%%%   * dates flush right on the entry line
+%%%   * footer: "n of N", centred
+%%% ------------------------------------------------------------------------
+
+\documentclass[$if(fontsize)$$fontsize$$else$11pt$endif$,$if(papersize)$$papersize$paper$else$letterpaper$endif$$for(classoption)$,$classoption$$endfor$]{article}
+
+\usepackage{amssymb,amsmath}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else
+  \usepackage{fontspec}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+$if(mainfont)$
+  \setmainfont[$for(mainfontoptions)$$mainfontoptions$$sep$,$endfor$]{$mainfont$}
+$endif$
+$if(CJKmainfont)$
+  \usepackage{xeCJK}
+  \setCJKmainfont[$for(CJKoptions)$$CJKoptions$$sep$,$endfor$]{$CJKmainfont$}
+$endif$
+\fi
+$if(fontfamily)$
+\usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
+$endif$
+$if(linestretch)$
+\usepackage{setspace}
+\setstretch{$linestretch$}
+$endif$
+
+\IfFileExists{microtype.sty}{\usepackage{microtype}\UseMicrotypeSet[protrusion]{basicmath}}{}
+
+% ---- page geometry -------------------------------------------------------
+% \cvindent is the width of the left-hand column that holds section titles.
+\newlength{\cvindent}
+\setlength{\cvindent}{$if(sectionindent)$$sectionindent$$else$1.05in$endif$}
+\newlength{\cvcontactwidth}
+\setlength{\cvcontactwidth}{$if(contactwidth)$$contactwidth$$else$2.30in$endif$}
+\newlength{\cvsectionsep}
+\setlength{\cvsectionsep}{$if(sectionsep)$$sectionsep$$else$0.18in$endif$}
+
+\usepackage[$if(geometry)$$for(geometry)$$geometry$$sep$,$endfor$$else$margin=1in$endif$]{geometry}
+% push the body column right by \cvindent; the section titles live in the gap
+\addtolength{\oddsidemargin}{\cvindent}
+\addtolength{\evensidemargin}{\cvindent}
+\addtolength{\textwidth}{-\cvindent}
+
+\usepackage{parskip}
+\setlength{\parskip}{$if(parskip)$$parskip$$else$4pt plus 1pt minus 1pt$endif$}
+
+% ---- section titles in the left-hand column ------------------------------
+\usepackage{titlesec}
+\titleformat{\section}[leftmargin]
+  {$if(sectionfont)$$sectionfont$$else$\small\scshape$endif$\raggedright}{}{0pt}{}
+% for the [leftmargin] shape the first value is the WIDTH of the title box,
+% which hangs to the left of the body column; leave \cvsectionsep as the gutter
+\titlespacing{\section}{\dimexpr\cvindent-\cvsectionsep\relax}{12pt plus 5pt minus 2pt}{0pt}
+
+\titleformat{\subsection}[hang]{\normalsize\itshape}{}{0pt}{}
+\titlespacing*{\subsection}{0pt}{3pt plus 3pt minus 1pt}{1pt}
+
+\titleformat{\subsubsection}[hang]{\small\itshape}{}{0pt}{}
+\titlespacing*{\subsubsection}{0pt}{6pt plus 2pt minus 1pt}{0pt}
+
+\setcounter{secnumdepth}{0}
+
+% pandoc needs these
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setlength{\emergencystretch}{3em}
+% bullet-less lists, as in the original CV
+\renewenvironment{itemize}{\begin{list}{}{\setlength{\leftmargin}{1.5em}}}{\end{list}}
+
+$if(graphics)$
+\usepackage{graphicx}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+$endif$
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+% ---- running footer ------------------------------------------------------
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyhf{}
+\fancyfoot[C]{\scriptsize\thepage\ of \hypersetup{linkcolor=black}\pageref{LastPage}}
+% the footer should be centred on the *paper*, not on the shifted text block
+\fancyhfoffset[L]{\cvindent}
+
+\usepackage{datetime}
+$if(zhdate)$
+\newdateformat{apstylekinda}{\THEYEAR\ 年 \THEMONTH\ 月}
+$else$
+\newdateformat{apstylekinda}{\shortmonthname[\THEMONTH]. \THEYEAR}
+$endif$
+
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+$if(title-meta)$  pdftitle={$if(author-meta)$$author-meta$: $endif$$title-meta$ (Curriculum Vitae)},$endif$
+$if(author-meta)$  pdfauthor={$author-meta$},$endif$
+  colorlinks=true,
+  linkcolor=$if(linkcolor)$$linkcolor$$else$black$endif$,
+  citecolor=$if(citecolor)$$citecolor$$else$black$endif$,
+  urlcolor=$if(urlcolor)$$urlcolor$$else$black$endif$,
+  breaklinks=true, bookmarks=true}
+\urlstyle{same}
+
+% ---- the header block ----------------------------------------------------
+\newcommand{\cvrule}{\par\noindent\hspace*{-\cvindent}%
+  \rule{\dimexpr\textwidth+\cvindent\relax}{0.6pt}\par}
+
+\begin{document}
+
+\noindent\hspace*{-\cvindent}%
+\begin{minipage}{\dimexpr\textwidth+\cvindent\relax}
+  \raggedright
+  {\large\bfseries $author$}$if(updated)$\ {\normalsize (\apstylekinda\today)}$endif$
+
+  \vspace{3pt}
+
+  % NB: a minipage resets \textwidth to its own width, so size the two
+  % header columns off \linewidth and a fixed contact-column width.
+  \noindent\hspace*{\cvindent}%
+  \begin{minipage}[t]{\dimexpr\linewidth-\cvindent-\cvcontactwidth-1em\relax}\small\raggedright
+    $if(jobtitle)$$jobtitle$\\$endif$$for(addressline)$$addressline$$sep$\\$endfor$$if(address)$$address$$endif$
+  \end{minipage}\hfill
+  \begin{minipage}[t]{\cvcontactwidth}\small\raggedleft
+$if(contactline)$
+    $for(contactline)$$contactline$$sep$\\$endfor$
+$else$
+    $if(phone)$$phone$\\$endif$$if(email)$\href{mailto:$email$}{$email$}\\$endif$$if(web)$\href{https://$web$}{$web$}$endif$
+$endif$
+  \end{minipage}
+\end{minipage}
+
+\vspace{6pt}
+\cvrule
+\vspace{-6pt}
+
+$body$
+
+$for(include-after)$
+$include-after$
+$endfor$
+\end{document}
