@@ -98,7 +98,8 @@ $endif$
 
 \usepackage{datetime}
 $if(zhdate)$
-\newdateformat{apstylekinda}{\THEYEAR\ 年 \THEMONTH\ 月}
+% 民國紀年：西元 - 1911
+\newdateformat{apstylekinda}{\the\numexpr\THEYEAR-1911\relax\ 年 \THEMONTH\ 月}
 $else$
 \newdateformat{apstylekinda}{\shortmonthname[\THEMONTH]. \THEYEAR}
 $endif$
