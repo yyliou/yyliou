@@ -49,7 +49,7 @@ header-includes:
 
 國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill \mbox{108年-迄今}
 
-實踐大學國際企業英語學位學程，講師 \hfill \mbox{113年-迄今}
+實踐大學國際企業英語學士學位學程，講師 \hfill \mbox{113年-迄今}
 
 國立臺灣大學生態工程研究中心，研究助理 \hfill \mbox{110年-111年}
 
@@ -69,19 +69,19 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides – empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{臺大傑出期刊}
+`\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{臺大傑出期刊}
 
-`\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊} \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
+`\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊} \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
 
 `\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動第 29/141 名（前 20.6\%），Q1〕} \newline \textit{Earlier version presented at the 19th EAEA International Convention (2024).}
 
 `\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝2.4；經濟學第 196/627 名（前 31.3\%），Q2〕} \newline \textit{Earlier version presented at the 18th Congress of EAAE (2025) and the 19th EAEA International Convention (2024).}
 
-`\makebox[2.0em][l]{4.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition: A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *Singapore Economic Review*. Advance online publication. \newline \jmetric{〔SSCI、EconLit；JIF＝1.2；經濟學第 379/627 名（前 60.4\%），Q3〕}
+`\makebox[2.0em][l]{4.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *Singapore Economic Review*. Advance online publication. \newline \jmetric{〔SSCI、EconLit；JIF＝1.2；經濟學第 379/627 名（前 60.4\%），Q3〕}
 
 `\makebox[2.0em][l]{3.}`{=latex}**Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝8.7；運輸學第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊}
 
-`\makebox[2.0em][l]{2.}`{=latex}Lee, T.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue: Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{〔SCIE、SSCI；JIF＝4.6；林學第 7/92 名（前 7.6\%），Q1〕} \newline \zhunote{臺大傑出期刊}
+`\makebox[2.0em][l]{2.}`{=latex}Lee, T.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{〔SCIE、SSCI；JIF＝4.6；林學第 7/92 名（前 7.6\%），Q1〕} \newline \zhunote{臺大傑出期刊}
 
 `\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{〔SSCI；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊}
 
@@ -211,7 +211,7 @@ header-includes:
 
 # 研究計畫
 
-張宏浩教授研究團隊研究助理，國立臺灣大學農業經濟學系
+張宏浩特聘教授研究團隊研究助理，國立臺灣大學農業經濟學系
 
 ```{=latex}
 \projitem{22.}{專門職業（律師、會計師、建築師及技師）與市場競爭——回顧與前瞻，\href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{115年}
@@ -275,11 +275,11 @@ header-includes:
 
 國立臺灣大學，教學助理
 
-農業政策與績效評估（張宏浩教授） \hfill \mbox{112學年下學期、115學年上學期}
+農業政策與績效評估（張宏浩特聘教授） \hfill \mbox{112學年下學期、115學年上學期}
 
 農業法規甲（陳政位副教授） \hfill \mbox{110學年下學期}
 
-數量方法（張宏浩教授） \hfill \mbox{108學年下學期}
+數量方法（張宏浩特聘教授） \hfill \mbox{108學年下學期}
 
 # 技能
 

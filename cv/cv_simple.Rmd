@@ -32,6 +32,7 @@ fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 header-includes:
+  - \hyphenation{Agriculture Agricultural Bioresources Economics}
   - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
   - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
 ---
@@ -70,19 +71,19 @@ Research Assistant \hfill \mbox{2021--2022}
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides – empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148.
+`\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148.
 
-`\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing hook-turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
+`\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
 
 `\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \textit{Earlier version presented at the 19th EAEA International Convention (2024).}
 
 `\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \textit{Earlier version presented at the 18th Congress of EAAE (2025) and the 19th EAEA International Convention (2024).}
 
-`\makebox[2.0em][l]{4.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition: A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *Singapore Economic Review*. Advance online publication.
+`\makebox[2.0em][l]{4.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *Singapore Economic Review*. Advance online publication.
 
 `\makebox[2.0em][l]{3.}`{=latex}**Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903.
 
-`\makebox[2.0em][l]{2.}`{=latex}Lee, T.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue: Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
+`\makebox[2.0em][l]{2.}`{=latex}Lee, T.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
 
 `\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
 
@@ -215,23 +216,23 @@ Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics
 \projitem{21.}{Enhancement of the Greenhouse Gas Voluntary Reduction System and Capacity Building for Natural Carbon Sinks}{2026}
 \projitem{20.}{Adaptation of Food and Agricultural System to Net Zero Policies (III), \href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{2026}
 \projitem{19.}{The Impact of Aquavoltaics Policy on Farmland Price --- the Case of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{2026}
-\projitem{18.}{Policy Cost-Benefit Analysis and Strategic Recommendations for Enhancing Carbon Sink Capacity in Taiwan: A Case Study on Soil-Optimized Agricultural Production Models}{2025}
-\projitem{17.}{Applied Analysis of the Farmland Price Index in Response to the National Land Planning Policy}{2025}
+\projitem{18.}{Policy Cost-Benefit Analysis and Strategic Recommendations for Enhancing Carbon Sink Capacity in Taiwan: A Case Study on Soil-Optimized Agricultural Production Models, \href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}{2025}
+\projitem{17.}{Applied Analysis of the Farmland Price Index in Response to the National Land Planning Policy, 113農基金-永續-11}{2025}
 \projitem{16.}{Adaptation of Food and Agricultural System to Net Zero Policies (II), \href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}{2025}
 \projitem{15.}{Farm Labor Supply in Online Job-Matching Platforms --- the Case of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}{2024--2025}
-\projitem{14.}{Establishing a Framework for Ecosystem Services in Organic Agriculture: Value Investigation and Quantification Model for Vegetables and Rice}{2024}
-\projitem{13.}{Cost Assessments and Policy Suggestions for Carbon-sink-increasing Strategies in Taiwan}{2024}
+\projitem{14.}{Establishing a Framework for Ecosystem Services in Organic Agriculture: Value Investigation and Quantification Model for Vegetables and Rice, 113農再-2.2.2-1.5-糧-004}{2024}
+\projitem{13.}{Cost Assessments and Policy Suggestions for Carbon-sink-increasing Strategies in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}{2024}
 \projitem{12.}{Research on Electric Vehicle Industry Policies and Competition Law Regulations, \href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}{2024}
 \projitem{11.}{Economic Evaluation of Circular Economy Using Agricultural By-Products, \href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}{2024}
 \projitem{10.}{Adaptation of Food and Agricultural System to Net Zero Policies (I), \href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}{2024}
-\projitem{9.}{Cost Assessments and Policy Suggestions for Carbon-sink-increasing Strategies in Taiwan}{2023}
-\projitem{8.}{Evaluation and Establishment of Farmland Price Indices for Decision-making on Sustainable Farmland Use}{2023}
+\projitem{9.}{Cost Assessments and Policy Suggestions for Carbon-sink-increasing Strategies in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}{2023}
+\projitem{8.}{Evaluation and Establishment of Farmland Price Indices for Decision-making on Sustainable Farmland Use, 112農基金-1.1-企-10-(2)}{2023}
 \projitem{7.}{University Social Responsibility Program: ``Partnership with Yunlin --- Deepening Industrial Linkages in Key Agricultural Areas'', 112L5A001B}{2023}
 \projitem{6.}{Economic Analysis of Farm Succession --- a Case Study of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}{2023}
-\projitem{5.}{Decision Evaluation of Farmland Resources and Sustainable Uses}{2022}
+\projitem{5.}{Decision Evaluation of Farmland Resources and Sustainable Uses, \href{https://www.grb.gov.tw/search/planDetail?id=14766648}{111農科-3.1.3-企-Q2(Z)}}{2022}
 \projitem{4.}{Food Accessibility, Market Competition and Housing Prices --- Empirical Evidence of Convenience Stores in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}{2022}
 \projitem{3.}{Economic Analysis of Farmer Occupational Injury Insurance Program in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}{2021}
-\projitem{2.}{Impact of Rural Regeneration Programs on Farm Labor and Leisure Agriculture Participation}{2020}
+\projitem{2.}{Impact of Rural Regeneration Programs on Farm Labor and Leisure Agriculture Participation, 109農再-2.1.3-1.3-企-015}{2020}
 \projitem{1.}{Impact of Sharing Economy on Farmland Price in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}{2020}
 ```
 
