@@ -171,7 +171,7 @@ header-includes:
 \end{hanglist}
 ```
 
-## **研討會論文**
+## **其他研討會論文**
 
 ```{=latex}
 \begin{hanglist}

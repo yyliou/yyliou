@@ -177,7 +177,7 @@ Research Assistant \hfill \mbox{2021--2022}
 \end{hanglist}
 ```
 
-## Conference Papers
+## Other Conference Papers
 
 ```{=latex}
 \begin{hanglist}
