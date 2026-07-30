@@ -263,13 +263,13 @@ Altruistic Award, National Taiwan University \hfill \mbox{2019}
 *Shih Chien University* — Lecturer (English-medium instruction)
 
 [Statistics I & II](https://yyliou.github.io/stat)
-\newline Fall 2024: 4.40/5, Spring 2025: 4.62/5, Fall 2025: 4.57/5, Spring 2026: pending, Fall 2026: pending
+\newline Fall 2024: 4.40/5, Spring 2025: 4.62/5, Fall 2025: 4.57/5, Spring 2026: 4.64/5, Fall 2026: pending
 
 [Data Analysis](https://yyliou.github.io/da)
 \newline Fall 2024: 4.52/5, Fall 2025: 4.58/5, Fall 2026: pending
 
 [Programming for Applications](https://yyliou.github.io/pa)
-\newline Spring 2024: 4.47/5, Spring 2025: 4.67/5, Spring 2026: pending
+\newline Spring 2024: 4.47/5, Spring 2025: 4.67/5, Spring 2026: 4.52/5
 
 *National Taiwan University* — Teaching Assistant
 
