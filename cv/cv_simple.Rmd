@@ -29,9 +29,11 @@ mainfont: "texgyrepagella-regular.otf"   # TeX Gyre Pagella = Palatino；需 tin
 mainfontoptions: "Scale=1.0, BoldFont=texgyrepagella-bold.otf, ItalicFont=texgyrepagella-italic.otf, BoldItalicFont=texgyrepagella-bolditalic.otf"
 CJKmainfont: "源雲明體月"
 fontsize: 11pt
-linkcolor: blue
-urlcolor: blue
+linkcolor: cvlink
+urlcolor: cvlink
 header-includes:
+  - \usepackage{xcolor}
+  - \definecolor{cvlink}{HTML}{2D3E54}
   - \hyphenation{Agriculture Agricultural Bioresources Economics}
   - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
   - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}

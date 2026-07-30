@@ -29,9 +29,11 @@ mainfont: "texgyrepagella-regular.otf"   # TeX Gyre Pagella = Palatino；需 tin
 mainfontoptions: "Scale=1.0, BoldFont=texgyrepagella-bold.otf, ItalicFont=texgyrepagella-italic.otf, BoldItalicFont=texgyrepagella-bolditalic.otf"
 CJKmainfont: "源雲明體月"
 fontsize: 11pt
-linkcolor: blue
-urlcolor: blue
+linkcolor: cvlink
+urlcolor: cvlink
 header-includes:
+  - \usepackage{xcolor}
+  - \definecolor{cvlink}{HTML}{2D3E54}
   - \hyphenation{Agriculture Agricultural Bioresources Economics}
   - \usepackage{xcolor}
   - \definecolor{zhu}{HTML}{D8301B}
