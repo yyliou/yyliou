@@ -49,7 +49,7 @@ Research & Teaching Assistant \hfill \mbox{2019--present}
 
 *Shih Chien University*, English Taught Program in International Business
 
-Lecturer \hfill \mbox{2024--present}
+Adjunct Lecturer \hfill \mbox{2024--present} \newline{} [[T112220047](https://yyliou.github.io/yyliou/cv/doc/al-T112220047.pdf)] [[T113120613](https://yyliou.github.io/yyliou/cv/doc/al-T113120613.pdf)] [[T113220344](https://yyliou.github.io/yyliou/cv/doc/al-T113220344.pdf)] [[T114120391](https://yyliou.github.io/yyliou/cv/doc/al-T114120391.pdf)] [[T114220345](https://yyliou.github.io/yyliou/cv/doc/al-T114220345.pdf)]
 
 *National Taiwan University*, Ecological Engineering Center
 
@@ -246,7 +246,7 @@ Altruistic Award, National Taiwan University \hfill \mbox{2019}
 
 # Teaching
 
-*Shih Chien University* — Lecturer (English-medium instruction)
+*Shih Chien University* — Adjunct Lecturer (English-medium instruction)
 
 [Statistics I & II](https://yyliou.github.io/stat)
 \newline Fall 2024: 4.40/5, Spring 2025: 4.62/5, Fall 2025: 4.57/5, Spring 2026: 4.64/5, Fall 2026: pending

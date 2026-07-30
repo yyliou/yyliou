@@ -49,7 +49,7 @@ header-includes:
 
 國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill \mbox{108年-迄今}
 
-實踐大學國際企業英語學士學位學程，講師 \hfill \mbox{113年-迄今}
+實踐大學國際企業英語學士學位學程，兼任講師 \hfill \mbox{113年-迄今} \newline{} [[T112220047](https://yyliou.github.io/yyliou/cv/doc/al-T112220047.pdf)] [[T113120613](https://yyliou.github.io/yyliou/cv/doc/al-T113120613.pdf)] [[T113220344](https://yyliou.github.io/yyliou/cv/doc/al-T113220344.pdf)] [[T114120391](https://yyliou.github.io/yyliou/cv/doc/al-T114120391.pdf)] [[T114220345](https://yyliou.github.io/yyliou/cv/doc/al-T114220345.pdf)]
 
 國立臺灣大學生態工程研究中心，研究助理 \hfill \mbox{110年-111年}
 
@@ -254,7 +254,7 @@ header-includes:
 
 # 教學
 
-實踐大學，講師
+實踐大學，兼任講師
 
 [統計學 I & II](https://yyliou.github.io/stat)
 \newline 113學年上學期 4.40/5、113學年下學期 4.62/5、114學年上學期 4.57/5、114學年下學期 4.64/5、115學年上學期（待公布）
