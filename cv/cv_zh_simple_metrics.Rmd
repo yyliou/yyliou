@@ -71,6 +71,8 @@ header-includes:
 \begin{hanglist}
 ```
 
+`\makebox[2.0em][l]{9.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI、EconLit；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕} \newline \zhunote{臺大優良期刊} \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
+
 `\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{臺大傑出期刊}
 
 `\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊} \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
@@ -102,8 +104,6 @@ header-includes:
 ```{=latex}
 \begin{hanglist}
 ```
-
-`\makebox[2.0em][l]{11.}`{=latex}[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614) (with Chang and Meyerhoefer). \newline \textit{SSRN Working Paper No. 4984614. Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
 
 `\makebox[2.0em][l]{10.}`{=latex}Does the Development of Aquavoltaics Production Affect Farmland Price? (with Chang). \newline \textit{Earlier version presented at the 17th CAER-IFPRI Annual Conference (2025).}
 
