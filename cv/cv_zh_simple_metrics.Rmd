@@ -35,7 +35,6 @@ urlcolor: cvlink
 header-includes:
   - \usepackage{xcolor}
   - \definecolor{cvlink}{HTML}{2D3E54}
-  - \usepackage{xcolor}
   - \definecolor{zhu}{HTML}{D8301B}
   - \newcommand{\jmetric}[1]{\textit{\small{}#1}}
   - \newcommand{\zhunote}[1]{\textcolor{zhu}{\small{}#1}}
@@ -250,7 +249,7 @@ header-includes:
 
 # 教學
 
-實踐大學，兼任講師
+實踐大學，兼任講師（全英語授課）
 
 [統計學 I & II](https://yyliou.github.io/stat)
 \newline 113學年上學期 4.40/5、113學年下學期 4.62/5、114學年上學期 4.57/5、114學年下學期 4.64/5、115學年上學期（待公布）

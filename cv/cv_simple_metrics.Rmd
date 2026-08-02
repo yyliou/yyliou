@@ -35,7 +35,6 @@ header-includes:
   - \usepackage{xcolor}
   - \definecolor{cvlink}{HTML}{2D3E54}
   - \hyphenation{Agriculture Agricultural Bioresources Economics}
-  - \usepackage{xcolor}
   - \definecolor{zhu}{HTML}{D8301B}
   - \newcommand{\jmetric}[1]{\textit{\small{}#1}}
   - \newcommand{\zhunote}[1]{\textcolor{zhu}{\small{}#1}}
@@ -151,7 +150,7 @@ Research Assistant \hfill \mbox{2021--2022}
 \end{hanglist}
 ```
 
-### Pending
+### In Preparation
 
 ```{=latex}
 \begin{hanglist}
@@ -271,7 +270,7 @@ Altruistic Award, National Taiwan University \hfill \mbox{2019}
 
 Agricultural Policy and Performance Evaluation (Prof. Chang) \hfill \mbox{Spring 2024, Fall 2026}
 
-Agricultural Regulations (Prof. Chen) \hfill \mbox{Spring 2022}
+Agricultural Regulations (A) (Prof. Chen) \hfill \mbox{Spring 2022}
 
 Quantitative Method (Prof. Chang) \hfill \mbox{Spring 2020}
 

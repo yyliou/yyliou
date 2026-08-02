@@ -149,7 +149,7 @@ Research Assistant \hfill \mbox{2021--2022}
 \end{hanglist}
 ```
 
-### Pending
+### In Preparation
 
 ```{=latex}
 \begin{hanglist}
@@ -269,7 +269,7 @@ Altruistic Award, National Taiwan University \hfill \mbox{2019}
 
 Agricultural Policy and Performance Evaluation (Prof. Chang) \hfill \mbox{Spring 2024, Fall 2026}
 
-Agricultural Regulations (Prof. Chen) \hfill \mbox{Spring 2022}
+Agricultural Regulations (A) (Prof. Chen) \hfill \mbox{Spring 2022}
 
 Quantitative Method (Prof. Chang) \hfill \mbox{Spring 2020}
 
