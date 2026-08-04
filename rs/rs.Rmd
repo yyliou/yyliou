@@ -8,6 +8,8 @@ output:
 geometry: "margin=1in"
 fontsize: 11pt
 linestretch: 1.25
+mainfont: "texgyrepagella-regular.otf"
+mainfontoptions: "Scale=1.0, BoldFont=texgyrepagella-bold.otf, ItalicFont=texgyrepagella-italic.otf, BoldItalicFont=texgyrepagella-bolditalic.otf"
 bibliography: rs.bib
 csl: rs.csl
 link-citations: true
@@ -26,37 +28,33 @@ knitr::opts_chunk$set(echo = TRUE)
 {\raggedleft\small[\href{https://yyliou.github.io/yyliou/rs/rs_zh.pdf}{中文版由此去}]\par}
 ```
 
-My research focuses on environmental economics and policy evaluation. The central question I ask is how policy-induced changes in incentives affect the behavior of individuals and firms, and how these adjustments in turn shape environmental quality and social welfare.
+Air pollution, road deaths, and groundwater depletion share one feature. Whoever causes the damage does not pay for it. Environmental and resource economics calls this an externality, and policy is the attempted correction. My research measures how much of that correction arrives, and what else arrives with it. The answer is often not what the policy assumed. I use causal inference and large-scale administrative data. One line of work is on farms, the other on cities.
 
-Many environmental outcomes, including air pollution, traffic accidents, and natural resource use, involve externalities that markets fail to price, so governments intervene to improve resource allocation. Whether a policy achieves its intended goals, or generates unintended consequences, remains an empirical question. I use causal inference methods and large-scale administrative data to evaluate how policies change behavior and environmental outcomes.
+## 1. Land, Food, and the Environment
 
-My research covers two themes. The first examines agricultural and environmental sustainability, asking how policies influence farmers' technology adoption, production decisions, and resource use, and whether institutional design can advance agriculture and environmental quality at the same time. The second studies urban environmental and transportation policies, evaluating interventions such as mass transit expansion, fare subsidies, and road safety programs, with attention to their unintended consequences.
+Agriculture is the largest user of land and water, a major source of emissions and nutrient runoff, and how millions of households live. A policy that cleans up farming at the farmer's expense will not be adopted. Must environmental quality and farm income trade off? Often not.
 
-## 1. Agricultural and Environmental Sustainability
+Solar power is treated as a rival for farmland. [@liou2025rooftop] and [@lee2025solar] show that panels on existing farm buildings displace nothing. Chicken farms that adopt them sell 5.8% more, from output rather than quality. The conflict is about siting, not solar.
 
-Agriculture and forestry depend on natural resources whose environmental value markets rarely register. What is profitable for a farm household therefore diverges from what is valuable to society. This research asks how policy and market institutions can make sustainable practice economically viable, and what that shift means for income, risk, and welfare.
+Fertilizer and pesticide runoff resists regulation because it comes from tens of thousands of sources no inspector can reach. [@chang2026food] finds that farms adopting food traceability are 8.2, 15.4, and 40 percentage points less likely to use chemical fertilizer, pesticide, and groundwater. Revenue rises too. A food safety system did what enforcement cannot.
 
-I first examine the energy transition on the farm. Solar power is usually cast as a competitor to food production for scarce land. [@liou2025rooftop] and [@lee2025solar] show that panels on existing farm buildings displace nothing. They raise farm sales and farm labor use. Adopting chicken farms sell 5.8% more, and the gain comes from higher output rather than higher quality. Designed well, renewable energy and farming are complements rather than rivals.
+Biodiversity disappears from private land because nobody pays for it. [@lee2025forest] finds that forest farms with greater tree diversity earn less but face far steadier revenue, and stability outweighs the loss. Diversity pays in stability, not income. Programs that compensate forgone income misread the asset.
 
-I then ask how market institutions encourage cleaner production. [@chang2026food] examines food traceability, a system built for food safety rather than for the environment. Farms that adopt it grow markedly less likely to use chemical fertilizer, pesticide, and groundwater, with reductions of 8.2, 15.4, and 40 percentage points. Revenue rises at the same time and sales channels widen. Information transparency can deliver environmental gains well beyond a policy's stated purpose.
+## 2. Cities, Movement, and External Costs
 
-I also study what natural capital is worth to the households holding it. [@lee2025forest] finds that forest farms with greater tree diversity earn less on average but face far steadier revenue. The fall in volatility outweighs the loss in expected income. Biodiversity is not only an ecological asset. It is insurance for the households that maintain it.
+Transport emissions keep rising, and transport kills directly. Cities answer with rail, fare subsidies, and traffic rules. None is cheap, and none has an obvious effect.
 
-## 2. Urban Environmental and Transportation Policy
+[@liou2026hookturn] uses the removal of the two-stage left turn rule for motorcycles in part of Tainan City. Accidents fell 21%, victims 19%, and vehicles involved 28%. Road safety usually means building something. Here a rule change cost nothing and did as well.
 
-Travel generates external costs through accidents, pollution, and congestion. Their size depends on how policy is designed and how travelers respond. This research examines how transit policy, fare subsidies, and mass events change travel behavior, and what those changes cost in safety, environmental quality, and welfare.
+Fare subsidies are now sold as climate policy. [@liou2025monthly] finds that the Taipei monthly pass raised ridership, passenger kilometers, and trip value by 4.3%, 4.6%, and 4.6%. Emissions fall only if 70% to 80% of the new trips come out of cars and motorcycles. Programs are judged on ridership. Ridership is the wrong number. [@chang2021metro] shows the demand is fragile as well, falling 1.43% per COVID-19 case.
 
-I first examine how traffic rules affect road safety. [@liou2026hookturn] uses the removal of the two-stage left turn requirement for motorcycles in part of Tainan City. Accidents fell by 21%, victims by 19%, and vehicles involved by 28%. Road safety is usually pursued through infrastructure, which is slow and expensive to build. A cheap change in rules can deliver comparable gains by changing how people drive.
+Mass events send the bill to people who never attended. [@liou2026religious] finds accidents rose 14.9% and victims 17.4% during the Dajia Mazu Pilgrimage, and 9.8% even in townships off the route. [@chang2024air] measures the air quality cost of Hakka tomb sweeping at the Lantern Festival. Neither cost enters the planning.
 
-I then treat fare policy as climate policy. [@liou2025monthly] finds that the Taipei monthly pass raised ridership, passenger kilometers, and trip value by 4.3%, 4.6%, and 4.6%. Whether emissions fall depends on where the new trips come from. Only if roughly 70% to 80% replace car or motorcycle journeys does the program lower emissions. Raising transit use is not the same as cutting carbon. Transit demand also responds sharply to risk information: [@chang2021metro] finds that during COVID-19, each additional confirmed case cut Taipei metro ridership by 1.43%.
+## 3. Other
 
-I also measure the external costs of mass events. [@liou2026religious] finds that accidents rose by 14.9% and victims by 17.4% during the Dajia Mazu Pilgrimage. Townships lying off the route still saw accidents rise by 9.8%. [@chang2024air] uses the Hakka practice of tomb sweeping at the Lantern Festival to estimate what ritual observance does to air quality. Culturally valuable events carry costs borne by people who never took part in them.
+[@liou2025cbam] builds a strategic trade model with green investment. The Carbon Border Adjustment Mechanism pushes exporters toward cleaner technology, though its market structure effects vary by industry. [@liou2024covid] finds that consumers shifted food purchases online under pandemic risk. [@liou2026hotel] finds that hotel revenue recovered through price rather than volume, with restored labor supply worth up to 17.8%.
 
-## 3. Other Topics
-
-Beyond these two themes, I also study how households and firms adjust to major policy and public shocks. [@liou2025cbam] builds a strategic trade model with green investment and shows that the Carbon Border Adjustment Mechanism pushes exporting firms toward cleaner technology, with effects on market structure that depend on industry characteristics and green technology in the exporting country. [@liou2024covid] finds that consumers moved food purchases online in response to pandemic risk, and [@liou2026hotel] shows that hotel revenue recovered through higher prices rather than more guests, with restoring labor supply worth up to 17.8% in revenue.
-
-Although these studies span rural and urban settings, they address a common question: how policies reshape incentives, and how those changed incentives play out in environmental and economic outcomes. Through credible empirical evidence, I aim to inform the design of more effective public policy that also safeguards social welfare.
+Rural or urban, one question runs through all of it. When policy changes the price of environmental damage, who changes behavior, by how much, and who pays.
 
 \newpage
 
