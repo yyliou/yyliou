@@ -133,6 +133,8 @@ header-includes:
 
 `\makebox[2.0em][l]{3.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang). \newline \textit{Earlier version presented at the AAEA Annual Meeting (2026).}
 
+`\makebox[2.0em][l]{2.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Chang and Zilberman). \newline \textit{Earlier version presented at the 7th World Congress of Environmental and Resource Economists (2026).}
+
 ```{=latex}
 \end{hanglist}
 ```
@@ -143,9 +145,7 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{2.}`{=latex}Does Metro Expansion Always Reduce Traffic Accidents? (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
-
-`\makebox[2.0em][l]{1.}`{=latex}Cleaner Air, Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Chang and Zilberman). \newline \textit{Earlier version presented at the 7th World Congress of Environmental and Resource Economists (2026).}
+`\makebox[2.0em][l]{1.}`{=latex}Does Metro Expansion Always Reduce Traffic Accidents? (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
 
 ```{=latex}
 \end{hanglist}
