@@ -70,7 +70,7 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{9.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI、EconLit；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕} \newline \zhunote{臺大優良期刊} \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
+`\makebox[2.0em][l]{9.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI、EconLit；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕} \newline \zhunote{臺大優良期刊} \newline \textit{\href{https://ssrn.com/abstract=4984614}{Earlier version} presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
 
 `\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{臺大傑出期刊}
 
