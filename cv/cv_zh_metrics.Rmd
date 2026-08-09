@@ -39,7 +39,7 @@ header-includes:
   - \newcommand{\jmetric}[1]{\textit{\small{}#1}}
   - \newcommand{\zhunote}[1]{\textcolor{zhu}{\small{}#1}}
   - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
-  - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
+  - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-6.1em\relax}\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{5.6em}\raggedleft\mbox{#3}\end{minipage}\par\vspace{3pt}}
 ---
 
 ```{=latex}
