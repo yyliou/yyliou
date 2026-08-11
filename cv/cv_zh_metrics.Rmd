@@ -233,7 +233,7 @@ header-includes:
 
 # 審稿
 
-[*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (4); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (1); [*Frontiers in Climate*](https://www.frontiersin.org/journals/climate) (1); [*Frontiers in Environmental Science*](https://www.frontiersin.org/journals/environmental-science) (1); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1)
+[*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (4); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (1); [*Frontiers in Climate*](https://www.frontiersin.org/journals/climate) (1); [*Frontiers in Environmental Science*](https://www.frontiersin.org/journals/environmental-science) (1); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1)
 
 # 獲獎
 
