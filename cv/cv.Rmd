@@ -129,6 +129,8 @@ Research Assistant \hfill \mbox{2021--2022}
 
 `\makebox[2.0em][l]{6.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
 
+`\makebox[2.0em][l]{5.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Chang and Sun).
+
 ```{=latex}
 \end{hanglist}
 ```
@@ -139,9 +141,7 @@ Research Assistant \hfill \mbox{2021--2022}
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{5.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
-
-`\makebox[2.0em][l]{4.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Chang and Sun).
+`\makebox[2.0em][l]{4.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
 
 `\makebox[2.0em][l]{3.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang). \newline \textit{Earlier version presented at the AAEA Annual Meeting (2026).}
 
@@ -237,6 +237,8 @@ Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics
 # Grants and Awards
 
 Graduate Research Fellowship, National Science and Technology Council \hfill \mbox{2022--2026}
+
+Student Academic Paper Award, College of Bioresources and Agriculture, National Taiwan University \hfill \mbox{2026}
 
 CMC Outstanding Student Research Award, College of Bioresources and Agriculture, National Taiwan University \hfill \mbox{2025}
 
