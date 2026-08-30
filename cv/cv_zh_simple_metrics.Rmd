@@ -152,7 +152,7 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{1.}`{=latex}Does Metro Expansion Always Reduce Traffic Accidents? (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
+`\makebox[2.0em][l]{1.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
 
 ```{=latex}
 \end{hanglist}
@@ -201,28 +201,28 @@ header-includes:
 張宏浩特聘教授研究團隊研究助理，國立臺灣大學農業經濟學系
 
 ```{=latex}
-\projitem{22.}{專門職業（律師、會計師、建築師及技師）與市場競爭——回顧與前瞻，\href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{115年}
+\projitem{22.}{專門職業(律師、會計師、建築師及技師)與市場競爭—回顧與前瞻，\href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{115年}
 \projitem{21.}{溫室氣體自願減量制度精進與自然碳匯量能培力}{115年}
-\projitem{20.}{淨零政策下糧食與農業系統之調適（三），\href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{115年}
-\projitem{19.}{漁電共生政策對農地價格之影響——以臺灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{115年}
-\projitem{18.}{提升臺灣碳匯能力之政策成本效益分析與策略建議：以土壤友善農業生產模式為例，\href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}{114年}
+\projitem{20.}{因應淨零政策之食農體系的調適與建議( III )，\href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{115年}
+\projitem{19.}{漁電共生政策對農地價格之影響-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{115年}
+\projitem{18.}{研析我國推動增匯策略措施之成本與政策建議-以土壤最佳生產模組案例分析，\href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}{114年}
 \projitem{17.}{因應國土計畫政策之農地價格指數應用分析，113農基金-永續-11}{114年}
-\projitem{16.}{淨零政策下糧食與農業系統之調適（二），\href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}{114年}
-\projitem{15.}{線上媒合平台之農業勞動力供給——以臺灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}{113年-114年}
+\projitem{16.}{因應淨零政策之食農體系的調適與建議( II )，\href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}{114年}
+\projitem{15.}{農業工作者在人力工作媒合平台的勞動供給-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}{113年-114年}
 \projitem{14.}{建構有機農業生態系服務架構：蔬菜與稻米之價值調查與量化模型，113農再-2.2.2-1.5-糧-004}{113年}
-\projitem{13.}{臺灣增匯策略之成本評估與政策建議，\href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}{113年}
+\projitem{13.}{研析我國推動增匯策略措施之成本與政策建議，\href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}{113年}
 \projitem{12.}{電動車產業政策與競爭法規範之研究，\href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}{113年}
-\projitem{11.}{農業副產物循環經濟之經濟評估，\href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}{113年}
-\projitem{10.}{淨零政策下糧食與農業系統之調適（一），\href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}{113年}
-\projitem{9.}{臺灣增匯策略之成本評估與政策建議，\href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}{112年}
+\projitem{11.}{利用農業副資材作為投入之循環經濟分析(子計畫七)，\href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}{113年}
+\projitem{10.}{因應淨零政策之食農體系的調適與建議( I )，\href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}{113年}
+\projitem{9.}{我國推動增匯策略措施之成本評估與政策建議，\href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}{112年}
 \projitem{8.}{農地永續利用決策之農地價格指數評估與建立，112農基金-1.1-企-10-(2)}{112年}
 \projitem{7.}{大學社會責任實踐計畫：「攜手雲林——深化重點農業地區產業鏈結」，112L5A001B}{112年}
-\projitem{6.}{農場傳承之經濟分析——以臺灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}{112年}
-\projitem{5.}{農地資源與永續利用之決策評估，\href{https://www.grb.gov.tw/search/planDetail?id=14766648}{111農科-3.1.3-企-Q2(Z)}}{111年}
-\projitem{4.}{食物可及性、市場競爭與房價——以臺灣便利商店為例之實證，\href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}{111年}
-\projitem{3.}{臺灣農民職業災害保險之經濟分析，\href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}{110年}
+\projitem{6.}{農家繼承的經濟分析-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}{112年}
+\projitem{5.}{建立農地資源決策評估及永續利用，\href{https://www.grb.gov.tw/search/planDetail?id=14766648}{111農科-3.1.3-企-Q2(Z)}}{111年}
+\projitem{4.}{食品可及性與市場競爭對房價之影響--以台灣便利商店為例，\href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}{111年}
+\projitem{3.}{臺灣農民職業傷害保險制度的經濟分析，\href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}{110年}
 \projitem{2.}{農村再生計畫對農業勞動與休閒農業參與之影響，109農再-2.1.3-1.3-企-015}{109年}
-\projitem{1.}{共享經濟對臺灣農地價格之影響，\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}{109年}
+\projitem{1.}{共享經濟對農地價格之影響-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}{109年}
 ```
 
 # 審稿

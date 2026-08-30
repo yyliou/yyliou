@@ -151,7 +151,7 @@ Research Assistant \hfill \mbox{2021--2022}
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{1.}`{=latex}Does Metro Expansion Always Reduce Traffic Accidents? (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
+`\makebox[2.0em][l]{1.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
 
 ```{=latex}
 \end{hanglist}
