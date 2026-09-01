@@ -137,16 +137,6 @@ header-includes:
 
 `\makebox[2.0em][l]{2.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
 
-```{=latex}
-\end{hanglist}
-```
-
-### 撰稿中
-
-```{=latex}
-\begin{hanglist}
-```
-
 `\makebox[2.0em][l]{1.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Lee and Chang).
 
 ```{=latex}
