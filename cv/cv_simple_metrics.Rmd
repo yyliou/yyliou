@@ -148,16 +148,6 @@ Research Assistant \hfill \mbox{2021--2022}
 
 `\makebox[2.0em][l]{2.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
 
-```{=latex}
-\end{hanglist}
-```
-
-### In Preparation
-
-```{=latex}
-\begin{hanglist}
-```
-
 `\makebox[2.0em][l]{1.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
 
 ```{=latex}
