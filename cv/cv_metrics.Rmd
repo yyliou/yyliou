@@ -98,15 +98,14 @@ Research Assistant \hfill \mbox{2021--2022}
 
 `\makebox[2.0em][l]{2.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and D. R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
 
-`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{SSCI. JIF=6.8. \#24/627 (3.8\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended journal (Regional Studies \& Geography); NSTC-recommended journal (Management II); NTU Distinguished Journal}
+`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{SSCI. JIF=6.8. \#24/627 (3.8\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended journal (Regional Studies \& Geography); NSTC-recommended journal (Management II); NTU Distinguished Journal; NTU Highly Cited Publication (FWCI top 5\%)}
 
 ```{=latex}
 \end{hanglist}
 ```
 
 \vspace{2pt}
-\noindent\textit{\small Note: JIF and rankings are based on Clarivate JCR 2025 data (released June 2026); each journal is shown in its best-percentile category as \#rank/total.}\newline
-\noindent\zhunote{\normalfont Red}\textit{\small{} text marks NSTC-recommended international journals and NTU Distinguished and Outstanding Journals.}
+\noindent\textit{\small Note: JIF and rankings are based on Clarivate JCR 2025 data (released June 2026); each journal is shown in its best-percentile category as \#rank/total.}
 
 ## Work in Progress
 

@@ -92,15 +92,14 @@ Research Assistant \hfill \mbox{2021--2022}
 
 `\makebox[2.0em][l]{2.}`{=latex}Lee, T.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{SCIE, SSCI. JIF=4.6. \#7/92 (7.6\%) in Forestry (Q1).} \newline \zhunote{NTU Distinguished Journal}
 
-`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{SSCI. JIF=6.8. \#24/627 (3.8\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended journal (Regional Studies \& Geography); NSTC-recommended journal (Management II); NTU Distinguished Journal}
+`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{SSCI. JIF=6.8. \#24/627 (3.8\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended journal (Regional Studies \& Geography); NSTC-recommended journal (Management II); NTU Distinguished Journal; NTU Highly Cited Publication (FWCI top 5\%)}
 
 ```{=latex}
 \end{hanglist}
 ```
 
 \vspace{2pt}
-\noindent\textit{\small Note: JIF and rankings are based on Clarivate JCR 2025 data (released June 2026); each journal is shown in its best-percentile category as \#rank/total.}\newline
-\noindent\zhunote{\normalfont Red}\textit{\small{} text marks NSTC-recommended international journals and NTU Distinguished and Outstanding Journals.}
+\noindent\textit{\small Note: JIF and rankings are based on Clarivate JCR 2025 data (released June 2026); each journal is shown in its best-percentile category as \#rank/total.}
 
 ## Work in Progress
 
