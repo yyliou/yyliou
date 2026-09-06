@@ -27,7 +27,8 @@ sectionindent: "1.15in"
 sectionsep: "0.20in"
 sectionfont: "\\normalsize\\bfseries"
 
-mainfont: "源雲明體月"
+mainfont: "texgyrepagella-regular.otf"   # TeX Gyre Pagella，與英文版相同；中文仍用源雲明體月
+mainfontoptions: "Scale=1.0, BoldFont=texgyrepagella-bold.otf, ItalicFont=texgyrepagella-italic.otf, BoldItalicFont=texgyrepagella-bolditalic.otf"
 CJKmainfont: "源雲明體月"
 fontsize: 11pt
 linkcolor: cvlink
@@ -39,7 +40,7 @@ header-includes:
   - \newcommand{\jmetric}[1]{\textit{\small{}#1}}
   - \newcommand{\zhunote}[1]{\textcolor{zhu}{\small{}#1}}
   - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
-  - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-6.1em\relax}\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{5.6em}\raggedleft\mbox{#3}\end{minipage}\par\vspace{3pt}}
+  - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-7.6em\relax}\raggedright\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{7.1em}\raggedleft\mbox{#3}\end{minipage}\par\vspace{3pt}}
 ---
 
 ```{=latex}
@@ -48,19 +49,19 @@ header-includes:
 
 # 工作經歷
 
-國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill \mbox{108年-迄今}
+國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill \mbox{108 年–迄今}
 
-實踐大學國際企業英語學士學位學程，兼任講師 [[聘書](https://yyliou.github.io/yyliou/cv/doc/appointment-letters.pdf)] \hfill \mbox{113年-迄今}
+實踐大學國際企業英語學士學位學程，兼任講師 [[聘書](https://yyliou.github.io/yyliou/cv/doc/appointment-letters.pdf)] \hfill \mbox{113 年–迄今}
 
-國立臺灣大學生態工程研究中心，研究助理 \hfill \mbox{110年-111年}
+國立臺灣大學生態工程研究中心，研究助理 \hfill \mbox{110 年–111 年}
 
 # 學歷
 
-國立臺灣大學農業經濟學系，博士生 \hfill 111年-迄今 \newline 指導教授：張宏浩特聘教授
+國立臺灣大學農業經濟學系，博士生 \hfill 111 年–迄今 \newline 指導教授：張宏浩特聘教授
 
-國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110年 \newline GPA 4.19/4.3、年級排名 3/33 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-certificate-zh.pdf)] \newline 指導教授：張宏浩特聘教授、許耀文副教授
+國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110 年 \newline GPA 4.19/4.3、年級排名 3/33 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-certificate-zh.pdf)] \newline 指導教授：張宏浩特聘教授、許耀文副教授
 
-國立臺灣大學，政治學學士、農業經濟學學士 \hfill 108年 \newline GPA 3.74/4.3、年級排名 13/41 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/bs-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/bs-certificate-zh.pdf)]
+國立臺灣大學，政治學學士、農業經濟學學士 \hfill 108 年 \newline GPA 3.74/4.3、年級排名 13/41 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/bs-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/bs-certificate-zh.pdf)]
 
 # 著作
 
@@ -84,7 +85,7 @@ header-includes:
 
 `\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝2.4；經濟學第 196/627 名（前 31.3\%），Q2〕} \newline \textit{Earlier version presented at the 18th Congress of EAAE (2025) and the 19th EAEA International Convention (2024).}
 
-`\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *Singapore Economic Review*. Advance online publication. \newline \jmetric{〔SSCI、EconLit；JIF＝1.2；經濟學第 379/627 名（前 60.4\%），Q3〕}
+`\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication. \newline \jmetric{〔SSCI、EconLit；JIF＝1.2；經濟學第 379/627 名（前 60.4\%），Q3〕}
 
 `\makebox[2.0em][l]{4.}`{=latex}**Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝8.7；運輸學第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊}
 
@@ -99,7 +100,7 @@ header-includes:
 ```
 
 \vspace{2pt}
-\noindent\textit{\small 註：JIF 與排名依 Clarivate JCR 2025年資料（2026年6月發布）計算，領域取排名百分比最佳者，「第 名次／該領域期刊數」。}
+\noindent\textit{\small 註：JIF 與排名依 Clarivate JCR 2025 年資料（2026 年 6 月發布）計算；各期刊取排名百分比最佳之領域，以「名次／該領域期刊總數」表示。}
 
 ## **進行中研究**
 
@@ -177,7 +178,7 @@ header-includes:
 
 `\makebox[2.0em][l]{7.}`{=latex}**劉昱佑**、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。第十六屆國會國際學術研討會，臺北。
 
-`\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households\' Resource Allocation." International Conference on Agricultural and Environmental Economics (2023), Taipei.
+`\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." International Conference on Agricultural and Environmental Economics (2023), Taipei.
 
 `\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.** 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students (2023), Taipei.
 
@@ -198,28 +199,28 @@ header-includes:
 張宏浩特聘教授研究團隊研究助理，國立臺灣大學農業經濟學系
 
 ```{=latex}
-\projitem{22.}{專門職業(律師、會計師、建築師及技師)與市場競爭—回顧與前瞻，\href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{115年}
-\projitem{21.}{溫室氣體自願減量制度精進與自然碳匯量能培力}{115年}
-\projitem{20.}{因應淨零政策之食農體系的調適與建議( III )，\href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{115年}
-\projitem{19.}{漁電共生政策對農地價格之影響-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{115年}
-\projitem{18.}{研析我國推動增匯策略措施之成本與政策建議-以土壤最佳生產模組案例分析，\href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}{114年}
-\projitem{17.}{因應國土計畫政策之農地價格指數應用分析，113農基金-永續-11}{114年}
-\projitem{16.}{因應淨零政策之食農體系的調適與建議( II )，\href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}{114年}
-\projitem{15.}{農業工作者在人力工作媒合平台的勞動供給-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}{113年-114年}
-\projitem{14.}{建構有機農業生態系服務架構：蔬菜與稻米之價值調查與量化模型，113農再-2.2.2-1.5-糧-004}{113年}
-\projitem{13.}{研析我國推動增匯策略措施之成本與政策建議，\href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}{113年}
-\projitem{12.}{電動車產業政策與競爭法規範之研究，\href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}{113年}
-\projitem{11.}{利用農業副資材作為投入之循環經濟分析(子計畫七)，\href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}{113年}
-\projitem{10.}{因應淨零政策之食農體系的調適與建議( I )，\href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}{113年}
-\projitem{9.}{我國推動增匯策略措施之成本評估與政策建議，\href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}{112年}
-\projitem{8.}{農地永續利用決策之農地價格指數評估與建立，112農基金-1.1-企-10-(2)}{112年}
-\projitem{7.}{大學社會責任實踐計畫：「攜手雲林——深化重點農業地區產業鏈結」，112L5A001B}{112年}
-\projitem{6.}{農家繼承的經濟分析-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}{112年}
-\projitem{5.}{建立農地資源決策評估及永續利用，\href{https://www.grb.gov.tw/search/planDetail?id=14766648}{111農科-3.1.3-企-Q2(Z)}}{111年}
-\projitem{4.}{食品可及性與市場競爭對房價之影響--以台灣便利商店為例，\href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}{111年}
-\projitem{3.}{臺灣農民職業傷害保險制度的經濟分析，\href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}{110年}
-\projitem{2.}{農村再生計畫對農業勞動與休閒農業參與之影響，109農再-2.1.3-1.3-企-015}{109年}
-\projitem{1.}{共享經濟對農地價格之影響-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}{109年}
+\projitem{22.}{專門職業(律師、會計師、建築師及技師)與市場競爭—回顧與前瞻，\href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{115 年}
+\projitem{21.}{溫室氣體自願減量制度精進與自然碳匯量能培力}{115 年}
+\projitem{20.}{因應淨零政策之食農體系的調適與建議( III )，\href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{115 年}
+\projitem{19.}{漁電共生政策對農地價格之影響-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{115 年}
+\projitem{18.}{研析我國推動增匯策略措施之成本與政策建議-以土壤最佳生產模組案例分析，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}}{114 年}
+\projitem{17.}{因應國土計畫政策之農地價格指數應用分析，\mbox{113農基金-永續-11}}{114 年}
+\projitem{16.}{因應淨零政策之食農體系的調適與建議( II )，\href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}{114 年}
+\projitem{15.}{農業工作者在人力工作媒合平台的勞動供給-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}{113 年–114 年}
+\projitem{14.}{建構有機農業生態系服務架構：蔬菜與稻米之價值調查與量化模型，\mbox{113農再-2.2.2-1.5-糧-004}}{113 年}
+\projitem{13.}{研析我國推動增匯策略措施之成本與政策建議，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}}{113 年}
+\projitem{12.}{電動車產業政策與競爭法規範之研究，\href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}{113 年}
+\projitem{11.}{利用農業副資材作為投入之循環經濟分析(子計畫七)，\href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}{113 年}
+\projitem{10.}{因應淨零政策之食農體系的調適與建議( I )，\href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}{113 年}
+\projitem{9.}{我國推動增匯策略措施之成本評估與政策建議，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}}{112 年}
+\projitem{8.}{農地永續利用決策之農地價格指數評估與建立，\mbox{112農基金-1.1-企-10-(2)}}{112 年}
+\projitem{7.}{大學社會責任實踐計畫：「攜手雲林——深化重點農業地區產業鏈結」，112L5A001B}{112 年}
+\projitem{6.}{農家繼承的經濟分析-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}{112 年}
+\projitem{5.}{建立農地資源決策評估及永續利用，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=14766648}{111農科-3.1.3-企-Q2(Z)}}}{111 年}
+\projitem{4.}{食品可及性與市場競爭對房價之影響--以台灣便利商店為例，\href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}{111 年}
+\projitem{3.}{臺灣農民職業傷害保險制度的經濟分析，\href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}{110 年}
+\projitem{2.}{農村再生計畫對農業勞動與休閒農業參與之影響，\mbox{109農再-2.1.3-1.3-企-015}}{109 年}
+\projitem{1.}{共享經濟對農地價格之影響-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}{109 年}
 ```
 
 # 審稿
@@ -228,44 +229,44 @@ header-includes:
 
 # 獲獎
 
-國家科學及技術委員會，博士生研究獎學金 \hfill \mbox{111年-115年}
+國家科學及技術委員會，博士生研究獎學金 \hfill \mbox{111 年–115 年}
 
-國立臺灣大學生物資源暨農學院，114學年度學生學術論文獎 \hfill \mbox{115年}
+國立臺灣大學生物資源暨農學院，114 學年度學生學術論文獎 \hfill \mbox{115 年}
 
-國立臺灣大學生物資源暨農學院，114學年度中環傑出學生研究獎 \hfill \mbox{115年}
+國立臺灣大學生物資源暨農學院，114 學年度中環傑出學生研究獎 \hfill \mbox{115 年}
 
-實踐大學，全英語授課獎勵 \hfill \mbox{114年}
+實踐大學，全英語授課獎勵 \hfill \mbox{114 年}
 
-國家科學及技術委員會，補助國內研究生出席國際學術會議 \hfill \mbox{114年}
+國家科學及技術委員會，補助國內研究生出席國際學術會議 \hfill \mbox{114 年}
 
-社團法人國立臺灣大學農業經濟學系全國系友會，母系學生出國參與學術研討會補助獎學金 \hfill \mbox{114年}
+社團法人國立臺灣大學農業經濟學系全國系友會，母系學生出國參與學術研討會補助獎學金 \hfill \mbox{114 年}
 
-國家政策研究基金會，孫運璿紀念獎學金 \hfill \mbox{112年}
+國家政策研究基金會，孫運璿紀念獎學金 \hfill \mbox{112 年}
 
-中華民國陸軍澎湖防衛指揮部，績優退伍人員 \hfill \mbox{111年}
+中華民國陸軍澎湖防衛指揮部，績優退伍人員 \hfill \mbox{111 年}
 
-國立臺灣大學，利他獎 \hfill \mbox{108年}
+國立臺灣大學，利他獎 \hfill \mbox{108 年}
 
 # 教學
 
 實踐大學，兼任講師（全英語授課）
 
-[統計學 I & II](https://yyliou.github.io/stat)
-\newline 113學年上學期 4.40/5、113學年下學期 4.62/5、114學年上學期 4.57/5、114學年下學期 4.64/5、115學年上學期（待公布）
+[統計學 (1) & (2)](https://yyliou.github.io/stat)
+\newline 113 學年上學期 4.40/5、113 學年下學期 4.62/5、114 學年上學期 4.57/5、114 學年下學期 4.64/5、115 學年上學期（待公布）
 
 [資料分析](https://yyliou.github.io/da)
-\newline 113學年上學期 4.52/5、114學年上學期 4.58/5、115學年上學期（待公布）
+\newline 113 學年上學期 4.52/5、114 學年上學期 4.58/5、115 學年上學期（待公布）
 
 [應用程式設計](https://yyliou.github.io/pa)
-\newline 112學年下學期 4.47/5、113學年下學期 4.67/5、114學年下學期 4.52/5
+\newline 112 學年下學期 4.47/5、113 學年下學期 4.67/5、114 學年下學期 4.52/5
 
 國立臺灣大學，教學助理
 
-農業政策與績效評估（張宏浩特聘教授） \hfill \mbox{112學年下學期、115學年上學期}
+農業政策與績效評估（張宏浩特聘教授） \hfill \mbox{112 學年下學期、115 學年上學期}
 
-農業法規甲（陳政位副教授） \hfill \mbox{110學年下學期}
+農業法規甲（陳政位副教授） \hfill \mbox{110 學年下學期}
 
-數量方法（張宏浩特聘教授） \hfill \mbox{108學年下學期}
+數量方法（張宏浩特聘教授） \hfill \mbox{108 學年下學期}
 
 # 技能
 
