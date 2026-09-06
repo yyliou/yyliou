@@ -41,6 +41,8 @@ header-includes:
   - \newcommand{\zhunote}[1]{\textcolor{zhu}{\small{}#1}}
   - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
   - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-7.6em\relax}\raggedright\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{7.1em}\raggedleft\mbox{#3}\end{minipage}\par\vspace{3pt}}
+  # \hfillbreak：右欄年份在同一行塞不下時，換到下一行仍靠右對齊（一般情況與 \hfill 相同）
+  - \newcommand{\hfillbreak}{\hfill\penalty0\mbox{}\nobreak\hfill}
 ---
 
 ```{=latex}
@@ -239,7 +241,7 @@ header-includes:
 
 國家科學及技術委員會，補助國內研究生出席國際學術會議 \hfill \mbox{114 年}
 
-社團法人國立臺灣大學農業經濟學系全國系友會，母系學生出國參與學術研討會補助獎學金 \hfill \mbox{114 年}
+社團法人國立臺灣大學農業經濟學系全國系友會，母系學生出國參與學術研討會補助獎學金 \hfillbreak \mbox{114 年}
 
 國家政策研究基金會，孫運璿紀念獎學金 \hfill \mbox{112 年}
 
