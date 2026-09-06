@@ -133,6 +133,8 @@ header-includes:
 
 `\makebox[2.0em][l]{5.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Chang and Zilberman). \newline \textit{Earlier version presented at the 7th World Congress of Environmental and Resource Economists (2026).}
 
+`\makebox[2.0em][l]{4.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
+
 ```{=latex}
 \end{hanglist}
 ```
@@ -143,9 +145,7 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{4.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang). \newline \textit{Earlier version presented at the AAEA Annual Meeting (2026).}
-
-`\makebox[2.0em][l]{3.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
+`\makebox[2.0em][l]{3.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang). \newline \textit{Earlier version presented at the AAEA Annual Meeting (2026).}
 
 `\makebox[2.0em][l]{2.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
 
