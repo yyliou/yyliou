@@ -193,35 +193,6 @@ Research Assistant \hfill \mbox{2021--2022}
 \end{hanglist}
 ```
 
-# Research Projects
-
-Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics, National Taiwan University.
-
-```{=latex}
-\projitem{22.}{Market Competition and Regulation of Professional Services --- A Retrospective and Prospective Analysis of Lawyers, Accountants, Architects, and Engineers, \href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{2026}
-\projitem{21.}{Enhancement of the Greenhouse Gas Voluntary Reduction System and Capacity Building for Natural Carbon Sinks}{2026}
-\projitem{20.}{Adaptation of Food and Agricultural System to Net Zero Policies (III), \href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{2026}
-\projitem{19.}{The Impact of Aquavoltaics Policy on Farmland Price --- the Case of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{2026}
-\projitem{18.}{Policy Cost-Benefit Analysis and Strategic Recommendations for Enhancing Carbon Sink Capacity in Taiwan: A Case Study on Soil-Optimized Agricultural Production Models, \href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}{2025}
-\projitem{17.}{Applied Analysis of the Farmland Price Index in Response to the National Land Planning Policy, 113農基金-永續-11}{2025}
-\projitem{16.}{Adaptation of Food and Agricultural System to Net Zero Policies (II), \href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}{2025}
-\projitem{15.}{Farm Labor Supply in Online Job-Matching Platforms --- the Case of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}{2024--2025}
-\projitem{14.}{Establishing a Framework for Ecosystem Services in Organic Agriculture: Value Investigation and Quantification Model for Vegetables and Rice, 113農再-2.2.2-1.5-糧-004}{2024}
-\projitem{13.}{Cost Assessments and Policy Suggestions for Carbon-Sink-Increasing Strategies in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}{2024}
-\projitem{12.}{Research on Electric Vehicle Industry Policies and Competition Law Regulations, \href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}{2024}
-\projitem{11.}{Economic Evaluation of Circular Economy Using Agricultural By-Products, \href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}{2024}
-\projitem{10.}{Adaptation of Food and Agricultural System to Net Zero Policies (I), \href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}{2024}
-\projitem{9.}{Cost Assessments and Policy Suggestions for Carbon-Sink-Increasing Strategies in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}{2023}
-\projitem{8.}{Evaluation and Establishment of Farmland Price Indices for Decision-making on Sustainable Farmland Use, 112農基金-1.1-企-10-(2)}{2023}
-\projitem{7.}{University Social Responsibility Program: ``Partnership with Yunlin --- Deepening Industrial Linkages in Key Agricultural Areas'', 112L5A001B}{2023}
-\projitem{6.}{Economic Analysis of Farm Succession --- a Case Study of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}{2023}
-\projitem{5.}{Decision Evaluation of Farmland Resources and Sustainable Uses, \href{https://www.grb.gov.tw/search/planDetail?id=14766648}{111農科-3.1.3-企-Q2(Z)}}{2022}
-\projitem{4.}{Food Accessibility, Market Competition and Housing Prices --- Empirical Evidence of Convenience Stores in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}{2022}
-\projitem{3.}{Economic Analysis of Farmer Occupational Injury Insurance Program in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}{2021}
-\projitem{2.}{Impact of Rural Regeneration Programs on Farm Labor and Leisure Agriculture Participation, 109農再-2.1.3-1.3-企-015}{2020}
-\projitem{1.}{Impact of Sharing Economy on Farmland Price in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}{2020}
-```
-
 # Referee Activities
 
 [*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (5); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (2); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1).
@@ -266,6 +237,35 @@ Agricultural Policy and Performance Evaluation (Prof. Chang) \hfill \mbox{Spring
 Agricultural Regulations (A) (Prof. Chen) \hfill \mbox{Spring 2022}
 
 Quantitative Method (Prof. Chang) \hfill \mbox{Spring 2020}
+
+# Research Projects
+
+Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics, National Taiwan University.
+
+```{=latex}
+\projitem{22.}{Market Competition and Regulation of Professional Services --- A Retrospective and Prospective Analysis of Lawyers, Accountants, Architects, and Engineers, \href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{2026}
+\projitem{21.}{Enhancement of the Greenhouse Gas Voluntary Reduction System and Capacity Building for Natural Carbon Sinks}{2026}
+\projitem{20.}{Adaptation of Food and Agricultural System to Net Zero Policies (III), \href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{2026}
+\projitem{19.}{The Impact of Aquavoltaics Policy on Farmland Price --- the Case of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{2026}
+\projitem{18.}{Policy Cost-Benefit Analysis and Strategic Recommendations for Enhancing Carbon Sink Capacity in Taiwan: A Case Study on Soil-Optimized Agricultural Production Models, \href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}{2025}
+\projitem{17.}{Applied Analysis of the Farmland Price Index in Response to the National Land Planning Policy, 113農基金-永續-11}{2025}
+\projitem{16.}{Adaptation of Food and Agricultural System to Net Zero Policies (II), \href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}{2025}
+\projitem{15.}{Farm Labor Supply in Online Job-Matching Platforms --- the Case of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}{2024--2025}
+\projitem{14.}{Establishing a Framework for Ecosystem Services in Organic Agriculture: Value Investigation and Quantification Model for Vegetables and Rice, 113農再-2.2.2-1.5-糧-004}{2024}
+\projitem{13.}{Cost Assessments and Policy Suggestions for Carbon-Sink-Increasing Strategies in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}{2024}
+\projitem{12.}{Research on Electric Vehicle Industry Policies and Competition Law Regulations, \href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}{2024}
+\projitem{11.}{Economic Evaluation of Circular Economy Using Agricultural By-Products, \href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}{2024}
+\projitem{10.}{Adaptation of Food and Agricultural System to Net Zero Policies (I), \href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}{2024}
+\projitem{9.}{Cost Assessments and Policy Suggestions for Carbon-Sink-Increasing Strategies in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}{2023}
+\projitem{8.}{Evaluation and Establishment of Farmland Price Indices for Decision-making on Sustainable Farmland Use, 112農基金-1.1-企-10-(2)}{2023}
+\projitem{7.}{University Social Responsibility Program: ``Partnership with Yunlin --- Deepening Industrial Linkages in Key Agricultural Areas'', 112L5A001B}{2023}
+\projitem{6.}{Economic Analysis of Farm Succession --- a Case Study of Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}{2023}
+\projitem{5.}{Decision Evaluation of Farmland Resources and Sustainable Uses, \href{https://www.grb.gov.tw/search/planDetail?id=14766648}{111農科-3.1.3-企-Q2(Z)}}{2022}
+\projitem{4.}{Food Accessibility, Market Competition and Housing Prices --- Empirical Evidence of Convenience Stores in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}{2022}
+\projitem{3.}{Economic Analysis of Farmer Occupational Injury Insurance Program in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}{2021}
+\projitem{2.}{Impact of Rural Regeneration Programs on Farm Labor and Leisure Agriculture Participation, 109農再-2.1.3-1.3-企-015}{2020}
+\projitem{1.}{Impact of Sharing Economy on Farmland Price in Taiwan, \href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}{2020}
+```
 
 # Skills
 
