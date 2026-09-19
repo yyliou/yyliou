@@ -243,6 +243,7 @@ Quantitative Method (Prof. Chang) \hfill \mbox{Spring 2020}
 Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics, National Taiwan University.
 
 ```{=latex}
+\projitem{23.}{Strategies for Promoting the Net-Zero Transition of Organic Agriculture in the Hualien--Taitung Region}{2026}
 \projitem{22.}{Market Competition and Regulation of Professional Services --- A Retrospective and Prospective Analysis of Lawyers, Accountants, Architects, and Engineers, \href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{2026}
 \projitem{21.}{Enhancement of the Greenhouse Gas Voluntary Reduction System and Capacity Building for Natural Carbon Sinks}{2026}
 \projitem{20.}{Adaptation of Food and Agricultural System to Net Zero Policies (III), \href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{2026}
