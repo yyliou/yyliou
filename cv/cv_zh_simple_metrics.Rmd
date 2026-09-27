@@ -40,6 +40,7 @@ header-includes:
   - \newcommand{\jmetric}[1]{\textit{\small{}#1}}
   - \newcommand{\zhunote}[1]{\textcolor{zhu}{\small{}#1}}
   - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
+  - \newcommand{\hangitem}[1]{\noindent\hangindent=2.0em\hangafter=1\makebox[2.0em][l]{#1}}
   - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-7.6em\relax}\raggedright\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{7.1em}\raggedleft\mbox{#3}\end{minipage}\par\vspace{3pt}}
   # \hfillbreak：右欄年份在同一行塞不下時，換到下一行仍靠右對齊（一般情況與 \hfill 相同）
   - \newcommand{\hfillbreak}{\hfill\penalty0\mbox{}\nobreak\hfill}
@@ -49,14 +50,6 @@ header-includes:
 {\raggedleft\small[\href{https://yyliou.github.io/yyliou/cv/cv_simple_metrics.pdf}{English version}]\par}
 ```
 
-# 工作經歷
-
-國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill \mbox{108 年–迄今}
-
-實踐大學國際企業英語學士學位學程，兼任講師 [[聘書](https://yyliou.github.io/yyliou/cv/doc/appointment-letters.pdf)] \hfill \mbox{113 年–迄今}
-
-國立臺灣大學生態工程研究中心，研究助理 \hfill \mbox{110 年–111 年}
-
 # 學歷
 
 國立臺灣大學農業經濟學系，博士生 \hfill 111 年–迄今 \newline 指導教授：張宏浩特聘教授
@@ -64,6 +57,20 @@ header-includes:
 國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110 年 \newline GPA 4.19/4.3、年級排名 3/33 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-certificate-zh.pdf)] \newline 指導教授：張宏浩特聘教授、許耀文副教授
 
 國立臺灣大學，政治學學士、農業經濟學學士 \hfill 108 年 \newline GPA 3.74/4.3、年級排名 13/41 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/bs-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/bs-certificate-zh.pdf)]
+
+# 工作經歷
+
+國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill \mbox{108 年–迄今}
+
+國立臺灣大學農業零碳技術與管理創新研究中心，研究助理 \hfill \mbox{113 年–迄今}
+
+實踐大學國際企業英語學士學位學程，兼任講師 [[聘書](https://yyliou.github.io/yyliou/cv/doc/appointment-letters.pdf)] \hfill \mbox{113 年–迄今}
+
+國立臺灣大學生態工程研究中心，研究助理 \hfill \mbox{110 年–111 年}
+
+# 研究領域
+
+農業經濟學、環境與資源經濟學、運輸經濟學、區域研究、不動產價格分析
 
 # 著作
 
@@ -73,23 +80,23 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{9.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI、EconLit；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕} \newline \zhunote{臺大優良期刊} \newline \textit{\href{https://ssrn.com/abstract=4984614}{Earlier version} presented at the 20th EAEA International Convention (2025), the 99th Annual Conference of WEAI (2024), and the 11th Annual Conference of the IAAE (2024).}
+`\makebox[2.0em][l]{9.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI、EconLit；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕}
 
-`\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{臺大傑出期刊}
+`\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕}
 
-`\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動第 29/141 名（前 20.6\%），Q1〕} \newline \textit{Earlier version presented at the 19th EAEA International Convention (2024).}
+`\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動第 29/141 名（前 20.6\%），Q1〕}
 
-`\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊} \newline \textit{Earlier version presented at the 20th EAEA International Convention (2025).}
+`\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊}
 
-`\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝2.4；經濟學第 196/627 名（前 31.3\%），Q2〕} \newline \textit{Earlier version presented at the 18th Congress of EAAE (2025) and the 19th EAEA International Convention (2024).}
+`\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝2.4；經濟學第 196/627 名（前 31.3\%），Q2〕}
 
 `\makebox[2.0em][l]{4.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication. \newline \jmetric{〔SSCI、EconLit；JIF＝1.2；經濟學第 379/627 名（前 60.4\%），Q3〕}
 
-`\makebox[2.0em][l]{3.}`{=latex}**Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝8.7；運輸學第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊}
+`\makebox[2.0em][l]{3.}`{=latex}**Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝8.7；運輸學第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊}
 
-`\makebox[2.0em][l]{2.}`{=latex}Lee, T.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{〔SCIE、SSCI；JIF＝4.6；林學第 7/92 名（前 7.6\%），Q1〕} \newline \zhunote{臺大傑出期刊}
+`\makebox[2.0em][l]{2.}`{=latex}Lee, T.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{〔SCIE、SSCI；JIF＝4.6；林學第 7/92 名（前 7.6\%），Q1〕}
 
-`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{〔SSCI；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊、臺大傑出期刊、臺大高被引著作（FWCI 前 5\%）}
+`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{〔SSCI；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊}
 
 ```{=latex}
 \end{hanglist}
@@ -106,11 +113,11 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{11.}`{=latex}Does the Development of Aquavoltaics Production Affect Farmland Price? (with Chang). \newline \textit{Earlier version presented at the 17th CAER-IFPRI Annual Conference (2025).}
+`\makebox[2.0em][l]{11.}`{=latex}Does the Development of Aquavoltaics Production Affect Farmland Price? (with Chang).
 
 `\makebox[2.0em][l]{10.}`{=latex}The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Chang).
 
-`\makebox[2.0em][l]{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Chang and Wu). \newline \textit{Earlier version presented at the 12th ASAE International Conference (2026).}
+`\makebox[2.0em][l]{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Chang and Wu).
 
 `\makebox[2.0em][l]{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Chang).
 
@@ -124,15 +131,15 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{7.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
+`\makebox[2.0em][l]{7.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Chang).
 
 `\makebox[2.0em][l]{6.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Chang and Sun).
 
-`\makebox[2.0em][l]{5.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Chang and Zilberman). \newline \textit{Earlier version presented at the 7th World Congress of Environmental and Resource Economists (2026).}
+`\makebox[2.0em][l]{5.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Chang and Zilberman).
 
-`\makebox[2.0em][l]{4.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Chang). \newline \textit{Earlier version presented at the 21st EAEA International Convention (2026).}
+`\makebox[2.0em][l]{4.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Chang).
 
-`\makebox[2.0em][l]{3.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang). \newline \textit{Earlier version presented at the AAEA Annual Meeting (2026).}
+`\makebox[2.0em][l]{3.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang).
 
 `\makebox[2.0em][l]{2.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
 
@@ -156,28 +163,45 @@ header-includes:
 \end{hanglist}
 ```
 
-## **其他研討會論文**
+# 研討會\newline 論文發表
+
+`\hangitem{17.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and D. Zilberman. 2026. "Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy." 7th World Congress of Environmental and Resource Economists (2026).
+
+`\hangitem{16.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms." AAEA Annual Meeting (2026).
+
+`\hangitem{15.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2025. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 20th EAEA International Convention (2025).
+
+`\hangitem{14.}`{=latex}**Liou, Y.-Y.**`\mbox{*}`{=latex} and H.-H. Chang. 2025. "The causal effects of removing Hook-Turn regulation on road safety." 20th EAEA International Convention (2025).
+
+`\hangitem{13.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "Rooftop Solar Energy Adoption and Farm Revenue." 18th Congress of EAAE (2025).
+
+`\hangitem{12.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2025. "Does the Development of Aquavoltaics Production Affect Farmland Price?" 17th CAER-IFPRI Annual Conference (2025).
+
+`\hangitem{11.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 99th Annual Conference of WEAI (2024).
+
+`\hangitem{10.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 11th Annual Conference of the IAAE (2024).
+
+`\hangitem{9.}`{=latex}**Liou, Y.-Y.**`\mbox{*}`{=latex} and H.-H. Chang. 2024. "Superstition and Car Accidents -- The Case Study of the Dajia Mazu Pilgrimage Event in Taiwan." 19th EAEA International Convention (2024).
+
+`\hangitem{8.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2024. "Rooftop Solar Energy Adoption and Farm Revenue." 19th EAEA International Convention (2024).
+
+`\hangitem{7.}`{=latex}**劉昱佑**`\mbox{*}`{=latex}、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。第十六屆國會國際學術研討會，臺北。
+
+`\hangitem{6.}`{=latex}**Liou, Y.-Y.**`\mbox{*}`{=latex} and H.-H. Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." International Conference on Agricultural and Environmental Economics (2023), Taipei.
+
+`\hangitem{5.}`{=latex}**Liou, Y.-Y.**`\mbox{*}`{=latex} 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students (2023), Taipei.
+
+`\hangitem{4.}`{=latex}**劉昱佑**`\mbox{*}`{=latex}（2023）。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。第十五屆國會國際學術研討會，臺北。
+
+`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**（2023）。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。第十五屆國會國際學術研討會，臺北。
+
+`\hangitem{2.}`{=latex}**劉昱佑**`\mbox{*}`{=latex}、張宏浩（2020）。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。2020 年臺灣農村經濟學會年會暨學術研討會，臺北。
+
+`\hangitem{1.}`{=latex}**劉昱佑**`\mbox{*}`{=latex}、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。2019 年生產力與效率學術研討會，臺北。
 
 ```{=latex}
-\begin{hanglist}
-```
-
-`\makebox[2.0em][l]{7.}`{=latex}**劉昱佑**、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。第十六屆國會國際學術研討會，臺北。
-
-`\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." International Conference on Agricultural and Environmental Economics (2023), Taipei.
-
-`\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.** 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students (2023), Taipei.
-
-`\makebox[2.0em][l]{4.}`{=latex}**劉昱佑**（2023）。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。第十五屆國會國際學術研討會，臺北。
-
-`\makebox[2.0em][l]{3.}`{=latex}何驊哲、**劉昱佑**（2023）。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。第十五屆國會國際學術研討會，臺北。
-
-`\makebox[2.0em][l]{2.}`{=latex}**劉昱佑**、張宏浩（2020）。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。2020 年臺灣農村經濟學會年會暨學術研討會，臺北。
-
-`\makebox[2.0em][l]{1.}`{=latex}**劉昱佑**、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。2019 年生產力與效率學術研討會，臺北。
-
-```{=latex}
-\end{hanglist}
+\vspace{2pt}
+\noindent\textit{\small 註：標 * 者為本人口頭報告。}
 ```
 
 # 審稿
@@ -208,14 +232,18 @@ header-includes:
 
 實踐大學，兼任講師（全英語授課）
 
-[統計學 (1) & (2)](https://yyliou.github.io/stat)
-\newline 113 學年上學期 4.40/5、113 學年下學期 4.62/5、114 學年上學期 4.57/5、114 學年下學期 4.64/5、115 學年上學期（待公布）
-
-[資料分析](https://yyliou.github.io/da)
-\newline 113 學年上學期 4.52/5、114 學年上學期 4.58/5、115 學年上學期（待公布）
-
-[應用程式設計](https://yyliou.github.io/pa)
-\newline 112 學年下學期 4.47/5、113 學年下學期 4.67/5、114 學年下學期 4.52/5
+```{=latex}
+\nopagebreak
+\noindent{\small\renewcommand{\arraystretch}{1.1}%
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}l*{6}{c}@{}}
+教學評鑑（滿分 5 分） & \multicolumn{1}{c}{112 學年} & \multicolumn{2}{c}{113 學年} & \multicolumn{2}{c}{114 學年} & \multicolumn{1}{c@{}}{115 學年} \\
+ & 下學期 & 上學期 & 下學期 & 上學期 & 下學期 & 上學期 \\
+\noalign{\vskip 2pt}\hline\noalign{\vskip 2pt}
+\href{https://yyliou.github.io/stat}{統計學 (1) \& (2)} & -- & 4.40 & 4.62 & 4.57 & 4.64 & 待公布 \\
+\href{https://yyliou.github.io/da}{資料分析} & -- & 4.52 & -- & 4.58 & -- & 待公布 \\
+\href{https://yyliou.github.io/pa}{應用程式設計} & 4.47 & -- & 4.67 & -- & 4.52 & -- \\
+\end{tabular*}}\par\vspace{3pt}
+```
 
 國立臺灣大學，教學助理
 
@@ -223,36 +251,36 @@ header-includes:
 
 農業法規甲（陳政位副教授） \hfill \mbox{110 學年下學期}
 
-數量方法（張宏浩特聘教授） \hfill \mbox{108 學年下學期}
+數量方法（張宏浩特聘教授，全英語授課） \hfill \mbox{108 學年下學期}
 
 # 研究計畫
 
 張宏浩特聘教授研究團隊研究助理，國立臺灣大學農業經濟學系
 
 ```{=latex}
-\projitem{23.}{推動花東地區有機農業淨零轉型策略}{115 年}
-\projitem{22.}{專門職業(律師、會計師、建築師及技師)與市場競爭—回顧與前瞻，\href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}{115 年}
-\projitem{21.}{溫室氣體自願減量制度精進與自然碳匯量能培力}{115 年}
-\projitem{20.}{因應淨零政策之食農體系的調適與建議( III )，\href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}{115 年}
-\projitem{19.}{漁電共生政策對農地價格之影響-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}{115 年}
-\projitem{18.}{研析我國推動增匯策略措施之成本與政策建議-以土壤最佳生產模組案例分析，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}}{114 年}
-\projitem{17.}{因應國土計畫政策之農地價格指數應用分析，\mbox{113農基金-永續-11}}{114 年}
-\projitem{16.}{因應淨零政策之食農體系的調適與建議( II )，\href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}{114 年}
-\projitem{15.}{農業工作者在人力工作媒合平台的勞動供給-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}{113 年–114 年}
-\projitem{14.}{建構有機農業生態系服務架構：蔬菜與稻米之價值調查與量化模型，\mbox{113農再-2.2.2-1.5-糧-004}}{113 年}
-\projitem{13.}{研析我國推動增匯策略措施之成本與政策建議，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}}{113 年}
-\projitem{12.}{電動車產業政策與競爭法規範之研究，\href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}{113 年}
-\projitem{11.}{利用農業副資材作為投入之循環經濟分析(子計畫七)，\href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}{113 年}
-\projitem{10.}{因應淨零政策之食農體系的調適與建議( I )，\href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}{113 年}
-\projitem{9.}{我國推動增匯策略措施之成本評估與政策建議，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}}{112 年}
-\projitem{8.}{農地永續利用決策之農地價格指數評估與建立，\mbox{112農基金-1.1-企-10-(2)}}{112 年}
-\projitem{7.}{大學社會責任實踐計畫：「攜手雲林——深化重點農業地區產業鏈結」，112L5A001B}{112 年}
-\projitem{6.}{農家繼承的經濟分析-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}{112 年}
-\projitem{5.}{建立農地資源決策評估及永續利用，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=14766648}{111農科-3.1.3-企-Q2(Z)}}}{111 年}
-\projitem{4.}{食品可及性與市場競爭對房價之影響--以台灣便利商店為例，\href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}{111 年}
-\projitem{3.}{臺灣農民職業傷害保險制度的經濟分析，\href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}{110 年}
-\projitem{2.}{農村再生計畫對農業勞動與休閒農業參與之影響，\mbox{109農再-2.1.3-1.3-企-015}}{109 年}
-\projitem{1.}{共享經濟對農地價格之影響-以台灣為例，\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}{109 年}
+\projitem{23.}{推動花東地區有機農業淨零轉型策略，\mbox{農業部農糧署}}{115 年}
+\projitem{22.}{專門職業(律師、會計師、建築師及技師)與市場競爭—回顧與前瞻，\mbox{公平交易委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}}{115 年}
+\projitem{21.}{溫室氣體自願減量制度精進與自然碳匯量能培力，\mbox{環境部氣候變遷署}}{115 年}
+\projitem{20.}{因應淨零政策之食農體系的調適與建議( III )，\mbox{國家科學及技術委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}}{115 年}
+\projitem{19.}{漁電共生政策對農地價格之影響-以台灣為例，\mbox{國家科學及技術委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}}{115 年}
+\projitem{18.}{研析我國推動增匯策略措施之成本與政策建議-以土壤最佳生產模組案例分析，\mbox{農業部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}}{114 年}
+\projitem{17.}{因應國土計畫政策之農地價格指數應用分析，\mbox{農業部}，\mbox{113農基金-永續-11}}{114 年}
+\projitem{16.}{因應淨零政策之食農體系的調適與建議( II )，\mbox{國家科學及技術委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}}{114 年}
+\projitem{15.}{農業工作者在人力工作媒合平台的勞動供給-以台灣為例，\mbox{國家科學及技術委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}}{113 年–114 年}
+\projitem{14.}{建構有機農業生態系服務架構：蔬菜與稻米之價值調查與量化模型，\mbox{農業部}，\mbox{113農再-2.2.2-1.5-糧-004}}{113 年}
+\projitem{13.}{研析我國推動增匯策略措施之成本與政策建議，\mbox{農業部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}}{113 年}
+\projitem{12.}{電動車產業政策與競爭法規範之研究，\mbox{公平交易委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}}{113 年}
+\projitem{11.}{利用農業副資材作為投入之循環經濟分析(子計畫七)，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}}{113 年}
+\projitem{10.}{因應淨零政策之食農體系的調適與建議( I )，\mbox{國家科學及技術委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}}{113 年}
+\projitem{9.}{我國推動增匯策略措施之成本評估與政策建議，\mbox{行政院農業委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}}{112 年}
+\projitem{8.}{農地永續利用決策之農地價格指數評估與建立，\mbox{行政院農業委員會}，\mbox{112農基金-1.1-企-10-(2)}}{112 年}
+\projitem{7.}{大學社會責任實踐計畫：「攜手雲林——深化重點農業地區產業鏈結」，\mbox{教育部}，\mbox{112L5A001B}}{112 年}
+\projitem{6.}{農家繼承的經濟分析-以台灣為例，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}}{112 年}
+\projitem{5.}{建立農地資源決策評估及永續利用，\mbox{行政院農業委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=14766648}{111農科-3.1.3-企-Q2(Z)}}}{111 年}
+\projitem{4.}{食品可及性與市場競爭對房價之影響--以台灣便利商店為例，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}}{111 年}
+\projitem{3.}{臺灣農民職業傷害保險制度的經濟分析，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}}{110 年}
+\projitem{2.}{農村再生計畫對農業勞動與休閒農業參與之影響，\mbox{行政院農業委員會}，\mbox{109農再-2.1.3-1.3-企-015}}{109 年}
+\projitem{1.}{共享經濟對農地價格之影響-以台灣為例，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}}{109 年}
 ```
 
 # 技能
@@ -260,9 +288,3 @@ header-includes:
 語言：英語（專業工作能力）、中文（母語）、閩南語（中等）
 
 軟體：R、Stata、\LaTeX
-
-# 研究興趣
-
-農業與自然資源經濟學；環境與生態經濟學
-
-都市、農村、區域、不動產與運輸經濟學
