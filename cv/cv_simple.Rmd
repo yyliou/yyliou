@@ -84,23 +84,23 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{9.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*.
+`\makebox[2.0em][l]{9.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*.
 
-`\makebox[2.0em][l]{8.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148.
+`\makebox[2.0em][l]{8.}`{=latex}Chang, Hung-Hao and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148.
 
-`\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209.
+`\makebox[2.0em][l]{7.}`{=latex}**Liou, Yu-You** and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209.
 
-`\makebox[2.0em][l]{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860.
+`\makebox[2.0em][l]{6.}`{=latex}**Liou, Yu-You** and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860.
 
-`\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication.
+`\makebox[2.0em][l]{5.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication.
 
-`\makebox[2.0em][l]{4.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication.
+`\makebox[2.0em][l]{4.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication.
 
-`\makebox[2.0em][l]{3.}`{=latex}**Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903.
+`\makebox[2.0em][l]{3.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903.
 
-`\makebox[2.0em][l]{2.}`{=latex}Lee, T.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
+`\makebox[2.0em][l]{2.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
 
-`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
+`\makebox[2.0em][l]{1.}`{=latex}Chang, Hung-Hao, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
 
 ```{=latex}
 \end{hanglist}
@@ -114,13 +114,13 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{11.}`{=latex}Does the Development of Aquavoltaics Production Affect Farmland Price? (with Chang).
+`\makebox[2.0em][l]{11.}`{=latex}Does the Development of Aquavoltaics Production Affect Farmland Price? (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{10.}`{=latex}The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Chang).
+`\makebox[2.0em][l]{10.}`{=latex}The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Chang and Wu).
+`\makebox[2.0em][l]{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu).
 
-`\makebox[2.0em][l]{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Chang).
+`\makebox[2.0em][l]{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang).
 
 ```{=latex}
 \end{hanglist}
@@ -132,19 +132,19 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{7.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Chang).
+`\makebox[2.0em][l]{7.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{6.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Chang and Sun).
+`\makebox[2.0em][l]{6.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Hung-Hao Chang and Hsiao-Chiao Sun).
 
-`\makebox[2.0em][l]{5.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Chang and Zilberman).
+`\makebox[2.0em][l]{5.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Hung-Hao Chang and David Zilberman).
 
-`\makebox[2.0em][l]{4.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Chang).
+`\makebox[2.0em][l]{4.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{3.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang).
+`\makebox[2.0em][l]{3.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{2.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
+`\makebox[2.0em][l]{2.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{1.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Lee and Chang).
+`\makebox[2.0em][l]{1.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Tzong-Haw Lee and Hung-Hao Chang).
 
 ```{=latex}
 \end{hanglist}

@@ -76,29 +76,29 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{1.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI、EconLit；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕}
+`\makebox[2.0em][l]{1.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI、EconLit；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕}
 
-`\makebox[2.0em][l]{2.}`{=latex}Chang, H.-H. and **Y.-Y. Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕}
+`\makebox[2.0em][l]{2.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕}
 
-`\makebox[2.0em][l]{3.}`{=latex}**Liou, Y.-Y.**, M.-K. Kim, and H.-H. Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: Evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." *Journal of Tourism Management Research*, 13(1), 148--162. \newline \jmetric{〔ESCI；JIF＝1.1；觀光休閒運動第 104/141 名（前 73.8\%），Q3〕}
+`\makebox[2.0em][l]{3.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, and Hung-Hao Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: Evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." *Journal of Tourism Management Research*, 13(1), 148--162. \newline \jmetric{〔ESCI；JIF＝1.1；觀光休閒運動第 104/141 名（前 73.8\%），Q3〕}
 
-`\makebox[2.0em][l]{4.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動第 29/141 名（前 20.6\%），Q1〕}
+`\makebox[2.0em][l]{4.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動第 29/141 名（前 20.6\%），Q1〕}
 
-`\makebox[2.0em][l]{5.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊}
+`\makebox[2.0em][l]{5.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊} \newline 媒體報導：[[臺大焦點新聞](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)] [[自由時報](https://news.ltn.com.tw/news/life/breakingnews/5422721)] [[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)] [[中國時報](https://www.chinatimes.com/newspapers/20260412000322-260121)]
 
-`\makebox[2.0em][l]{6.}`{=latex}Lee, T.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Is Solar Panel Adoption a Win--Win Strategy for Chicken Farms? Evidence from Agriculture Census Data](https://www.mdpi.com/2077-0472/15/20/2124)." *Agriculture*, 15(20), 2124. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學第 16/133 名（前 12.0\%），Q1〕}
+`\makebox[2.0em][l]{6.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Is Solar Panel Adoption a Win--Win Strategy for Chicken Farms? Evidence from Agriculture Census Data](https://www.mdpi.com/2077-0472/15/20/2124)." *Agriculture*, 15(20), 2124. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學第 16/133 名（前 12.0\%），Q1〕}
 
-`\makebox[2.0em][l]{7.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝2.4；經濟學第 196/627 名（前 31.3\%），Q2〕}
+`\makebox[2.0em][l]{7.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝2.4；經濟學第 196/627 名（前 31.3\%），Q2〕}
 
-`\makebox[2.0em][l]{8.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication. \newline \jmetric{〔SSCI、EconLit；JIF＝1.2；經濟學第 379/627 名（前 60.4\%），Q3〕}
+`\makebox[2.0em][l]{8.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication. \newline \jmetric{〔SSCI、EconLit；JIF＝1.2；經濟學第 379/627 名（前 60.4\%），Q3〕}
 
-`\makebox[2.0em][l]{9.}`{=latex}**Liou, Y.-Y.**, M.-K. Kim, H.-H. Chang, and R.-W. Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝8.7；運輸學第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊}
+`\makebox[2.0em][l]{9.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝8.7；運輸學第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊}
 
-`\makebox[2.0em][l]{10.}`{=latex}Lee, T.-H., **Y.-Y. Liou**, and H.-H. Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{〔SCIE、SSCI；JIF＝4.6；林學第 7/92 名（前 7.6\%），Q1〕}
+`\makebox[2.0em][l]{10.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{〔SCIE、SSCI；JIF＝4.6；林學第 7/92 名（前 7.6\%），Q1〕}
 
-`\makebox[2.0em][l]{11.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and D. R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
+`\makebox[2.0em][l]{11.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and David R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
 
-`\makebox[2.0em][l]{12.}`{=latex}Chang, H.-H., B. Lee, F.-A. Yang, and **Y.-Y. Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{〔SSCI；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊、臺大高被引著作（FWCI 前 5\%）}
+`\makebox[2.0em][l]{12.}`{=latex}Chang, Hung-Hao, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{〔SSCI；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊}
 
 ```{=latex}
 \end{hanglist}
@@ -115,13 +115,13 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{1.}`{=latex}Does the Development of Aquavoltaics Production Affect Farmland Price? (with Chang).
+`\makebox[2.0em][l]{1.}`{=latex}Does the Development of Aquavoltaics Production Affect Farmland Price? (with Hung-Hao Chang).（第二輪修訂）
 
-`\makebox[2.0em][l]{2.}`{=latex}The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Chang).
+`\makebox[2.0em][l]{2.}`{=latex}The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Hung-Hao Chang).（第二輪修訂）
 
-`\makebox[2.0em][l]{3.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Chang and Wu).
+`\makebox[2.0em][l]{3.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu).（第二輪修訂）
 
-`\makebox[2.0em][l]{4.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Chang).
+`\makebox[2.0em][l]{4.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang).（第一輪修訂）
 
 ```{=latex}
 \end{hanglist}
@@ -133,19 +133,19 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{5.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Chang).
+`\makebox[2.0em][l]{5.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{6.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Chang and Sun).
+`\makebox[2.0em][l]{6.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Hung-Hao Chang and Hsiao-Chiao Sun).
 
-`\makebox[2.0em][l]{7.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Chang and Zilberman).
+`\makebox[2.0em][l]{7.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Hung-Hao Chang and David Zilberman).
 
-`\makebox[2.0em][l]{8.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Chang).
+`\makebox[2.0em][l]{8.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{9.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Chang).
+`\makebox[2.0em][l]{9.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{10.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Chang).
+`\makebox[2.0em][l]{10.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{11.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Lee and Chang).
+`\makebox[2.0em][l]{11.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Tzong-Haw Lee and Hung-Hao Chang).
 
 ```{=latex}
 \end{hanglist}
@@ -157,9 +157,9 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文（中文撰寫）。\newline 成績：A+。口試委員：張宏浩、鍾秋悅、王俊豪、林子欽、蔡昇甫。
+`\makebox[2.0em][l]{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文。\newline 成績：A+。口試委員：張宏浩、鍾秋悅、王俊豪、林子欽、蔡昇甫。
 
-`\makebox[2.0em][l]{2.}`{=latex}**Liou, Y.-Y.** 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline 成績：A+。口試委員：許耀文、連勇智、荷世平。
+`\makebox[2.0em][l]{2.}`{=latex}**Liou, Yu-You**. 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline 成績：A+。口試委員：許耀文、連勇智、荷世平。
 
 ```{=latex}
 \end{hanglist}
@@ -167,39 +167,39 @@ header-includes:
 
 # 研討會\newline 論文發表
 
-`\hangitem{1.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and D. Zilberman. 2026. "Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy." 7th World Congress of Environmental and Resource Economists (2026).
+`\hangitem{1.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and David Zilberman. 2026. "Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy." 7th World Congress of Environmental and Resource Economists (2026).
 
-`\hangitem{2.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2026. "Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms." AAEA Annual Meeting (2026).
+`\hangitem{2.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms." AAEA Annual Meeting (2026).
 
-`\hangitem{3.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2025. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 20th EAEA International Convention (2025).
+`\hangitem{3.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. 2025. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 20th EAEA International Convention (2025).
 
-`\hangitem{4.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2025. "The causal effects of removing Hook-Turn regulation on road safety." 20th EAEA International Convention (2025). \newline 英文口頭發表（本人報告）
+`\hangitem{4.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2025. "The causal effects of removing Hook-Turn regulation on road safety." 20th EAEA International Convention (2025). \newline （本人報告）
 
-`\hangitem{5.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2025. "Rooftop Solar Energy Adoption and Farm Revenue." 18th Congress of EAAE (2025).
+`\hangitem{5.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "Rooftop Solar Energy Adoption and Farm Revenue." 18th Congress of EAAE (2025).
 
-`\hangitem{6.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2025. "Does the Development of Aquavoltaics Production Affect Farmland Price?" 17th CAER-IFPRI Annual Conference (2025).
+`\hangitem{6.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2025. "Does the Development of Aquavoltaics Production Affect Farmland Price?" 17th CAER-IFPRI Annual Conference (2025).
 
-`\hangitem{7.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 99th Annual Conference of WEAI (2024).
+`\hangitem{7.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. 2024. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 99th Annual Conference of WEAI (2024).
 
-`\hangitem{8.}`{=latex}Chang, H.-H., **Y.-Y. Liou**, and C. D. Meyerhoefer. 2024. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 11th Annual Conference of the IAAE (2024).
+`\hangitem{8.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. 2024. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 11th Annual Conference of the IAAE (2024).
 
-`\hangitem{9.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2024. "Superstition and Car Accidents -- The Case Study of the Dajia Mazu Pilgrimage Event in Taiwan." 19th EAEA International Convention (2024). \newline 英文口頭發表（本人報告）
+`\hangitem{9.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2024. "Superstition and Car Accidents -- The Case Study of the Dajia Mazu Pilgrimage Event in Taiwan." 19th EAEA International Convention (2024). \newline （本人報告）
 
-`\hangitem{10.}`{=latex}**Liou, Y.-Y.**, H.-H. Chang, and J. C. Begun. 2024. "Rooftop Solar Energy Adoption and Farm Revenue." 19th EAEA International Convention (2024).
+`\hangitem{10.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2024. "Rooftop Solar Energy Adoption and Farm Revenue." 19th EAEA International Convention (2024).
 
-`\hangitem{11.}`{=latex}**劉昱佑**、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。第十六屆國會國際學術研討會，臺北。 \newline 口頭發表（本人報告）
+`\hangitem{11.}`{=latex}**劉昱佑**、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。第十六屆國會國際學術研討會，臺北。 \newline （本人報告）
 
-`\hangitem{12.}`{=latex}**Liou, Y.-Y.** and H.-H. Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." International Conference on Agricultural and Environmental Economics (2023), Taipei. \newline 英文口頭發表（本人報告）
+`\hangitem{12.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." International Conference on Agricultural and Environmental Economics (2023), Taipei. \newline （本人報告）
 
-`\hangitem{13.}`{=latex}**Liou, Y.-Y.** 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students (2023), Taipei. \newline 英文口頭發表（本人報告）
+`\hangitem{13.}`{=latex}**Liou, Yu-You**. 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students (2023), Taipei. \newline （本人報告）
 
-`\hangitem{14.}`{=latex}**劉昱佑**（2023）。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。第十五屆國會國際學術研討會，臺北。 \newline 口頭發表（本人報告）
+`\hangitem{14.}`{=latex}**劉昱佑**（2023）。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。第十五屆國會國際學術研討會，臺北。 \newline （本人報告）
 
 `\hangitem{15.}`{=latex}何驊哲、**劉昱佑**（2023）。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。第十五屆國會國際學術研討會，臺北。
 
-`\hangitem{16.}`{=latex}**劉昱佑**、張宏浩（2020）。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。2020 年臺灣農村經濟學會年會暨學術研討會，臺北。 \newline 口頭發表（本人報告）
+`\hangitem{16.}`{=latex}**劉昱佑**、張宏浩（2020）。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。2020 年臺灣農村經濟學會年會暨學術研討會，臺北。 \newline （本人報告）
 
-`\hangitem{17.}`{=latex}**劉昱佑**、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。2019 年生產力與效率學術研討會，臺北。 \newline 口頭發表（本人報告）
+`\hangitem{17.}`{=latex}**劉昱佑**、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。2019 年生產力與效率學術研討會，臺北。 \newline （本人報告）
 
 # 審稿
 
