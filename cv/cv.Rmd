@@ -37,10 +37,13 @@ header-includes:
   - \definecolor{cvlink}{HTML}{2D3E54}
   - \hyphenation{Agriculture Agricultural Bioresources Economics}
   - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
-  - \newcommand{\hangitem}[1]{\noindent\hangindent=2.0em\hangafter=1\makebox[2.0em][l]{#1}}
+  # \hfillbreak：右欄年份在同一行塞不下時，換到下一行仍靠右對齊（一般情況與 \hfill 相同）
+  - \newcommand{\hfillbreak}{\hfill\penalty0\mbox{}\nobreak\hfill}
+  - \newcommand{\numbox}[1]{\leavevmode\rlap{#1}\hskip2.0em\relax}
+  - \newcommand{\hangitem}[1]{\noindent\hangindent=2.0em\hangafter=1\numbox{#1}}
   - \newcommand{\tightCJK}[1]{{\xeCJKsetup{CJKecglue={}}#1}}
   - \newcommand{\presenter}[1]{\tightCJK{\textbf{#1}*}}
-  - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\rightskip=0pt plus 3em\relax\everypar={\hangindent=2.0em\hangafter=1}\makebox[2.0em][l]{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
+  - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\rightskip=0pt plus 3em\relax\everypar={\hangindent=2.0em\hangafter=1}\numbox{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\vspace{3pt}}
 ---
 
 ```{=latex}
@@ -75,7 +78,7 @@ Research Assistant \hfill \mbox{2021--2022}
 
 # Research Fields
 
-Agricultural Economics; Environmental and Resource Economics; Transportation Economics; Regional Studies; Real Estate Price Analysis.
+Agricultural Economics; Environmental and Resource Economics; Transportation Economics; Regional Studies; Real Estate Analysis.
 
 # Publications
 
@@ -85,29 +88,29 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*.
+`\numbox{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*.
 
-`\makebox[2.0em][l]{11.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148.
+`\numbox{11.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148.
 
-`\makebox[2.0em][l]{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, and Hung-Hao Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: Evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." *Journal of Tourism Management Research*, 13(1), 148--162.
+`\numbox{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, and Hung-Hao Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: Evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." *Journal of Tourism Management Research*, 13(1), 148--162.
 
-`\makebox[2.0em][l]{9.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209.
+`\numbox{9.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209.
 
-`\makebox[2.0em][l]{8.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860.
+`\numbox{8.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860.
 
-`\makebox[2.0em][l]{7.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Is Solar Panel Adoption a Win--Win Strategy for Chicken Farms? Evidence from Agriculture Census Data](https://www.mdpi.com/2077-0472/15/20/2124)." *Agriculture*, 15(20), 2124.
+`\numbox{7.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Is Solar Panel Adoption a Win--Win Strategy for Chicken Farms? Evidence from Agriculture Census Data](https://www.mdpi.com/2077-0472/15/20/2124)." *Agriculture*, 15(20), 2124.
 
-`\makebox[2.0em][l]{6.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication.
+`\numbox{6.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication.
 
-`\makebox[2.0em][l]{5.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication.
+`\numbox{5.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication.
 
-`\makebox[2.0em][l]{4.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903.
+`\numbox{4.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903.
 
-`\makebox[2.0em][l]{3.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
+`\numbox{3.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
 
-`\makebox[2.0em][l]{2.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and David R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
+`\numbox{2.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and David R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
 
-`\makebox[2.0em][l]{1.}`{=latex}Chang, Hung-Hao, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
+`\numbox{1.}`{=latex}Chang, Hung-Hao, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
 
 ```{=latex}
 \end{hanglist}
@@ -121,13 +124,13 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{11.}`{=latex}Does the Development of Aquavoltaics Production Affect Farmland Price? (with Hung-Hao Chang).
+`\numbox{11.}`{=latex}Does the Development of Aquavoltaics Production Affect Farmland Price? (with Hung-Hao Chang). Second-round revision.
 
-`\makebox[2.0em][l]{10.}`{=latex}The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Hung-Hao Chang).
+`\numbox{10.}`{=latex}The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Hung-Hao Chang). Second-round revision.
 
-`\makebox[2.0em][l]{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu).
+`\numbox{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu). Second-round revision.
 
-`\makebox[2.0em][l]{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang).
+`\numbox{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang). First-round revision.
 
 ```{=latex}
 \end{hanglist}
@@ -139,19 +142,29 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{7.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Hung-Hao Chang).
+`\numbox{7.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{6.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Hung-Hao Chang and Hsiao-Chiao Sun).
+`\numbox{6.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Hung-Hao Chang and Hsiao-Chiao Sun).
 
-`\makebox[2.0em][l]{5.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Hung-Hao Chang and David Zilberman).
+`\numbox{5.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Hung-Hao Chang and David Zilberman).
 
-`\makebox[2.0em][l]{4.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Hung-Hao Chang).
+`\numbox{4.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{3.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Hung-Hao Chang).
+`\numbox{3.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Hung-Hao Chang).
 
-`\makebox[2.0em][l]{2.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Hung-Hao Chang).
+`\numbox{2.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Tzong-Haw Lee and Hung-Hao Chang).
 
-`\makebox[2.0em][l]{1.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Tzong-Haw Lee and Hung-Hao Chang).
+```{=latex}
+\end{hanglist}
+```
+
+### In Preparation
+
+```{=latex}
+\begin{hanglist}
+```
+
+`\numbox{1.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Hung-Hao Chang).
 
 ```{=latex}
 \end{hanglist}
@@ -163,9 +176,9 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 \begin{hanglist}
 ```
 
-`\makebox[2.0em][l]{2.}`{=latex}**Liou, Yu-You**. 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline \textit{Grade: A+. Committee: Yao-Wen Hsu, Yung-Chih Lien, and Shih-Ping Ho.}
+`\numbox{2.}`{=latex}**Liou, Yu-You**. 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline \textit{Grade: A+. Committee: Yao-Wen Hsu, Yung-Chih Lien, and Shih-Ping Ho.}
 
-`\makebox[2.0em][l]{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文。 \newline{} [Constructing Property Price Indices: Big Data Analyses from Actual Price Registration of Real Estate Transactions in Taiwan. Master's Thesis, Department of Agricultural Economics, National Taiwan University.] \newline \textit{Grade: A+. Committee: Hung-Hao Chang, Yessica C. Y. Chung, Jiun-Hao Wang, Tzu-Chin Lin, and Sheng-Fu Tsai.}
+`\numbox{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文。 \newline{} [Constructing Property Price Indices: Big Data Analyses from Actual Price Registration of Real Estate Transactions in Taiwan. Master's Thesis, Department of Agricultural Economics, National Taiwan University.] \newline \textit{Grade: A+. Committee: Hung-Hao Chang, Yessica C. Y. Chung, Jiun-Hao Wang, Tzu-Chin Lin, and Sheng-Fu Tsai.}
 
 ```{=latex}
 \end{hanglist}
@@ -255,11 +268,11 @@ Altruistic Award, National Taiwan University \hfill \mbox{2019}
 
 *National Taiwan University* — Teaching Assistant
 
-Agricultural Policy and Performance Evaluation (Prof. Chang) \hfill \mbox{Spring 2024, Fall 2026}
+Agricultural Policy and Performance Evaluation (Prof. Hung-Hao Chang) \hfillbreak \mbox{Spring 2024, Fall 2026}
 
-Agricultural Regulations (A) (Prof. Chen) \hfill \mbox{Spring 2022}
+Agricultural Regulations (A) (Prof. Cheng-Wei Chen) \hfill \mbox{Spring 2022}
 
-Quantitative Method (Prof. Chang; English-medium instruction) \hfill \mbox{Spring 2020}
+Quantitative Method (Prof. Hung-Hao Chang; English-medium instruction) \hfillbreak \mbox{Spring 2020}
 
 # Research Projects
 
