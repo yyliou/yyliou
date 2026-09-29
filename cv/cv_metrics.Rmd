@@ -224,7 +224,7 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 
 `\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩（2020）。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。2020 年臺灣農村經濟學會年會暨學術研討會，臺北。 \newline{} [**Liou, Yu-You**, and Hung-Hao Chang. 2020. "A Non-hierarchical Clustering Analysis of Consumer Behavior in Agricultural Products." 2020 Annual Conference of the Taiwan Rural Economics Society, Taipei.]
 
-`\hangitem{1.}`{=latex}`\presenter{劉昱佑}`{=latex}、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。2019 年生產力與效率學術研討會，臺北。 \newline{} [**Liou, Yu-You**, and Linson Chen. 2019. "The Contribution of Productivity to Taiwan's GDP Growth: An Empirical Analysis (1981--2018)." 2019 Taiwan Productivity and Efficiency Conference, Taipei.]
+`\hangitem{1.}`{=latex}`\presenter{劉昱佑}`{=latex}、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。2019 年生產力與效率學術研討會，臺北。 \newline{} [**Liou, Yu-You**, and Linsong Chen. 2019. "The Contribution of Productivity to Taiwan's GDP Growth: An Empirical Analysis (1981--2018)." 2019 Taiwan Productivity and Efficiency Conference, Taipei.]
 
 ```{=latex}
 \vspace{2pt}
