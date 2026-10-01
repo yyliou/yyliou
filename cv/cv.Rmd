@@ -54,9 +54,13 @@ header-includes:
 
 *National Taiwan University*, Ph.D. Student, Agricultural Economics \hfill \mbox{2022--present} \newline Supervisor: Prof. Hung-Hao Chang.
 
-*National Taiwan University*, MS, Statistics; MS, Agricultural Economics \hfill 2021 \newline GPA 4.19/4.3, class rank 3/33 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/ms-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/ms-certificate.pdf)] \newline Supervisors: Prof. Hung-Hao Chang and Prof. Yao-Wen Hsu.
+*National Taiwan University*, MS, Statistics \hfill \mbox{2020--2021}
 
-*National Taiwan University*, BA, Political Science; BS, Agricultural Economics \hfill 2019 \newline GPA 3.74/4.3, class rank 13/41 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/bs-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/bs-certificate.pdf)]
+*National Taiwan University*, MS, Agricultural Economics \hfill \mbox{2019--2021} \newline GPA 4.19/4.3, class rank 3/33 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/ms-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/ms-certificate.pdf)] \newline Supervisors: Prof. Hung-Hao Chang and Prof. Yao-Wen Hsu.
+
+*National Taiwan University*, BA, Political Science \hfill \mbox{2016--2019}
+
+*National Taiwan University*, BS, Agricultural Economics \hfill \mbox{2015--2019} \newline GPA 3.74/4.3, class rank 13/41 [[Transcript](https://yyliou.github.io/yyliou/cv/doc/bs-transcript.pdf)] [[Degree certificate](https://yyliou.github.io/yyliou/cv/doc/bs-certificate.pdf)]
 
 # Employment
 

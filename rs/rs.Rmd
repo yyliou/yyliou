@@ -36,6 +36,8 @@ Agriculture is the largest user of land and water, a major source of emissions a
 
 Solar power is treated as a rival for farmland. [@liou2025rooftop] and [@lee2025solar] show that panels on existing farm buildings displace nothing. Chicken farms that adopt them sell 5.8% more, from output rather than quality. The conflict is about siting, not solar.
 
+Siting can be set by policy. Taiwan zones land for aquavoltaics, which places solar panels above working fish ponds instead of converting farmland. [@chang2026aquavoltaics] finds that farmland prices rose 13.5% after land entered these zones. The increase likely reflects the value of the development rights the zoning creates.
+
 Fertilizer and pesticide runoff resists regulation because it comes from tens of thousands of sources no inspector can reach. [@chang2026food] finds that farms adopting food traceability are 8.2, 15.4, and 40 percentage points less likely to use chemical fertilizer, pesticide, and groundwater. Revenue rises too. A food safety system did what enforcement cannot.
 
 Biodiversity disappears from private land because nobody pays for it. [@lee2025forest] finds that forest farms with greater tree diversity earn less but face far steadier revenue, and stability outweighs the loss. Diversity pays in stability, not income. Programs that compensate forgone income misread the asset.

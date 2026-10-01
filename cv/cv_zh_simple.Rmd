@@ -55,9 +55,13 @@ header-includes:
 
 國立臺灣大學農業經濟學系，博士生 \hfill 111 年–迄今 \newline 指導教授：張宏浩特聘教授
 
-國立臺灣大學，統計碩士、農業經濟學碩士 \hfill 110 年 \newline GPA 4.19/4.3、年級排名 3/33 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-certificate-zh.pdf)] \newline 指導教授：張宏浩特聘教授、許耀文副教授
+國立臺灣大學，統計碩士 \hfill \mbox{109 年–110 年}
 
-國立臺灣大學，政治學學士、農業經濟學學士 \hfill 108 年 \newline GPA 3.74/4.3、年級排名 13/41 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/bs-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/bs-certificate-zh.pdf)]
+國立臺灣大學，農業經濟學碩士 \hfill \mbox{108 年–110 年} \newline GPA 4.19/4.3、年級排名 3/33 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/ms-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/ms-certificate-zh.pdf)] \newline 指導教授：張宏浩特聘教授、許耀文副教授
+
+國立臺灣大學，政治學學士 \hfill \mbox{105 年–108 年}
+
+國立臺灣大學，農業經濟學學士 \hfill \mbox{104 年–108 年} \newline GPA 3.74/4.3、年級排名 13/41 [[修課紀錄](https://yyliou.github.io/yyliou/cv/doc/bs-transcript-zh.pdf)] [[學位證明書](https://yyliou.github.io/yyliou/cv/doc/bs-certificate-zh.pdf)]
 
 # 工作經歷
 
