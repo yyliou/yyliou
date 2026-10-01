@@ -25,7 +25,7 @@ contactline:
 
 sectionindent: "1.15in"
 sectionsep: "0.20in"
-parskip: "3pt plus 1pt minus 1pt"
+parskip: "6pt plus 2pt minus 1pt"
 sectionfont: "\\normalsize\\bfseries"
 
 mainfont: "texgyrepagella-regular.otf"   # TeX Gyre Pagella，與英文版相同；中文仍用源雲明體月
@@ -37,7 +37,7 @@ urlcolor: cvlink
 header-includes:
   - \usepackage{xcolor}
   - \definecolor{cvlink}{HTML}{2D3E54}
-  - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
+  - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\setlength{\parskip}{10pt plus 2pt minus 1pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
   - \newcommand{\numbox}[1]{\leavevmode\rlap{#1}\hskip2.0em\relax}
   - \newcommand{\hangitem}[1]{\noindent\hangindent=2.0em\hangafter=1\numbox{#1}}
   - \newcommand{\tightCJK}[1]{{\xeCJKsetup{CJKecglue={}}#1}}
@@ -65,13 +65,13 @@ header-includes:
 
 # 工作經歷
 
-國立臺灣大學農業經濟學系，研究助理及教學助理 \hfill \mbox{108 年–迄今}
+國立臺灣大學生物資源暨農學院農業經濟學系，研究助理及教學助理 \hfillbreak \mbox{108 年–迄今}
 
-國立臺灣大學農業零碳技術與管理創新研究中心，研究助理 \hfill \mbox{113 年–迄今}
+國立臺灣大學生物資源暨農學院農業零碳技術與管理創新研究中心，研究助理 \hfillbreak \mbox{113 年–迄今}
 
-實踐大學國際企業英語學士學位學程，兼任講師 [[聘書](https://yyliou.github.io/yyliou/cv/doc/appointment-letters.pdf)] \hfill \mbox{113 年–迄今}
+實踐大學國際學院國際企業英語學士學位學程，兼任講師 [[聘書](https://yyliou.github.io/yyliou/cv/doc/appointment-letters.pdf)] \hfillbreak \mbox{113 年–迄今}
 
-國立臺灣大學生態工程研究中心，研究助理 \hfill \mbox{110 年–111 年}
+國立臺灣大學生物資源暨農學院生態工程研究中心，研究助理 \hfillbreak \mbox{110 年–111 年}
 
 # 研究領域
 

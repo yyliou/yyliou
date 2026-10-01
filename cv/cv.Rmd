@@ -24,7 +24,7 @@ contactline:
 
 sectionindent: "1.15in"
 sectionsep: "0.20in"
-parskip: "3pt plus 1pt minus 1pt"
+parskip: "6pt plus 2pt minus 1pt"
 
 mainfont: "texgyrepagella-regular.otf"   # TeX Gyre Pagella = Palatino；需 tinytex::tlmgr_install("tex-gyre")
 mainfontoptions: "Scale=1.0, BoldFont=texgyrepagella-bold.otf, ItalicFont=texgyrepagella-italic.otf, BoldItalicFont=texgyrepagella-bolditalic.otf"
@@ -36,7 +36,7 @@ header-includes:
   - \usepackage{xcolor}
   - \definecolor{cvlink}{HTML}{2D3E54}
   - \hyphenation{Agriculture Agricultural Bioresources Economics}
-  - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
+  - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\setlength{\parskip}{10pt plus 2pt minus 1pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
   # \hfillbreak：右欄年份在同一行塞不下時，換到下一行仍靠右對齊（一般情況與 \hfill 相同）
   - \newcommand{\hfillbreak}{\hfill\penalty0\mbox{}\nobreak\hfill}
   - \newcommand{\numbox}[1]{\leavevmode\rlap{#1}\hskip2.0em\relax}
@@ -64,21 +64,13 @@ header-includes:
 
 # Employment
 
-*National Taiwan University*, Department of Agricultural Economics
+*National Taiwan University*, College of Bioresources and Agriculture, Department of Agricultural Economics \newline Research & Teaching Assistant \hfill \mbox{2019--present}
 
-Research & Teaching Assistant \hfill \mbox{2019--present}
+*National Taiwan University*, College of Bioresources and Agriculture, Agricultural Net-Zero Carbon Technology and Management Innovation Research Center \newline Research Assistant \hfill \mbox{2024--present}
 
-*National Taiwan University*, Agricultural Net-Zero Carbon Technology and Management Innovation Research Center
+*Shih Chien University*, International College, English Taught Program in International Business \newline Adjunct Lecturer [[Appointment letter](https://yyliou.github.io/yyliou/cv/doc/appointment-letters.pdf)] \hfill \mbox{2024--present}
 
-Research Assistant \hfill \mbox{2024--present}
-
-*Shih Chien University*, English Taught Program in International Business
-
-Adjunct Lecturer [[Appointment letter](https://yyliou.github.io/yyliou/cv/doc/appointment-letters.pdf)] \hfill \mbox{2024--present}
-
-*National Taiwan University*, Ecological Engineering Center
-
-Research Assistant \hfill \mbox{2021--2022}
+*National Taiwan University*, College of Bioresources and Agriculture, Ecological Engineering Center \newline Research Assistant \hfill \mbox{2021--2022}
 
 # Research Fields
 
