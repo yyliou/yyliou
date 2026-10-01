@@ -1,0 +1,314 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+\documentclass[
+  11pt,
+]{article}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+  \setmainfont[Scale=1.0, BoldFont=texgyrepagella-bold.otf,
+ItalicFont=texgyrepagella-italic.otf,
+BoldItalicFont=texgyrepagella-bolditalic.otf]{texgyrepagella-regular.otf}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{setspace}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{xeCJK}
+\setCJKmainfont{源雲明體月}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+% fallback for those not using the hyperref driver hyperxmp:
+\makeatletter
+\@ifundefined{xmpquote}{\newcommand{\xmpquote}[1]{#1}}{}
+\makeatother
+\hypersetup{
+  pdftitle={Research Statement},
+  pdfauthor={Yu-You Liou},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{\textbf{Research Statement}}
+\author{Yu-You Liou}
+\date{2026-10-01}
+
+\begin{document}
+\maketitle
+
+\setstretch{1.25}
+{\raggedleft\small[\href{https://yyliou.github.io/yyliou/rs/rs_zh.pdf}{中文版由此去}]\par}
+
+Air pollution, road deaths, and groundwater depletion share one feature.
+Whoever causes the damage does not pay for it. Environmental and
+resource economics calls this an externality, and policy is the
+attempted correction. My research measures how much of that correction
+arrives, and what else arrives with it. The answer is often not what the
+policy assumed. I use causal inference and large-scale administrative
+data. One line of work is on farms, the other on cities.
+
+\subsection{1. Land, Food, and the
+Environment}\label{land-food-and-the-environment}
+
+Agriculture is the largest user of land and water, a major source of
+emissions and nutrient runoff, and how millions of households live. A
+policy that cleans up farming at the farmer's expense will not be
+adopted. Must environmental quality and farm income trade off? Often
+not.
+
+Solar power is treated as a rival for farmland.
+{[}\citeproc{ref-liou2025rooftop}{1}{]} and
+{[}\citeproc{ref-lee2025solar}{2}{]} show that panels on existing farm
+buildings displace nothing. Chicken farms that adopt them sell 5.8\%
+more, from output rather than quality. The conflict is about siting, not
+solar.
+
+Siting can be set by policy. Taiwan zones land for aquavoltaics, which
+places solar panels above working fish ponds instead of converting
+farmland. {[}\citeproc{ref-chang2026aquavoltaics}{3}{]} finds that
+farmland prices rose 13.5\% after land entered these zones. The increase
+likely reflects the value of the development rights the zoning creates.
+
+Fertilizer and pesticide runoff resists regulation because it comes from
+tens of thousands of sources no inspector can reach.
+{[}\citeproc{ref-chang2026food}{4}{]} finds that farms adopting food
+traceability are 8.2, 15.4, and 40 percentage points less likely to use
+chemical fertilizer, pesticide, and groundwater. Revenue rises too. A
+food safety system did what enforcement cannot.
+
+Biodiversity disappears from private land because nobody pays for it.
+{[}\citeproc{ref-lee2025forest}{5}{]} finds that forest farms with
+greater tree diversity earn less but face far steadier revenue, and
+stability outweighs the loss. Diversity pays in stability, not income.
+Programs that compensate forgone income misread the asset.
+
+\subsection{2. Cities, Movement, and External
+Costs}\label{cities-movement-and-external-costs}
+
+Transport emissions keep rising, and transport kills directly. Cities
+answer with rail, fare subsidies, and traffic rules. None is cheap, and
+none has an obvious effect.
+
+{[}\citeproc{ref-liou2026hookturn}{6}{]} uses the removal of the
+two-stage left turn rule for motorcycles in part of Tainan City.
+Accidents fell 21\%, victims 19\%, and vehicles involved 28\%. Road
+safety usually means building something. Here a rule change cost nothing
+and did as well.
+
+Fare subsidies are now sold as climate policy.
+{[}\citeproc{ref-liou2025monthly}{7}{]} finds that the Taipei monthly
+pass raised ridership, passenger kilometers, and trip value by 4.3\%,
+4.6\%, and 4.6\%. Emissions fall only if 70\% to 80\% of the new trips
+come out of cars and motorcycles. Programs are judged on ridership.
+Ridership is the wrong number. {[}\citeproc{ref-chang2021metro}{8}{]}
+shows the demand is fragile as well, falling 1.43\% per COVID-19 case.
+
+Mass events send the bill to people who never attended.
+{[}\citeproc{ref-liou2026religious}{9}{]} finds accidents rose 14.9\%
+and victims 17.4\% during the Dajia Mazu Pilgrimage, and 9.8\% even in
+townships off the route. {[}\citeproc{ref-chang2024air}{10}{]} measures
+the air quality cost of Hakka tomb sweeping at the Lantern Festival.
+Neither cost enters the planning.
+
+\subsection{3. Other}\label{other}
+
+{[}\citeproc{ref-liou2025cbam}{11}{]} builds a strategic trade model
+with green investment. The Carbon Border Adjustment Mechanism pushes
+exporters toward cleaner technology, though its market structure effects
+vary by industry. {[}\citeproc{ref-liou2024covid}{12}{]} finds that
+consumers shifted food purchases online under pandemic risk.
+{[}\citeproc{ref-liou2026hotel}{13}{]} finds that hotel revenue
+recovered through price rather than volume, with restored labor supply
+worth up to 17.8\%.
+
+Rural or urban, one question runs through all of it. When policy changes
+the price of environmental damage, who changes behavior, by how much,
+and who pays.
+
+\newpage
+
+\subsection*{References}\label{references}
+\addcontentsline{toc}{subsection}{References}
+
+\protect\phantomsection\label{refs}
+\begin{CSLReferences}{0}{0}
+\bibitem[\citeproctext]{ref-liou2025rooftop}
+\CSLLeftMargin{{[}1{]} }%
+\CSLRightInline{Y.-Y. Liou, H.-H. Chang, and J. C. Begun. (2025).
+{Rooftop Photovoltaics Adoption and Farm Revenue}. \emph{Agribusiness}.
+\url{https://doi.org/10.1002/agr.70035}}
+
+\bibitem[\citeproctext]{ref-lee2025solar}
+\CSLLeftMargin{{[}2{]} }%
+\CSLRightInline{T.-H. Lee, Y.-Y. Liou, and H.-H. Chang. (2025). {Is
+Solar Panel Adoption a Win--Win Strategy for Chicken Farms? Evidence
+from Agriculture Census Data}. \emph{Agriculture} 15, (20), 2124.
+\url{https://doi.org/10.3390/agriculture15202124}}
+
+\bibitem[\citeproctext]{ref-chang2026aquavoltaics}
+\CSLLeftMargin{{[}3{]} }%
+\CSLRightInline{H.-H. Chang, and Y.-Y. Liou. (2026). Does the
+development of aquavoltaics policy affect farmland price? \emph{Land
+Economics}. Conditionally accepted.}
+
+\bibitem[\citeproctext]{ref-chang2026food}
+\CSLLeftMargin{{[}4{]} }%
+\CSLRightInline{H.-H. Chang, and Y.-Y. Liou. (2026). Food traceability
+systems and the probability of using chemical fertilizers and pesticides
+− empirical evidence using plot and farm household data from agriculture
+census. \emph{Food Policy} 143, 103148.
+\url{https://doi.org/10.1016/j.foodpol.2026.103148}}
+
+\bibitem[\citeproctext]{ref-lee2025forest}
+\CSLLeftMargin{{[}5{]} }%
+\CSLRightInline{T.-H. Lee, Y.-Y. Liou, and H.-H. Chang. (2025). Forest
+diversity and the distribution of farm revenue - {E}mpirical evidence
+from forest farms in {T}aiwan. \emph{Forest Policy and Economics} 171,
+103411. \url{https://doi.org/10.1016/j.forpol.2024.103411}}
+
+\bibitem[\citeproctext]{ref-liou2026hookturn}
+\CSLLeftMargin{{[}6{]} }%
+\CSLRightInline{Y.-Y. Liou, and H.-H. Chang. (2026). The causal effects
+of removing {Hook-Turn} regulation on road safety. \emph{Transportation
+Research Part A: Policy and Practice} 205, 104860.
+\url{https://doi.org/10.1016/j.tra.2026.104860}}
+
+\bibitem[\citeproctext]{ref-liou2025monthly}
+\CSLLeftMargin{{[}7{]} }%
+\CSLRightInline{Y.-Y. Liou, M.-K. Kim, H.-H. Chang, and R.-W. Liou.
+(2025). The causal effect of monthly pass programs on public
+transportation and carbon emissions. \emph{Transportation Research Part
+D: Transport and Environment} 146, 104903.
+\url{https://doi.org/10.1016/j.trd.2025.104903}}
+
+\bibitem[\citeproctext]{ref-chang2021metro}
+\CSLLeftMargin{{[}8{]} }%
+\CSLRightInline{H.-H. Chang, B. Lee, F.-A. Yang, and Y.-Y. Liou. (2021).
+Does COVID-19 affect metro use in {T}aipei? \emph{Journal of Transport
+Geography} 91, 102954.
+\url{https://doi.org/10.1016/j.jtrangeo.2021.102954}}
+
+\bibitem[\citeproctext]{ref-liou2026religious}
+\CSLLeftMargin{{[}9{]} }%
+\CSLRightInline{Y.-Y. Liou, and H.-H. Chang. (2026). Traffic accidents
+of religious tourism. \emph{Annals of Tourism Research Empirical
+Insights} 7, (1), 100209.
+\url{https://doi.org/10.1016/j.annale.2026.100209}}
+
+\bibitem[\citeproctext]{ref-chang2024air}
+\CSLLeftMargin{{[}10{]} }%
+\CSLRightInline{H.-H. Chang, Y.-Y. Liou, and C. D. Meyerhoefer. (2026).
+{Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping
+Day}. \emph{Journal of the Association of Environmental and Resource
+Economists}. Forthcoming. \url{https://doi.org/10.1086/743452}}
+
+\bibitem[\citeproctext]{ref-liou2025cbam}
+\CSLLeftMargin{{[}11{]} }%
+\CSLRightInline{Y.-Y. Liou, H.-H. Chang, and J. C. Begun. (2025). The
+impact of the carbon border adjustment mechanism policy on international
+trade and market competition --- {A} theoretical justification.
+\emph{Singapore Economic Review}.
+\url{https://doi.org/10.1142/S0217590825500328}}
+
+\bibitem[\citeproctext]{ref-liou2024covid}
+\CSLLeftMargin{{[}12{]} }%
+\CSLRightInline{Y.-Y. Liou, H.-H. Chang, and D. R. Just. (2024). How do
+consumers respond to COVID-19? Application of {B}ayesian approach on
+credit card transaction data. \emph{Quality \& Quantity} 58, (6),
+5737--5754. \url{https://doi.org/10.1007/s11135-024-01915-9}}
+
+\bibitem[\citeproctext]{ref-liou2026hotel}
+\CSLLeftMargin{{[}13{]} }%
+\CSLRightInline{Y.-Y. Liou, M.-K. Kim, and H.-H. Chang. (2026). Hotel
+recovery strategies in the post-COVID-19 era: Evidence on revenue,
+employment, and labor market rigidity from {T}aiwan. \emph{Journal of
+Tourism Management Research} 13, (1), 148--162.
+\url{https://doi.org/10.18488/31.v13i1.4940}}
+
+\end{CSLReferences}
+
+\end{document}

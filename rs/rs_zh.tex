@@ -1,0 +1,290 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+\PassOptionsToPackage{space}{xeCJK}
+\documentclass[
+  11pt,
+]{article}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+  \setmainfont[Scale=1.0, BoldFont=texgyrepagella-bold.otf,
+ItalicFont=texgyrepagella-italic.otf,
+BoldItalicFont=texgyrepagella-bolditalic.otf]{texgyrepagella-regular.otf}
+  \ifXeTeX
+    \usepackage{xeCJK}
+    \setCJKmainfont[]{源雲明體月}
+  \fi
+  \ifLuaTeX
+    \usepackage[]{luatexja-fontspec}
+    \setmainjfont[]{源雲明體月}
+  \fi
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{setspace}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+% fallback for those not using the hyperref driver hyperxmp:
+\makeatletter
+\@ifundefined{xmpquote}{\newcommand{\xmpquote}[1]{#1}}{}
+\makeatother
+\hypersetup{
+  pdftitle={研究自述},
+  pdfauthor={劉昱佑},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{\textbf{研究自述}}
+\author{劉昱佑}
+\date{115 年 10 月}
+
+\begin{document}
+\maketitle
+
+\setstretch{1.25}
+{\raggedleft\small[\href{https://yyliou.github.io/yyliou/rs/rs.pdf}{English version}]\par}
+
+空氣污染、交通事故與地下水超抽有一個共同點。造成損害的人不必承擔其成本。這正是環境經濟與資源管理所稱的外部性，而政策則是主要的矯正工具。我的研究衡量政策實際矯正了多少，以及在此過程中產生哪些非預期效果。答案往往與政策原先的設想不同。我運用因果推論方法與大規模行政資料，研究場域涵蓋農業與都市兩大面向。
+
+\subsection{一、土地、糧食與環境}\label{ux4e00ux571fux5730ux7ce7ux98dfux8207ux74b0ux5883}
+
+農業是土地與水資源的最大使用者，也是溫室氣體與營養鹽污染的重要來源，同時是數以萬計家戶的生計所繫。若政策以農家所得為代價換取環境品質，便難以推行。環境品質與農家所得未必相互衝突。
+
+太陽光電長期被視為農地的競爭用途。{[}\citeproc{ref-liou2025rooftop}{1}{]}
+與 {[}\citeproc{ref-lee2025solar}{2}{]}
+指出，設置於既有農業設施屋頂的光電並未排擠生產。採用光電的養雞場銷售額提高
+5.8\%，增幅來自產量提升而非品質改善。兩者的衝突來自設置區位，而非光電本身。
+
+設置區位可以由政策規劃。臺灣劃設漁電共生區域，將光電板架設於持續養殖的魚塭上方，而非將農地轉作他用。{[}\citeproc{ref-chang2026aquavoltaics}{3}{]}
+發現，土地劃入漁電共生區域後，農地價格上漲
+13.5\%。漲幅可能反映了區域劃設所創造之開發權利的價值。
+
+化學肥料與農藥的污染難以管制，因為污染源為數以萬計的小規模生產者，逐一稽查的成本極高。{[}\citeproc{ref-chang2026food}{4}{]}
+發現，採行食品溯源制度的農戶，使用化學肥料、農藥與地下水的機率分別下降
+8.2、15.4 與 40
+個百分點，收入亦同時提高。一項以食品安全為目的的制度，反而產生了直接管制難以達成的環境效益。
+
+生物多樣性在私有土地上持續流失，因為維持多樣性並無相應的報酬。{[}\citeproc{ref-lee2025forest}{5}{]}
+發現，森林多樣性較高的林農平均收入較低，但收入波動明顯較小，且風險下降的幅度超過所得損失。多樣性帶來的是收入的穩定，而非收入的增加。僅補償所得損失的政策，等於誤判了這項資產的價值。
+
+\subsection{二、都市、移動與外部成本}\label{ux4e8cux90fdux5e02ux79fbux52d5ux8207ux5916ux90e8ux6210ux672c}
+
+運輸部門的排放持續成長，並直接造成人命損失。城市以捷運建設、票價補貼與交通管制加以因應。這些手段成本高昂，效果卻難以事前判斷。
+
+{[}\citeproc{ref-liou2026hookturn}{6}{]}
+以臺南部分行政區取消機車兩段式左轉作為準實驗。事故數下降
+21\%，傷亡人數下降 19\%，涉入事故車輛數下降
+28\%。道路安全的改善通常仰賴工程建設。修改一項交通規則幾乎不需成本，效果卻與工程建設相當。
+
+票價補貼近年被視為減碳政策。{[}\citeproc{ref-liou2025monthly}{7}{]}
+發現，臺北月票使運量、延人公里與旅次價值分別提高 4.3\%、4.6\% 與
+4.6\%。然而唯有新增旅次中約 70\% 至 80\%
+來自汽機車的移轉，排放才會下降。目前政策多以運量評估成效，而運量並非適當的指標。{[}\citeproc{ref-chang2021metro}{8}{]}
+進一步顯示大眾運輸需求相當敏感，每增加一例確診，臺北捷運運量即下降
+1.43\%。
+
+大型活動的外部成本由未參與者承擔。{[}\citeproc{ref-liou2026religious}{9}{]}
+發現大甲媽祖遶境期間事故增加 14.9\%，傷亡增加
+17.4\%，即使不位於路線上的鄰近鄉鎮，事故亦增加
+9.8\%。{[}\citeproc{ref-chang2024air}{10}{]}
+則估計客家地區元宵掃墓對空氣品質的影響。這些成本在活動規劃與補助的過程中幾乎未被計入。
+
+\subsection{三、其他}\label{ux4e09ux5176ux4ed6}
+
+{[}\citeproc{ref-liou2025cbam}{11}{]}
+建立納入綠能投資的策略性貿易模型。研究指出，碳邊境調整機制會促使出口國廠商採用較潔淨的技術，但其對市場結構的影響因產業而異。{[}\citeproc{ref-liou2024covid}{12}{]}
+發現在疫情風險下，消費者將食品消費移轉至線上通路。{[}\citeproc{ref-liou2026hotel}{13}{]}
+發現旅宿業的復甦來自價格提升而非旅客人數增加，若人力供給恢復，營收最高可再提高
+17.8\%。
+
+這些研究橫跨農村與都市，但共同追問的是同一個問題。當政策改變了造成環境損害的代價，誰會改變行為，改變的幅度有多大，最終成本又由誰承擔。
+
+\newpage
+
+\subsection*{參考文獻}\label{ux53c3ux8003ux6587ux737b}
+\addcontentsline{toc}{subsection}{參考文獻}
+
+\protect\phantomsection\label{refs}
+\begin{CSLReferences}{0}{0}
+\bibitem[\citeproctext]{ref-liou2025rooftop}
+\CSLLeftMargin{{[}1{]} }%
+\CSLRightInline{Y.-Y. Liou, H.-H. Chang, and J. C. Begun. (2025).
+{Rooftop Photovoltaics Adoption and Farm Revenue}. \emph{Agribusiness}.
+\url{https://doi.org/10.1002/agr.70035}}
+
+\bibitem[\citeproctext]{ref-lee2025solar}
+\CSLLeftMargin{{[}2{]} }%
+\CSLRightInline{T.-H. Lee, Y.-Y. Liou, and H.-H. Chang. (2025). {Is
+Solar Panel Adoption a Win--Win Strategy for Chicken Farms? Evidence
+from Agriculture Census Data}. \emph{Agriculture} 15, (20), 2124.
+\url{https://doi.org/10.3390/agriculture15202124}}
+
+\bibitem[\citeproctext]{ref-chang2026aquavoltaics}
+\CSLLeftMargin{{[}3{]} }%
+\CSLRightInline{H.-H. Chang, and Y.-Y. Liou. (2026). Does the
+development of aquavoltaics policy affect farmland price? \emph{Land
+Economics}. Conditionally accepted.}
+
+\bibitem[\citeproctext]{ref-chang2026food}
+\CSLLeftMargin{{[}4{]} }%
+\CSLRightInline{H.-H. Chang, and Y.-Y. Liou. (2026). Food traceability
+systems and the probability of using chemical fertilizers and pesticides
+− empirical evidence using plot and farm household data from agriculture
+census. \emph{Food Policy} 143, 103148.
+\url{https://doi.org/10.1016/j.foodpol.2026.103148}}
+
+\bibitem[\citeproctext]{ref-lee2025forest}
+\CSLLeftMargin{{[}5{]} }%
+\CSLRightInline{T.-H. Lee, Y.-Y. Liou, and H.-H. Chang. (2025). Forest
+diversity and the distribution of farm revenue - {E}mpirical evidence
+from forest farms in {T}aiwan. \emph{Forest Policy and Economics} 171,
+103411. \url{https://doi.org/10.1016/j.forpol.2024.103411}}
+
+\bibitem[\citeproctext]{ref-liou2026hookturn}
+\CSLLeftMargin{{[}6{]} }%
+\CSLRightInline{Y.-Y. Liou, and H.-H. Chang. (2026). The causal effects
+of removing {Hook-Turn} regulation on road safety. \emph{Transportation
+Research Part A: Policy and Practice} 205, 104860.
+\url{https://doi.org/10.1016/j.tra.2026.104860}}
+
+\bibitem[\citeproctext]{ref-liou2025monthly}
+\CSLLeftMargin{{[}7{]} }%
+\CSLRightInline{Y.-Y. Liou, M.-K. Kim, H.-H. Chang, and R.-W. Liou.
+(2025). The causal effect of monthly pass programs on public
+transportation and carbon emissions. \emph{Transportation Research Part
+D: Transport and Environment} 146, 104903.
+\url{https://doi.org/10.1016/j.trd.2025.104903}}
+
+\bibitem[\citeproctext]{ref-chang2021metro}
+\CSLLeftMargin{{[}8{]} }%
+\CSLRightInline{H.-H. Chang, B. Lee, F.-A. Yang, and Y.-Y. Liou. (2021).
+Does COVID-19 affect metro use in {T}aipei? \emph{Journal of Transport
+Geography} 91, 102954.
+\url{https://doi.org/10.1016/j.jtrangeo.2021.102954}}
+
+\bibitem[\citeproctext]{ref-liou2026religious}
+\CSLLeftMargin{{[}9{]} }%
+\CSLRightInline{Y.-Y. Liou, and H.-H. Chang. (2026). Traffic accidents
+of religious tourism. \emph{Annals of Tourism Research Empirical
+Insights} 7, (1), 100209.
+\url{https://doi.org/10.1016/j.annale.2026.100209}}
+
+\bibitem[\citeproctext]{ref-chang2024air}
+\CSLLeftMargin{{[}10{]} }%
+\CSLRightInline{H.-H. Chang, Y.-Y. Liou, and C. D. Meyerhoefer. (2026).
+{Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping
+Day}. \emph{Journal of the Association of Environmental and Resource
+Economists}. Forthcoming. \url{https://doi.org/10.1086/743452}}
+
+\bibitem[\citeproctext]{ref-liou2025cbam}
+\CSLLeftMargin{{[}11{]} }%
+\CSLRightInline{Y.-Y. Liou, H.-H. Chang, and J. C. Begun. (2025). The
+impact of the carbon border adjustment mechanism policy on international
+trade and market competition --- {A} theoretical justification.
+\emph{Singapore Economic Review}.
+\url{https://doi.org/10.1142/S0217590825500328}}
+
+\bibitem[\citeproctext]{ref-liou2024covid}
+\CSLLeftMargin{{[}12{]} }%
+\CSLRightInline{Y.-Y. Liou, H.-H. Chang, and D. R. Just. (2024). How do
+consumers respond to COVID-19? Application of {B}ayesian approach on
+credit card transaction data. \emph{Quality \& Quantity} 58, (6),
+5737--5754. \url{https://doi.org/10.1007/s11135-024-01915-9}}
+
+\bibitem[\citeproctext]{ref-liou2026hotel}
+\CSLLeftMargin{{[}13{]} }%
+\CSLRightInline{Y.-Y. Liou, M.-K. Kim, and H.-H. Chang. (2026). Hotel
+recovery strategies in the post-COVID-19 era: Evidence on revenue,
+employment, and labor market rigidity from {T}aiwan. \emph{Journal of
+Tourism Management Research} 13, (1), 148--162.
+\url{https://doi.org/10.18488/31.v13i1.4940}}
+
+\end{CSLReferences}
+
+\end{document}

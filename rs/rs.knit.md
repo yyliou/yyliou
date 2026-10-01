@@ -1,0 +1,61 @@
+---
+title: "**Research Statement**"
+author: Yu-You Liou
+date: "2026-10-01"
+output:
+  pdf_document:
+    latex_engine: xelatex
+geometry: "margin=1in"
+fontsize: 11pt
+linestretch: 1.25
+mainfont: "texgyrepagella-regular.otf"
+mainfontoptions: "Scale=1.0, BoldFont=texgyrepagella-bold.otf, ItalicFont=texgyrepagella-italic.otf, BoldItalicFont=texgyrepagella-bolditalic.otf"
+bibliography: rs.bib
+csl: rs.csl
+link-citations: true
+linkcolor: blue
+urlcolor: blue
+header-includes:
+  - \usepackage{xeCJK}
+  - \setCJKmainfont{源雲明體月}
+---
+
+
+
+```{=latex}
+{\raggedleft\small[\href{https://yyliou.github.io/yyliou/rs/rs_zh.pdf}{中文版由此去}]\par}
+```
+
+Air pollution, road deaths, and groundwater depletion share one feature. Whoever causes the damage does not pay for it. Environmental and resource economics calls this an externality, and policy is the attempted correction. My research measures how much of that correction arrives, and what else arrives with it. The answer is often not what the policy assumed. I use causal inference and large-scale administrative data. One line of work is on farms, the other on cities.
+
+## 1. Land, Food, and the Environment
+
+Agriculture is the largest user of land and water, a major source of emissions and nutrient runoff, and how millions of households live. A policy that cleans up farming at the farmer's expense will not be adopted. Must environmental quality and farm income trade off? Often not.
+
+Solar power is treated as a rival for farmland. [@liou2025rooftop] and [@lee2025solar] show that panels on existing farm buildings displace nothing. Chicken farms that adopt them sell 5.8% more, from output rather than quality. The conflict is about siting, not solar.
+
+Siting can be set by policy. Taiwan zones land for aquavoltaics, which places solar panels above working fish ponds instead of converting farmland. [@chang2026aquavoltaics] finds that farmland prices rose 13.5% after land entered these zones. The increase likely reflects the value of the development rights the zoning creates.
+
+Fertilizer and pesticide runoff resists regulation because it comes from tens of thousands of sources no inspector can reach. [@chang2026food] finds that farms adopting food traceability are 8.2, 15.4, and 40 percentage points less likely to use chemical fertilizer, pesticide, and groundwater. Revenue rises too. A food safety system did what enforcement cannot.
+
+Biodiversity disappears from private land because nobody pays for it. [@lee2025forest] finds that forest farms with greater tree diversity earn less but face far steadier revenue, and stability outweighs the loss. Diversity pays in stability, not income. Programs that compensate forgone income misread the asset.
+
+## 2. Cities, Movement, and External Costs
+
+Transport emissions keep rising, and transport kills directly. Cities answer with rail, fare subsidies, and traffic rules. None is cheap, and none has an obvious effect.
+
+[@liou2026hookturn] uses the removal of the two-stage left turn rule for motorcycles in part of Tainan City. Accidents fell 21%, victims 19%, and vehicles involved 28%. Road safety usually means building something. Here a rule change cost nothing and did as well.
+
+Fare subsidies are now sold as climate policy. [@liou2025monthly] finds that the Taipei monthly pass raised ridership, passenger kilometers, and trip value by 4.3%, 4.6%, and 4.6%. Emissions fall only if 70% to 80% of the new trips come out of cars and motorcycles. Programs are judged on ridership. Ridership is the wrong number. [@chang2021metro] shows the demand is fragile as well, falling 1.43% per COVID-19 case.
+
+Mass events send the bill to people who never attended. [@liou2026religious] finds accidents rose 14.9% and victims 17.4% during the Dajia Mazu Pilgrimage, and 9.8% even in townships off the route. [@chang2024air] measures the air quality cost of Hakka tomb sweeping at the Lantern Festival. Neither cost enters the planning.
+
+## 3. Other
+
+[@liou2025cbam] builds a strategic trade model with green investment. The Carbon Border Adjustment Mechanism pushes exporters toward cleaner technology, though its market structure effects vary by industry. [@liou2024covid] finds that consumers shifted food purchases online under pandemic risk. [@liou2026hotel] finds that hotel revenue recovered through price rather than volume, with restored labor supply worth up to 17.8%.
+
+Rural or urban, one question runs through all of it. When policy changes the price of environmental damage, who changes behavior, by how much, and who pays.
+
+\newpage
+
+## References

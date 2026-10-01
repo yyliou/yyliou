@@ -13,11 +13,9 @@ csl: rs.csl
 link-citations: true
 linkcolor: blue
 urlcolor: blue
-header-includes:
-  - \usepackage{fontspec}
-  - \usepackage{xeCJK}
-  - \setmainfont{源雲明體月}
-  - \setCJKmainfont{源雲明體月}
+mainfont: "texgyrepagella-regular.otf"
+mainfontoptions: "Scale=1.0, BoldFont=texgyrepagella-bold.otf, ItalicFont=texgyrepagella-italic.otf, BoldItalicFont=texgyrepagella-bolditalic.otf"
+CJKmainfont: "源雲明體月"
 ---
 
 ```{r setup, include=FALSE}
