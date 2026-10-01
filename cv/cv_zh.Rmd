@@ -81,6 +81,8 @@ header-includes:
 \begin{hanglist}
 ```
 
+`\numbox{13.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Conditionally accepted. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*.
+
 `\numbox{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*.
 
 `\numbox{11.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148.
@@ -116,8 +118,6 @@ header-includes:
 ```{=latex}
 \begin{hanglist}
 ```
-
-`\numbox{11.}`{=latex}Does the Development of Aquavoltaics Production Affect Farmland Price? (with Hung-Hao Chang).\mbox{（第二輪修訂）}
 
 `\numbox{10.}`{=latex}The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Hung-Hao Chang).\mbox{（第二輪修訂）}
 
