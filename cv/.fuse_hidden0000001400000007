@@ -51,7 +51,7 @@ header-includes:
 ---
 
 ```{=latex}
-{\raggedleft\small[\href{https://yyliou.github.io/yyliou/cv/cv_simple_metrics.pdf}{English version}]\par}
+{\raggedleft\small[\href{https://yyliou.github.io/yyliou/cv/cv_metrics.pdf}{English version}]\par}
 ```
 
 # 學歷
@@ -88,23 +88,29 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\numbox{10.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Conditionally accepted. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*. \newline \jmetric{〔SSCI、EconLit；JIF＝1.9；經濟學第 254/627 名（前 40.5\%），Q2〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊}
+`\numbox{13.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Conditionally accepted. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*. \newline \jmetric{〔SSCI、EconLit；JIF＝1.9；經濟學第 254/627 名（前 40.5\%），Q2〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊}
 
-`\numbox{9.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI、EconLit；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕}
+`\numbox{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI、EconLit；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕}
 
-`\numbox{8.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕}
+`\numbox{11.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕}
 
-`\numbox{7.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動第 29/141 名（前 20.6\%），Q1〕}
+`\numbox{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, and Hung-Hao Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: Evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." *Journal of Tourism Management Research*, 13(1), 148--162. \newline \jmetric{〔ESCI；JIF＝1.1；觀光休閒運動第 104/141 名（前 73.8\%），Q3〕}
 
-`\numbox{6.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊} \newline 獲獎：國立臺灣大學生物資源暨農學院 114 學年度學生學術論文獎 \newline 媒體報導：[[臺大焦點新聞](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)] [[自由時報](https://news.ltn.com.tw/news/life/breakingnews/5422721)] [[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)] [[中國時報](https://www.chinatimes.com/newspapers/20260412000322-260121)]
+`\numbox{9.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動第 29/141 名（前 20.6\%），Q1〕}
 
-`\numbox{5.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝2.4；經濟學第 196/627 名（前 31.3\%），Q2〕}
+`\numbox{8.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊} \newline 媒體報導：[[臺大焦點新聞](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)] [[自由時報](https://news.ltn.com.tw/news/life/breakingnews/5422721)] [[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)] [[中國時報](https://www.chinatimes.com/newspapers/20260412000322-260121)]
 
-`\numbox{4.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication. \newline \jmetric{〔SSCI、EconLit；JIF＝1.2；經濟學第 379/627 名（前 60.4\%），Q3〕}
+`\numbox{7.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Is Solar Panel Adoption a Win--Win Strategy for Chicken Farms? Evidence from Agriculture Census Data](https://www.mdpi.com/2077-0472/15/20/2124)." *Agriculture*, 15(20), 2124. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學第 16/133 名（前 12.0\%），Q1〕}
 
-`\numbox{3.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝8.7；運輸學第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊}
+`\numbox{6.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝2.4；經濟學第 196/627 名（前 31.3\%），Q2〕}
 
-`\numbox{2.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{〔SCIE、SSCI；JIF＝4.6；林學第 7/92 名（前 7.6\%），Q1〕}
+`\numbox{5.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication. \newline \jmetric{〔SSCI、EconLit；JIF＝1.2；經濟學第 379/627 名（前 60.4\%），Q3〕}
+
+`\numbox{4.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝8.7；運輸學第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊}
+
+`\numbox{3.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{〔SCIE、SSCI；JIF＝4.6；林學第 7/92 名（前 7.6\%），Q1〕}
+
+`\numbox{2.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and David R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
 
 `\numbox{1.}`{=latex}Chang, Hung-Hao, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{〔SSCI；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會管理二學門推薦國際期刊}
 
@@ -224,7 +230,7 @@ header-includes:
 
 # 審稿
 
-[*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (5); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (2); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1)
+[*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (5); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (2); [*Frontiers in Climate*](https://www.frontiersin.org/journals/climate) (2); [*Frontiers in Environmental Economics*](https://www.frontiersin.org/journals/environmental-economics) (1); [*Frontiers in Environmental Science*](https://www.frontiersin.org/journals/environmental-science) (1); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1)
 
 # 獲獎
 

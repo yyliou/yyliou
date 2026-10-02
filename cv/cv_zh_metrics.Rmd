@@ -98,7 +98,7 @@ header-includes:
 
 `\numbox{9.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動第 29/141 名（前 20.6\%），Q1〕}
 
-`\numbox{8.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊} \newline 媒體報導：[[臺大焦點新聞](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)] [[自由時報](https://news.ltn.com.tw/news/life/breakingnews/5422721)] [[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)] [[中國時報](https://www.chinatimes.com/newspapers/20260412000322-260121)]
+`\numbox{8.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊} \newline 獲獎：國立臺灣大學生物資源暨農學院 114 學年度學生學術論文獎 \newline 媒體報導：[[臺大焦點新聞](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)] [[自由時報](https://news.ltn.com.tw/news/life/breakingnews/5422721)] [[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)] [[中國時報](https://www.chinatimes.com/newspapers/20260412000322-260121)]
 
 `\numbox{7.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Is Solar Panel Adoption a Win--Win Strategy for Chicken Farms? Evidence from Agriculture Census Data](https://www.mdpi.com/2077-0472/15/20/2124)." *Agriculture*, 15(20), 2124. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學第 16/133 名（前 12.0\%），Q1〕}
 
@@ -121,9 +121,23 @@ header-includes:
 \vspace{2pt}
 \noindent\textit{\small 註：JIF 與排名依 Clarivate JCR 2025 年資料（2026 年 6 月發布）計算；各期刊取排名百分比最佳之領域，以「名次／該領域期刊總數」表示。}
 
-## **進行中研究**
+## **學位論文**
 
-### 修訂中
+```{=latex}
+\begin{hanglist}
+```
+
+`\numbox{2.}`{=latex}**Liou, Yu-You**. 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline 成績：A+。口試委員：許耀文、連勇智、荷世平。
+
+`\numbox{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文（中文撰寫）。\newline 成績：A+。口試委員：張宏浩、鍾秋悅、王俊豪、林子欽、蔡昇甫。
+
+```{=latex}
+\end{hanglist}
+```
+
+# 進行中研究
+
+## **修訂中**
 
 ```{=latex}
 \begin{hanglist}
@@ -139,7 +153,7 @@ header-includes:
 \end{hanglist}
 ```
 
-### 審稿中
+## **審稿中**
 
 ```{=latex}
 \begin{hanglist}
@@ -161,27 +175,13 @@ header-includes:
 \end{hanglist}
 ```
 
-### 撰稿中
+## **撰稿中**
 
 ```{=latex}
 \begin{hanglist}
 ```
 
 `\numbox{1.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Hung-Hao Chang).
-
-```{=latex}
-\end{hanglist}
-```
-
-## **學位論文**
-
-```{=latex}
-\begin{hanglist}
-```
-
-`\numbox{2.}`{=latex}**Liou, Yu-You**. 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline 成績：A+。口試委員：許耀文、連勇智、荷世平。
-
-`\numbox{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文（中文撰寫）。\newline 成績：A+。口試委員：張宏浩、鍾秋悅、王俊豪、林子欽、蔡昇甫。
 
 ```{=latex}
 \end{hanglist}
@@ -230,7 +230,7 @@ header-includes:
 
 # 審稿
 
-[*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (5); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (2); [*Frontiers in Climate*](https://www.frontiersin.org/journals/climate) (2); [*Frontiers in Environmental Economics*](https://www.frontiersin.org/journals/environmental-economics) (1); [*Frontiers in Environmental Science*](https://www.frontiersin.org/journals/environmental-science) (1); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1)
+[*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (5); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (2); [*Frontiers in Climate*](https://www.frontiersin.org/journals/climate) (2); [*Frontiers in Environmental Economics*](https://www.frontiersin.org/journals/environmental-economics) (1); [*Frontiers in Environmental Science*](https://www.frontiersin.org/journals/environmental-science) (1); [*Frontiers in Sustainable Food Systems*](https://www.frontiersin.org/journals/sustainable-food-systems) (1); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1)
 
 # 獲獎
 
