@@ -88,6 +88,8 @@ header-includes:
 \begin{hanglist}
 ```
 
+`\numbox{14.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. Accepted. "The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety." *Transport Policy*. \newline \jmetric{〔SSCI、EconLit；JIF＝6.2；經濟學第 33/627 名（前 5.3\%），Q1〕}
+
 `\numbox{13.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Conditionally accepted. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*. \newline \jmetric{〔SSCI、EconLit；JIF＝1.9；經濟學第 254/627 名（前 40.5\%），Q2〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊}
 
 `\numbox{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI、EconLit；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕}
@@ -142,8 +144,6 @@ header-includes:
 ```{=latex}
 \begin{hanglist}
 ```
-
-`\numbox{10.}`{=latex}The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety (with Hung-Hao Chang).\mbox{（第二輪修訂）}
 
 `\numbox{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu).\mbox{（第二輪修訂）}
 
