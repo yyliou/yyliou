@@ -9,7 +9,7 @@
   </info>
   <macro name="author-full">
     <names variable="author">
-      <name and="text" delimiter=", " delimiter-precedes-last="always" initialize-with=". "/>
+      <name and="text" delimiter=", " delimiter-precedes-last="always"/>
     </names>
   </macro>
   <macro name="year">
