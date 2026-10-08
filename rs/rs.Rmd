@@ -5,6 +5,7 @@ date: "`r Sys.Date()`"
 output:
   pdf_document:
     latex_engine: xelatex
+    pandoc_args: ["--lua-filter=bold-me.lua"]
 geometry: "margin=1in"
 fontsize: 11pt
 linestretch: 1.25
@@ -28,37 +29,33 @@ knitr::opts_chunk$set(echo = TRUE)
 {\raggedleft\small[\href{https://yyliou.github.io/yyliou/rs/rs_zh.pdf}{中文版由此去}]\par}
 ```
 
-Air pollution, road deaths, and groundwater depletion share one feature. Whoever causes the damage does not pay for it. Environmental and resource economics calls this an externality. Governments respond with zoning, subsidies, traffic rules, and infrastructure. Whether these policies work, and what else they change, is an important empirical question. My research evaluates them with causal inference and large-scale administrative data, and the results often differ from what the policy assumed. Externalities arise not only from factory chimneys but also on farmland and city streets, so my work falls into two lines, one on farms and one on cities.
+Air pollution, road deaths, and groundwater depletion share one feature. Whoever causes the damage does not pay for it. Environmental and resource economics calls this an externality. Governments respond with traffic rules, infrastructure, subsidies, zoning, and certification programs. Whether these policies work, and what else they change, is an important empirical question. My research evaluates them with causal inference and population-wide administrative data from Taiwan, and the results often differ from what the policy assumed. Externalities arise not only from factory chimneys but also on farmland and city streets, so my work follows two connected lines. The first asks whether environmental practices on farms can also raise farm income. The second asks how traffic rules, infrastructure, fares, and large events change accidents and emissions on the road.
 
-## 1. Land, Food, and the Environment
+Earlier evaluations of these policies relied mostly on laboratory experiments, simulations, or small surveys. Both lines of my work instead combine nationwide administrative data with quasi-experimental designs to estimate effects on actual outcomes.
 
-Agriculture is the largest user of land and water, a major source of emissions and nutrient runoff, and the livelihood of millions of households. A policy that cleans up farming at the farmer's expense will not be adopted. Must environmental quality and farm income trade off? Often not.
+## 1. Agricultural Production and the Environment
 
-Solar power is treated as a rival for farmland. [@liou2025rooftop] and [@lee2025solar] show that panels on existing farm buildings displace nothing. Chicken farms that adopt them sell 5.8% more, and the gain comes from higher output rather than higher quality. The conflict is about where panels go, not whether they go up.
+Practices that lower farm income are unlikely to spread, so this line of work asks whether environmental goals and farm income can go together.
 
-Siting can be set by policy. Taiwan zones land for aquavoltaics, which places solar panels above working fish ponds instead of converting farmland. [@chang2026aquavoltaics] finds that farmland prices rose 13.5% after land entered these zones. The increase likely reflects the value of the development rights the zoning creates.
+Solar power needs land, but panels on farmland raise concerns about competition with agriculture. Rooftop panels use no farmland, yet evidence on them comes mostly from laboratory studies. Using the 2020 agriculture census, we find that livestock and poultry farms with rooftop panels have higher sales [@liou2025rooftop], and chicken farms sell 5.8% more, mainly through higher output [@lee2025solar]. Because rooftop space is limited, the government also zones fish ponds for aquavoltaics. Farmland prices rose 13.5% after land entered these zones, which likely reflects the value of the development rights [@chang2026aquavoltaics].
 
-Fertilizer and pesticide runoff resists regulation because it comes from tens of thousands of sources no inspector can reach. [@chang2026food] finds that farms adopting food traceability are 8.2, 15.4, and 40 percentage points less likely to use chemical fertilizer, pesticide, and groundwater. Revenue rises too. A food safety system did what enforcement cannot.
+Beyond energy, the more widespread environmental effect of farming comes from chemical fertilizer and pesticide, which are hard to regulate because they come from many dispersed sources. Food traceability systems target food safety and have been studied mainly from the consumer side. We find that adopting farms are 8.2, 15.4, and 40 percentage points less likely to use chemical fertilizer, pesticide, and groundwater, and their revenue also rises [@chang2026food]. In other words, a food safety policy also brings environmental benefits.
 
-Biodiversity disappears from private land because nobody pays for it. [@lee2025forest] finds that forest farms with greater tree diversity earn less on average but face far steadier revenue, and the reduction in risk outweighs the loss in income. Diversity pays in stability rather than in income.
+Not every environmental practice raises income. Forest farms with greater tree diversity earn less on average, but their revenue is much more stable, and the reduction in variability exceeds the loss in income [@lee2025forest]. Environmental practices can thus benefit farmers through lower risk even without higher income.
 
-## 2. Cities, Movement, and Externalities
+## 2. Transportation, Mobility, and Externalities
 
-Transport emissions keep rising, and transport kills directly. Cities answer with rail, fare subsidies, and traffic rules. None is cheap, and the effect of none is known in advance.
+Traffic produces two main externalities, accidents and emissions. Public transit is often seen as a way to reduce both, so I first examine what changes transit use. Taiwan never imposed a COVID-19 lockdown, yet each new confirmed case reduced Taipei Metro ridership by 1.43%, so perceived risk alone changed travel behavior [@chang2021metro]. On the policy side, the Taipei monthly pass raised metro ridership by 4.3% [@liou2025monthly]. Emissions fall only if 70% to 80% of new trips replace car or motorcycle trips.
 
-[@liou2026hookturn] studies the removal of the two-stage left turn rule for motorcycles in part of Tainan City. Accidents fell 21%, victims 19%, and vehicles involved 28%. Road safety usually means building something. Here a rule change, at a cost that is trivial next to any construction project, worked just as well.
+Most trips still rely on motor vehicles, so road safety depends on rules and infrastructure. After part of Tainan City removed the two-stage left turn rule for motorcycles, accidents fell 21% [@liou2026hookturn]. Counterintuitive rules can raise accident risk. Previous studies of pedestrian protection relied on virtual-reality simulations. We evaluate Taiwan's nationwide intersection upgrade with inverse probability weighting, because the program targeted high-risk intersections. Injury crashes fell 8.2% and pedestrian crashes 14.8%, and each NT$1 spent saved about NT$3.5 in medical costs [@liou2027ppi].
 
-Building does pay when it is aimed at the right people. [@liou2027ppi] evaluates Taiwan's nationwide upgrade of pedestrian-protective infrastructure at intersections, such as refuge islands and relocated crosswalks. Injury crashes fell 8.2% in treated townships and pedestrian crashes 14.8%. The gains are concentrated at narrow single-lane intersections. Within eight months, each NT$1 spent returned about NT$3.5 in avoided medical costs.
+Beyond daily travel, large events bring sudden surges of traffic. Air quality fell 17.5% during the Hakka Tomb-Sweeping Day. Previous studies attributed holiday pollution to incense, joss paper, and fireworks, but we find that the main cause is greater motor vehicle use [@chang2024air]. During the Dajia Mazu Pilgrimage, accidents rose 14.9%, and 9.8% even in neighboring townships off the route [@liou2026religious]. In both daily and religious travel, the externalities come mainly from motor vehicles.
 
-Metro ridership responds quickly to shocks from outside the system, whether a policy or a pandemic. On the policy side, [@liou2025monthly] finds that the Taipei monthly pass raised ridership, passenger kilometers, and trip value by 4.3%, 4.6%, and 4.6%. Fare subsidies are now sold as climate policy, but emissions fall only if 70% to 80% of the new trips are diverted from cars and motorcycles, so ridership alone does not show whether the subsidy worked. On the pandemic side, [@chang2021metro] finds that each new COVID-19 case reduced Taipei Metro use by 1.43%, even though Taiwan never imposed a lockdown. Perceived health risk alone was enough to move riders off the system.
+## 3. Other Research
 
-Mass events send the bill to people who never attended. [@liou2026religious] finds that accidents rose 14.9% and victims 17.4% during the Dajia Mazu Pilgrimage, and that accidents rose 9.8% even in townships off the route. [@chang2024air] measures the air quality cost of Hakka tomb sweeping at the Lantern Festival. Neither cost enters the planning of these events.
+I also apply these methods to how markets respond to external shocks. During the pandemic, consumers updated their beliefs as a Bayesian model predicts and moved food purchases online [@liou2024covid]. After the pandemic, hotel revenue recovered through higher room rates rather than more guests [@liou2026hotel]. A strategic trade model also shows that the EU Carbon Border Adjustment Mechanism promotes green investment by exporters [@liou2025cbam].
 
-## 3. Other
-
-[@liou2025cbam] builds a strategic trade model with green investment. The Carbon Border Adjustment Mechanism pushes exporters toward cleaner technology, though its market structure effects vary by industry. [@liou2024covid] finds that consumers shifted food purchases online under pandemic risk. [@liou2026hotel] finds that hotel revenue recovered through higher prices rather than more guests, and that restoring the labor supply would raise revenue by up to 17.8%.
-
-Farms or cities, the question is the same. When a policy changes the price of harming the environment, or the reward for improving it, who changes their behavior, by how much, who bears the cost, and who receives the benefit.
+On farms and in cities, my research asks who responds, by how much, and who bears the costs and benefits when a policy or shock changes the cost of harming the environment or the reward for improving it.
 
 \newpage
 
