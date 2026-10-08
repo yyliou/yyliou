@@ -87,7 +87,7 @@ header-includes:
 
 `\numbox{11.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Accepted. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*.
 
-`\numbox{10.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The Effects of Enhancing Pedestrian-Protective Infrastructure on Intersection Safety](https://doi.org/10.1016/j.tranpol.2026.104468)." *Transport Policy*, 104468. Advance online publication.
+`\numbox{10.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." *Transport Policy*, 190, 104468.
 
 `\numbox{9.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*.
 
