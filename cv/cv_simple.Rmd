@@ -94,7 +94,7 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 
 `\numbox{7.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209.
 
-`\numbox{6.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline Award: 2025 Doctoral Student Academic Paper Award, College of Bioresources and Agriculture, National Taiwan University. [[Certificate](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf)] \newline Media coverage: [[NTU press release](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)] [[Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5422721)] [[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)] [[China Times](https://www.chinatimes.com/newspapers/20260412000322-260121)]
+`\numbox{6.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline Award: [2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University. \newline Media coverage: [[NTU press release](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)] [[Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5422721)] [[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)] [[China Times](https://www.chinatimes.com/newspapers/20260412000322-260121)]
 
 `\numbox{5.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication.
 
@@ -225,21 +225,21 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 
 Graduate Research Fellowship, National Science and Technology Council \hfill \mbox{2022--2026}
 
-2025 Doctoral Student Academic Paper Award, College of Bioresources and Agriculture, National Taiwan University [[Certificate](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf)] \hfillbreak \mbox{2026}
+[2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University \hfillbreak \mbox{2026}
 
-2025 CMC Outstanding Student Research Award, College of Bioresources and Agriculture, National Taiwan University [[Certificate](https://yyliou.github.io/yyliou/cv/cert/award-2025-cmc-outstanding-student-research.pdf)] \hfillbreak \mbox{2025}
+[2025 CMC Outstanding Student Research Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-cmc-outstanding-student-research.pdf), College of Bioresources and Agriculture, National Taiwan University \hfillbreak \mbox{2025}
 
-English-Medium Instruction (EMI) Teaching Grant, Shih Chien University [[Certificate](https://yyliou.github.io/yyliou/cv/cert/award-2025-emi-teaching.pdf)] \hfillbreak \mbox{2025}
+[English-Medium Instruction (EMI) Teaching Grant](https://yyliou.github.io/yyliou/cv/cert/award-2025-emi-teaching.pdf), Shih Chien University \hfillbreak \mbox{2025}
 
 Conference Travel Grant, National Science and Technology Council \hfill \mbox{2025}
 
-Conference Travel Scholarship, National Alumni Association of the Department of Agricultural Economics, National Taiwan University [[Certificate](https://yyliou.github.io/yyliou/cv/cert/award-2025-alumni-conference-travel.pdf)] \hfillbreak \mbox{2025}
+[Conference Travel Scholarship](https://yyliou.github.io/yyliou/cv/cert/award-2025-alumni-conference-travel.pdf), National Alumni Association of the Department of Agricultural Economics, National Taiwan University \hfillbreak \mbox{2025}
 
 Sun Yun-Suan Memorial Fellowship, National Policy Foundation \hfill \mbox{2023}
 
 Outstanding Veteran, Penghu Defense Command, Republic of China Army \hfill \mbox{2022}
 
-Altruistic Award, National Taiwan University [[Certificate](https://yyliou.github.io/yyliou/cv/cert/award-2019-altruistic.pdf)] \hfillbreak \mbox{2019}
+[Altruistic Award](https://yyliou.github.io/yyliou/cv/cert/award-2019-altruistic.pdf), National Taiwan University \hfillbreak \mbox{2019}
 
 # Teaching
 
