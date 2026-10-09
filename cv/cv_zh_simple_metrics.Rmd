@@ -72,7 +72,7 @@ header-includes:
 
 國立臺灣大學生物資源暨農學院農業零碳技術與管理創新研究中心，研究助理 \hfillbreak \mbox{113 年–迄今}
 
-實踐大學國際學院國際企業英語學士學位學程，[兼任講師](https://yyliou.github.io/yyliou/cv/doc/appointment-letters.pdf) \hfillbreak \mbox{113 年–迄今}
+實踐大學國際學院國際企業英語學士學位學程，兼任講師 [[聘書](https://yyliou.github.io/yyliou/cv/doc/appointment-letters.pdf)] \hfillbreak \mbox{113 年–迄今}
 
 國立臺灣大學生物資源暨農學院生態工程研究中心，研究助理 \hfillbreak \mbox{110 年–111 年}
 
@@ -98,7 +98,7 @@ header-includes:
 
 `\numbox{7.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動第 29/141 名（前 20.6\%），Q1〕}
 
-`\numbox{6.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊} \newline 獲獎：[國立臺灣大學生物資源暨農學院 114 學年度博士班學生學術論文獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf) \newline 媒體報導：[[臺大焦點新聞](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)] [[自由時報](https://news.ltn.com.tw/news/life/breakingnews/5422721)] [[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)] [[中國時報](https://www.chinatimes.com/newspapers/20260412000322-260121)]
+`\numbox{6.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會區域研究及地理學門推薦國際期刊、國科會經濟學門 B+ 國際期刊、國科會管理二學門推薦國際期刊} \newline 獲獎：國立臺灣大學生物資源暨農學院 114 學年度博士班學生學術論文獎 [[證明](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf)] \newline 媒體報導：[[臺大焦點新聞](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)] [[自由時報](https://news.ltn.com.tw/news/life/breakingnews/5422721)] [[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)] [[中國時報](https://www.chinatimes.com/newspapers/20260412000322-260121)]
 
 `\numbox{5.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \jmetric{〔SCIE、SSCI、EconLit；JIF＝2.4；經濟學第 196/627 名（前 31.3\%），Q2〕}
 
@@ -226,27 +226,27 @@ header-includes:
 
 [*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (4); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (2); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1)
 
-[審稿證明](https://github.com/yyliou/yyliou/tree/main/cv/cert/referee)
+[[審稿證明](https://yyliou.github.io/yyliou/cv/cert/referee-certificates.pdf)]
 
 # 獲獎
 
 國家科學及技術委員會，博士生研究獎學金 \hfill \mbox{111 年–115 年}
 
-[國立臺灣大學生物資源暨農學院，114 學年度博士班學生學術論文獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf) \hfillbreak \mbox{115 年}
+國立臺灣大學生物資源暨農學院，114 學年度博士班學生學術論文獎 [[證明](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf)] \hfillbreak \mbox{115 年}
 
-[國立臺灣大學生物資源暨農學院，114 學年度中環傑出學生研究獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-cmc-outstanding-student-research.pdf) \hfillbreak \mbox{114 年}
+國立臺灣大學生物資源暨農學院，114 學年度中環傑出學生研究獎 [[證明](https://yyliou.github.io/yyliou/cv/cert/award-2025-cmc-outstanding-student-research.pdf)] \hfillbreak \mbox{114 年}
 
-[實踐大學，全英語授課獎勵](https://yyliou.github.io/yyliou/cv/cert/award-2025-emi-teaching.pdf) \hfillbreak \mbox{114 年}
+實踐大學，全英語授課獎勵 [[證明](https://yyliou.github.io/yyliou/cv/cert/award-2025-emi-teaching.pdf)] \hfillbreak \mbox{114 年}
 
 國家科學及技術委員會，補助國內研究生出席國際學術會議 \hfill \mbox{114 年}
 
-[社團法人國立臺灣大學農業經濟學系全國系友會，母系學生出國參與學術研討會補助獎學金](https://yyliou.github.io/yyliou/cv/cert/award-2025-alumni-conference-travel.pdf) \hfillbreak \mbox{114 年}
+社團法人國立臺灣大學農業經濟學系全國系友會，母系學生出國參與學術研討會補助獎學金 [[證明](https://yyliou.github.io/yyliou/cv/cert/award-2025-alumni-conference-travel.pdf)] \hfillbreak \mbox{114 年}
 
 國家政策研究基金會，孫運璿紀念獎學金 \hfill \mbox{112 年}
 
 中華民國陸軍澎湖防衛指揮部，績優退伍人員 \hfill \mbox{111 年}
 
-[國立臺灣大學，利他獎](https://yyliou.github.io/yyliou/cv/cert/award-2019-altruistic.pdf) \hfillbreak \mbox{108 年}
+國立臺灣大學，利他獎 [[證明](https://yyliou.github.io/yyliou/cv/cert/award-2019-altruistic.pdf)] \hfillbreak \mbox{108 年}
 
 # 教學
 
