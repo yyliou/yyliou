@@ -230,7 +230,7 @@ header-includes:
 
 [[審稿證明](https://yyliou.github.io/yyliou/cv/cert/referee-certificates.pdf)]
 
-# 獲獎
+# 獲獎與補助
 
 國家科學及技術委員會，博士生研究獎學金 \hfill \mbox{111 年–115 年}
 
