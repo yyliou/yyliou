@@ -139,9 +139,9 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\numbox{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu).\mbox{（第二輪修訂）}
+`\numbox{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu).（\textit{Food Policy} 第二輪修訂）
 
-`\numbox{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang).\mbox{（第一輪修訂）}
+`\numbox{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang).（\textit{Technological Forecasting and Social Change} 第一輪修訂）
 
 ```{=latex}
 \end{hanglist}

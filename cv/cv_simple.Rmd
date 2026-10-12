@@ -132,9 +132,9 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 \begin{hanglist}
 ```
 
-`\numbox{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu). Second-round revision.
+`\numbox{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu). Second-round revision requested by *Food Policy*.
 
-`\numbox{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang). First-round revision.
+`\numbox{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang). First-round revision requested by *Technological Forecasting and Social Change*.
 
 ```{=latex}
 \end{hanglist}
