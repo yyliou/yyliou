@@ -160,9 +160,7 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 
 `\numbox{4.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Hung-Hao Chang).
 
-`\numbox{3.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Hung-Hao Chang).
-
-`\numbox{2.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Tzong-Haw Lee and Hung-Hao Chang).
+`\numbox{3.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Tzong-Haw Lee and Hung-Hao Chang).
 
 ```{=latex}
 \end{hanglist}
@@ -173,6 +171,8 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 ```{=latex}
 \begin{hanglist}
 ```
+
+`\numbox{2.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Hung-Hao Chang).
 
 `\numbox{1.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Hung-Hao Chang).
 
