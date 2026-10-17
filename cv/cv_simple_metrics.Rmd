@@ -116,11 +116,13 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 \vspace{2pt}
 \noindent\textit{\small Note: JIF and rankings are based on Clarivate JCR 2025 data (released June 2026); each journal is shown in its best-percentile category as \#rank/total.}
 
-## Theses
+## Dissertation and Theses
 
 ```{=latex}
 \begin{hanglist}
 ```
+
+`\numbox{3.}`{=latex}**Liou, Yu-You**. "The Environmental Economics of Urban Transport: Three Essays on Fare Policy, Vehicle Electrification, and Transit Disruption in Taiwan." Ph.D. Dissertation (in progress), Department of Agricultural Economics, National Taiwan University. \newline \textit{Expected defense: 2027. Proposed committee: Hung-Hao Chang, Pei-An Liao, Yessica C. Y. Chung, Wen-Jhan Jane, Tsung-Chen Lee, Chia-Hsuan Wu, and Yungho Weng.}
 
 `\numbox{2.}`{=latex}**Liou, Yu-You**. 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline \textit{Grade: A+. Committee: Yao-Wen Hsu, Yung-Chih Lien, and Shih-Ping Ho.}
 
