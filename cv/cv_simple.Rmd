@@ -138,6 +138,8 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 
 `\numbox{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang). First-round revision requested by [*Technological Forecasting and Social Change*](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change).
 
+`\numbox{7.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Hung-Hao Chang). First-round revision requested by [*Ecosystem Services*](https://www.sciencedirect.com/journal/ecosystem-services).
+
 ```{=latex}
 \end{hanglist}
 ```
@@ -147,8 +149,6 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 ```{=latex}
 \begin{hanglist}
 ```
-
-`\numbox{7.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Hung-Hao Chang).
 
 `\numbox{6.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Hung-Hao Chang and Hsiao-Chiao Sun).
 
