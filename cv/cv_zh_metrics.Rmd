@@ -317,10 +317,6 @@ header-includes:
 
 臺中市政府，[第一屆青年事務諮詢委員會議題小組青年委員](https://yyliou.github.io/yyliou/cv/cert/service-2019-taichung-youth-advisory.pdf) \hfillbreak \mbox{108 年–110 年}
 
-中華民國各界慶祝一〇九年青年節籌備委員會，[執行委員](https://yyliou.github.io/yyliou/cv/cert/service-2020-youth-day.pdf) \hfillbreak \mbox{109 年}
-
-中華民國各界慶祝一〇九年青年節籌備委員會，[籌備委員](https://yyliou.github.io/yyliou/cv/cert/service-2019-youth-day-preparatory.pdf) \hfillbreak \mbox{108 年}
-
 臺中市政府，[第三屆青年事務審議會青年代表](https://yyliou.github.io/yyliou/cv/cert/service-2018-taichung-youth-review.pdf) \hfillbreak \mbox{107 年–108 年}
 
 # 技能
