@@ -243,9 +243,9 @@ Graduate Research Fellowship, National Science and Technology Council \hfill \mb
 
 [2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University \hfillbreak \mbox{2026}
 
-[2025 CMC Outstanding Student Research Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-cmc-outstanding-student-research.pdf), College of Bioresources and Agriculture, National Taiwan University \hfillbreak \mbox{2025}
+[2025 CMC Magnetics Corporation Outstanding Student Research Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-cmc-outstanding-student-research.pdf), College of Bioresources and Agriculture, National Taiwan University \hfillbreak \mbox{2025}
 
-[English-Medium Instruction (EMI) Teaching Grant](https://yyliou.github.io/yyliou/cv/cert/award-2025-emi-teaching.pdf), Shih Chien University \hfillbreak \mbox{2025}
+[2025 English-Medium Instruction (EMI) Course Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-emi-teaching.pdf), Shih Chien University \hfillbreak \mbox{2025}
 
 Conference Travel Grant, National Science and Technology Council \hfill \mbox{2025}
 
@@ -253,9 +253,7 @@ Conference Travel Grant, National Science and Technology Council \hfill \mbox{20
 
 Sun Yun-Suan Memorial Fellowship, National Policy Foundation \hfill \mbox{2023}
 
-Outstanding Veteran, Penghu Defense Command, Republic of China Army \hfill \mbox{2022}
-
-[Altruistic Award](https://yyliou.github.io/yyliou/cv/cert/award-2019-altruistic.pdf), National Taiwan University \hfillbreak \mbox{2019}
+[2018 Altruistic Award](https://yyliou.github.io/yyliou/cv/cert/award-2019-altruistic.pdf), National Taiwan University \hfillbreak \mbox{2019}
 
 # Teaching
 
@@ -293,24 +291,36 @@ Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics
 \projitem{20.}{Adaptation of Food and Agricultural System to Net Zero Policies (III), National Science and Technology Council, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}}{2026}
 \projitem{19.}{The Impact of Aquavoltaics Policy on Farmland Price --- the Case of Taiwan, National Science and Technology Council, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}}{2026}
 \projitem{18.}{Policy Cost-Benefit Analysis and Strategic Recommendations for Enhancing Carbon Sink Capacity in Taiwan: A Case Study on Soil-Optimized Agricultural Production Models, Ministry of Agriculture, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}}{2025}
-\projitem{17.}{Applied Analysis of the Farmland Price Index in Response to the National Land Planning Policy, Ministry of Agriculture, \mbox{113農基金-永續-11}}{2025}
+\projitem{17.}{Applied Analysis of the Farmland Price Index in Response to National Land Planning, Ministry of Agriculture, \mbox{114農基金-永續-11}}{2025}
 \projitem{16.}{Adaptation of Food and Agricultural System to Net Zero Policies (II), National Science and Technology Council, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}}{2025}
 \projitem{15.}{Farm Labor Supply in Online Job-Matching Platforms --- the Case of Taiwan, National Science and Technology Council, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}}{2024--2025}
-\projitem{14.}{Establishing a Framework for Ecosystem Services in Organic Agriculture: Value Investigation and Quantification Model for Vegetables and Rice, Ministry of Agriculture, \mbox{113農再-2.2.2-1.5-糧-004}}{2024}
+\projitem{14.}{Establishing a Framework for Ecosystem Services in Organic Agriculture: Value Investigation and Quantification Model for Vegetables and Rice, Agriculture and Food Agency, Ministry of Agriculture, \mbox{113農再-2.2.2-1.5-糧-004}}{2024}
 \projitem{13.}{Cost Assessments and Policy Suggestions for Carbon-Sink-Increasing Strategies in Taiwan, Ministry of Agriculture, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}}{2024}
 \projitem{12.}{Research on Electric Vehicle Industry Policies and Competition Law Regulations, Fair Trade Commission, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}}{2024}
 \projitem{11.}{Economic Evaluation of Circular Economy Using Agricultural By-Products, Ministry of Science and Technology, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}}{2024}
 \projitem{10.}{Adaptation of Food and Agricultural System to Net Zero Policies (I), National Science and Technology Council, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}}{2024}
 \projitem{9.}{Cost Assessments and Policy Suggestions for Carbon-Sink-Increasing Strategies in Taiwan, Council of Agriculture, Executive Yuan, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}}{2023}
 \projitem{8.}{Evaluation and Establishment of Farmland Price Indices for Decision-making on Sustainable Farmland Use, Council of Agriculture, Executive Yuan, \mbox{112農基金-1.1-企-10-(2)}}{2023}
-\projitem{7.}{University Social Responsibility Program: ``Partnership with Yunlin --- Deepening Industrial Linkages in Key Agricultural Areas'', Ministry of Education, \mbox{112L5A001B}}{2023}
+\projitem{7.}{University Social Responsibility Program: ``Partnership with Yunlin --- Deepening Industrial Linkages in Specialty Agricultural Production Areas'', Ministry of Education, \mbox{112L5A001B}}{2023}
 \projitem{6.}{Economic Analysis of Farm Succession --- a Case Study of Taiwan, Ministry of Science and Technology, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}}{2023}
-\projitem{5.}{Decision Evaluation of Farmland Resources and Sustainable Uses, Council of Agriculture, Executive Yuan, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=14766648}{111農科-3.1.3-企-Q2(Z)}}}{2022}
+\projitem{5.}{Evaluation and Establishment of Farmland Price Indices for Decision Evaluation of Farmland Resources and Sustainable Uses, Council of Agriculture, Executive Yuan, \mbox{111農科-3.1.3-企-Q2(2)}}{2022}
 \projitem{4.}{Food Accessibility, Market Competition and Housing Prices --- Empirical Evidence of Convenience Stores in Taiwan, Ministry of Science and Technology, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}}{2022}
 \projitem{3.}{Economic Analysis of Farmer Occupational Injury Insurance Program in Taiwan, Ministry of Science and Technology, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}}{2021}
 \projitem{2.}{Impact of Rural Regeneration Programs on Farm Labor and Leisure Agriculture Participation, Council of Agriculture, Executive Yuan, \mbox{109農再-2.1.3-1.3-企-015}}{2020}
 \projitem{1.}{Impact of Sharing Economy on Farmland Price in Taiwan, Ministry of Science and Technology, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}}{2020}
 ```
+
+# Public\newline Service
+
+[Private, 2nd Company, Armored Cavalry Battalion](https://yyliou.github.io/yyliou/cv/cert/award-2022-penghu-honor.pdf), Penghu Defense Command, Republic of China Army \hfillbreak \mbox{2022}
+
+[Youth Commissioner, Issue Group](https://yyliou.github.io/yyliou/cv/cert/service-2019-taichung-youth-advisory.pdf), 1st Youth Affairs Advisory Committee, Taichung City Government \hfillbreak \mbox{2019--2021}
+
+[Executive Member](https://yyliou.github.io/yyliou/cv/cert/service-2020-youth-day.pdf), Preparation Committee for the 2020 ROC Celebration of Youth Day \hfillbreak \mbox{2020}
+
+[Member](https://yyliou.github.io/yyliou/cv/cert/service-2019-youth-day-preparatory.pdf), Preparation Committee for the 2020 ROC Celebration of Youth Day \hfillbreak \mbox{2019}
+
+[Youth Representative](https://yyliou.github.io/yyliou/cv/cert/service-2018-taichung-youth-review.pdf), 3rd Youth Affairs Review Committee, Taichung City Government \hfillbreak \mbox{2018--2019}
 
 # Skills
 
