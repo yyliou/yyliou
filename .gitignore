@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+
+.DS_Store
+
+# pCloud FUSE temp artifacts
+.fuse_hidden*
