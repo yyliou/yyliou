@@ -311,3 +311,7 @@ Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics
 **Languages**: English (Professional Working Proficiency), Mandarin (Native), Hokkien (Intermediate).
 
 **Software**: R, Stata, \LaTeX.
+
+# Hiking
+
+[Tamsui-Kavalan Trails](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-tamsui-kavalan.jpg), [Taipei Grand Trail](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-taipei-grand-trail.jpg) (2026), Smile Trails (2026)

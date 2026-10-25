@@ -324,3 +324,7 @@ header-includes:
 語言：英語（專業工作能力）、中文（母語）、閩南語（中等）
 
 軟體：R、Stata、\LaTeX
+
+# 健行
+
+[淡蘭古道](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-tamsui-kavalan.jpg)、[臺北大縱走](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-taipei-grand-trail.jpg)（115 年）、微笑山線（115 年）
