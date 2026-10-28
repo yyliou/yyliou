@@ -152,6 +152,8 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 
 `\numbox{7.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Hung-Hao Chang). First-round revision requested by [*Ecosystem Services*](https://www.sciencedirect.com/journal/ecosystem-services).
 
+`\numbox{6.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Tzong-Haw Lee and Hung-Hao Chang). First-round revision requested by [*Agriculture*](https://www.mdpi.com/journal/agriculture).
+
 ```{=latex}
 \end{hanglist}
 ```
@@ -162,11 +164,9 @@ Agricultural Economics; Environmental and Resource Economics; Transportation Eco
 \begin{hanglist}
 ```
 
-`\numbox{6.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Hung-Hao Chang and Hsiao-Chiao Sun).
+`\numbox{5.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Hung-Hao Chang and Hsiao-Chiao Sun).
 
-`\numbox{5.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Hung-Hao Chang and David Zilberman).
-
-`\numbox{4.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Tzong-Haw Lee and Hung-Hao Chang).
+`\numbox{4.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Hung-Hao Chang and David Zilberman).
 
 ```{=latex}
 \end{hanglist}
