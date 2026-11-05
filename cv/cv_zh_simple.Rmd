@@ -1,0 +1,296 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    template: jenpan-latex-cv.tex
+geometry: margin=0.9in
+
+title: "履歷"
+author: "劉昱佑"
+author-meta: "Yu-You Liou"
+updated: true
+zhdate: true
+
+jobtitle: "國立臺灣大學"
+addressline:
+  - "農業經濟學系博士班"
+  - "106319 臺北市羅斯福路四段一號"
+  - "中華民國（臺灣）"
+
+contactline:
+  - "+886-978-910-776"
+  - "[d10627008@ntu.edu.tw](mailto:d10627008@ntu.edu.tw)"
+  - "[yyliou.github.io](https://yyliou.github.io)"
+  - "ORCID [0009-0006-3155-7540](https://orcid.org/0009-0006-3155-7540)"
+
+sectionindent: "1.15in"
+sectionsep: "0.20in"
+parskip: "6pt plus 2pt minus 1pt"
+sectionfont: "\\normalsize\\bfseries"
+
+mainfont: "texgyrepagella-regular.otf"   # TeX Gyre Pagella，與英文版相同；中文仍用源雲明體月
+mainfontoptions: "Scale=1.0, BoldFont=texgyrepagella-bold.otf, ItalicFont=texgyrepagella-italic.otf, BoldItalicFont=texgyrepagella-bolditalic.otf"
+CJKmainfont: "源雲明體月"
+fontsize: 11pt
+linkcolor: cvlink
+urlcolor: cvlink
+header-includes:
+  - \usepackage{xcolor}
+  - \definecolor{cvlink}{HTML}{2D3E54}
+  - \newenvironment{hanglist}{\par\setlength{\parindent}{0pt}\setlength{\parskip}{10pt plus 2pt minus 1pt}\everypar={\hangindent=2.0em\hangafter=1}}{\par}
+  - \newcommand{\numbox}[1]{\leavevmode\rlap{#1}\hskip2.0em\relax}
+  - \newcommand{\hangitem}[1]{\noindent\hangindent=2.0em\hangafter=1\numbox{#1}}
+  - \newcommand{\tightCJK}[1]{{\xeCJKsetup{CJKecglue={}}#1}}
+  - \newcommand{\presenter}[1]{\tightCJK{\textbf{#1}*}}
+  - \newcommand{\projitem}[3]{\noindent\begin{minipage}[t]{\dimexpr\linewidth-7.6em\relax}\raggedright\everypar={\hangindent=2.0em\hangafter=1}\numbox{#1}#2\par\end{minipage}\hfill\begin{minipage}[t]{7.1em}\raggedleft\mbox{#3}\end{minipage}\par\vspace{3pt}}
+  # \hfillbreak：右欄年份在同一行塞不下時，換到下一行仍靠右對齊（一般情況與 \hfill 相同）
+  - \newcommand{\hfillbreak}{\hfill\penalty0\mbox{}\nobreak\hfill}
+---
+
+```{=latex}
+{\raggedleft\small[\href{https://yyliou.github.io/yyliou/cv/cv_simple.pdf}{English version}]\par}
+```
+
+# 學歷
+
+國立臺灣大學農業經濟學系，博士生 \hfill 111 年–迄今 \newline{} [GPA 4.12/4.3](https://yyliou.github.io/yyliou/cv/doc/phd-transcript-zh.pdf) \newline 指導教授：張宏浩特聘教授
+
+國立臺灣大學，[統計碩士](https://yyliou.github.io/yyliou/cv/doc/ms-diploma-zh.pdf) \hfill \mbox{109 年–110 年}
+
+國立臺灣大學，[農業經濟學碩士](https://yyliou.github.io/yyliou/cv/doc/ms-diploma-zh.pdf) \hfill \mbox{108 年–110 年} \newline{} [GPA 4.19/4.3](https://yyliou.github.io/yyliou/cv/doc/ms-transcript-zh.pdf)、[年級排名 3/33](https://yyliou.github.io/yyliou/cv/doc/ms-certificate-zh.pdf) \newline 指導教授：張宏浩特聘教授、許耀文副教授
+
+國立臺灣大學，[政治學學士](https://yyliou.github.io/yyliou/cv/doc/bs-diploma-zh.pdf) \hfill \mbox{105 年–108 年}
+
+國立臺灣大學，[農業經濟學學士](https://yyliou.github.io/yyliou/cv/doc/bs-diploma-zh.pdf) \hfill \mbox{104 年–108 年} \newline{} [GPA 3.74/4.3](https://yyliou.github.io/yyliou/cv/doc/bs-transcript-zh.pdf)、[年級排名 13/41](https://yyliou.github.io/yyliou/cv/doc/bs-certificate-zh.pdf)
+
+# 工作經歷
+
+國立臺灣大學生物資源暨農學院農業經濟學系，研究助理及教學助理 \hfillbreak \mbox{108 年–迄今}
+
+國立臺灣大學生物資源暨農學院農業零碳技術與管理創新研究中心，研究助理 \hfillbreak \mbox{113 年–迄今}
+
+實踐大學國際企業英語學士學位學程，[兼任講師](https://yyliou.github.io/yyliou/cv/doc/appointment-letters.pdf)（全英語授課）\enspace\hfillbreak \mbox{113 年–迄今}
+
+國立臺灣大學生物資源暨農學院生態工程研究中心，研究助理 \hfillbreak \mbox{110 年–111 年}
+
+# 研究興趣
+
+\begingroup\raggedright \mbox{環境經濟與自然資源管理}、\allowbreak\mbox{運輸經濟與交通安全}、\allowbreak\mbox{農業經濟}、\allowbreak\mbox{土地與住宅市場}、\allowbreak\mbox{應用個體計量與因果推論}\par\endgroup
+
+# 著作
+
+## **同儕審查論文**
+
+```{=latex}
+\begin{hanglist}
+```
+
+`\numbox{11.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Accepted. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*.
+
+`\numbox{10.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." *Transport Policy*, 190, 104468.
+
+`\numbox{9.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*.
+
+`\numbox{8.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148.
+
+`\numbox{7.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209.
+
+`\numbox{6.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline 獲獎：國立臺灣大學生物資源暨農學院 [114 學年度博士班學生學術論文獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf) \newline 媒體報導：[臺大焦點新聞](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)、[自由時報](https://news.ltn.com.tw/news/life/breakingnews/5422721)、[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)、[中國時報](https://www.chinatimes.com/newspapers/20260412000322-260121)、[風傳媒](https://www.storm.mg/article/11126855)、[TVBS](https://news.tvbs.com.tw/life/3229047)、[鏡週刊](https://www.mirrormedia.mg/story/20260613edi026)
+
+`\numbox{5.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication.
+
+`\numbox{4.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication.
+
+`\numbox{3.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline 獲獎：臺北市政府 115 年度獎勵研究報告運用資料優等獎
+
+`\numbox{2.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
+
+`\numbox{1.}`{=latex}Chang, Hung-Hao, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
+
+```{=latex}
+\end{hanglist}
+```
+
+## **學位論文**
+
+```{=latex}
+\begin{hanglist}
+```
+
+`\numbox{3.}`{=latex}**Liou, Yu-You**. "The Environmental Economics of Urban Transport: Three Essays on Fare Policy, Vehicle Electrification, and Transit Disruption in Taiwan." Ph.D. Dissertation (in progress), Department of Agricultural Economics, National Taiwan University.
+
+`\numbox{2.}`{=latex}**Liou, Yu-You**. 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline 成績：A+。口試委員：許耀文、連勇智、荷世平。
+
+`\numbox{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文（中文撰寫）。\newline 成績：A+。口試委員：張宏浩、鍾秋悅、王俊豪、林子欽、蔡昇甫。
+
+```{=latex}
+\end{hanglist}
+```
+
+# 投稿與\newline 進行中研究
+
+`\hangitem{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu).（\href{https://www.sciencedirect.com/journal/food-policy}{\textit{Food Policy}}，第二輪修訂中）
+
+`\hangitem{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang).（\href{https://www.sciencedirect.com/journal/technological-forecasting-and-social-change}{\textit{Technological Forecasting and Social Change}}，第一輪修訂中）
+
+`\hangitem{7.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Hung-Hao Chang).（\href{https://www.sciencedirect.com/journal/ecosystem-services}{\textit{Ecosystem Services}}，第一輪修訂中）
+
+`\hangitem{6.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Tzong-Haw Lee and Hung-Hao Chang).（\href{https://www.mdpi.com/journal/agriculture}{\textit{Agriculture}}，第一輪修訂中）
+
+`\hangitem{5.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Hung-Hao Chang and Hsiao-Chiao Sun).（已投稿審查中）
+
+`\hangitem{4.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Hung-Hao Chang and David Zilberman).（已投稿審查中）
+
+`\hangitem{3.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Hung-Hao Chang).（撰稿與準備投稿中）
+
+`\hangitem{2.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Hung-Hao Chang).（撰稿與準備投稿中）
+
+`\hangitem{1.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Hung-Hao Chang).（撰稿與準備投稿中）
+
+# 研討會\newline 論文發表
+
+`\hangitem{15.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. 2025. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 20th EAEA International Convention (2025), Manila.
+
+`\hangitem{14.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. 2025. "The causal effects of removing Hook-Turn regulation on road safety." 20th EAEA International Convention (2025), Manila.
+
+`\hangitem{13.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "Rooftop Solar Energy Adoption and Farm Revenue." 18th Congress of EAAE (2025), Bonn.
+
+`\hangitem{12.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2025. "Does the Development of Aquavoltaics Production Affect Farmland Price?" 17th CAER-IFPRI Annual Conference (2025), Beijing.
+
+`\hangitem{11.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2025. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
+
+`\hangitem{10.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. 2024. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 99th Annual Conference of WEAI (2024), Seattle.
+
+`\hangitem{9.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. 2024. "Superstition and Car Accidents -- The Case Study of the Dajia Mazu Pilgrimage Event in Taiwan." 19th EAEA International Convention (2024), Bangkok.
+
+`\hangitem{8.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2024. "Rooftop Solar Energy Adoption and Farm Revenue." 19th EAEA International Convention (2024), Bangkok.
+
+`\hangitem{7.}`{=latex}`\presenter{劉昱佑}`{=latex}、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。第十六屆國會國際學術研討會，臺北。
+
+`\hangitem{6.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." International Conference on Agricultural and Environmental Economics (2023), Taipei.
+
+`\hangitem{5.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}. 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students (2023), Taipei.
+
+`\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}（2023）。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。第十五屆國會國際學術研討會，臺北。
+
+`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**（2023）。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。第十五屆國會國際學術研討會，臺北。
+
+`\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩（2020）。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。2020 年臺灣農村經濟學會年會暨學術研討會，臺北。
+
+`\hangitem{1.}`{=latex}`\presenter{劉昱佑}`{=latex}、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。2019 年生產力與效率學術研討會，臺北。
+
+```{=latex}
+\vspace{2pt}
+\noindent\textit{\small \tightCJK{註：標*者為本人口頭報告。}}
+```
+
+# [審稿](https://yyliou.github.io/yyliou/cv/cert/referee-certificates.pdf)
+
+[*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (5); [*Communications Sustainability*](https://www.nature.com/commssustain/) (1); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (2); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1)
+
+# 獲獎與補助
+
+國家科學及技術委員會，博士生研究獎學金 \hfill \mbox{111 年–115 年}
+
+臺北市政府，115 年度獎勵研究報告運用資料優等獎 \hfillbreak \mbox{115 年}
+
+國立臺灣大學生物資源暨農學院，[114 學年度博士班學生學術論文獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf) \hfillbreak \mbox{115 年}
+
+國立臺灣大學生物資源暨農學院，[114 年中環傑出學生研究獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-cmc-outstanding-student-research.pdf) \hfillbreak \mbox{114 年}
+
+實踐大學，[114 學年度教師全英語授課課程獎勵](https://yyliou.github.io/yyliou/cv/cert/award-2025-emi-teaching.pdf) \hfillbreak \mbox{114 年}
+
+國家科學及技術委員會，補助國內研究生出席國際學術會議 \hfill \mbox{114 年}
+
+社團法人國立臺灣大學農業經濟學系全國系友會，[母系學生出國參與學術研討會補助獎學金](https://yyliou.github.io/yyliou/cv/cert/award-2025-alumni-conference-travel.pdf) \hfillbreak \mbox{114 年}
+
+國家政策研究基金會，孫運璿紀念獎學金 \hfill \mbox{112 年}
+
+國立臺灣大學，[107 學年度學生利他獎](https://yyliou.github.io/yyliou/cv/cert/award-2019-altruistic.pdf) \hfillbreak \mbox{108 年}
+
+# 教學
+
+實踐大學，兼任講師（全英語授課）
+
+```{=latex}
+\nopagebreak
+\noindent{\small\renewcommand{\arraystretch}{1.1}\setlength{\tabcolsep}{2pt}%
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}l*{6}{c}@{}}
+教學評鑑（滿分 5 分） & \multicolumn{1}{c}{112 學年} & \multicolumn{2}{c}{113 學年} & \multicolumn{2}{c}{114 學年} & \multicolumn{1}{c@{}}{115 學年} \\
+ & 下學期 & 上學期 & 下學期 & 上學期 & 下學期 & 上學期 \\
+\noalign{\vskip 2pt}\hline\noalign{\vskip 2pt}
+\href{https://yyliou.github.io/stat}{統計學 (1) \& (2)} & -- & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/stat-2024-fall.pdf}{4.40}~{\footnotesize (44)} & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/stat-2025-spring.pdf}{4.62}~{\footnotesize (46)} & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/stat-2025-fall.pdf}{4.57}~{\footnotesize (51)} & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/stat-2026-spring.pdf}{4.64}~{\footnotesize (49)} & 待公布~{\footnotesize (54)} \\
+\href{https://yyliou.github.io/da}{數據分析} & -- & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/da-2024-fall.pdf}{4.52}~{\footnotesize (58)} & -- & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/da-2025-fall.pdf}{4.58}~{\footnotesize (48)} & -- & 待公布~{\footnotesize (54)} \\
+\href{https://yyliou.github.io/pa}{程式設計應用} & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/pa-2024-spring.pdf}{4.47}~{\footnotesize (30)} & -- & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/pa-2025-spring.pdf}{4.67}~{\footnotesize (37)} & -- & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/pa-2026-spring.pdf}{4.52}~{\footnotesize (42)} & -- \\
+\end{tabular*}}\par\vspace{3pt}
+\noindent\textit{\small 註：括號內為修課人數。}\par\vspace{3pt}
+```
+
+國立臺灣大學，教學助理
+
+農業政策與績效評估（張宏浩特聘教授） \hfill \mbox{112 學年下學期、115 學年上學期}
+
+農業法規甲（陳政位副教授） \hfill \mbox{110 學年下學期}
+
+數量方法（張宏浩特聘教授，全英語授課） \hfill \mbox{108 學年下學期}
+
+# 研究計畫
+
+張宏浩特聘教授研究團隊研究助理，國立臺灣大學農業經濟學系
+
+```{=latex}
+\projitem{23.}{推動花東地區有機農業淨零轉型策略，\mbox{農業部農糧署}}{115 年}
+\projitem{22.}{專門職業(律師、會計師、建築師及技師)與市場競爭—回顧與前瞻，\mbox{公平交易委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=19168952}{FTC-115-G01}}}{115 年}
+\projitem{21.}{溫室氣體自願減量制度精進與自然碳匯碳能量培力，\mbox{環境部氣候變遷署}}{115 年}
+\projitem{20.}{因應淨零政策之食農體系的調適與建議( III )，\mbox{國家科學及技術委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=17692765}{NSTC114-2119-M002-014}}}{115 年}
+\projitem{19.}{漁電共生政策對農地價格之影響-以台灣為例，\mbox{國家科學及技術委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=17864383}{NSTC114-2410-H002-244}}}{115 年}
+\projitem{18.}{研析我國推動增匯策略措施之成本與政策建議-以土壤最佳生產模組案例分析，\mbox{農業部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=18205896}{114農科-13.1.1-永-04}}}{114 年}
+\projitem{17.}{114 年度因應國土計畫之農地價格指數應用分析計畫，\mbox{農業部}，\mbox{114農基金-永續-11}}{114 年}
+\projitem{16.}{因應淨零政策之食農體系的調適與建議( II )，\mbox{國家科學及技術委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16356859}{NSTC113-2119-M002-027}}}{114 年}
+\projitem{15.}{農業工作者在人力工作媒合平台的勞動供給-以台灣為例，\mbox{國家科學及技術委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16550712}{NSTC113-2410-H002-244}}}{113 年–114 年}
+\projitem{14.}{建立有機農業生態系服務架構、價值調查及量化模組：蔬菜及水稻，\mbox{農業部農糧署}，\mbox{113農再-2.2.2-1.5-糧-004}}{113 年}
+\projitem{13.}{研析我國推動增匯策略措施之成本與政策建議，\mbox{農業部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}}{113 年}
+\projitem{12.}{電動車產業政策與競爭法規範之研究，\mbox{公平交易委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}}{113 年}
+\projitem{11.}{利用農業副資材作為投入之循環經濟分析(子計畫七)，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}}{113 年}
+\projitem{10.}{因應淨零政策之食農體系的調適與建議( I )，\mbox{國家科學及技術委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}}{113 年}
+\projitem{9.}{我國推動增匯策略措施之成本評估與政策建議，\mbox{行政院農業委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}}{112 年}
+\projitem{8.}{112 年度「強化農地資源決策評估及永續利用」之「農地價格指數評估與建立」，\mbox{行政院農業委員會}，\mbox{112農基金-1.1-企-10-(2)}}{112 年}
+\projitem{7.}{大學社會責任實踐計畫【攜手‧雲林-特色農業產區\ 深耕產業鏈結】，\mbox{教育部}，\mbox{112L5A001B}}{112 年}
+\projitem{6.}{農家繼承的經濟分析-以台灣為例，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=14515711}{MOST111-2410-H002-230}}}{112 年}
+\projitem{5.}{111 年度「建立農地資源決策評估及永續利用」之「農地價格指數評估與建立」，\mbox{行政院農業委員會}，\mbox{111農科-3.1.3-企-Q2(2)}}{111 年}
+\projitem{4.}{食品可及性與市場競爭對房價之影響--以台灣便利商店為例，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}}{111 年}
+\projitem{3.}{臺灣農民職業傷害保險制度的經濟分析，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}}{110 年}
+\projitem{2.}{109 年度「鄉村發展研究學術合作計畫－評估農村再生計畫對農家勞動力與休閒農業參與的影響」，\mbox{行政院農業委員會}，\mbox{109農再-2.1.3-1.3-企-015}}{109 年}
+\projitem{1.}{共享經濟對農地價格之影響-以台灣為例，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}}{109 年}
+```
+
+# 社會服務
+
+中華民國陸軍澎湖防衛指揮部，[裝騎營第二連二兵](https://yyliou.github.io/yyliou/cv/cert/award-2022-penghu-honor.pdf) \hfillbreak \mbox{111 年}
+
+臺中市政府，[第一屆青年事務諮詢委員會議題小組青年委員](https://yyliou.github.io/yyliou/cv/cert/service-2019-taichung-youth-advisory.pdf) \hfillbreak \mbox{108 年–110 年}
+
+臺中市政府，[第三屆青年事務審議會青年代表](https://yyliou.github.io/yyliou/cv/cert/service-2018-taichung-youth-review.pdf) \hfillbreak \mbox{107 年–108 年}
+
+# 技能
+
+語言：英語（專業工作能力）、中文（母語）、閩南語（中等）
+
+軟體：R、Stata、\LaTeX
+
+# 健行
+
+[淡蘭古道](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-tamsui-kavalan.jpg)、[臺北大縱走](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-taipei-grand-trail.jpg)（115 年）、[微笑山線](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-smile-trails.jpg)（115 年）
+
+# 推薦人
+
+`\begingroup\raggedright\interlinepenalty=10000`{=latex}**張宏浩博士**（博碩士論文指導教授） \newline{} 國立臺灣大學農業經濟學系特聘教授兼生物資源暨農學院副院長 \newline{} [hunghaochang@ntu.edu.tw](mailto:hunghaochang@ntu.edu.tw) \newline{} [sites.google.com/view/hh-chang](https://sites.google.com/view/hh-chang)`\par\nopagebreak\endgroup`{=latex}
+
+`\begingroup\raggedright\interlinepenalty=10000`{=latex}**廖培安博士**（博士論文口試委員、教學推薦人） \newline{} 實踐大學國際企業英語學士學位學程教授兼管理學院院長 \newline{} [paliao@g2.usc.edu.tw](mailto:paliao@g2.usc.edu.tw) \newline{} [uscetp.usc.edu.tw/var/file/102/1102/img/149873815.pdf](https://uscetp.usc.edu.tw/var/file/102/1102/img/149873815.pdf)`\par\nopagebreak\endgroup`{=latex}
+
+`\begingroup\raggedright\interlinepenalty=10000`{=latex}**Chad D. Meyerhoefer 博士**（合著者） \newline{} 美國理海大學（Lehigh University）經濟學系 Arthur F. Searing 講座教授兼系主任 \newline{} [chm308@lehigh.edu](mailto:chm308@lehigh.edu) \newline{} [business.lehigh.edu/directory/chad-d-meyerhoefer](https://business.lehigh.edu/directory/chad-d-meyerhoefer)`\par\nopagebreak\endgroup`{=latex}
+
+```{=latex}
+\vspace{2pt}
+\noindent\textit{\small 註：依姓氏筆畫排列，外籍推薦人列於最後。}
+```

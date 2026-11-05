@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" demote-non-dropping-particle="sort-only">
+  <info>
+    <title>RS Numeric (custom)</title>
+    <id>https://yyliou.github.io/rs-numeric</id>
+    <link href="https://yyliou.github.io/rs-numeric" rel="self"/>
+    <category citation-format="numeric"/>
+    <updated>2026-07-19T00:00:00+00:00</updated>
+  </info>
+  <macro name="author-full">
+    <names variable="author">
+      <name and="text" delimiter=", " delimiter-precedes-last="always"/>
+    </names>
+  </macro>
+  <macro name="year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <group delimiter=" ">
+        <text macro="author-full" suffix="."/>
+        <text macro="year" prefix="(" suffix=")."/>
+        <text variable="title" suffix="."/>
+        <group delimiter=" " suffix=".">
+          <text variable="container-title" font-style="italic"/>
+          <group delimiter=", ">
+            <text variable="volume"/>
+            <text variable="issue" prefix="(" suffix=")"/>
+            <text variable="page"/>
+          </group>
+        </group>
+        <text variable="note" suffix="."/>
+        <choose>
+          <if variable="DOI">
+            <text variable="DOI" prefix="https://doi.org/"/>
+          </if>
+          <else-if variable="URL">
+            <text variable="URL"/>
+          </else-if>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>
