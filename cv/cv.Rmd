@@ -52,7 +52,7 @@ header-includes:
 
 # Education
 
-*National Taiwan University*, Ph.D. Student, Agricultural Economics \hfill \mbox{2022--present} \newline{} [GPA 4.12/4.3](https://yyliou.github.io/yyliou/cv/doc/phd-transcript.pdf) \newline Supervisor: Prof. Hung-Hao Chang.
+*National Taiwan University*, Ph.D. Candidate, Agricultural Economics \hfill \mbox{2022--present} \newline{} [GPA 4.12/4.3](https://yyliou.github.io/yyliou/cv/doc/phd-transcript.pdf) \newline Supervisor: Prof. Hung-Hao Chang.
 
 *National Taiwan University*, [MS, Statistics](https://yyliou.github.io/yyliou/cv/doc/ms-diploma.pdf) \hfill \mbox{2020--2021}
 

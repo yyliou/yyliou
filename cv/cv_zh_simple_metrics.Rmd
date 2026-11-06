@@ -13,7 +13,7 @@ zhdate: true
 
 jobtitle: "國立臺灣大學"
 addressline:
-  - "農業經濟學系博士班"
+  - "農業經濟學系博士候選人"
   - "106319 臺北市羅斯福路四段一號"
   - "中華民國（臺灣）"
 
@@ -56,7 +56,7 @@ header-includes:
 
 # 學歷
 
-國立臺灣大學農業經濟學系，博士生 \hfill 111 年–迄今 \newline{} [GPA 4.12/4.3](https://yyliou.github.io/yyliou/cv/doc/phd-transcript-zh.pdf) \newline 指導教授：張宏浩特聘教授
+國立臺灣大學農業經濟學系，博士候選人 \hfill 111 年–迄今 \newline{} [GPA 4.12/4.3](https://yyliou.github.io/yyliou/cv/doc/phd-transcript-zh.pdf) \newline 指導教授：張宏浩特聘教授
 
 國立臺灣大學，[統計碩士](https://yyliou.github.io/yyliou/cv/doc/ms-diploma-zh.pdf) \hfill \mbox{109 年–110 年}
 
