@@ -84,6 +84,8 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 \begin{hanglist}
 ```
 
+`\numbox{15.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. Conditionally accepted. "Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market." *Agriculture*.
+
 `\numbox{14.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Accepted. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*.
 
 `\numbox{13.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." *Transport Policy*, 190, 104468.
@@ -134,13 +136,11 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 # Submitted Papers & Work in Progress
 
-`\hangitem{9.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu). ([*Food Policy*](https://www.sciencedirect.com/journal/food-policy), second-round revision)
+`\hangitem{8.}`{=latex}Do Consumption Vouchers Benefit Agricultural Cooperatives? Causal Evidence from Farmers' Associations (with Hung-Hao Chang and Karin Wu). ([*Food Policy*](https://www.sciencedirect.com/journal/food-policy), second-round revision)
 
-`\hangitem{8.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang). ([*Technological Forecasting and Social Change*](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change), first-round revision)
+`\hangitem{7.}`{=latex}Technology Adoption of Environmentally Controlled Housing System and the Distribution of Farm Revenue (with Hung-Hao Chang). ([*Technological Forecasting and Social Change*](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change), first-round revision)
 
-`\hangitem{7.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Hung-Hao Chang). ([*Ecosystem Services*](https://www.sciencedirect.com/journal/ecosystem-services), first-round revision)
-
-`\hangitem{6.}`{=latex}Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market (with Tzong-Haw Lee and Hung-Hao Chang). ([*Agriculture*](https://www.mdpi.com/journal/agriculture), first-round revision)
+`\hangitem{6.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Hung-Hao Chang). ([*Ecosystem Services*](https://www.sciencedirect.com/journal/ecosystem-services), first-round revision)
 
 `\hangitem{5.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Hung-Hao Chang and Hsiao-Chiao Sun). (Under review)
 
