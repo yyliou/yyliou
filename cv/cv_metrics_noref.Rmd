@@ -57,7 +57,7 @@ header-includes:
 
 *National Taiwan University*, Ph.D. Candidate, Agricultural Economics \hfill \mbox{2026--present} \newline{} [GPA 4.12/4.3](https://yyliou.github.io/yyliou/cv/doc/phd-transcript.pdf) \newline Supervisor: Prof. Hung-Hao Chang.
 
-*National Taiwan University*, Ph.D. Student, Agricultural Economics \hfill \mbox{2022--2026}
+*National Taiwan University*, Ph.D. Fellow, Agricultural Economics \hfill \mbox{2022--2026}
 
 *National Taiwan University*, [M.S., Statistics](https://yyliou.github.io/yyliou/cv/doc/ms-diploma.pdf) \hfill \mbox{2020--2021}
 
@@ -91,7 +91,7 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 `\numbox{15.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. Accepted. "Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market." *Agriculture*. \newline \jmetric{SCIE. JIF=4.5. \#16/133 (12.0\%) in Agronomy (Q1).}
 
-`\numbox{14.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*, 103(3), August 2027. \newline \jmetric{SSCI. JIF=1.9. \#254/627 (40.5\%) in Economics (Q2).} \newline \zhunote{NSTC-recommended: Regional Studies \& Geography; Economics B+.}
+`\numbox{14.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*, 103(3), 2027. \newline \jmetric{SSCI. JIF=1.9. \#254/627 (40.5\%) in Economics (Q2).} \newline \zhunote{NSTC-recommended: Regional Studies \& Geography; Economics B+.}
 
 `\numbox{13.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." *Transport Policy*, 190, 104468. \newline \jmetric{SSCI. JIF=6.2. \#33/627 (5.3\%) in Economics (Q1).}
 

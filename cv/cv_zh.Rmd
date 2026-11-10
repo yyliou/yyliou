@@ -89,7 +89,7 @@ header-includes:
 
 `\numbox{15.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. Accepted. "Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market." *Agriculture*.
 
-`\numbox{14.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*, 103(3), August 2027.
+`\numbox{14.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*, 103(3), 2027.
 
 `\numbox{13.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." *Transport Policy*, 190, 104468.
 

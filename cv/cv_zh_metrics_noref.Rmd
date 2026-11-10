@@ -92,7 +92,7 @@ header-includes:
 
 `\numbox{15.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. Accepted. "Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market." *Agriculture*. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學第 16/133 名（前 12.0\%），Q1〕}
 
-`\numbox{14.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*, 103(3), August 2027. \newline \jmetric{〔SSCI；JIF＝1.9；經濟學第 254/627 名（前 40.5\%），Q2〕} \newline \zhunote{國科會推薦：區域研究及地理；經濟學門 B+}
+`\numbox{14.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*, 103(3), 2027. \newline \jmetric{〔SSCI；JIF＝1.9；經濟學第 254/627 名（前 40.5\%），Q2〕} \newline \zhunote{國科會推薦：區域研究及地理；經濟學門 B+}
 
 `\numbox{13.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." *Transport Policy*, 190, 104468. \newline \jmetric{〔SSCI；JIF＝6.2；經濟學第 33/627 名（前 5.3\%），Q1〕}
 
