@@ -5,11 +5,11 @@
     <id>https://yyliou.github.io/rs-numeric</id>
     <link href="https://yyliou.github.io/rs-numeric" rel="self"/>
     <category citation-format="numeric"/>
-    <updated>2026-07-19T00:00:00+00:00</updated>
+    <updated>2026-11-10T00:00:00+00:00</updated>
   </info>
   <macro name="author-full">
     <names variable="author">
-      <name and="text" delimiter=", " delimiter-precedes-last="always"/>
+      <name and="text" delimiter=", " delimiter-precedes-last="contextual"/>
     </names>
   </macro>
   <macro name="year">
@@ -42,13 +42,13 @@
         <text macro="author-full" suffix="."/>
         <text macro="year" prefix="(" suffix=")."/>
         <text variable="title" suffix="."/>
-        <group delimiter=" " suffix=".">
+        <group delimiter=", " suffix=".">
           <text variable="container-title" font-style="italic"/>
-          <group delimiter=", ">
+          <group>
             <text variable="volume"/>
             <text variable="issue" prefix="(" suffix=")"/>
-            <text variable="page"/>
           </group>
+          <text variable="page"/>
         </group>
         <text variable="note" suffix="."/>
         <choose>
