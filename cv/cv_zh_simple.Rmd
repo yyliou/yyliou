@@ -278,9 +278,13 @@ header-includes:
 
 軟體：R、Stata、\LaTeX
 
-# 健行
+# 旅遊與戶外
 
-[淡蘭古道](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-tamsui-kavalan.jpg)、[臺北大縱走](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-taipei-grand-trail.jpg)（115 年）、[微笑山線](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-smile-trails.jpg)（115 年）
+考選部，專門職業及技術人員普通考試華語領隊人員及格 \hfillbreak \mbox{109 年}
+
+考選部，專門職業及技術人員普通考試華語導遊人員及格 \hfillbreak \mbox{109 年}
+
+健行：[淡蘭古道](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-tamsui-kavalan.jpg)、[臺北大縱走](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-taipei-grand-trail.jpg)（115 年）、[微笑山線](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-smile-trails.jpg)（115 年）
 
 # 推薦人
 

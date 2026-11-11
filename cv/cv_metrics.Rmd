@@ -291,9 +291,13 @@ Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics
 
 **Software**: R, Stata, \LaTeX.
 
-# Hiking
+# Travel & Outdoors
 
-[Tamsui-Kavalan Trails](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-tamsui-kavalan.jpg), [Taipei Grand Trail](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-taipei-grand-trail.jpg) (2026), [Smile Trails](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-smile-trails.jpg) (2026)
+Tour Manager, Junior Professional and Technical Examinations, Ministry of Examination \hfillbreak \mbox{2020}
+
+Tour Guide, Junior Professional and Technical Examinations, Ministry of Examination \hfillbreak \mbox{2020}
+
+Hiking: [Tamsui-Kavalan Trails](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-tamsui-kavalan.jpg), [Taipei Grand Trail](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-taipei-grand-trail.jpg) (2026), [Smile Trails](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-smile-trails.jpg) (2026)
 
 # References
 
