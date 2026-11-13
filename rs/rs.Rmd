@@ -1,6 +1,7 @@
 ---
 title: "**Research Statement**"
-author: Yu-You Liou
+author: '\href{https://yyliou.github.io/}{\textcolor{black}{Yu-You Liou}}'
+author-meta: "Yu-You Liou"
 date: "`r Sys.Date()`"
 output:
   pdf_document:

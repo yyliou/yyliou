@@ -1,6 +1,7 @@
 ---
 title: "**研究自述**"
-author: "劉昱佑"
+author: '\href{https://yyliou.github.io/index-zh.html}{\textcolor{black}{劉昱佑}}'
+author-meta: "劉昱佑"
 date: "`r sprintf('%d 年 %d 月', as.integer(format(Sys.Date(), '%Y')) - 1911, as.integer(format(Sys.Date(), '%m')))`"
 output:
   pdf_document:
