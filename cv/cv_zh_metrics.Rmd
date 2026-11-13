@@ -90,7 +90,7 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\numbox{15.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. Accepted. "Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market." *Agriculture*. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學第 16/133 名（前 12.0\%），Q1〕}
+`\numbox{15.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2026. "[Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market](https://www.mdpi.com/2077-0472/16/22/2489)." *Agriculture*, 16(22), 2489. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學第 16/133 名（前 12.0\%），Q1〕}
 
 `\numbox{14.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*, 103(3), 2027. \newline \jmetric{〔SSCI；JIF＝1.9；經濟學第 254/627 名（前 40.5\%），Q2〕} \newline \zhunote{國科會推薦：區域研究及地理；經濟學門 B+}
 
