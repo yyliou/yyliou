@@ -56,13 +56,13 @@ header-includes:
 
 # 學歷
 
-國立臺灣大學農業經濟學系，博士候選人 \hfill \mbox{115 年–迄今} \newline{} [GPA 4.12/4.3](https://yyliou.github.io/yyliou/cv/doc/phd-transcript-zh.pdf) \newline 指導教授：張宏浩特聘教授
+國立臺灣大學農業經濟學系，博士候選人 \hfill \mbox{115 年–迄今} \newline{} [GPA 4.12/4.3](https://yyliou.github.io/yyliou/cv/doc/phd-transcript-zh.pdf) \newline 指導教授：張宏浩教授
 
 國立臺灣大學農業經濟學系，博士生 \hfill \mbox{111 年–115 年}
 
 國立臺灣大學，[統計碩士](https://yyliou.github.io/yyliou/cv/doc/ms-diploma-zh.pdf) \hfill \mbox{109 年–110 年}
 
-國立臺灣大學，[農業經濟學碩士](https://yyliou.github.io/yyliou/cv/doc/ms-diploma-zh.pdf) \hfill \mbox{108 年–110 年} \newline{} [GPA 4.19/4.3](https://yyliou.github.io/yyliou/cv/doc/ms-transcript-zh.pdf)、[年級排名 3/33](https://yyliou.github.io/yyliou/cv/doc/ms-certificate-zh.pdf) \newline 指導教授：張宏浩特聘教授、許耀文副教授
+國立臺灣大學，[農業經濟學碩士](https://yyliou.github.io/yyliou/cv/doc/ms-diploma-zh.pdf) \hfill \mbox{108 年–110 年} \newline{} [GPA 4.19/4.3](https://yyliou.github.io/yyliou/cv/doc/ms-transcript-zh.pdf)、[年級排名 3/33](https://yyliou.github.io/yyliou/cv/doc/ms-certificate-zh.pdf) \newline 指導教授：張宏浩教授、許耀文副教授
 
 國立臺灣大學，[政治學學士](https://yyliou.github.io/yyliou/cv/doc/bs-diploma-zh.pdf) \hfill \mbox{105 年–108 年}
 
@@ -84,41 +84,51 @@ header-includes:
 
 # 著作
 
-## **同儕審查論文**
+## **代表著作**
 
 ```{=latex}
 \begin{hanglist}
 ```
 
-`\numbox{15.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2026. "[Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market](https://www.mdpi.com/2077-0472/16/22/2489)." *Agriculture*, 16(22), 2489. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學第 16/133 名（前 12.0\%），Q1〕}
+`\numbox{15.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*, 103(3), 2027. \newline \jmetric{〔SSCI；JIF＝1.9；經濟學第 254/627 名（前 40.5\%），Q2〕} \newline \zhunote{國科會推薦：區域研究及地理；經濟學門 B+}
 
-`\numbox{14.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" *Land Economics*, 103(3), 2027. \newline \jmetric{〔SSCI；JIF＝1.9；經濟學第 254/627 名（前 40.5\%），Q2〕} \newline \zhunote{國科會推薦：區域研究及地理；經濟學門 B+}
+`\numbox{14.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." *Transport Policy*, 190, 104468. \newline \jmetric{〔SSCI；JIF＝6.2；經濟學第 33/627 名（前 5.3\%），Q1〕}
 
-`\numbox{13.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." *Transport Policy*, 190, 104468. \newline \jmetric{〔SSCI；JIF＝6.2；經濟學第 33/627 名（前 5.3\%），Q1〕}
+`\numbox{13.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕}
 
-`\numbox{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*. \newline \jmetric{〔SSCI；JIF＝3.1；經濟學第 135/627 名（前 21.5\%），Q1〕}
+`\numbox{12.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕}
 
-`\numbox{11.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕}
+`\numbox{11.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會推薦：區域研究及地理、管理二；經濟學門 B+} \newline 獲獎：國立臺灣大學生物資源暨農學院 [114 學年度博士班學生學術論文獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf) \newline 媒體報導：[臺大焦點新聞](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)、[自由時報](https://news.ltn.com.tw/news/life/breakingnews/5422721)、[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)、[中國時報](https://www.chinatimes.com/newspapers/20260412000322-260121)、[風傳媒](https://www.storm.mg/article/11126855)、[TVBS](https://news.tvbs.com.tw/life/3229047)、[鏡週刊](https://www.mirrormedia.mg/story/20260613edi026)
 
-`\numbox{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, and Hung-Hao Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: Evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." *Journal of Tourism Management Research*, 13(1), 148--162. \newline \jmetric{〔ESCI；JIF＝1.1；觀光休閒運動第 104/141 名（前 73.8\%），Q3〕}
+`\numbox{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI；JIF＝8.7；運輸學第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會推薦：區域研究及地理、管理二} \newline 獲獎：臺北市政府 115 年度獎勵研究報告運用資料優等獎
 
-`\numbox{9.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動第 29/141 名（前 20.6\%），Q1〕}
+`\numbox{9.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{〔SCIE、SSCI；JIF＝4.6；林學第 7/92 名（前 7.6\%），Q1〕}
 
-`\numbox{8.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI；JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會推薦：區域研究及地理、管理二；經濟學門 B+} \newline 獲獎：國立臺灣大學生物資源暨農學院 [114 學年度博士班學生學術論文獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf) \newline 媒體報導：[臺大焦點新聞](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)、[自由時報](https://news.ltn.com.tw/news/life/breakingnews/5422721)、[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)、[中國時報](https://www.chinatimes.com/newspapers/20260412000322-260121)、[風傳媒](https://www.storm.mg/article/11126855)、[TVBS](https://news.tvbs.com.tw/life/3229047)、[鏡週刊](https://www.mirrormedia.mg/story/20260613edi026)
+`\numbox{8.}`{=latex}Chang, Hung-Hao, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{〔SSCI；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{國科會推薦：區域研究及地理、管理二}
 
-`\numbox{7.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Is Solar Panel Adoption a Win--Win Strategy for Chicken Farms? Evidence from Agriculture Census Data](https://www.mdpi.com/2077-0472/15/20/2124)." *Agriculture*, 15(20), 2124. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學第 16/133 名（前 12.0\%），Q1〕}
+```{=latex}
+\end{hanglist}
+```
 
-`\numbox{6.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \jmetric{〔SCIE、SSCI；JIF＝2.4；經濟學第 196/627 名（前 31.3\%），Q2〕}
+## **其他著作**
 
-`\numbox{5.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication. \newline \jmetric{〔SSCI；JIF＝1.2；經濟學第 379/627 名（前 60.4\%），Q3〕}
+```{=latex}
+\begin{hanglist}
+```
 
-`\numbox{4.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI；JIF＝8.7；運輸學第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會推薦：區域研究及地理、管理二} \newline 獲獎：臺北市政府 115 年度獎勵研究報告運用資料優等獎
+`\numbox{7.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2026. "[Trading Less Often but Trading Thicker: Scheduled Closures in a Hog Auction Market](https://www.mdpi.com/2077-0472/16/22/2489)." *Agriculture*, 16(22), 2489. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學第 16/133 名（前 12.0\%），Q1〕}
 
-`\numbox{3.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{〔SCIE、SSCI；JIF＝4.6；林學第 7/92 名（前 7.6\%），Q1〕}
+`\numbox{6.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, and Hung-Hao Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: Evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." *Journal of Tourism Management Research*, 13(1), 148--162. \newline \jmetric{〔ESCI；JIF＝1.1；觀光休閒運動第 104/141 名（前 73.8\%），Q3〕}
 
-`\numbox{2.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and David R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
+`\numbox{5.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209. \newline \jmetric{〔ESCI；JIF＝4.1；觀光休閒運動第 29/141 名（前 20.6\%），Q1〕}
 
-`\numbox{1.}`{=latex}Chang, Hung-Hao, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954. \newline \jmetric{〔SSCI；JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕} \newline \zhunote{國科會推薦：區域研究及地理、管理二}
+`\numbox{4.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Is Solar Panel Adoption a Win--Win Strategy for Chicken Farms? Evidence from Agriculture Census Data](https://www.mdpi.com/2077-0472/15/20/2124)." *Agriculture*, 15(20), 2124. \newline \jmetric{〔SCIE；JIF＝4.5；農藝學第 16/133 名（前 12.0\%），Q1〕}
+
+`\numbox{3.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop Photovoltaics Adoption and Farm Revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication. \newline \jmetric{〔SCIE、SSCI；JIF＝2.4；經濟學第 196/627 名（前 31.3\%），Q2〕}
+
+`\numbox{2.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication. \newline \jmetric{〔SSCI；JIF＝1.2；經濟學第 379/627 名（前 60.4\%），Q3〕}
+
+`\numbox{1.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and David R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
 
 ```{=latex}
 \end{hanglist}
@@ -237,20 +247,20 @@ header-includes:
 \href{https://yyliou.github.io/da}{數據分析} & -- & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/da-2024-fall.pdf}{4.52}~{\footnotesize (58)} & -- & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/da-2025-fall.pdf}{4.58}~{\footnotesize (48)} & -- & 待公布~{\footnotesize (54)} \\
 \href{https://yyliou.github.io/pa}{程式設計應用} & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/pa-2024-spring.pdf}{4.47}~{\footnotesize (30)} & -- & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/pa-2025-spring.pdf}{4.67}~{\footnotesize (37)} & -- & \href{https://yyliou.github.io/yyliou/cv/cert/teaching/pa-2026-spring.pdf}{4.52}~{\footnotesize (42)} & -- \\
 \end{tabular*}}\par\vspace{3pt}
-\noindent\textit{\small 註：括號內為修課人數。}\par\vspace{3pt}
+\noindent\textit{\small 註：皆為大學部 2 學分課程；括號內為修課人數。}\par\vspace{3pt}
 ```
 
 國立臺灣大學，教學助理
 
-農業政策與績效評估（張宏浩特聘教授） \hfill \mbox{112 學年下學期、115 學年上學期}
+農業政策與績效評估（EMBA，3 學分；張宏浩教授） \hfillbreak \mbox{112 學年下學期、115 學年上學期}
 
-農業法規甲（陳政位副教授） \hfill \mbox{110 學年下學期}
+農業法規甲（大學部，3 學分；陳政位副教授） \hfillbreak \mbox{110 學年下學期}
 
-數量方法（張宏浩特聘教授，全英語授課） \hfill \mbox{108 學年下學期}
+數量方法（碩士國際專班，3 學分；張宏浩教授，全英語授課） \hfillbreak \mbox{108 學年下學期}
 
 # 研究計畫
 
-張宏浩特聘教授研究團隊研究助理，國立臺灣大學農業經濟學系
+張宏浩教授研究團隊研究助理，國立臺灣大學農業經濟學系
 
 ```{=latex}
 \projitem{23.}{推動花東地區有機農業淨零轉型策略，\mbox{農業部農糧署}}{115 年}
@@ -302,11 +312,11 @@ header-includes:
 
 # 推薦人
 
-`\begingroup\raggedright\interlinepenalty=10000`{=latex}**張宏浩博士**（博碩士論文指導教授） \newline{} 國立臺灣大學農業經濟學系特聘教授兼生物資源暨農學院副院長 \newline{} [hunghaochang@ntu.edu.tw](mailto:hunghaochang@ntu.edu.tw) \newline{} [sites.google.com/view/hh-chang](https://sites.google.com/view/hh-chang)`\par\nopagebreak\endgroup`{=latex}
+`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**張宏浩**](https://sites.google.com/view/hh-chang)（博碩士論文指導教授） \newline{} 國立臺灣大學農業經濟學系教授兼生物資源暨農學院副院長 \newline{} [hunghaochang@ntu.edu.tw](mailto:hunghaochang@ntu.edu.tw)`\par\nopagebreak\endgroup`{=latex}
 
-`\begingroup\raggedright\interlinepenalty=10000`{=latex}**廖培安博士**（博士論文口試委員、教學推薦人） \newline{} 實踐大學國際企業英語學士學位學程教授兼管理學院院長 \newline{} [paliao@g2.usc.edu.tw](mailto:paliao@g2.usc.edu.tw) \newline{} [uscetp.usc.edu.tw/var/file/102/1102/img/149873815.pdf](https://uscetp.usc.edu.tw/var/file/102/1102/img/149873815.pdf)`\par\nopagebreak\endgroup`{=latex}
+`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**廖培安**](https://uscetp.usc.edu.tw/var/file/102/1102/img/149873815.pdf)（博士論文口試委員、教學推薦人） \newline{} 實踐大學國際企業英語學士學位學程教授兼管理學院院長 \newline{} [paliao@g2.usc.edu.tw](mailto:paliao@g2.usc.edu.tw)`\par\nopagebreak\endgroup`{=latex}
 
-`\begingroup\raggedright\interlinepenalty=10000`{=latex}**Chad D. Meyerhoefer 博士**（合著者） \newline{} 美國理海大學（Lehigh University）經濟學系 Arthur F. Searing 講座教授兼系主任 \newline{} [chm308@lehigh.edu](mailto:chm308@lehigh.edu) \newline{} [business.lehigh.edu/directory/chad-d-meyerhoefer](https://business.lehigh.edu/directory/chad-d-meyerhoefer)`\par\nopagebreak\endgroup`{=latex}
+`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**Chad D. Meyerhoefer**](https://business.lehigh.edu/directory/chad-d-meyerhoefer)（合著者） \newline{} 美國理海大學（Lehigh University）經濟學系 Arthur F. Searing 講座教授兼系主任 \newline{} [chm308@lehigh.edu](mailto:chm308@lehigh.edu)`\par\nopagebreak\endgroup`{=latex}
 
 ```{=latex}
 \vspace{2pt}
