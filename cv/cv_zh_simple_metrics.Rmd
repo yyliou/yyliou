@@ -84,7 +84,7 @@ header-includes:
 
 # 著作
 
-## **主要著作**
+## **主要期刊論文**
 
 ```{=latex}
 \begin{hanglist}
@@ -110,7 +110,7 @@ header-includes:
 \end{hanglist}
 ```
 
-## **其他著作**
+## **其他期刊論文**
 
 ```{=latex}
 \begin{hanglist}

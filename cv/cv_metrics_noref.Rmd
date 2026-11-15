@@ -83,7 +83,7 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 # Publications
 
-## Selected Publications
+## Selected Refereed Publications
 
 ```{=latex}
 \begin{hanglist}
@@ -109,7 +109,7 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 \end{hanglist}
 ```
 
-## Additional Publications
+## Other Refereed Publications
 
 ```{=latex}
 \begin{hanglist}
