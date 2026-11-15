@@ -84,7 +84,7 @@ header-includes:
 
 # 著作
 
-## **代表著作**
+## **主要著作**
 
 ```{=latex}
 \begin{hanglist}
