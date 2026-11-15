@@ -259,7 +259,7 @@ Quantitative Method (International Master's Program, 3 credits; Prof. Hung-Hao C
 
 # Research Projects
 
-Research Assistant to Prof. Hung-Hao Chang, Department of Agricultural Economics, National Taiwan University.
+[Research Assistant to Prof. Hung-Hao Chang](https://yyliou.github.io/yyliou/cv/cert/ra-ntu-projects.pdf), Department of Agricultural Economics, National Taiwan University.
 
 ```{=latex}
 \projitem{23.}{Strategies for Promoting the Net-Zero Transition of Organic Agriculture in the Hualien--Taitung Region, Agriculture and Food Agency, Ministry of Agriculture}{2026}

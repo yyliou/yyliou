@@ -246,7 +246,7 @@ header-includes:
 
 # 研究計畫
 
-張宏浩教授研究團隊研究助理，國立臺灣大學農業經濟學系
+[張宏浩教授研究團隊研究助理](https://yyliou.github.io/yyliou/cv/cert/ra-ntu-projects.pdf)，國立臺灣大學農業經濟學系
 
 ```{=latex}
 \projitem{23.}{推動花東地區有機農業淨零轉型策略，\mbox{農業部農糧署}}{115 年}
@@ -261,7 +261,7 @@ header-includes:
 \projitem{14.}{建立有機農業生態系服務架構、價值調查及量化模組：蔬菜及水稻，\mbox{農業部農糧署}，\mbox{113農再-2.2.2-1.5-糧-004}}{113 年}
 \projitem{13.}{研析我國推動增匯策略措施之成本與政策建議，\mbox{農業部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16802633}{113前瞻-18.4.1-永-04}}}{113 年}
 \projitem{12.}{電動車產業政策與競爭法規範之研究，\mbox{公平交易委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=16002886}{FTC-113-G02}}}{113 年}
-\projitem{11.}{利用農業副資材作為投入之循環經濟分析(子計畫七)，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}}{113 年}
+\projitem{11.}{建構以農業有機資材循環利用為基礎之消費生產框架與綠色循環經濟模式-利用農業副資材作為投入之循環經濟分析(子計畫七)，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15427747}{MOST110-2621-M002-018-MY3}}}{113 年}
 \projitem{10.}{因應淨零政策之食農體系的調適與建議( I )，\mbox{國家科學及技術委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15159348}{NSTC112-2119-M002-025}}}{113 年}
 \projitem{9.}{我國推動增匯策略措施之成本評估與政策建議，\mbox{行政院農業委員會}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=15522634}{112前瞻-18.4.1-氣-n4}}}{112 年}
 \projitem{8.}{112 年度「強化農地資源決策評估及永續利用」之「農地價格指數評估與建立」，\mbox{行政院農業委員會}，\mbox{112農基金-1.1-企-10-(2)}}{112 年}
