@@ -99,7 +99,7 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 `\numbox{11.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{SCIE, SSCI. JIF=7.2. \#21/627 (3.3\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended: Regional Studies \& Geography, Management II; Economics B+.} \newline Award: [2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University. \newline Media coverage: [NTU press release](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html), [Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5422721), [ETtoday](https://www.ettoday.net/news/20260502/3158984.htm), [China Times](https://www.chinatimes.com/newspapers/20260412000322-260121), [Storm Media](https://www.storm.mg/article/11126855), [TVBS](https://news.tvbs.com.tw/life/3229047), [Mirror Media](https://www.mirrormedia.mg/story/20260613edi026).
 
-`\numbox{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{SCIE, SSCI. JIF=8.7. \#5/66 (7.6\%) in Transportation (Q1).} \newline \zhunote{NSTC-recommended: Regional Studies \& Geography, Management II.} \newline Award: 2026 Research Report Data Utilization Award, Excellence Award, Taipei City Government.
+`\numbox{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{SCIE, SSCI. JIF=8.7. \#5/66 (7.6\%) in Transportation (Q1).} \newline \zhunote{NSTC-recommended: Regional Studies \& Geography, Management II.} \newline Award: [2026 Research Report Data Utilization Award, Excellence Award](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54), Taipei City Government.
 
 `\numbox{9.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411. \newline \jmetric{SCIE, SSCI. JIF=4.6. \#7/92 (7.6\%) in Forestry (Q1).}
 
@@ -215,7 +215,7 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 Graduate Research Fellowship, National Science and Technology Council \hfill \mbox{2022--2026}
 
-2026 Research Report Data Utilization Award, Excellence Award, Taipei City Government \hfillbreak \mbox{2026}
+[2026 Research Report Data Utilization Award, Excellence Award](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54), Taipei City Government \hfillbreak \mbox{2026}
 
 [2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University \hfillbreak \mbox{2026}
 
