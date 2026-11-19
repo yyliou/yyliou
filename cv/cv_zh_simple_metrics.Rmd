@@ -99,7 +99,7 @@ header-includes:
 
 `\numbox{8.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{〔SCIE、SSCI、Scopus、EconLit；ABDC B、AJG 3；\jbreak JIF＝6.8；經濟學第 24/627 名（前 3.8\%），Q1〕}
 
-`\numbox{7.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、Scopus、EconLit；ABDC A*、AJG 3；\jbreak JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會推薦：區域研究及地理、管理二；經濟學門 B+} \newline 獲獎：國立臺灣大學生物資源暨農學院 [114 學年度博士班學生學術論文獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf) \newline 媒體報導：[臺大焦點新聞](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)、[自由時報](https://news.ltn.com.tw/news/life/breakingnews/5422721)、[ETtoday](https://www.ettoday.net/news/20260502/3158984.htm)、[中國時報](https://www.chinatimes.com/newspapers/20260412000322-260121)、[風傳媒](https://www.storm.mg/article/11126855)、[TVBS](https://news.tvbs.com.tw/life/3229047)、[鏡週刊](https://www.mirrormedia.mg/story/20260613edi026)
+`\numbox{7.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{〔SCIE、SSCI、Scopus、EconLit；ABDC A*、AJG 3；\jbreak JIF＝7.2；經濟學第 21/627 名（前 3.3\%），Q1〕} \newline \zhunote{國科會推薦：區域研究及地理、管理二；經濟學門 B+} \newline 獲獎：國立臺灣大學生物資源暨農學院 [114 學年度博士班學生學術論文獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf)
 
 `\numbox{6.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{〔SCIE、SSCI、Scopus、EconLit；ABDC A、AJG 3；\jbreak JIF＝8.7；運輸學第 5/66 名（前 7.6\%），Q1〕} \newline \zhunote{國科會推薦：區域研究及地理、管理二} \newline 獲獎：臺北市政府 [115 年度獎勵研究報告運用資料優等獎](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54)
 
@@ -138,9 +138,9 @@ header-includes:
 
 `\numbox{3.}`{=latex}**Liou, Yu-You**. "The Environmental Economics of Urban Transport: Three Essays on Fare Policy, Vehicle Electrification, and Transit Disruption in Taiwan." Ph.D. Dissertation (in progress), Department of Agricultural Economics, National Taiwan University.
 
-`\numbox{2.}`{=latex}**Liou, Yu-You**. 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline 成績：A+。口試委員：許耀文、連勇智、荷世平。
+`\numbox{2.}`{=latex}**Liou, Yu-You**. 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline 成績：A+。口試委員：[許耀文](https://management.ntu.edu.tw/faculty/teacher/sn/196)、[連勇智](https://management.ntu.edu.tw/faculty/teacher/sn/198)、[荷世平](https://scholars.lib.ntu.edu.tw/entities/person/cad9a046-6517-4d54-83a5-08910925909a)。
 
-`\numbox{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文。\newline 成績：A+。口試委員：張宏浩、鍾秋悅、王俊豪、林子欽、蔡昇甫。
+`\numbox{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文。\newline 成績：A+。口試委員：[張宏浩](https://sites.google.com/view/hh-chang)、[鍾秋悅](https://fps.npust.edu.tw/teacher/yessicachung/)、[王俊豪](https://bicd.ntu.edu.tw/Member?PJ_ID=PJ20250501&modal=2&id=7)、[林子欽](https://ah.lib.nccu.edu.tw/scholar?id=7023)、[蔡昇甫](https://www.agec.ntu.edu.tw/zh_tw/teacher/teacher2/%E8%94%A1%E6%98%87%E7%94%AB-50981658)。
 
 ```{=latex}
 \end{hanglist}
@@ -154,47 +154,41 @@ header-includes:
 
 `\hangitem{6.}`{=latex}Green Gentrification beyond the City: The Impacts of Ecosystem Investment on Housing Markets and Agricultural Community Dynamics (with Hung-Hao Chang).（\href{https://www.sciencedirect.com/journal/ecosystem-services}{\textit{Ecosystem Services}}，第一輪修訂中）
 
-`\hangitem{5.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Hung-Hao Chang and Hsiao-Chiao Sun).（已投稿審查中）
+`\hangitem{5.}`{=latex}Does Adopting a Forest Restoration Program Affect Firms' Financial Performance? A Doubly Robust Machine Learning Approach (with Hung-Hao Chang and Hsiao-Chiao Sun).\mbox{（審查中）}
 
-`\hangitem{4.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Hung-Hao Chang and David Zilberman).（已投稿審查中）
+`\hangitem{4.}`{=latex}Cleaner Air and Smaller Transfers: Housing-Market Responses to a Coal-Reduction Policy (with Hung-Hao Chang and David Zilberman).\mbox{（審查中）}
 
-`\hangitem{3.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Hung-Hao Chang).（撰稿與準備投稿中）
+`\hangitem{3.}`{=latex}From Gasoline to Electric: Economic and Environmental Impacts of Taxi Electrification (with Hung-Hao Chang).\mbox{（準備投稿中）}
 
-`\hangitem{2.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Hung-Hao Chang).（撰稿與準備投稿中）
+`\hangitem{2.}`{=latex}Pension Policy Reform of the Minimum Contribution Period and Intra-household Succession of Family Farms (with Hung-Hao Chang).\mbox{（準備投稿中）}
 
-`\hangitem{1.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Hung-Hao Chang).（撰稿與準備投稿中）
+`\hangitem{1.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Hung-Hao Chang).\mbox{（準備投稿中）}
 
-# 研討會\newline 論文發表
+# 審查制研討會\newline 論文發表
 
-`\hangitem{15.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. 2025. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 20th EAEA International Convention (2025), Manila.
+`\hangitem{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." \newline 20th EAEA International Convention (2025), Manila. \newline 99th Annual Conference of WEAI (2024), Seattle.
 
-`\hangitem{14.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. 2025. "The causal effects of removing Hook-Turn regulation on road safety." 20th EAEA International Convention (2025), Manila.
+`\hangitem{11.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The causal effects of removing Hook-Turn regulation on road safety." \newline 20th EAEA International Convention (2025), Manila.
 
-`\hangitem{13.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "Rooftop Solar Energy Adoption and Farm Revenue." 18th Congress of EAAE (2025), Bonn.
+`\hangitem{10.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. "Rooftop Solar Energy Adoption and Farm Revenue." \newline 18th Congress of EAAE (2025), Bonn. \newline 19th EAEA International Convention (2024), Bangkok.
 
-`\hangitem{12.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2025. "Does the Development of Aquavoltaics Production Affect Farmland Price?" 17th CAER-IFPRI Annual Conference (2025), Beijing.
+`\hangitem{9.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" \newline 17th CAER-IFPRI Annual Conference (2025), Beijing. \newline International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
 
-`\hangitem{11.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2025. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
+`\hangitem{8.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "Superstition and Car Accidents -- The Case Study of the Dajia Mazu Pilgrimage Event in Taiwan." \newline 19th EAEA International Convention (2024), Bangkok.
 
-`\hangitem{10.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. 2024. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 99th Annual Conference of WEAI (2024), Seattle.
+`\hangitem{7.}`{=latex}`\presenter{劉昱佑}`{=latex}、李成蔭。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。 \newline 第十六屆國會國際學術研討會（2024），臺北。
 
-`\hangitem{9.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. 2024. "Superstition and Car Accidents -- The Case Study of the Dajia Mazu Pilgrimage Event in Taiwan." 19th EAEA International Convention (2024), Bangkok.
+`\hangitem{6.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." \newline International Conference on Agricultural and Environmental Economics (2023), Taipei.
 
-`\hangitem{8.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2024. "Rooftop Solar Energy Adoption and Farm Revenue." 19th EAEA International Convention (2024), Bangkok.
+`\hangitem{5.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." \newline International Conference on Business and Management for Graduate Students (2023), Taipei.
 
-`\hangitem{7.}`{=latex}`\presenter{劉昱佑}`{=latex}、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。第十六屆國會國際學術研討會，臺北。
+`\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。 \newline 第十五屆國會國際學術研討會（2023），臺北。
 
-`\hangitem{6.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." International Conference on Agricultural and Environmental Economics (2023), Taipei.
+`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。 \newline 第十五屆國會國際學術研討會（2023），臺北。
 
-`\hangitem{5.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}. 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students (2023), Taipei.
+`\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。 \newline 2020 年臺灣農村經濟學會年會暨學術研討會，臺北。
 
-`\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}（2023）。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。第十五屆國會國際學術研討會，臺北。
-
-`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**（2023）。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。第十五屆國會國際學術研討會，臺北。
-
-`\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩（2020）。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。2020 年臺灣農村經濟學會年會暨學術研討會，臺北。
-
-`\hangitem{1.}`{=latex}`\presenter{劉昱佑}`{=latex}、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。2019 年生產力與效率學術研討會，臺北。
+`\hangitem{1.}`{=latex}`\presenter{劉昱佑}`{=latex}、陳林松。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。 \newline 2019 年生產力與效率學術研討會，臺北。
 
 ```{=latex}
 \vspace{2pt}
@@ -207,27 +201,27 @@ header-includes:
 
 # 獲獎與補助
 
-國家科學及技術委員會，博士生研究獎學金 \hfill \mbox{111 年–115 年}
+國家科學及技術委員會，博士生研究獎學金（新臺幣 1,920,000 元） \hfillbreak \mbox{111 年–115 年}
 
-臺北市政府，[115 年度獎勵研究報告運用資料優等獎](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54) \hfillbreak \mbox{115 年}
+臺北市政府，[115 年度獎勵研究報告運用資料優等獎](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54)（新臺幣 30,000 元） \hfillbreak \mbox{115 年}
 
-國立臺灣大學生物資源暨農學院，[114 學年度博士班學生學術論文獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf) \hfillbreak \mbox{115 年}
+國立臺灣大學生物資源暨農學院，[114 學年度博士班學生學術論文獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf)（新臺幣 8,000 元） \hfillbreak \mbox{115 年}
 
-國立臺灣大學生物資源暨農學院，[114 年中環傑出學生研究獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-cmc-outstanding-student-research.pdf) \hfillbreak \mbox{114 年}
+國立臺灣大學生物資源暨農學院，[114 年中環傑出學生研究獎](https://yyliou.github.io/yyliou/cv/cert/award-2025-cmc-outstanding-student-research.pdf)（新臺幣 50,000 元） \hfillbreak \mbox{114 年}
 
-實踐大學，[114 學年度教師全英語授課課程獎勵](https://yyliou.github.io/yyliou/cv/cert/award-2025-emi-teaching.pdf) \hfillbreak \mbox{114 年}
+實踐大學，[114 學年度教師全英語授課課程獎勵](https://yyliou.github.io/yyliou/cv/cert/award-2025-emi-teaching.pdf)（1.5 倍鐘點費） \hfillbreak \mbox{114 年}
 
-國家科學及技術委員會，補助國內研究生出席國際學術會議 \hfill \mbox{114 年}
+國家科學及技術委員會，補助國內研究生出席國際學術會議（新臺幣 30,000 元） \hfillbreak \mbox{114 年}
 
-社團法人國立臺灣大學農業經濟學系全國系友會，[母系學生出國參與學術研討會補助獎學金](https://yyliou.github.io/yyliou/cv/cert/award-2025-alumni-conference-travel.pdf) \hfillbreak \mbox{114 年}
+社團法人國立臺灣大學農業經濟學系全國系友會，[母系學生出國參與學術研討會補助獎學金](https://yyliou.github.io/yyliou/cv/cert/award-2025-alumni-conference-travel.pdf)（新臺幣 10,000 元） \hfillbreak \mbox{114 年}
 
-國家政策研究基金會，孫運璿紀念獎學金 \hfill \mbox{112 年}
+國家政策研究基金會，[孫運璿研究獎金](https://www.cna.com.tw/news/aipl/202210110247.aspx)（新臺幣 96,000 元） \hfillbreak \mbox{111 年–112 年}
 
-國立臺灣大學，[107 學年度學生利他獎](https://yyliou.github.io/yyliou/cv/cert/award-2019-altruistic.pdf) \hfillbreak \mbox{108 年}
+國立臺灣大學，[107 學年度學生利他獎](https://yyliou.github.io/yyliou/cv/cert/award-2019-altruistic.pdf)（新臺幣 3,000 元） \hfillbreak \mbox{108 年}
 
 # 教學
 
-實踐大學，兼任講師（全英語授課）
+實踐大學國際企業英語學士學位學程，兼任講師（全英語授課）
 
 ```{=latex}
 \nopagebreak
@@ -243,13 +237,13 @@ header-includes:
 \noindent\textit{\small 註：皆為大學部 2 學分課程；括號內為修課人數。}\par\vspace{3pt}
 ```
 
-國立臺灣大學，教學助理
+國立臺灣大學生物資源暨農學院農業經濟學系，教學助理
 
-農業政策與績效評估（碩士在職專班，3 學分；張宏浩教授） \hfillbreak \mbox{112 學年下學期、115 學年上學期}
+農業政策與績效評估（碩士在職專班，3 學分；[張宏浩](https://sites.google.com/view/hh-chang)教授） \hfillbreak \mbox{112 學年下學期、115 學年上學期}
 
-農業法規甲（大學部，3 學分；陳政位副教授） \hfillbreak \mbox{110 學年下學期}
+農業法規甲（大學部，3 學分；[陳政位](https://scholars.lib.ntu.edu.tw/entities/person/ae4b2436-2f6a-46bd-a71c-774f93e52ea8)副教授） \hfillbreak \mbox{110 學年下學期}
 
-數量方法（碩士國際專班，3 學分；張宏浩教授，全英語授課） \hfillbreak \mbox{108 學年下學期}
+數量方法（碩士國際專班，3 學分；[張宏浩](https://sites.google.com/view/hh-chang)教授，全英語授課） \hfillbreak \mbox{108 學年下學期}
 
 # 研究計畫
 
@@ -279,6 +273,38 @@ header-includes:
 \projitem{3.}{臺灣農民職業傷害保險制度的經濟分析，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}}{110 年}
 \projitem{2.}{109 年度「鄉村發展研究學術合作計畫－評估農村再生計畫對農家勞動力與休閒農業參與的影響」，\mbox{行政院農業委員會}，\mbox{109農再-2.1.3-1.3-企-015}}{109 年}
 \projitem{1.}{共享經濟對農地價格之影響-以台灣為例，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}}{109 年}
+```
+
+# 媒體報導
+
+```{=latex}
+\begingroup\raggedright
+```
+
+鏡週刊，「[試辦『取消兩段式左轉』事故大減2成！ 政府回應遭時力重砲](https://www.mirrormedia.mg/story/20260613edi026)」，\mbox{115 年 6 月 13 日}
+
+自由時報，「[機車兩段式左轉擬全面取消　時代力量：應有具體計畫期程](https://news.ltn.com.tw/news/politics/breakingnews/5470256)」，\mbox{115 年 6 月 12 日}
+
+新頭殼，「[試辦取消『強制兩段式左轉』事故件數降21% 時力籲交通部正視『道路平權』](https://newtalk.tw/news/view/2026-06-12/1041008)」，\mbox{115 年 6 月 12 日}
+
+TVBS，「[台大數據打臉！台南取消『兩段式左轉』事故減兩成　時力促中央交通改革](https://news.tvbs.com.tw/life/3229047)」，\mbox{115 年 6 月 12 日}
+
+ETtoday，「[『取消兩段式左轉』事故減21%！台大實證更安全　醫療支出降4.7%](https://www.ettoday.net/news/20260502/3158984.htm)」，\mbox{115 年 5 月 2 日}
+
+自由時報，「[取消機車兩段式左轉降風險？台大實證研究：特定情境下更安全](https://news.ltn.com.tw/news/life/breakingnews/5422721)」，\mbox{115 年 5 月 2 日}
+
+梅花新聞網，「[台大研究『取消機車兩段式左轉』事故數降21%　交通部：不會全面取消](https://www.i-meihua.com/Article/Detail/48168)」，\mbox{115 年 5 月 1 日}
+
+風傳媒，「[取消『機車兩段式左轉』更安全？台大研究證實事故數下降21% 醫療費省4.7%](https://www.storm.mg/article/11126855)」，\mbox{115 年 4 月 30 日}
+
+國立臺灣大學焦點新聞，「[制度改革如何改善交通安全？臺大研究成果登上國際交通運輸領域傑出期刊](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)」，\mbox{115 年 4 月 29 日}
+
+中國時報，「[機車兩段式左轉取消　事故降21%](https://www.chinatimes.com/newspapers/20260412000322-260121)」，\mbox{115 年 4 月 12 日}
+
+匯流新聞網，「[檢討機車二段式左轉制存廢　魏嘉賢主張以科學重塑花蓮交通政策](https://cnews.com.tw/250260224a05/)」，\mbox{115 年 2 月 24 日}
+
+```{=latex}
+\endgroup
 ```
 
 # 社會服務

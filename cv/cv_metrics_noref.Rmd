@@ -98,7 +98,7 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 `\numbox{12.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148. \newline \jmetric{SCIE, SSCI, Scopus, EconLit. ABDC B, AJG 3.\jbreak JIF=6.8. \#24/627 (3.8\%) in Economics (Q1).}
 
-`\numbox{11.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{SCIE, SSCI, Scopus, EconLit. ABDC A*, AJG 3.\jbreak JIF=7.2. \#21/627 (3.3\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended: Regional Studies \& Geography, Management II; Economics B+.} \newline Award: [2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University. \newline Media coverage: [NTU press release](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html), [Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5422721), [ETtoday](https://www.ettoday.net/news/20260502/3158984.htm), [China Times](https://www.chinatimes.com/newspapers/20260412000322-260121), [Storm Media](https://www.storm.mg/article/11126855), [TVBS](https://news.tvbs.com.tw/life/3229047), [Mirror Media](https://www.mirrormedia.mg/story/20260613edi026).
+`\numbox{11.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline \jmetric{SCIE, SSCI, Scopus, EconLit. ABDC A*, AJG 3.\jbreak JIF=7.2. \#21/627 (3.3\%) in Economics (Q1).} \newline \zhunote{NSTC-recommended: Regional Studies \& Geography, Management II; Economics B+.} \newline Award: [2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University.
 
 `\numbox{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline \jmetric{SCIE, SSCI, Scopus, EconLit. ABDC A, AJG 3.\jbreak JIF=8.7. \#5/66 (7.6\%) in Transportation (Q1).} \newline \zhunote{NSTC-recommended: Regional Studies \& Geography, Management II.} \newline Award: [2026 Research Report Data Utilization Award, Excellence Award](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54), Taipei City Government.
 
@@ -145,9 +145,9 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 `\numbox{3.}`{=latex}**Liou, Yu-You**. "The Environmental Economics of Urban Transport: Three Essays on Fare Policy, Vehicle Electrification, and Transit Disruption in Taiwan." Ph.D. Dissertation (in progress), Department of Agricultural Economics, National Taiwan University.
 
-`\numbox{2.}`{=latex}**Liou, Yu-You**. 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline \textit{Grade: A+. Committee: Yao-Wen Hsu, Yung-Chih Lien, and Shih-Ping Ho.}
+`\numbox{2.}`{=latex}**Liou, Yu-You**. 2021. "[Using Multilevel Linear Modeling to Explore the Moderating Effect of External Attributes on Hotel Room Rates: Empirical Evidence on Public Goods and Industry Environment](https://doi.org/10.6342/NTU202102085)." Master's Thesis, Master Program in Statistics, National Taiwan University. \newline *Grade: A+. Committee: [Yao-Wen Hsu](https://management.ntu.edu.tw/en/faculty/teacher/sn/196), [Yung-Chih Lien](https://management.ntu.edu.tw/en/faculty/teacher/sn/198), and [Shih-Ping Ho](https://scholars.lib.ntu.edu.tw/entities/person/cad9a046-6517-4d54-83a5-08910925909a).*
 
-`\numbox{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文。 \newline{} [Constructing Property Price Indices: Big Data Analyses from Actual Price Registration of Real Estate Transactions in Taiwan. Master's Thesis, Department of Agricultural Economics, National Taiwan University.] \newline \textit{Grade: A+. Committee: Hung-Hao Chang, Yessica C. Y. Chung, Jiun-Hao Wang, Tzu-Chin Lin, and Sheng-Fu Tsai.}
+`\numbox{1.}`{=latex}**劉昱佑**（2021）。「[農地價格指數之建構：應用臺灣實價登錄資料的大數據分析](https://doi.org/10.6342/NTU202101981)」。國立臺灣大學農業經濟學系碩士論文。 \newline{} [Constructing Property Price Indices: Big Data Analyses from Actual Price Registration of Real Estate Transactions in Taiwan. Master's Thesis, Department of Agricultural Economics, National Taiwan University.] \newline *Grade: A+. Committee: [Hung-Hao Chang](https://sites.google.com/view/hh-chang), [Yessica C. Y. Chung](https://fps.npust.edu.tw/en/teacher/yessicachung/), [Jiun-Hao Wang](https://bicd.ntu.edu.tw/Member?PJ_ID=PJ20250501&modal=2&id=7), [Tzu-Chin Lin](https://ah.lib.nccu.edu.tw/scholar?id=7023), and [Sheng-Fu Tsai](https://www.agec.ntu.edu.tw/en/teacher/teacher2/Sheng-Fu-Tsai-50981658).*
 
 ```{=latex}
 \end{hanglist}
@@ -171,37 +171,31 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 `\hangitem{1.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Hung-Hao Chang). (In preparation for submission)
 
-# Conference Presentations
+# Refereed Conference Presentations
 
-`\hangitem{15.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. 2025. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 20th EAEA International Convention (2025), Manila.
+`\hangitem{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." \newline 20th EAEA International Convention (2025), Manila. \newline 99th Annual Conference of WEAI (2024), Seattle.
 
-`\hangitem{14.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. 2025. "The causal effects of removing Hook-Turn regulation on road safety." 20th EAEA International Convention (2025), Manila.
+`\hangitem{11.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The causal effects of removing Hook-Turn regulation on road safety." \newline 20th EAEA International Convention (2025), Manila.
 
-`\hangitem{13.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "Rooftop Solar Energy Adoption and Farm Revenue." 18th Congress of EAAE (2025), Bonn.
+`\hangitem{10.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. "Rooftop Solar Energy Adoption and Farm Revenue." \newline 18th Congress of EAAE (2025), Bonn. \newline 19th EAEA International Convention (2024), Bangkok.
 
-`\hangitem{12.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2025. "Does the Development of Aquavoltaics Production Affect Farmland Price?" 17th CAER-IFPRI Annual Conference (2025), Beijing.
+`\hangitem{9.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" \newline 17th CAER-IFPRI Annual Conference (2025), Beijing. \newline International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
 
-`\hangitem{11.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2025. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
+`\hangitem{8.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "Superstition and Car Accidents -- The Case Study of the Dajia Mazu Pilgrimage Event in Taiwan." \newline 19th EAEA International Convention (2024), Bangkok.
 
-`\hangitem{10.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. 2024. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." 99th Annual Conference of WEAI (2024), Seattle.
+`\hangitem{7.}`{=latex}`\presenter{劉昱佑}`{=latex}、李成蔭。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。 \newline{} [**Liou, Yu-You**, and Cheng-Yin Lee. "Conformity or Accountability? An Analysis of Local Election Results on Presidential Satisfaction."] \newline 16th International Conference on Parliamentary Studies (2024), Taipei.
 
-`\hangitem{9.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. 2024. "Superstition and Car Accidents -- The Case Study of the Dajia Mazu Pilgrimage Event in Taiwan." 19th EAEA International Convention (2024), Bangkok.
+`\hangitem{6.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." \newline International Conference on Agricultural and Environmental Economics (2023), Taipei.
 
-`\hangitem{8.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2024. "Rooftop Solar Energy Adoption and Farm Revenue." 19th EAEA International Convention (2024), Bangkok.
+`\hangitem{5.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." \newline International Conference on Business and Management for Graduate Students (2023), Taipei.
 
-`\hangitem{7.}`{=latex}`\presenter{劉昱佑}`{=latex}、李成蔭（2024）。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。第十六屆國會國際學術研討會，臺北。 \newline{} [**Liou, Yu-You**, and Cheng-Yin Lee. 2024. "Conformity or Accountability? An Analysis of Local Election Results on Presidential Satisfaction." 16th International Conference on Parliamentary Studies, Taipei.]
+`\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。 \newline{} [**Liou, Yu-You**. "Path Dependency of Spatiotemporal Voting Behavior: An Empirical Analysis of the 2022 Taipei Mayoral Election."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
 
-`\hangitem{6.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. 2023. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." International Conference on Agricultural and Environmental Economics (2023), Taipei.
+`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。 \newline{} [Ho, Hua-Che, and **Yu-You Liou**. "The Impact of 'Newcomer Aura' on Election Probability: An Empirical Study of Taiwan's Councilor Elections (2009--2022)."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
 
-`\hangitem{5.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}. 2023. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." International Conference on Business and Management for Graduate Students (2023), Taipei.
+`\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。 \newline{} [**Liou, Yu-You**, and Hung-Hao Chang. "A Non-hierarchical Clustering Analysis of Consumer Behavior in Agricultural Products."] \newline 2020 Annual Conference of the Taiwan Rural Economics Society, Taipei.
 
-`\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}（2023）。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。第十五屆國會國際學術研討會，臺北。 \newline{} [**Liou, Yu-You**. 2023. "Path Dependency of Spatiotemporal Voting Behavior: An Empirical Analysis of the 2022 Taipei Mayoral Election." 15th International Conference on Parliamentary Studies, Taipei.]
-
-`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**（2023）。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。第十五屆國會國際學術研討會，臺北。 \newline{} [Ho, Hua-Che, and **Yu-You Liou**. 2023. "The Impact of 'Newcomer Aura' on Election Probability: An Empirical Study of Taiwan's Councilor Elections (2009--2022)." 15th International Conference on Parliamentary Studies, Taipei.]
-
-`\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩（2020）。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。2020 年臺灣農村經濟學會年會暨學術研討會，臺北。 \newline{} [**Liou, Yu-You**, and Hung-Hao Chang. 2020. "A Non-hierarchical Clustering Analysis of Consumer Behavior in Agricultural Products." 2020 Annual Conference of the Taiwan Rural Economics Society, Taipei.]
-
-`\hangitem{1.}`{=latex}`\presenter{劉昱佑}`{=latex}、陳林松（2019）。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。2019 年生產力與效率學術研討會，臺北。 \newline{} [**Liou, Yu-You**, and Linsong Chen. 2019. "The Contribution of Productivity to Taiwan's GDP Growth: An Empirical Analysis (1981--2018)." 2019 Taiwan Productivity and Efficiency Conference, Taipei.]
+`\hangitem{1.}`{=latex}`\presenter{劉昱佑}`{=latex}、陳林松。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。 \newline{} [**Liou, Yu-You**, and Linsong Chen. "The Contribution of Productivity to Taiwan's GDP Growth: An Empirical Analysis (1981--2018)."] \newline 2019 Taiwan Productivity and Efficiency Conference, Taipei.
 
 ```{=latex}
 \vspace{2pt}
@@ -214,27 +208,37 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 # Awards & Grants
 
-Graduate Research Fellowship, National Science and Technology Council \hfill \mbox{2022--2026}
+```{=latex}
+\begingroup\raggedright
+```
 
-[2026 Research Report Data Utilization Award, Excellence Award](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54), Taipei City Government \hfillbreak \mbox{2026}
+Graduate Research Fellowship, National Science and Technology Council (US\$58,500) \hfillbreak \mbox{2022--2026}
 
-[2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University \hfillbreak \mbox{2026}
+[2026 Research Report Data Utilization Award, Excellence Award](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54), Taipei City Government (US\$910) \hfillbreak \mbox{2026}
 
-[2025 CMC Magnetics Corporation Outstanding Student Research Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-cmc-outstanding-student-research.pdf), College of Bioresources and Agriculture, National Taiwan University \hfillbreak \mbox{2025}
+[2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University (US\$240) \hfillbreak \mbox{2026}
 
-[2025 English-Medium Instruction (EMI) Course Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-emi-teaching.pdf), Shih Chien University \hfillbreak \mbox{2025}
+[2025 CMC Magnetics Corporation Outstanding Student Research Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-cmc-outstanding-student-research.pdf), College of Bioresources and Agriculture, National Taiwan University (US\$1,520) \hfillbreak \mbox{2025}
 
-Conference Travel Grant, National Science and Technology Council \hfill \mbox{2025}
+[2025 English-Medium Instruction (EMI) Course Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-emi-teaching.pdf), Shih Chien University (1.5 times the regular hourly teaching pay) \hfillbreak \mbox{2025}
 
-[Conference Travel Scholarship](https://yyliou.github.io/yyliou/cv/cert/award-2025-alumni-conference-travel.pdf), National Alumni Association of the Department of Agricultural Economics, National Taiwan University \hfillbreak \mbox{2025}
+Conference Travel Grant, National Science and Technology Council (US\$910) \hfillbreak \mbox{2025}
 
-Sun Yun-Suan Memorial Fellowship, National Policy Foundation \hfill \mbox{2023}
+[Conference Travel Scholarship](https://yyliou.github.io/yyliou/cv/cert/award-2025-alumni-conference-travel.pdf), National Alumni Association of the Department of Agricultural Economics, National Taiwan University (US\$300) \hfillbreak \mbox{2025}
 
-[2018 Altruistic Award](https://yyliou.github.io/yyliou/cv/cert/award-2019-altruistic.pdf), National Taiwan University \hfillbreak \mbox{2019}
+[Sun Yun-Suan Research Grant](https://www.cna.com.tw/news/aipl/202210110247.aspx), National Policy Foundation (US\$2,930) \hfillbreak \mbox{2022--2023}
+
+[2018 Altruistic Award](https://yyliou.github.io/yyliou/cv/cert/award-2019-altruistic.pdf), National Taiwan University (US\$90) \hfillbreak \mbox{2019}
+
+```{=latex}
+\endgroup
+\vspace{2pt}
+\noindent\textit{\small Note: Amounts are converted from New Taiwan dollars at NT\$32.8 per US dollar (November 2026).}
+```
 
 # Teaching
 
-*Shih Chien University* — Adjunct Lecturer (English-medium instruction)
+*Shih Chien University*, English Taught Program in International Business \newline Adjunct Lecturer (English-medium instruction)
 
 ```{=latex}
 \nopagebreak
@@ -250,13 +254,13 @@ Sun Yun-Suan Memorial Fellowship, National Policy Foundation \hfill \mbox{2023}
 \noindent\textit{\small Note: All are 2-credit undergraduate courses. Number of enrolled students in parentheses.}\par\vspace{3pt}
 ```
 
-*National Taiwan University* — Teaching Assistant
+*National Taiwan University*, College of Bioresources and Agriculture, Department of Agricultural Economics \newline Teaching Assistant
 
-Agricultural Policy and Performance Evaluation (EMBA, 3 credits; Prof. Hung-Hao Chang) \hfillbreak \mbox{Spring 2024, Fall 2026}
+Agricultural Policy and Performance Evaluation (EMBA, 3 credits; Prof. [Hung-Hao Chang](https://sites.google.com/view/hh-chang)) \hfillbreak \mbox{Spring 2024, Fall 2026}
 
-Agricultural Regulations (A) (Undergraduate, 3 credits; Prof. Cheng-Wei Chen) \hfillbreak \mbox{Spring 2022}
+Agricultural Regulations (A) (Undergraduate, 3 credits; Prof. [Cheng-Wei Chen](https://scholars.lib.ntu.edu.tw/entities/person/ae4b2436-2f6a-46bd-a71c-774f93e52ea8)) \hfillbreak \mbox{Spring 2022}
 
-Quantitative Method (International Master's Program, 3 credits; Prof. Hung-Hao Chang; English-medium instruction) \hfillbreak \mbox{Spring 2020}
+Quantitative Method (International Master's Program, 3 credits; Prof. [Hung-Hao Chang](https://sites.google.com/view/hh-chang); English-medium instruction) \hfillbreak \mbox{Spring 2020}
 
 # Research Projects
 
@@ -288,13 +292,55 @@ Quantitative Method (International Master's Program, 3 credits; Prof. Hung-Hao C
 \projitem{1.}{Impact of Sharing Economy on Farmland Price in Taiwan, Ministry of Science and Technology, \mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}}{2020}
 ```
 
+# Media\newline Citations
+
+```{=latex}
+\begingroup\raggedright
+```
+
+Mirror Media, "[Hook-turn removal trial cuts accidents by 20%; New Power Party criticizes the government response](https://www.mirrormedia.mg/story/20260613edi026)," \mbox{June 13, 2026}.
+
+Liberty Times, "[Full removal of the motorcycle hook-turn under consideration; New Power Party calls for a concrete plan and timeline](https://news.ltn.com.tw/news/politics/breakingnews/5470256)," \mbox{June 12, 2026}.
+
+Newtalk, "[Hook-turn removal trial cuts accidents by 21%; New Power Party urges the Ministry of Transportation to address road equity](https://newtalk.tw/news/view/2026-06-12/1041008)," \mbox{June 12, 2026}.
+
+TVBS, "[NTU data show accidents fell 20% after Tainan removed the hook-turn; New Power Party urges national traffic reform](https://news.tvbs.com.tw/life/3229047)," \mbox{June 12, 2026}.
+
+ETtoday, "[Accidents down 21% after removing the hook-turn; medical costs cut 4.7%](https://www.ettoday.net/news/20260502/3158984.htm)," \mbox{May 2, 2026}.
+
+Liberty Times, "[NTU empirical study finds removing the motorcycle hook-turn safer in specific settings](https://news.ltn.com.tw/news/life/breakingnews/5422721)," \mbox{May 2, 2026}.
+
+Meihua News, "[NTU study finds removing the motorcycle hook-turn cuts accidents 21%; Ministry of Transportation rules out a nationwide removal](https://www.i-meihua.com/Article/Detail/48168)," \mbox{May 1, 2026}.
+
+Storm Media, "[Is removing the motorcycle hook-turn safer? NTU study finds accidents down 21% and medical costs down 4.7%](https://www.storm.mg/article/11126855)," \mbox{April 30, 2026}.
+
+National Taiwan University press release, "[How can institutional reform improve road safety?](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)" \mbox{April 29, 2026}.
+
+China Times, "[Removing the motorcycle hook-turn cuts accidents 21%](https://www.chinatimes.com/newspapers/20260412000322-260121)," \mbox{April 12, 2026}.
+
+CNEWS, "[Hualien county councilor calls for science-based traffic policy in review of the motorcycle hook-turn rule](https://cnews.com.tw/250260224a05/)," \mbox{February 24, 2026}.
+
+```{=latex}
+\endgroup
+\vspace{2pt}
+\noindent\textit{\small Note: The articles are in Chinese; titles are translated.}
+```
+
 # Public\newline Service
+
+```{=latex}
+\begingroup\raggedright
+```
 
 [Private, 2nd Company, Armored Cavalry Battalion](https://yyliou.github.io/yyliou/cv/cert/award-2022-penghu-honor.pdf), Penghu Defense Command, Republic of China Army \hfillbreak \mbox{2022}
 
 [Youth Commissioner, Issue Group](https://yyliou.github.io/yyliou/cv/cert/service-2019-taichung-youth-advisory.pdf), 1st Youth Affairs Advisory Committee, Taichung City Government \hfillbreak \mbox{2019--2021}
 
 [Youth Representative](https://yyliou.github.io/yyliou/cv/cert/service-2018-taichung-youth-review.pdf), 3rd Youth Affairs Review Committee, Taichung City Government \hfillbreak \mbox{2018--2019}
+
+```{=latex}
+\endgroup
+```
 
 # Skills
 
@@ -304,8 +350,17 @@ Quantitative Method (International Master's Program, 3 credits; Prof. Hung-Hao C
 
 # Travel & Outdoors
 
+```{=latex}
+\begingroup\raggedright
+```
+
 Tour Manager, Junior Professional and Technical Examinations, Ministry of Examination \hfillbreak \mbox{2020}
 
 Tour Guide, Junior Professional and Technical Examinations, Ministry of Examination \hfillbreak \mbox{2020}
 
 Hiking: [Tamsui-Kavalan Trails](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-tamsui-kavalan.jpg), [Taipei Grand Trail](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-taipei-grand-trail.jpg) (2026), [Smile Trails](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-smile-trails.jpg) (2026)
+
+```{=latex}
+\endgroup
+```
+
