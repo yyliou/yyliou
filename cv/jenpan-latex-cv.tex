@@ -65,7 +65,7 @@ $endif$
 \titlespacing{\section}{\dimexpr\cvindent-\cvsectionsep\relax}{20pt plus 5pt minus 2pt}{0pt}
 
 \titleformat{\subsection}[hang]{\normalsize\itshape}{}{0pt}{}
-\titlespacing*{\subsection}{0pt}{7pt plus 2pt minus 1pt}{1pt}
+\titlespacing*{\subsection}{0pt}{12pt plus 2pt minus 1pt}{1pt}
 
 \titleformat{\subsubsection}[hang]{\small\itshape}{}{0pt}{}
 \titlespacing*{\subsubsection}{0pt}{6pt plus 2pt minus 1pt}{0pt}
@@ -128,7 +128,7 @@ $if(author-meta)$  pdfauthor={$author-meta$},$endif$
 \noindent\hspace*{-\cvindent}%
 \begin{minipage}{\dimexpr\textwidth+\cvindent\relax}
   \raggedright
-  {\large\bfseries $author$}$if(updated)$\ {\normalsize (\apstylekinda\today)}$endif$
+  {\large\bfseries $author$}$if(updated)$$if(zhdate)${\normalsize （\apstylekinda\today）}$else$\ {\normalsize (\apstylekinda\today)}$endif$$endif$
 
   \vspace{3pt}
 
