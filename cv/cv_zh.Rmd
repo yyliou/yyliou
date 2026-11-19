@@ -205,7 +205,7 @@ header-includes:
 \noindent\textit{\small 註：皆為大學部 2 學分課程；括號內為修課人數。}\par\vspace{3pt}
 ```
 
-## **助教**
+## **教學助理**
 
 國立臺灣大學生物資源暨農學院農業經濟學系，教學助理
 
@@ -282,29 +282,7 @@ header-includes:
 \begingroup\raggedright
 ```
 
-〈[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)〉，`\mbox{\emph{Transportation Research Part A}}`{=latex}，2026
-
-鏡週刊，「[試辦『取消兩段式左轉』事故大減2成！ 政府回應遭時力重砲](https://www.mirrormedia.mg/story/20260613edi026)」，\mbox{115 年 6 月 13 日}
-
-自由時報，「[機車兩段式左轉擬全面取消　時代力量：應有具體計畫期程](https://news.ltn.com.tw/news/politics/breakingnews/5470256)」，\mbox{115 年 6 月 12 日}
-
-新頭殼，「[試辦取消『強制兩段式左轉』事故件數降21% 時力籲交通部正視『道路平權』](https://newtalk.tw/news/view/2026-06-12/1041008)」，\mbox{115 年 6 月 12 日}
-
-TVBS，「[台大數據打臉！台南取消『兩段式左轉』事故減兩成　時力促中央交通改革](https://news.tvbs.com.tw/life/3229047)」，\mbox{115 年 6 月 12 日}
-
-ETtoday，「[『取消兩段式左轉』事故減21%！台大實證更安全　醫療支出降4.7%](https://www.ettoday.net/news/20260502/3158984.htm)」，\mbox{115 年 5 月 2 日}
-
-自由時報，「[取消機車兩段式左轉降風險？台大實證研究：特定情境下更安全](https://news.ltn.com.tw/news/life/breakingnews/5422721)」，\mbox{115 年 5 月 2 日}
-
-梅花新聞網，「[台大研究『取消機車兩段式左轉』事故數降21%　交通部：不會全面取消](https://www.i-meihua.com/Article/Detail/48168)」，\mbox{115 年 5 月 1 日}
-
-風傳媒，「[取消『機車兩段式左轉』更安全？台大研究證實事故數下降21% 醫療費省4.7%](https://www.storm.mg/article/11126855)」，\mbox{115 年 4 月 30 日}
-
-國立臺灣大學焦點新聞，「[制度改革如何改善交通安全？臺大研究成果登上國際交通運輸領域傑出期刊](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)」，\mbox{115 年 4 月 29 日}
-
-中國時報，「[機車兩段式左轉取消　事故降21%](https://www.chinatimes.com/newspapers/20260412000322-260121)」，\mbox{115 年 4 月 12 日}
-
-匯流新聞網，「[檢討機車二段式左轉制存廢　魏嘉賢主張以科學重塑花蓮交通政策](https://cnews.com.tw/250260224a05/)」，\mbox{115 年 2 月 24 日}
+〈[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)〉，`\mbox{\emph{Transportation Research Part A}}`{=latex}，2026；115 年報導：TVBS（[7/8](https://cars.tvbs.com.tw/life/330988)、[6/12](https://news.tvbs.com.tw/life/3229047)）、鏡週刊（[6/13](https://www.mirrormedia.mg/story/20260613edi026)）、ETtoday（[6/13](https://www.ettoday.net/news/20260613/3182661.htm)、[5/2](https://www.ettoday.net/news/20260502/3158984.htm)）、Taiwan News（[6/12](https://www.taiwannews.com.tw/en/news/6382187)）、自由時報（[6/12](https://news.ltn.com.tw/news/politics/breakingnews/5470256)、[5/2](https://news.ltn.com.tw/news/life/breakingnews/5422721)）、新頭殼（[6/12](https://newtalk.tw/news/view/2026-06-12/1041008)）、梅花新聞網（[5/1](https://www.i-meihua.com/Article/Detail/48168)）、風傳媒（[4/30](https://www.storm.mg/article/11126855)）、臺大焦點新聞（[4/29](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)）、中國時報（[4/12](https://www.chinatimes.com/newspapers/20260412000322-260121)）、匯流新聞網（[2/24](https://cnews.com.tw/250260224a05/)）
 
 ```{=latex}
 \endgroup

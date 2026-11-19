@@ -298,34 +298,10 @@ Quantitative Method (International Master's Program, 3 credits; Prof. [Hung-Hao 
 \begingroup\raggedright
 ```
 
-Coverage of "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)," `\mbox{\emph{Transportation Research Part A}}`{=latex} (2026)
-
-Mirror Media, "[Hook-turn removal trial cuts accidents by 20%; New Power Party criticizes the government response](https://www.mirrormedia.mg/story/20260613edi026)," \mbox{June 13, 2026}.
-
-Liberty Times, "[Full removal of the motorcycle hook-turn under consideration; New Power Party calls for a concrete plan and timeline](https://news.ltn.com.tw/news/politics/breakingnews/5470256)," \mbox{June 12, 2026}.
-
-Newtalk, "[Hook-turn removal trial cuts accidents by 21%; New Power Party urges the Ministry of Transportation to address road equity](https://newtalk.tw/news/view/2026-06-12/1041008)," \mbox{June 12, 2026}.
-
-TVBS, "[NTU data show accidents fell 20% after Tainan removed the hook-turn; New Power Party urges national traffic reform](https://news.tvbs.com.tw/life/3229047)," \mbox{June 12, 2026}.
-
-ETtoday, "[Accidents down 21% after removing the hook-turn; medical costs cut 4.7%](https://www.ettoday.net/news/20260502/3158984.htm)," \mbox{May 2, 2026}.
-
-Liberty Times, "[NTU empirical study finds removing the motorcycle hook-turn safer in specific settings](https://news.ltn.com.tw/news/life/breakingnews/5422721)," \mbox{May 2, 2026}.
-
-Meihua News, "[NTU study finds removing the motorcycle hook-turn cuts accidents 21%; Ministry of Transportation rules out a nationwide removal](https://www.i-meihua.com/Article/Detail/48168)," \mbox{May 1, 2026}.
-
-Storm Media, "[Is removing the motorcycle hook-turn safer? NTU study finds accidents down 21% and medical costs down 4.7%](https://www.storm.mg/article/11126855)," \mbox{April 30, 2026}.
-
-National Taiwan University press release, "[How can institutional reform improve road safety?](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)" \mbox{April 29, 2026}.
-
-China Times, "[Removing the motorcycle hook-turn cuts accidents 21%](https://www.chinatimes.com/newspapers/20260412000322-260121)," \mbox{April 12, 2026}.
-
-CNEWS, "[Hualien county councilor calls for science-based traffic policy in review of the motorcycle hook-turn rule](https://cnews.com.tw/250260224a05/)," \mbox{February 24, 2026}.
+Coverage of "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)," `\mbox{\emph{Transportation Research Part A}}`{=latex} (2026): TVBS ([July 8](https://cars.tvbs.com.tw/life/330988), [June 12](https://news.tvbs.com.tw/life/3229047)), Mirror Media ([June 13](https://www.mirrormedia.mg/story/20260613edi026)), ETtoday ([June 13](https://www.ettoday.net/news/20260613/3182661.htm), [May 2](https://www.ettoday.net/news/20260502/3158984.htm)), Taiwan News ([June 12](https://www.taiwannews.com.tw/en/news/6382187)), Liberty Times ([June 12](https://news.ltn.com.tw/news/politics/breakingnews/5470256), [May 2](https://news.ltn.com.tw/news/life/breakingnews/5422721)), Newtalk ([June 12](https://newtalk.tw/news/view/2026-06-12/1041008)), Meihua News ([May 1](https://www.i-meihua.com/Article/Detail/48168)), Storm Media ([April 30](https://www.storm.mg/article/11126855)), NTU press release ([April 29](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)), China Times ([April 12](https://www.chinatimes.com/newspapers/20260412000322-260121)), CNEWS ([February 24](https://cnews.com.tw/250260224a05/)), 2026.
 
 ```{=latex}
 \endgroup
-\vspace{2pt}
-\noindent\textit{\small Note: The articles are in Chinese; titles are translated.}
 ```
 
 # Service
