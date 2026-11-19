@@ -164,41 +164,6 @@ header-includes:
 
 `\hangitem{1.}`{=latex}The Spatial Reach of Metro-led Development: Housing Gains and Traffic-Safety Costs by Station Accessibility (with Hung-Hao Chang).\mbox{（準備投稿中）}
 
-# 審查制研討會\newline 論文發表
-
-`\hangitem{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." \newline 20th EAEA International Convention (2025), Manila. \newline 99th Annual Conference of WEAI (2024), Seattle.
-
-`\hangitem{11.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The causal effects of removing Hook-Turn regulation on road safety." \newline 20th EAEA International Convention (2025), Manila.
-
-`\hangitem{10.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. "Rooftop Solar Energy Adoption and Farm Revenue." \newline 18th Congress of EAAE (2025), Bonn. \newline 19th EAEA International Convention (2024), Bangkok.
-
-`\hangitem{9.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" \newline 17th CAER-IFPRI Annual Conference (2025), Beijing. \newline International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
-
-`\hangitem{8.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "Superstition and Car Accidents -- The Case Study of the Dajia Mazu Pilgrimage Event in Taiwan." \newline 19th EAEA International Convention (2024), Bangkok.
-
-`\hangitem{7.}`{=latex}`\presenter{劉昱佑}`{=latex}、李成蔭。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。 \newline 第十六屆國會國際學術研討會（2024），臺北。
-
-`\hangitem{6.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." \newline International Conference on Agricultural and Environmental Economics (2023), Taipei.
-
-`\hangitem{5.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." \newline International Conference on Business and Management for Graduate Students (2023), Taipei.
-
-`\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。 \newline 第十五屆國會國際學術研討會（2023），臺北。
-
-`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。 \newline 第十五屆國會國際學術研討會（2023），臺北。
-
-`\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。 \newline 2020 年臺灣農村經濟學會年會暨學術研討會，臺北。
-
-`\hangitem{1.}`{=latex}`\presenter{劉昱佑}`{=latex}、陳林松。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。 \newline 2019 年生產力與效率學術研討會，臺北。
-
-```{=latex}
-\vspace{2pt}
-\noindent\textit{\small \tightCJK{註：標*者為本人口頭報告。}}
-```
-
-# [審稿](https://yyliou.github.io/yyliou/cv/cert/referee-certificates.pdf)
-
-[*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (5); [*Communications Sustainability*](https://www.nature.com/commssustain/) (1); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (2); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1)
-
 # 獲獎與補助
 
 國家科學及技術委員會，博士生研究獎學金（新臺幣 1,920,000 元） \hfillbreak \mbox{111 年–115 年}
@@ -221,6 +186,8 @@ header-includes:
 
 # 教學
 
+## **授課**
+
 實踐大學國際企業英語學士學位學程，兼任講師（全英語授課）
 
 ```{=latex}
@@ -236,6 +203,8 @@ header-includes:
 \end{tabular*}}\par\vspace{3pt}
 \noindent\textit{\small 註：皆為大學部 2 學分課程；括號內為修課人數。}\par\vspace{3pt}
 ```
+
+## **助教**
 
 國立臺灣大學生物資源暨農學院農業經濟學系，教學助理
 
@@ -275,11 +244,44 @@ header-includes:
 \projitem{1.}{共享經濟對農地價格之影響-以台灣為例，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}}{109 年}
 ```
 
+# 審查制研討會\newline 論文發表
+
+`\hangitem{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. "[Air Pollution during Religious Holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." \newline 20th EAEA International Convention (2025), Manila. \newline 99th Annual Conference of WEAI (2024), Seattle.
+
+`\hangitem{11.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The causal effects of removing Hook-Turn regulation on road safety." \newline 20th EAEA International Convention (2025), Manila.
+
+`\hangitem{10.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. "Rooftop Solar Energy Adoption and Farm Revenue." \newline 18th Congress of EAAE (2025), Bonn. \newline 19th EAEA International Convention (2024), Bangkok.
+
+`\hangitem{9.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. "Does the Development of Aquavoltaics Policy Affect Farmland Price?" \newline 17th CAER-IFPRI Annual Conference (2025), Beijing. \newline International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
+
+`\hangitem{8.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "Superstition and Car Accidents -- The Case Study of the Dajia Mazu Pilgrimage Event in Taiwan." \newline 19th EAEA International Convention (2024), Bangkok.
+
+`\hangitem{7.}`{=latex}`\presenter{劉昱佑}`{=latex}、李成蔭。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。 \newline 第十六屆國會國際學術研討會（2024），臺北。
+
+`\hangitem{6.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The Long-term Effects of Early-life Malaria Exposure on Farm Households' Resource Allocation." \newline International Conference on Agricultural and Environmental Economics (2023), Taipei.
+
+`\hangitem{5.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}. "Adaptation Behavior of Public Mobility under Climate Change: Empirical Evidence on Taipei Metro." \newline International Conference on Business and Management for Graduate Students (2023), Taipei.
+
+`\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。 \newline 第十五屆國會國際學術研討會（2023），臺北。
+
+`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。 \newline 第十五屆國會國際學術研討會（2023），臺北。
+
+`\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。 \newline 2020 年臺灣農村經濟學會年會暨學術研討會，臺北。
+
+`\hangitem{1.}`{=latex}`\presenter{劉昱佑}`{=latex}、陳林松。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。 \newline 2019 年生產力與效率學術研討會，臺北。
+
+```{=latex}
+\vspace{2pt}
+\noindent\textit{\small \tightCJK{註：標*者為本人口頭報告。}}
+```
+
 # 媒體報導
 
 ```{=latex}
 \begingroup\raggedright
 ```
+
+〈[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)〉，`\mbox{\emph{Transportation Research Part A}}`{=latex}，2026
 
 鏡週刊，「[試辦『取消兩段式左轉』事故大減2成！ 政府回應遭時力重砲](https://www.mirrormedia.mg/story/20260613edi026)」，\mbox{115 年 6 月 13 日}
 
@@ -307,7 +309,13 @@ ETtoday，「[『取消兩段式左轉』事故減21%！台大實證更安全　
 \endgroup
 ```
 
-# 社會服務
+# 服務
+
+## **學術服務**
+
+[期刊審稿](https://yyliou.github.io/yyliou/cv/cert/referee-certificates.pdf)：[*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (5); [*Communications Sustainability*](https://www.nature.com/commssustain/) (1); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (2); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1)
+
+## **社會服務**
 
 中華民國陸軍澎湖防衛指揮部，[裝騎營第二連二兵](https://yyliou.github.io/yyliou/cv/cert/award-2022-penghu-honor.pdf) \hfillbreak \mbox{111 年}
 
@@ -315,17 +323,13 @@ ETtoday，「[『取消兩段式左轉』事故減21%！台大實證更安全　
 
 臺中市政府，[第三屆青年事務審議會青年代表](https://yyliou.github.io/yyliou/cv/cert/service-2018-taichung-youth-review.pdf) \hfillbreak \mbox{107 年–108 年}
 
-# 技能
+# 技能與興趣
 
 語言：英語（專業工作能力）、中文（母語）、閩南語（中等）
 
 軟體：R、Stata、\LaTeX
 
-# 旅遊與戶外
-
-考選部，專門職業及技術人員普通考試華語領隊人員及格 \hfillbreak \mbox{109 年}
-
-考選部，專門職業及技術人員普通考試華語導遊人員及格 \hfillbreak \mbox{109 年}
+證照：專門職業及技術人員普通考試華語領隊人員、華語導遊人員及格（考選部，109 年）
 
 健行：[淡蘭古道](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-tamsui-kavalan.jpg)、[臺北大縱走](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-taipei-grand-trail.jpg)（115 年）、[微笑山線](https://yyliou.github.io/yyliou/cv/cert/hiking-2026-smile-trails.jpg)（115 年）
 
