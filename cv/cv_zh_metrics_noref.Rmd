@@ -136,7 +136,7 @@ header-includes:
 ```
 
 \vspace{2pt}
-\noindent\textit{\small 註：JIF 與排名依 Clarivate JCR 2025 年資料（2026 年 6 月發布）計算；各期刊取排名百分比最佳之領域，以「名次／該領域期刊總數」表示。ABDC 等級依 2025 年澳洲商學院院長協會（ABDC）期刊品質清單，由高至低為 A*、A、B、C。AJG 等級依 2024 年英國特許商學院協會（Chartered ABS）學術期刊指南，由高至低為 4*、4、3、2、1。}
+\noindent\textit{\small 註：ABDC 等級依 2025 年澳洲商學院院長協會（ABDC）期刊品質清單，由高至低為 A*、A、B、C。AJG 等級依 2024 年英國特許商學院協會（Chartered ABS）學術期刊指南，由高至低為 4*、4、3、2、1。JIF 與排名依 Clarivate JCR 2025 年資料（2026 年 6 月發布）計算；各期刊取排名百分比最佳之領域，以「名次／該領域期刊總數」表示。}
 
 ## **學位論文**
 

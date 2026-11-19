@@ -128,7 +128,7 @@ header-includes:
 ```
 
 \vspace{2pt}
-\noindent\textit{\small 註：JIF 與排名依 Clarivate JCR 2025 年資料（2026 年 6 月發布）計算；各期刊取排名百分比最佳之領域，以「名次／該領域期刊總數」表示。ABDC 等級依 2025 年澳洲商學院院長協會（ABDC）期刊品質清單，由高至低為 A*、A、B、C。AJG 等級依 2024 年英國特許商學院協會（Chartered ABS）學術期刊指南，由高至低為 4*、4、3、2、1。}
+\noindent\textit{\small 註：ABDC 等級依 2025 年澳洲商學院院長協會（ABDC）期刊品質清單，由高至低為 A*、A、B、C。AJG 等級依 2024 年英國特許商學院協會（Chartered ABS）學術期刊指南，由高至低為 4*、4、3、2、1。JIF 與排名依 Clarivate JCR 2025 年資料（2026 年 6 月發布）計算；各期刊取排名百分比最佳之領域，以「名次／該領域期刊總數」表示。}
 
 ## **學位論文**
 
@@ -305,9 +305,9 @@ header-includes:
 
 # 推薦人
 
-`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**張宏浩**](https://sites.google.com/view/hh-chang) \newline{} 國立臺灣大學農業經濟學系教授兼生物資源暨農學院副院長 \newline{} [hunghaochang@ntu.edu.tw](mailto:hunghaochang@ntu.edu.tw)`\par\nopagebreak\endgroup`{=latex}
+`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**張宏浩**](https://sites.google.com/view/hh-chang) \newline{} 國立臺灣大學農業經濟學系特聘教授兼生物資源暨農學院副院長 \newline{} [hunghaochang@ntu.edu.tw](mailto:hunghaochang@ntu.edu.tw)`\par\nopagebreak\endgroup`{=latex}
 
-`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**廖培安**](https://uscetp.usc.edu.tw/var/file/102/1102/img/149873815.pdf) \newline{} 實踐大學國際企業英語學士學位學程教授兼管理學院院長 \newline{} [paliao@g2.usc.edu.tw](mailto:paliao@g2.usc.edu.tw)`\par\nopagebreak\endgroup`{=latex}
+`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**廖培安**](https://uscetp.usc.edu.tw/var/file/102/1102/img/149873815.pdf) \newline{} 實踐大學國際企業英語學士／碩士學位學程教授兼學程主任、管理學院院長及國際學院院長 \newline{} [paliao@g2.usc.edu.tw](mailto:paliao@g2.usc.edu.tw)`\par\nopagebreak\endgroup`{=latex}
 
 `\begingroup\raggedright\interlinepenalty=10000`{=latex}[**Chad D. Meyerhoefer**](https://business.lehigh.edu/directory/chad-d-meyerhoefer) \newline{} 美國理海大學（Lehigh University）經濟學系 Arthur F. Searing 講座教授兼系主任 \newline{} [chm308@lehigh.edu](mailto:chm308@lehigh.edu)`\par\nopagebreak\endgroup`{=latex}
 

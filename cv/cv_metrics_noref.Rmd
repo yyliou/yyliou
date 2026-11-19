@@ -135,7 +135,7 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 ```
 
 \vspace{2pt}
-\noindent\textit{\small Note: JIF and rankings are based on Clarivate JCR 2025 data (released June 2026); each journal is shown in its best-percentile category as \#rank/total. ABDC ratings are from the 2025 Australian Business Deans Council (ABDC) Journal Quality List, where A* is the highest tier, followed by A, B, and C. AJG grades are from the 2024 Chartered Association of Business Schools (Chartered ABS) Academic Journal Guide, where 4* is the highest grade, followed by 4, 3, 2, and 1.}
+\noindent\textit{\small Note: ABDC ratings are from the 2025 Australian Business Deans Council (ABDC) Journal Quality List, where A* is the highest tier, followed by A, B, and C. AJG grades are from the 2024 Chartered Association of Business Schools (Chartered ABS) Academic Journal Guide, where 4* is the highest grade, followed by 4, 3, 2, and 1. JIF and rankings are based on Clarivate JCR 2025 data (released June 2026); each journal is shown in its best-percentile category as \#rank/total.}
 
 ## Dissertation and Theses
 
