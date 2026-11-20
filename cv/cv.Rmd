@@ -45,6 +45,9 @@ header-includes:
   - \newcommand{\hangitem}[1]{\numlistgap\noindent\hangindent=2.0em\hangafter=1\numbox{#1}}
   - \newcommand{\tightCJK}[1]{{\xeCJKsetup{CJKecglue={}}#1}}
   - \newcommand{\presenter}[1]{\tightCJK{\textbf{#1}*}}
+  - \newfontfamily\envfont[Scale=1.2]{FreeSerif}
+  - \newcommand{\corrmark}{{\envfont\char"2709}}
+  - \newcommand{\corr}{\kern0.05em\corrmark}
   - \newcommand{\projitem}[3]{\numlistgap\noindent\begin{minipage}[t]{\dimexpr\linewidth-5.4em\relax}\rightskip=0pt plus 3em\relax\everypar={\hangindent=2.0em\hangafter=1}\numbox{#1}#2\par\xdef\projdepth{\the\prevdepth}\end{minipage}\hfill\begin{minipage}[t]{4.9em}\raggedleft#3\end{minipage}\par\prevdepth=\projdepth\relax}
 ---
 
@@ -88,21 +91,21 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 \begin{hanglist}
 ```
 
-`\hangitem{15.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the development of aquavoltaics policy affect farmland price?" [*Land Economics*](https://le.uwpress.org/), 103(3), 2027.
+`\hangitem{15.}`{=latex}Chang, Hung-Hao\corr{}, and **Yu-You Liou**. Forthcoming. "Does the development of aquavoltaics policy affect farmland price?" [*Land Economics*](https://le.uwpress.org/), 103(3), 2027.
 
-`\hangitem{14.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." [*Transport Policy*](https://www.sciencedirect.com/journal/transport-policy), 190, 104468.
+`\hangitem{14.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang\corr{}. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." [*Transport Policy*](https://www.sciencedirect.com/journal/transport-policy), 190, 104468.
 
-`\hangitem{13.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air pollution during religious holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." [*Journal of the Association of Environmental and Resource Economists*](https://www.journals.uchicago.edu/journals/jaere).
+`\hangitem{13.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer\corr{}. Forthcoming. "[Air pollution during religious holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." [*Journal of the Association of Environmental and Resource Economists*](https://www.journals.uchicago.edu/journals/jaere).
 
-`\hangitem{12.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." [*Food Policy*](https://www.sciencedirect.com/journal/food-policy), 143, 103148.
+`\hangitem{12.}`{=latex}Chang, Hung-Hao\corr{}, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." [*Food Policy*](https://www.sciencedirect.com/journal/food-policy), 143, 103148.
 
-`\hangitem{11.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." [*Transportation Research Part A: Policy and Practice*](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice), 205, 104860. \newline `{\small{}`{=latex}Award: [2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University.`}`{=latex}
+`\hangitem{11.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang\corr{}. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." [*Transportation Research Part A: Policy and Practice*](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice), 205, 104860. \newline `{\small{}`{=latex}Award: [2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University.`}`{=latex}
 
-`\hangitem{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." [*Transportation Research Part D: Transport and Environment*](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment), 146, 104903. \newline `{\small{}`{=latex}Award: [2026 Research Report Data Utilization Award, Excellence Award](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54), Taipei City Government.`}`{=latex}
+`\hangitem{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang\corr{}, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." [*Transportation Research Part D: Transport and Environment*](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment), 146, 104903. \newline `{\small{}`{=latex}Award: [2026 Research Report Data Utilization Award, Excellence Award](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54), Taipei City Government.`}`{=latex}
 
-`\hangitem{9.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." [*Forest Policy and Economics*](https://www.sciencedirect.com/journal/forest-policy-and-economics), 171, 103411.
+`\hangitem{9.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang\corr{}. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." [*Forest Policy and Economics*](https://www.sciencedirect.com/journal/forest-policy-and-economics), 171, 103411.
 
-`\hangitem{8.}`{=latex}Chang, Hung-Hao, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" [*Journal of Transport Geography*](https://www.sciencedirect.com/journal/journal-of-transport-geography), 91, 102954.
+`\hangitem{8.}`{=latex}Chang, Hung-Hao\corr{}, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" [*Journal of Transport Geography*](https://www.sciencedirect.com/journal/journal-of-transport-geography), 91, 102954.
 
 ```{=latex}
 \end{hanglist}
@@ -114,23 +117,26 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 \begin{hanglist}
 ```
 
-`\hangitem{7.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2026. "[Trading less often but trading thicker: Scheduled closures in a hog auction market](https://www.mdpi.com/2077-0472/16/22/2489)." [*Agriculture*](https://www.mdpi.com/journal/agriculture), 16(22), 2489.
+`\hangitem{7.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang\corr{}. 2026. "[Trading less often but trading thicker: Scheduled closures in a hog auction market](https://www.mdpi.com/2077-0472/16/22/2489)." [*Agriculture*](https://www.mdpi.com/journal/agriculture), 16(22), 2489.
 
-`\hangitem{6.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, and Hung-Hao Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: Evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." [*Journal of Tourism Management Research*](https://www.conscientiabeam.com/journal/31), 13(1), 148--162.
+`\hangitem{6.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, and Hung-Hao Chang\corr{}. 2026. "[Hotel recovery strategies in the post-COVID-19 era: Evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." [*Journal of Tourism Management Research*](https://www.conscientiabeam.com/journal/31), 13(1), 148--162.
 
-`\hangitem{5.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." [*Annals of Tourism Research Empirical Insights*](https://www.sciencedirect.com/journal/annals-of-tourism-research-empirical-insights), 7(1), 100209.
+`\hangitem{5.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang\corr{}. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." [*Annals of Tourism Research Empirical Insights*](https://www.sciencedirect.com/journal/annals-of-tourism-research-empirical-insights), 7(1), 100209.
 
-`\hangitem{4.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Is solar panel adoption a win--win strategy for chicken farms? Evidence from agriculture census data](https://www.mdpi.com/2077-0472/15/20/2124)." [*Agriculture*](https://www.mdpi.com/journal/agriculture), 15(20), 2124.
+`\hangitem{4.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang\corr{}. 2025. "[Is solar panel adoption a win--win strategy for chicken farms? Evidence from agriculture census data](https://www.mdpi.com/2077-0472/15/20/2124)." [*Agriculture*](https://www.mdpi.com/journal/agriculture), 15(20), 2124.
 
-`\hangitem{3.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop photovoltaics adoption and farm revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." [*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297). Advance online publication.
+`\hangitem{3.}`{=latex}`\looseness=-1`{=latex}**Liou, Yu-You**, Hung-Hao Chang\corr{}, and Jeffrey C. Begun. 2025. "[Rooftop photovoltaics adoption and farm revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." [*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297). Advance online publication.
 
-`\hangitem{2.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." [*The Singapore Economic Review*](https://www.worldscientific.com/worldscinet/ser). Advance online publication.
+`\hangitem{2.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang\corr{}, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." [*The Singapore Economic Review*](https://www.worldscientific.com/worldscinet/ser). Advance online publication.
 
-`\hangitem{1.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and David R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." [*Quality & Quantity*](https://link.springer.com/journal/11135), 58(6), 5737--5754.
+`\hangitem{1.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang\corr{}, and David R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." [*Quality & Quantity*](https://link.springer.com/journal/11135), 58(6), 5737--5754.
 
 ```{=latex}
 \end{hanglist}
 ```
+
+\vspace{2pt}
+\noindent\textit{\small Note: \corrmark{} denotes the corresponding author.}
 
 ## Dissertation and Theses
 
