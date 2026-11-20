@@ -64,7 +64,7 @@ header-includes:
 
 國立臺灣大學農業經濟學系，博士候選人 \hfill \mbox{115 年–迄今} \newline{} [GPA 4.12/4.3](https://yyliou.github.io/yyliou/cv/doc/phd-transcript-zh.pdf) \newline 指導教授：張宏浩教授
 
-國立臺灣大學農業經濟學系，博士生 \hfill \mbox{111 年–115 年}
+國立臺灣大學農業經濟學系，博士生（Fellowship） \hfill \mbox{111 年–115 年}
 
 國立臺灣大學，[統計碩士](https://yyliou.github.io/yyliou/cv/doc/ms-diploma-zh.pdf) \hfill \mbox{109 年–110 年}
 
