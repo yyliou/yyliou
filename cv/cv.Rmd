@@ -88,21 +88,21 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 \begin{hanglist}
 ```
 
-`\hangitem{15.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the development of aquavoltaics policy affect farmland price?" *Land Economics*, 103(3), 2027.
+`\hangitem{15.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. Forthcoming. "Does the development of aquavoltaics policy affect farmland price?" [*Land Economics*](https://le.uwpress.org/), 103(3), 2027.
 
-`\hangitem{14.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." *Transport Policy*, 190, 104468.
+`\hangitem{14.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2027. "[The effects of enhancing pedestrian-protective infrastructure on intersection safety](https://doi.org/10.1016/j.tranpol.2026.104468)." [*Transport Policy*](https://www.sciencedirect.com/journal/transport-policy), 190, 104468.
 
-`\hangitem{13.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air pollution during religious holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." *Journal of the Association of Environmental and Resource Economists*.
+`\hangitem{13.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. Forthcoming. "[Air pollution during religious holidays: Evidence from Tomb-Sweeping Day](https://doi.org/10.1086/743452)." [*Journal of the Association of Environmental and Resource Economists*](https://www.journals.uchicago.edu/journals/jaere).
 
-`\hangitem{12.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." *Food Policy*, 143, 103148.
+`\hangitem{12.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. 2026. "[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census](https://doi.org/10.1016/j.foodpol.2026.103148)." [*Food Policy*](https://www.sciencedirect.com/journal/food-policy), 143, 103148.
 
-`\hangitem{11.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." *Transportation Research Part A: Policy and Practice*, 205, 104860. \newline `{\small{}`{=latex}Award: [2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University.`}`{=latex}
+`\hangitem{11.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)." [*Transportation Research Part A: Policy and Practice*](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice), 205, 104860. \newline `{\small{}`{=latex}Award: [2025 Doctoral Student Academic Paper Award](https://yyliou.github.io/yyliou/cv/cert/award-2025-student-academic-paper.pdf), College of Bioresources and Agriculture, National Taiwan University.`}`{=latex}
 
-`\hangitem{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." *Transportation Research Part D: Transport and Environment*, 146, 104903. \newline `{\small{}`{=latex}Award: [2026 Research Report Data Utilization Award, Excellence Award](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54), Taipei City Government.`}`{=latex}
+`\hangitem{10.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, Hung-Hao Chang, and Ruey-Wan Liou. 2025. "[The causal effect of monthly pass programs on public transportation and carbon emissions](https://doi.org/10.1016/j.trd.2025.104903)." [*Transportation Research Part D: Transport and Environment*](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment), 146, 104903. \newline `{\small{}`{=latex}Award: [2026 Research Report Data Utilization Award, Excellence Award](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54), Taipei City Government.`}`{=latex}
 
-`\hangitem{9.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." *Forest Policy and Economics*, 171, 103411.
+`\hangitem{9.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Forest diversity and the distribution of farm revenue - Empirical evidence from forest farms in Taiwan](https://doi.org/10.1016/j.forpol.2024.103411)." [*Forest Policy and Economics*](https://www.sciencedirect.com/journal/forest-policy-and-economics), 171, 103411.
 
-`\hangitem{8.}`{=latex}Chang, Hung-Hao, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" *Journal of Transport Geography*, 91, 102954.
+`\hangitem{8.}`{=latex}Chang, Hung-Hao, Brian Lee, Feng-An Yang, and **Yu-You Liou**. 2021. "[Does COVID-19 affect metro use in Taipei?](https://doi.org/10.1016/j.jtrangeo.2021.102954)" [*Journal of Transport Geography*](https://www.sciencedirect.com/journal/journal-of-transport-geography), 91, 102954.
 
 ```{=latex}
 \end{hanglist}
@@ -114,19 +114,19 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 \begin{hanglist}
 ```
 
-`\hangitem{7.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2026. "[Trading less often but trading thicker: Scheduled closures in a hog auction market](https://www.mdpi.com/2077-0472/16/22/2489)." *Agriculture*, 16(22), 2489.
+`\hangitem{7.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2026. "[Trading less often but trading thicker: Scheduled closures in a hog auction market](https://www.mdpi.com/2077-0472/16/22/2489)." [*Agriculture*](https://www.mdpi.com/journal/agriculture), 16(22), 2489.
 
-`\hangitem{6.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, and Hung-Hao Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: Evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." *Journal of Tourism Management Research*, 13(1), 148--162.
+`\hangitem{6.}`{=latex}**Liou, Yu-You**, Man-Keun Kim, and Hung-Hao Chang. 2026. "[Hotel recovery strategies in the post-COVID-19 era: Evidence on revenue, employment, and labor market rigidity from Taiwan](https://archive.conscientiabeam.com/index.php/31/article/view/4940)." [*Journal of Tourism Management Research*](https://www.conscientiabeam.com/journal/31), 13(1), 148--162.
 
-`\hangitem{5.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." *Annals of Tourism Research Empirical Insights*, 7(1), 100209.
+`\hangitem{5.}`{=latex}**Liou, Yu-You**, and Hung-Hao Chang. 2026. "[Traffic accidents of religious tourism](https://doi.org/10.1016/j.annale.2026.100209)." [*Annals of Tourism Research Empirical Insights*](https://www.sciencedirect.com/journal/annals-of-tourism-research-empirical-insights), 7(1), 100209.
 
-`\hangitem{4.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Is solar panel adoption a win--win strategy for chicken farms? Evidence from agriculture census data](https://www.mdpi.com/2077-0472/15/20/2124)." *Agriculture*, 15(20), 2124.
+`\hangitem{4.}`{=latex}Lee, Tzong-Haw, **Yu-You Liou**, and Hung-Hao Chang. 2025. "[Is solar panel adoption a win--win strategy for chicken farms? Evidence from agriculture census data](https://www.mdpi.com/2077-0472/15/20/2124)." [*Agriculture*](https://www.mdpi.com/journal/agriculture), 15(20), 2124.
 
-`\hangitem{3.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop photovoltaics adoption and farm revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." *Agribusiness*. Advance online publication.
+`\hangitem{3.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[Rooftop photovoltaics adoption and farm revenue](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70035)." [*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297). Advance online publication.
 
-`\hangitem{2.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." *The Singapore Economic Review*. Advance online publication.
+`\hangitem{2.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. 2025. "[The impact of the carbon border adjustment mechanism policy on international trade and market competition — A theoretical justification](https://www.worldscientific.com/doi/10.1142/S0217590825500328)." [*The Singapore Economic Review*](https://www.worldscientific.com/worldscinet/ser). Advance online publication.
 
-`\hangitem{1.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and David R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." *Quality & Quantity*, 58(6), 5737--5754.
+`\hangitem{1.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and David R. Just. 2024. "[How do consumers respond to COVID-19? Application of Bayesian approach on credit card transaction data](https://link.springer.com/article/10.1007/s11135-024-01915-9)." [*Quality & Quantity*](https://link.springer.com/journal/11135), 58(6), 5737--5754.
 
 ```{=latex}
 \end{hanglist}
@@ -172,6 +172,45 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 ```{=latex}
 \end{hanglist}
+```
+
+# Refereed Conference Presentations
+
+```{=latex}
+\begin{hanglist}
+```
+
+`\hangitem{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. "[Air pollution during religious holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." \newline 20th EAEA International Convention (2025), Manila. \newline 99th Annual Conference of WEAI (2024), Seattle.
+
+`\hangitem{11.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The causal effects of removing Hook-Turn regulation on road safety." \newline 20th EAEA International Convention (2025), Manila.
+
+`\hangitem{10.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. "Rooftop solar energy adoption and farm revenue." \newline 18th Congress of EAAE (2025), Bonn. \newline 19th EAEA International Convention (2024), Bangkok.
+
+`\hangitem{9.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. "Does the development of aquavoltaics policy affect farmland price?" \newline 17th CAER-IFPRI Annual Conference (2025), Beijing. \newline International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
+
+`\hangitem{8.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "Superstition and car accidents -- The case study of the Dajia Mazu Pilgrimage event in Taiwan." \newline 19th EAEA International Convention (2024), Bangkok.
+
+`\hangitem{7.}`{=latex}`\presenter{劉昱佑}`{=latex}、李成蔭。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。 \newline{} [**Liou, Yu-You**, and Cheng-Yin Lee. "Conformity or accountability? An analysis of local election results on presidential satisfaction."] \newline 16th International Conference on Parliamentary Studies (2024), Taipei.
+
+`\hangitem{6.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The long-term effects of early-life malaria exposure on farm households' resource allocation." \newline International Conference on Agricultural and Environmental Economics (2023), Taipei.
+
+`\hangitem{5.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}. "Adaptation behavior of public mobility under climate change: Empirical evidence on Taipei Metro." \newline International Conference on Business and Management for Graduate Students (2023), Taipei.
+
+`\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。 \newline{} [**Liou, Yu-You**. "Path dependency of spatiotemporal voting behavior: An empirical analysis of the 2022 Taipei mayoral election."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
+
+`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。 \newline{} [Ho, Hua-Che, and **Yu-You Liou**. "The impact of 'newcomer aura' on election probability: An empirical study of Taiwan's councilor elections (2009--2022)."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
+
+`\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。 \newline{} [**Liou, Yu-You**, and Hung-Hao Chang. "A non-hierarchical clustering analysis of consumer behavior in agricultural products."] \newline 2020 Annual Conference of the Taiwan Rural Economics Society, Taipei.
+
+`\hangitem{1.}`{=latex}`\presenter{劉昱佑}`{=latex}、陳林松。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。 \newline{} [**Liou, Yu-You**, and Linsong Chen. "The contribution of productivity to Taiwan's GDP growth: An empirical analysis (1981--2018)."] \newline 2019 Taiwan Productivity and Efficiency Conference, Taipei.
+
+```{=latex}
+\end{hanglist}
+```
+
+```{=latex}
+\vspace{2pt}
+\noindent\textit{\small Note: * denotes oral presentations given by Yu-You Liou.}
 ```
 
 # Awards & Grants
@@ -266,55 +305,46 @@ Quantitative Method (International Master's Program, 3 credits; Prof. [Hung-Hao 
 \end{hanglist}
 ```
 
-# Refereed Conference Presentations
-
-```{=latex}
-\begin{hanglist}
-```
-
-`\hangitem{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. "[Air pollution during religious holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." \newline 20th EAEA International Convention (2025), Manila. \newline 99th Annual Conference of WEAI (2024), Seattle.
-
-`\hangitem{11.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The causal effects of removing Hook-Turn regulation on road safety." \newline 20th EAEA International Convention (2025), Manila.
-
-`\hangitem{10.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. "Rooftop solar energy adoption and farm revenue." \newline 18th Congress of EAAE (2025), Bonn. \newline 19th EAEA International Convention (2024), Bangkok.
-
-`\hangitem{9.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. "Does the development of aquavoltaics policy affect farmland price?" \newline 17th CAER-IFPRI Annual Conference (2025), Beijing. \newline International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
-
-`\hangitem{8.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "Superstition and car accidents -- The case study of the Dajia Mazu Pilgrimage event in Taiwan." \newline 19th EAEA International Convention (2024), Bangkok.
-
-`\hangitem{7.}`{=latex}`\presenter{劉昱佑}`{=latex}、李成蔭。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。 \newline{} [**Liou, Yu-You**, and Cheng-Yin Lee. "Conformity or accountability? An analysis of local election results on presidential satisfaction."] \newline 16th International Conference on Parliamentary Studies (2024), Taipei.
-
-`\hangitem{6.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The long-term effects of early-life malaria exposure on farm households' resource allocation." \newline International Conference on Agricultural and Environmental Economics (2023), Taipei.
-
-`\hangitem{5.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}. "Adaptation behavior of public mobility under climate change: Empirical evidence on Taipei Metro." \newline International Conference on Business and Management for Graduate Students (2023), Taipei.
-
-`\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。 \newline{} [**Liou, Yu-You**. "Path dependency of spatiotemporal voting behavior: An empirical analysis of the 2022 Taipei mayoral election."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
-
-`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。 \newline{} [Ho, Hua-Che, and **Yu-You Liou**. "The impact of 'newcomer aura' on election probability: An empirical study of Taiwan's councilor elections (2009--2022)."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
-
-`\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。 \newline{} [**Liou, Yu-You**, and Hung-Hao Chang. "A non-hierarchical clustering analysis of consumer behavior in agricultural products."] \newline 2020 Annual Conference of the Taiwan Rural Economics Society, Taipei.
-
-`\hangitem{1.}`{=latex}`\presenter{劉昱佑}`{=latex}、陳林松。「生產力對於臺灣國內生產毛額的貢獻度（1981-2018）」。 \newline{} [**Liou, Yu-You**, and Linsong Chen. "The contribution of productivity to Taiwan's GDP growth: An empirical analysis (1981--2018)."] \newline 2019 Taiwan Productivity and Efficiency Conference, Taipei.
-
-```{=latex}
-\end{hanglist}
-```
-
-```{=latex}
-\vspace{2pt}
-\noindent\textit{\small Note: * denotes oral presentations given by Yu-You Liou.}
-```
-
 # Media\newline Citations
 
 ```{=latex}
 \begingroup\raggedright
 ```
 
-Coverage of "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)," `\mbox{\emph{Transportation Research Part A}}`{=latex} (2026): TVBS ([July 8](https://cars.tvbs.com.tw/life/330988), [June 12](https://news.tvbs.com.tw/life/3229047)), Mirror Media ([June 13](https://www.mirrormedia.mg/story/20260613edi026)), ETtoday ([June 13](https://www.ettoday.net/news/20260613/3182661.htm), [May 2](https://www.ettoday.net/news/20260502/3158984.htm)), Taiwan News ([June 12](https://www.taiwannews.com.tw/en/news/6382187)), Liberty Times ([June 12](https://news.ltn.com.tw/news/politics/breakingnews/5470256), [May 2](https://news.ltn.com.tw/news/life/breakingnews/5422721)), Newtalk ([June 12](https://newtalk.tw/news/view/2026-06-12/1041008)), Meihua News ([May 1](https://www.i-meihua.com/Article/Detail/48168)), Storm Media ([April 30](https://www.storm.mg/article/11126855)), NTU press release ([April 29](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)), China Times ([April 12](https://www.chinatimes.com/newspapers/20260412000322-260121)), CNEWS ([February 24](https://cnews.com.tw/250260224a05/)), 2026.
+Coverage of "[The causal effects of removing Hook-Turn regulation on road safety](https://doi.org/10.1016/j.tra.2026.104860)," `\mbox{\href{https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice}{\emph{Transportation Research Part A}}}`{=latex} (2026)
+
+TVBS, "[Tainan removes the hook-turn and the accident rate falls 20%; Ministry of Transportation warns against over-interpretation](https://cars.tvbs.com.tw/life/330988)" \hfillbreak \mbox{July 8, 2026}
+
+Mirror Media, "[Hook-turn removal trial cuts accidents by 20%; New Power Party criticizes the government response](https://www.mirrormedia.mg/story/20260613edi026)" \hfillbreak \mbox{June 13, 2026}
+
+ETtoday, "[Accidents fall sharply in Tainan’s trial removal of the mandatory hook-turn; New Power Party urges the Ministry of Transportation to take notice](https://www.ettoday.net/news/20260613/3182661.htm)" \hfillbreak \mbox{June 13, 2026}
+
+Taiwan News, "[NPP urges government to set timeline for motorcycle left-turn reform](https://www.taiwannews.com.tw/en/news/6382187)" \hfillbreak \mbox{June 12, 2026}
+
+Liberty Times, "[Full removal of the motorcycle hook-turn under consideration; New Power Party calls for a concrete plan and timeline](https://news.ltn.com.tw/news/politics/breakingnews/5470256)" \hfillbreak \mbox{June 12, 2026}
+
+Newtalk, "[Hook-turn removal trial cuts accidents by 21%; New Power Party urges the Ministry of Transportation to address road equity](https://newtalk.tw/news/view/2026-06-12/1041008)" \hfillbreak \mbox{June 12, 2026}
+
+TVBS, "[NTU data show accidents fell 20% after Tainan removed the hook-turn; New Power Party urges national traffic reform](https://news.tvbs.com.tw/life/3229047)" \hfillbreak \mbox{June 12, 2026}
+
+ETtoday, "[Accidents down 21% after removing the hook-turn; medical costs cut 4.7%](https://www.ettoday.net/news/20260502/3158984.htm)" \hfillbreak \mbox{May 2, 2026}
+
+Liberty Times, "[NTU empirical study finds removing the motorcycle hook-turn safer in specific settings](https://news.ltn.com.tw/news/life/breakingnews/5422721)" \hfillbreak \mbox{May 2, 2026}
+
+Meihua News, "[NTU study finds removing the motorcycle hook-turn cuts accidents 21%; Ministry of Transportation rules out a nationwide removal](https://www.i-meihua.com/Article/Detail/48168)" \hfillbreak \mbox{May 1, 2026}
+
+Storm Media, "[Is removing the motorcycle hook-turn safer? NTU study finds accidents down 21% and medical costs down 4.7%](https://www.storm.mg/article/11126855)" \hfillbreak \mbox{April 30, 2026}
+
+National Taiwan University press release, "[How can institutional reform improve road safety?](https://www.ntu.edu.tw/spotlight/2026/2482_20260429.html)" \hfillbreak \mbox{April 29, 2026}
+
+China Times, "[Removing the motorcycle hook-turn cuts accidents 21%](https://www.chinatimes.com/newspapers/20260412000322-260121)" \hfillbreak \mbox{April 12, 2026}
+
+CNEWS, "[Hualien county councilor calls for science-based traffic policy in review of the motorcycle hook-turn rule](https://cnews.com.tw/250260224a05/)" \hfillbreak \mbox{February 24, 2026}
 
 ```{=latex}
 \endgroup
+\vspace{2pt}
+\noindent\textit{\small Note: Except for Taiwan News, the articles are in Chinese; titles are translated.}
 ```
 
 # Service
