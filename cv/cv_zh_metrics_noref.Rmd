@@ -198,7 +198,7 @@ header-includes:
 
 # 獲獎與補助
 
-`\dated{\mbox{111 年–115 年}}{`{=latex}國家科學及技術委員會，博士生研究獎學金（新臺幣 1,920,000 元）`}`{=latex}
+`\dated{\mbox{111 年–115 年}}{`{=latex}國家科學及技術委員會，[博士生研究獎學金](https://www.aca.ntu.edu.tw/WebUPD/aca/GAADService/111%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%8D%8E%E5%AD%B8%E9%87%91%E7%8D%8E%E9%87%91-%E5%9C%8B%E7%A7%91%E6%9C%83%E6%A0%B8%E9%85%8D%28%E8%88%8A%E7%A8%B1%E6%A4%B0%E6%9E%97%E5%84%AA%E7%A7%80%29%E7%8D%8E%E5%8B%B5%E5%90%8D%E5%86%8Av1140821.pdf)（新臺幣 1,920,000 元）`}`{=latex}
 
 `\dated{\mbox{115 年}}{`{=latex}臺北市政府，[115 年度獎勵研究報告運用資料優等獎](https://rdec.gov.taipei/News_Content.aspx?n=AD685BA70CE9DD0C&sms=78D644F2755ACCAA&s=DFE94DB1BD7F3D54)（新臺幣 30,000 元）`}`{=latex}
 
