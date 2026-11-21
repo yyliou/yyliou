@@ -42,6 +42,7 @@ header-includes:
   - \newcommand{\hangitem}[1]{\numlistgap\noindent\hangindent=2.0em\hangafter=1\numbox{#1}}
   - \newcommand{\tightCJK}[1]{{\xeCJKsetup{CJKecglue={}}#1}}
   - \newcommand{\presenter}[1]{\tightCJK{\textbf{#1}*}}
+  - \newcommand{\speaker}[1]{\tightCJK{#1*}}
   - \newfontfamily\envfont[Scale=1.2]{FreeSerif}
   - \newcommand{\corrmark}{{\envfont\char"2709}}
   - \newcommand{\corr}{\kern0.05em\corrmark}
@@ -235,13 +236,13 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 \begin{hanglist}
 ```
 
-`\hangitem{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. "[Air pollution during religious holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." \newline 20th EAEA International Convention (2025), Manila. \newline 99th Annual Conference of WEAI (2024), Seattle.
+`\hangitem{12.}`{=latex}`\speaker{Chang, Hung-Hao}`{=latex}, **Yu-You Liou**, and Chad D. Meyerhoefer. "[Air pollution during religious holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." \newline 20th EAEA International Convention (2025), Manila. \newline 99th Annual Conference of WEAI (2024), Seattle.
 
 `\hangitem{11.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The causal effects of removing Hook-Turn regulation on road safety." \newline 20th EAEA International Convention (2025), Manila.
 
-`\hangitem{10.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. "Rooftop solar energy adoption and farm revenue." \newline 18th Congress of EAAE (2025), Bonn. \newline 19th EAEA International Convention (2024), Bangkok.
+`\hangitem{10.}`{=latex}**Liou, Yu-You**, `\speaker{Hung-Hao Chang}`{=latex}, and Jeffrey C. Begun. "Rooftop solar energy adoption and farm revenue." \newline 18th Congress of EAAE (2025), Bonn. \newline 19th EAEA International Convention (2024), Bangkok.
 
-`\hangitem{9.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. "Does the development of aquavoltaics policy affect farmland price?" \newline 17th CAER-IFPRI Annual Conference (2025), Beijing. \newline International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
+`\hangitem{9.}`{=latex}`\speaker{Chang, Hung-Hao}`{=latex}, and **Yu-You Liou**. "Does the development of aquavoltaics policy affect farmland price?" \newline 17th CAER-IFPRI Annual Conference (2025), Beijing. \newline International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
 
 `\hangitem{8.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "Superstition and car accidents -- The case study of the Dajia Mazu Pilgrimage event in Taiwan." \newline 19th EAEA International Convention (2024), Bangkok.
 
@@ -253,7 +254,7 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 `\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。 \newline{} [**Liou, Yu-You**. "Path dependency of spatiotemporal voting behavior: An empirical analysis of the 2022 Taipei mayoral election."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
 
-`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。 \newline{} [Ho, Hua-Che, and **Yu-You Liou**. "The impact of 'newcomer aura' on election probability: An empirical study of Taiwan's councilor elections (2009--2022)."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
+`\hangitem{3.}`{=latex}`\speaker{何驊哲}`{=latex}、**劉昱佑**。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。 \newline{} [Ho, Hua-Che, and **Yu-You Liou**. "The impact of 'newcomer aura' on election probability: An empirical study of Taiwan's councilor elections (2009--2022)."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
 
 `\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。 \newline{} [**Liou, Yu-You**, and Hung-Hao Chang. "A non-hierarchical clustering analysis of consumer behavior in agricultural products."] \newline 2020 Annual Conference of the Taiwan Rural Economics Society, Taipei.
 
@@ -265,7 +266,7 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 ```{=latex}
 \vspace{2pt}
-\noindent\textit{\small Note: * denotes oral presentations given by Yu-You Liou.}
+\noindent\textit{\small Note: * denotes the presenter.}
 ```
 
 # Teaching
@@ -416,11 +417,11 @@ Coverage of "The causal effects of removing Hook-Turn regulation on road safety,
 
 # References
 
-`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**Hung-Hao Chang**](https://sites.google.com/view/hh-chang) \newline{} Distinguished Professor, Department of Agricultural Economics, and Associate Dean, College of Bioresources and Agriculture, National Taiwan University \newline{} [hunghaochang@ntu.edu.tw](mailto:hunghaochang@ntu.edu.tw)`\par\nopagebreak\endgroup`{=latex}
+`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**Chang, Hung-Hao**](https://sites.google.com/view/hh-chang) \newline{} Distinguished Professor, Department of Agricultural Economics, and Associate Dean, College of Bioresources and Agriculture, National Taiwan University \newline{} [hunghaochang@ntu.edu.tw](mailto:hunghaochang@ntu.edu.tw)`\par\nopagebreak\endgroup`{=latex}
 
-`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**Pei-An Liao**](https://uscetp.usc.edu.tw/var/file/102/1102/img/149873815.pdf) \newline{} Professor and Chair, English Taught Program and MBA Program in International Business, and Dean, College of Management and International College, Shih Chien University \newline{} [paliao@g2.usc.edu.tw](mailto:paliao@g2.usc.edu.tw)`\par\nopagebreak\endgroup`{=latex}
+`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**Liao, Pei-An**](https://uscetp.usc.edu.tw/var/file/102/1102/img/149873815.pdf) \newline{} Professor and Chair, English Taught Program and MBA Program in International Business, and Dean, College of Management and International College, Shih Chien University \newline{} [paliao@g2.usc.edu.tw](mailto:paliao@g2.usc.edu.tw)`\par\nopagebreak\endgroup`{=latex}
 
-`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**Chad D. Meyerhoefer**](https://business.lehigh.edu/directory/chad-d-meyerhoefer) \newline{} Arthur F. Searing Professor and Chairperson, Department of Economics, Lehigh University \newline{} [chm308@lehigh.edu](mailto:chm308@lehigh.edu)`\par\nopagebreak\endgroup`{=latex}
+`\begingroup\raggedright\interlinepenalty=10000`{=latex}[**Meyerhoefer, Chad D.**](https://business.lehigh.edu/directory/chad-d-meyerhoefer) \newline{} Arthur F. Searing Professor and Chairperson, Department of Economics, Lehigh University \newline{} [chm308@lehigh.edu](mailto:chm308@lehigh.edu)`\par\nopagebreak\endgroup`{=latex}
 
 ```{=latex}
 \vspace{2pt}

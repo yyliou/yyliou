@@ -47,6 +47,7 @@ header-includes:
   - \newcommand{\hangitem}[1]{\numlistgap\noindent\hangindent=2.0em\hangafter=1\numbox{#1}}
   - \newcommand{\tightCJK}[1]{{\xeCJKsetup{CJKecglue={}}#1}}
   - \newcommand{\presenter}[1]{\tightCJK{\textbf{#1}*}}
+  - \newcommand{\speaker}[1]{\tightCJK{#1*}}
   - \newfontfamily\envfont[Scale=1.2]{FreeSerif}
   - \newcommand{\corrmark}{{\envfont\char"2709}}
   - \newcommand{\corr}{\kern0.05em\corrmark}
@@ -230,13 +231,13 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\hangitem{12.}`{=latex}Chang, Hung-Hao, **Yu-You Liou**, and Chad D. Meyerhoefer. "[Air pollution during religious holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." \newline 20th EAEA International Convention (2025), Manila. \newline 99th Annual Conference of WEAI (2024), Seattle.
+`\hangitem{12.}`{=latex}`\speaker{Chang, Hung-Hao}`{=latex}, **Yu-You Liou**, and Chad D. Meyerhoefer. "[Air pollution during religious holidays: Evidence from Tomb-Sweeping Day](https://ssrn.com/abstract=4984614)." \newline 20th EAEA International Convention (2025), Manila. \newline 99th Annual Conference of WEAI (2024), Seattle.
 
 `\hangitem{11.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The causal effects of removing Hook-Turn regulation on road safety." \newline 20th EAEA International Convention (2025), Manila.
 
-`\hangitem{10.}`{=latex}**Liou, Yu-You**, Hung-Hao Chang, and Jeffrey C. Begun. "Rooftop solar energy adoption and farm revenue." \newline 18th Congress of EAAE (2025), Bonn. \newline 19th EAEA International Convention (2024), Bangkok.
+`\hangitem{10.}`{=latex}**Liou, Yu-You**, `\speaker{Hung-Hao Chang}`{=latex}, and Jeffrey C. Begun. "Rooftop solar energy adoption and farm revenue." \newline 18th Congress of EAAE (2025), Bonn. \newline 19th EAEA International Convention (2024), Bangkok.
 
-`\hangitem{9.}`{=latex}Chang, Hung-Hao, and **Yu-You Liou**. "Does the development of aquavoltaics policy affect farmland price?" \newline 17th CAER-IFPRI Annual Conference (2025), Beijing. \newline International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
+`\hangitem{9.}`{=latex}`\speaker{Chang, Hung-Hao}`{=latex}, and **Yu-You Liou**. "Does the development of aquavoltaics policy affect farmland price?" \newline 17th CAER-IFPRI Annual Conference (2025), Beijing. \newline International Conference on Agricultural, Life and Environmental Sciences (2025), Vienna.
 
 `\hangitem{8.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "Superstition and car accidents -- The case study of the Dajia Mazu Pilgrimage event in Taiwan." \newline 19th EAEA International Convention (2024), Bangkok.
 
@@ -248,7 +249,7 @@ header-includes:
 
 `\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。 \newline 第十五屆國會國際學術研討會（2023），臺北。
 
-`\hangitem{3.}`{=latex}何驊哲、**劉昱佑**。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。 \newline 第十五屆國會國際學術研討會（2023），臺北。
+`\hangitem{3.}`{=latex}`\speaker{何驊哲}`{=latex}、**劉昱佑**。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。 \newline 第十五屆國會國際學術研討會（2023），臺北。
 
 `\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。 \newline 2020 年臺灣農村經濟學會年會暨學術研討會，臺北。
 
@@ -260,7 +261,7 @@ header-includes:
 
 ```{=latex}
 \vspace{2pt}
-\noindent\textit{\small \tightCJK{註：標*者為本人口頭報告。}}
+\noindent\textit{\small \tightCJK{註：標*者為報告者。}}
 ```
 
 # 教學
