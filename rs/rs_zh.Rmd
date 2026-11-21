@@ -13,7 +13,9 @@ linestretch: 1.25
 bibliography: rs.bib
 csl: rs.csl
 link-citations: true
+citeproc: false  # citations are processed by bold-me.lua
 linkcolor: blue
+citecolor: blue
 urlcolor: blue
 mainfont: "texgyrepagella-regular.otf"
 mainfontoptions: "Scale=1.0, BoldFont=texgyrepagella-bold.otf, ItalicFont=texgyrepagella-italic.otf, BoldItalicFont=texgyrepagella-bolditalic.otf"
@@ -60,7 +62,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 未來三到五年，我將沿著這兩條主軸繼續發展，每個題目都以進行中的論文與已建置的資料為起點。在農業生產與環境方面，我將以稻穀生產成本調查與水稻收入保險資料，比較有機與慣行稻作在收益、產量波動與碳排放上的差異，並研究農林業碳信用的風險與多元效益。
 
-在交通方面，計程車電動化的研究將延伸到電動機車補助與公車電動化，估計各種補助設計每減少一噸碳排放的成本。我已建置全國網格逐月的交通事故面板資料，將用來評估外送平台的工時規範對交通事故的影響，也計畫比較不同的安全事件與防護措施如何改變大眾運輸的需求。此外，我將結合不動產交易資料，探討公共建設與環境品質的改善如何反映在房價上。
+在交通方面，我已建置全國網格逐月的交通事故面板資料，將用來評估外送平台的工時規範對交通事故的影響，也計畫比較不同的安全事件與防護措施如何改變大眾運輸的需求。此外，我將結合不動產交易資料，探討公共建設與環境品質的改善如何反映在房價上。
 
 我將以這些題目申請國科會研究計畫，並帶領學生以臺灣的行政資料從事研究。無論在農村或都市，我的研究都在探討，當政策或外部衝擊改變了損害環境的代價或改善環境的報酬時，誰會因此改變行為、改變多少，以及成本與效益由誰承擔。
 

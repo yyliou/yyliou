@@ -1,8 +1,10 @@
 -- Set the author's own name in bold in the reference list.
 --
--- rmarkdown may run Lua filters before --citeproc, so the filter builds the
--- bibliography itself, bolds the name inside the refs div, and removes the
--- bibliography from the metadata so that citeproc has nothing left to redo.
+-- rmarkdown runs Lua filters before its own --citeproc, so this filter runs
+-- citeproc itself and then bolds the name inside the refs div. The Rmd files
+-- set `citeproc: false` so that rmarkdown does not run citeproc a second time.
+-- The citations stay Cite elements: pandoc's LaTeX writer links a citation
+-- number to its reference only inside a Cite.
 
 local OWN_GIVEN = "Yu-You"
 local OWN_FAMILY = "Liou"
@@ -39,9 +41,5 @@ local function bold_in_refs(div)
 end
 
 function Pandoc(doc)
-  doc = pandoc.utils.citeproc(doc)
-  doc = doc:walk({Div = bold_in_refs, Cite = function(cite) return cite.content end})
-  doc.meta.bibliography = nil
-  doc.meta.references = nil
-  return doc
+  return pandoc.utils.citeproc(doc):walk({Div = bold_in_refs})
 end

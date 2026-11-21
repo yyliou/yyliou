@@ -15,7 +15,9 @@ mainfontoptions: "Scale=1.0, BoldFont=texgyrepagella-bold.otf, ItalicFont=texgyr
 bibliography: rs.bib
 csl: rs.csl
 link-citations: true
+citeproc: false  # citations are processed by bold-me.lua
 linkcolor: blue
+citecolor: blue
 urlcolor: blue
 header-includes:
   - \usepackage{xeCJK}
@@ -62,7 +64,7 @@ Including the second essay, eight papers are under revision, under review, or in
 
 Over the next three to five years, I will continue along these two lines. Each project starts from a paper in progress and from data that I have already assembled. On agricultural production and the environment, I will use the rice production cost survey and rice revenue insurance records to compare organic and conventional rice in revenue, yield variability, and carbon emissions. I will also study the risks and multiple benefits of carbon credits from agriculture and forestry.
 
-On transportation, I will extend the taxi study to subsidies for electric scooters and the electrification of buses, and estimate the cost of each subsidy design per ton of carbon reduced. I have built a nationwide grid-by-month panel of traffic accidents. I will use it to evaluate how working-hour rules for food delivery platforms affect accidents. I also plan to compare how different security incidents and protective measures change the demand for public transit. In addition, I will use property transaction records to study how public infrastructure and better environmental quality are reflected in housing prices.
+On transportation, I have built a nationwide grid-by-month panel of traffic accidents. I will use it to evaluate how working-hour rules for food delivery platforms affect accidents. I also plan to compare how different security incidents and protective measures change the demand for public transit. In addition, I will use property transaction records to study how public infrastructure and better environmental quality are reflected in housing prices.
 
 I will apply for National Science and Technology Council grants with these projects and involve students in research with administrative data from Taiwan. On farms and in cities, my research asks who responds, by how much, and who bears the costs and benefits when a policy or shock changes the cost of harming the environment or the reward for improving it.
 
