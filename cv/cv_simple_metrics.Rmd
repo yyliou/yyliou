@@ -64,7 +64,7 @@ header-includes:
   - \newsavebox\datedwhen
   - \newsavebox\datedentry
   - \newcommand{\datedgap}{\ifdim\dp\datedwhen>\dp\datedentry \dimexpr\dp\datedwhen-\dp\datedentry\relax\else 0pt\fi}
-  - \newcommand{\dated}[2]{\datedrightskip=\rightskip\sbox\datedwhen{\begin{minipage}[t]{\datecol}\raggedleft#1\end{minipage}}\sbox\datedentry{\begin{minipage}[t]{\linewidth}\fussy\emergencystretch=3em\rightskip=\datedrightskip#2\par\xdef\datedlastdepth{\the\prevdepth}\end{minipage}}\noindent\llap{\usebox\datedwhen\hspace{\cvsectionsep}}\usebox\datedentry\par\prevdepth=\dimexpr\datedlastdepth+\datedgap\relax}
+  - \newcommand{\dated}[2]{\datedrightskip=\rightskip\sbox\datedwhen{\begin{minipage}[t]{\datecol}\raggedleft\tightCJK{#1}\end{minipage}}\sbox\datedentry{\begin{minipage}[t]{\linewidth}\fussy\emergencystretch=3em\rightskip=\datedrightskip#2\par\xdef\datedlastdepth{\the\prevdepth}\end{minipage}}\noindent\llap{\usebox\datedwhen\hspace{\cvsectionsep}}\usebox\datedentry\par\prevdepth=\dimexpr\datedlastdepth+\datedgap\relax}
 ---
 
 ```{=latex}
@@ -250,15 +250,15 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 
 `\hangitem{8.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "Superstition and car accidents -- The case study of the Dajia Mazu Pilgrimage event in Taiwan." \newline 19th EAEA International Convention (2024), Bangkok.
 
-`\hangitem{7.}`{=latex}`\presenter{劉昱佑}`{=latex}、李成蔭。「從眾或課責？運用臺灣選舉調查資料探討 2018 年與 2022 年地方大選結果對於總統滿意度的影響」。 \newline{} [**Liou, Yu-You**, and Cheng-Yin Lee. "Conformity or accountability? An analysis of local election results on presidential satisfaction."] \newline 16th International Conference on Parliamentary Studies (2024), Taipei.
+`\hangitem{7.}`{=latex}`\presenter{劉昱佑}`{=latex}、李成蔭。「從眾或課責？運用臺灣選舉調查資料探討\tightCJK{2018年}與\tightCJK{2022年}地方大選結果對於總統滿意度的影響」。 \newline{} [**Liou, Yu-You**, and Cheng-Yin Lee. "Conformity or accountability? An analysis of local election results on presidential satisfaction."] \newline 16th International Conference on Parliamentary Studies (2024), Taipei.
 
 `\hangitem{6.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}, and Hung-Hao Chang. "The long-term effects of early-life malaria exposure on farm households' resource allocation." \newline International Conference on Agricultural and Environmental Economics (2023), Taipei.
 
 `\hangitem{5.}`{=latex}`\presenter{Liou, Yu-You}`{=latex}. "Adaptation behavior of public mobility under climate change: Empirical evidence on Taipei Metro." \newline International Conference on Business and Management for Graduate Students (2023), Taipei.
 
-`\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}。「選舉投票行為的時、空路徑依賴：2022 年臺北市長選舉的實證分析」。 \newline{} [**Liou, Yu-You**. "Path dependency of spatiotemporal voting behavior: An empirical analysis of the 2022 Taipei mayoral election."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
+`\hangitem{4.}`{=latex}`\presenter{劉昱佑}`{=latex}。「選舉投票行為的時、空路徑依賴：\tightCJK{2022年}臺北市長選舉的實證分析」。 \newline{} [**Liou, Yu-You**. "Path dependency of spatiotemporal voting behavior: An empirical analysis of the 2022 Taipei mayoral election."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
 
-`\hangitem{3.}`{=latex}`\speaker{何驊哲}`{=latex}、**劉昱佑**。「新人光環對於當選可能之影響：2009-2022 年臺灣縣市議員選舉的實證研究」。 \newline{} [Ho, Hua-Che, and **Yu-You Liou**. "The impact of 'newcomer aura' on election probability: An empirical study of Taiwan's councilor elections (2009--2022)."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
+`\hangitem{3.}`{=latex}`\speaker{何驊哲}`{=latex}、**劉昱佑**。「新人光環對於當選可能之影響：\tightCJK{2009-2022年}臺灣縣市議員選舉的實證研究」。 \newline{} [Ho, Hua-Che, and **Yu-You Liou**. "The impact of 'newcomer aura' on election probability: An empirical study of Taiwan's councilor elections (2009--2022)."] \newline 15th International Conference on Parliamentary Studies (2023), Taipei.
 
 `\hangitem{2.}`{=latex}`\presenter{劉昱佑}`{=latex}、張宏浩。「以非階層式群集分析研究農產品之消費行為——農產品銷售平台的實證分析」。 \newline{} [**Liou, Yu-You**, and Hung-Hao Chang. "A non-hierarchical clustering analysis of consumer behavior in agricultural products."] \newline 2020 Annual Conference of the Taiwan Rural Economics Society, Taipei.
 
@@ -337,6 +337,28 @@ Environmental Economics and Natural Resource Management; Transportation Economic
 \end{hanglist}
 ```
 
+# Service
+
+## Academic Service
+
+[Journal referee](https://yyliou.github.io/yyliou/cv/cert/referee-certificates.pdf): [*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (5); [*Communications Sustainability*](https://www.nature.com/commssustain/) (1); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (2); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1).
+
+## Public Service
+
+```{=latex}
+\begingroup\raggedright
+```
+
+`\dated{2022}{`{=latex}[Private, 2nd Company, Armored Cavalry Battalion](https://yyliou.github.io/yyliou/cv/cert/award-2022-penghu-honor.pdf), Penghu Defense Command, Republic of China Army`}`{=latex}
+
+`\dated{2019--2021}{`{=latex}[Youth Commissioner, Issue Group](https://yyliou.github.io/yyliou/cv/cert/service-2019-taichung-youth-advisory.pdf), 1st Youth Affairs Advisory Committee, Taichung City Government`}`{=latex}
+
+`\dated{2018--2019}{`{=latex}[Youth Representative](https://yyliou.github.io/yyliou/cv/cert/service-2018-taichung-youth-review.pdf), 3rd Youth Affairs Review Committee, Taichung City Government`}`{=latex}
+
+```{=latex}
+\endgroup
+```
+
 # Media Citations
 
 ```{=latex}
@@ -377,28 +399,6 @@ Coverage of "The causal effects of removing Hook-Turn regulation on road safety,
 \endgroup
 \vspace{2pt}
 \noindent\textit{\small Note: Except for Taiwan News, the articles are in Chinese; titles are translated.}
-```
-
-# Service
-
-## Academic Service
-
-[Journal referee](https://yyliou.github.io/yyliou/cv/cert/referee-certificates.pdf): [*Agribusiness*](https://onlinelibrary.wiley.com/journal/15206297) (5); [*Communications Sustainability*](https://www.nature.com/commssustain/) (1); [*Criminology & Public Policy*](https://onlinelibrary.wiley.com/journal/17459133) (1); [*Food Policy*](https://www.sciencedirect.com/journal/food-policy) (2); [*Managerial and Decision Economics*](https://onlinelibrary.wiley.com/journal/10991468) (1); [*Traffic Injury Prevention*](https://www.tandfonline.com/journals/gcpi20) (1).
-
-## Public Service
-
-```{=latex}
-\begingroup\raggedright
-```
-
-`\dated{2022}{`{=latex}[Private, 2nd Company, Armored Cavalry Battalion](https://yyliou.github.io/yyliou/cv/cert/award-2022-penghu-honor.pdf), Penghu Defense Command, Republic of China Army`}`{=latex}
-
-`\dated{2019--2021}{`{=latex}[Youth Commissioner, Issue Group](https://yyliou.github.io/yyliou/cv/cert/service-2019-taichung-youth-advisory.pdf), 1st Youth Affairs Advisory Committee, Taichung City Government`}`{=latex}
-
-`\dated{2018--2019}{`{=latex}[Youth Representative](https://yyliou.github.io/yyliou/cv/cert/service-2018-taichung-youth-review.pdf), 3rd Youth Affairs Review Committee, Taichung City Government`}`{=latex}
-
-```{=latex}
-\endgroup
 ```
 
 # Skills & Interests
