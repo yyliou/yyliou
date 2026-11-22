@@ -48,8 +48,8 @@ header-includes:
   - \newcommand{\tightCJK}[1]{{\xeCJKsetup{CJKecglue={}}#1}}
   - \newcommand{\presenter}[1]{\tightCJK{\textbf{#1}*}}
   - \newcommand{\speaker}[1]{\tightCJK{#1*}}
-  - \newfontfamily\envfont[Scale=1.2]{FreeSerif}
-  - \newcommand{\corrmark}{{\envfont\char"2709}}
+  - \usepackage{graphicx,pifont}
+  - \newcommand{\corrmark}{\scalebox{1.2}{\ding{41}}}
   - \newcommand{\corr}{\kern0.05em\corrmark}
   - \newcommand{\projitem}[2]{\dated{#2}{\raggedright#1}}
   # 期刊名（仿 Matsuura CV）：粗斜體、不斷字
