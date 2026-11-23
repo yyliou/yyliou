@@ -169,21 +169,23 @@ header-includes:
 \begin{hanglist}
 ```
 
-`\hangitem{8.}`{=latex}Do consumption vouchers benefit agricultural cooperatives? Causal evidence from farmers' associations (with Hung-Hao Chang and Karin Wu).（\journal{Food Policy}，第二輪修訂中）
+`\hangitem{9.}`{=latex}Do consumption vouchers benefit agricultural cooperatives? Causal evidence from farmers' associations (with Hung-Hao Chang and Karin Wu).（\journal{Food Policy}，第二輪修訂中）
 
-`\hangitem{7.}`{=latex}Technology adoption of environmentally controlled housing system and the distribution of farm revenue (with Hung-Hao Chang).（\journal{Technological Forecasting and Social Change}，第一輪修訂中）
+`\hangitem{8.}`{=latex}Technology adoption of environmentally controlled housing system and the distribution of farm revenue (with Hung-Hao Chang).（\journal{Technological Forecasting and Social Change}，第一輪修訂中）
 
-`\hangitem{6.}`{=latex}Green gentrification beyond the city: The impacts of ecosystem investment on housing markets and agricultural community dynamics (with Hung-Hao Chang).（\journal{Ecosystem Services}，第一輪修訂中）
+`\hangitem{7.}`{=latex}Green gentrification beyond the city: The impacts of ecosystem investment on housing markets and agricultural community dynamics (with Hung-Hao Chang).（\journal{Ecosystem Services}，第一輪修訂中）
 
-`\hangitem{5.}`{=latex}Does adopting a forest restoration program affect firms' financial performance? A doubly robust machine learning approach (with Hung-Hao Chang and Hsiao-Chiao Sun).\mbox{（審查中）}
+`\hangitem{6.}`{=latex}Does adopting a forest restoration program affect firms' financial performance? A doubly robust machine learning approach (with Hung-Hao Chang and Hsiao-Chiao Sun).\mbox{（審查中）}
 
-`\hangitem{4.}`{=latex}Cleaner air and smaller transfers: Housing-market responses to a coal-reduction policy (with Hung-Hao Chang and David Zilberman).\mbox{（審查中）}
+`\hangitem{5.}`{=latex}Cleaner air and smaller transfers: Housing-market responses to a coal-reduction policy (with Hung-Hao Chang and David Zilberman).\mbox{（審查中）}
 
-`\hangitem{3.}`{=latex}From gasoline to electric: Economic and environmental impacts of taxi electrification (with Hung-Hao Chang).\mbox{（準備投稿中）}
+`\hangitem{4.}`{=latex}From gasoline to electric: Economic and environmental impacts of taxi electrification (with Hung-Hao Chang).\mbox{（準備投稿中）}
 
-`\hangitem{2.}`{=latex}Pension policy reform of the minimum contribution period and intra-household succession of family farms (with Hung-Hao Chang).\mbox{（準備投稿中）}
+`\hangitem{3.}`{=latex}Pension policy reform of the minimum contribution period and intra-household succession of family farms (with Hung-Hao Chang).\mbox{（準備投稿中）}
 
-`\hangitem{1.}`{=latex}The spatial reach of metro-led development: Housing gains and traffic-safety costs by station accessibility (with Hung-Hao Chang).\mbox{（準備投稿中）}
+`\hangitem{2.}`{=latex}The spatial reach of metro-led development: Housing gains and traffic-safety costs by station accessibility (with Hung-Hao Chang).\mbox{（準備投稿中）}
+
+`\hangitem{1.}`{=latex}Farm profitability, risk premium, and carbon emissions of organic rice farming: Implications for optimal policy design (with Hung-Hao Chang).\mbox{（準備投稿中）}
 
 ```{=latex}
 \end{hanglist}
