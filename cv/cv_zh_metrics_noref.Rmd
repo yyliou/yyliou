@@ -297,9 +297,9 @@ header-includes:
 
 國立臺灣大學生物資源暨農學院農業經濟學系
 
-`\dated{\mbox{112學年下學期}、\allowbreak\mbox{115學年上學期}}{`{=latex}農業政策與績效評估（碩士在職專班，3 學分；[張宏浩](https://sites.google.com/view/hh-chang)教授）`}`{=latex}
+`\dated{\mbox{112學年下學期}、\allowbreak\mbox{115學年下學期}}{`{=latex}農業政策與績效評估（碩士在職專班，3 學分；[張宏浩](https://sites.google.com/view/hh-chang)教授、[陳郁蕙](https://www.agec.ntu.edu.tw/zh_tw/teacher/teacher1/%E9%99%B3%E9%83%81%E8%95%99-39134296)教授合授）`}`{=latex}
 
-`\dated{\mbox{110學年下學期}}{`{=latex}農業法規甲（大學部，3 學分；[陳政位](https://scholars.lib.ntu.edu.tw/entities/person/ae4b2436-2f6a-46bd-a71c-774f93e52ea8)副教授）`}`{=latex}
+`\dated{\mbox{110學年下學期}}{`{=latex}農業法規甲（大學部，3 學分；[陳政位](https://scholars.lib.ntu.edu.tw/entities/person/ae4b2436-2f6a-46bd-a71c-774f93e52ea8)副教授）`}\nopagebreak`{=latex}
 
 `\dated{\mbox{108學年下學期}}{`{=latex}數量方法（碩士國際專班，3 學分；[張宏浩](https://sites.google.com/view/hh-chang)教授；全英語授課）`}`{=latex}
 
@@ -331,6 +331,7 @@ header-includes:
 \projitem{食品可及性與市場競爭對房價之影響--以台灣便利商店為例，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13876061}{MOST110-2410-H002-219}}}{111年}
 \projitem{臺灣農民職業傷害保險制度的經濟分析，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13536427}{MOST109-2410-H002-128}}}{110年}
 \projitem{\tightCJK{109年度}「鄉村發展研究學術合作計畫－評估農村再生計畫對農家勞動力與休閒農業參與的影響」，\mbox{行政院農業委員會}，\mbox{109農再-2.1.3-1.3-企-015}}{109年}
+\nopagebreak
 \projitem{共享經濟對農地價格之影響-以台灣為例，\mbox{科技部}，\mbox{\href{https://www.grb.gov.tw/search/planDetail?id=13130874}{MOST108-2410-H002-053}}}{109年}
 \end{hanglist}
 ```
