@@ -26,7 +26,6 @@ sectionindent: "1.15in"
 sectionsep: "0.20in"
 parskip: "6pt plus 2pt minus 1pt"
 
-# 英文字型：Latin Modern（即 Computer Modern），不設 mainfont 時 XeLaTeX 的預設字型
 CJKmainfont: "源雲明體月"
 fontsize: 11pt
 linkcolor: cvlink
@@ -51,9 +50,7 @@ header-includes:
   - \newcommand{\corrmark}{\scalebox{1.2}{\ding{41}}}
   - \newcommand{\corr}{\kern0.05em\corrmark}
   - \newcommand{\projitem}[2]{\dated{#2}{\rightskip=0pt plus 3em\relax#1}}
-  # 期刊名（仿 Matsuura CV）：粗斜體、不斷字
   - \newcommand{\journal}[1]{\textbf{\textit{\language=\csname l@nohyphenation\endcsname\relax#1}}}
-  # 年份放左欄（仿 Matsuura CV）：節名改為內文欄上方的粗體標題，左欄只放年份，靠右對齊
   - \usepackage{array}
   - \titleformat{\section}[block]{\Large\bfseries\raggedright}{}{0pt}{}
   - \titlespacing*{\section}{0pt}{18pt plus 4pt minus 2pt}{6pt plus 1pt}
